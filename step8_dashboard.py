@@ -822,7 +822,7 @@ DEFAULT_AGENT = {"stake": 10, "only_wins": True, "min_win_percent": 50, "value_m
                  "send_prematch_alerts": False, "send_move_alerts": False,
                  "require_sharp_source": True, "include_arab_leagues": True,
                  "include_european_cups": False,
-                 "result_alerts": "all"}
+                 "result_alerts": "all", "auto_approve": True}
 RULE_TXT = {"value": "فوز مرجّح بسعر فوق العادل", "clear": "صورة واضحة"}
 
 
@@ -1006,15 +1006,23 @@ def run_agent(matches, log, state):
             n_out = len(m["out"]["home"]) + len(m["out"]["away"])
             if n_out:
                 msg += f"\nالغيابات: {n_out} لاعبين"
-            msg += "\n\nإذا بدك تسجلها بالمحفظة التجريبية، اضغط الزر."
-            actions = [{"action": "http", "label": f"سجّل بالمحفظة ({stake})", "url": f"https://ntfy.sh/{topic}-ok",
-                        "method": "POST", "body": f"APPROVE {fid} {o['k']} {o['odd']}", "clear": True}]
+            auto = cfg.get("auto_approve", True)
+            if auto:
+                msg += f"\n\n✅ تسجّلت تلقائياً بالمحفظة التجريبية بمبلغ {stake}."
+                actions = None
+            else:
+                msg += "\n\nإذا بدك تسجلها بالمحفظة التجريبية، اضغط الزر."
+                actions = [{"action": "http", "label": f"سجّل بالمحفظة ({stake})", "url": f"https://ntfy.sh/{topic}-ok",
+                            "method": "POST", "body": f"APPROVE {fid} {o['k']} {o['odd']}", "clear": True}]
             if ntfy_publish("💡 فرصة حسب شروطك", msg, actions):
                 state["opp"].append(fid)
                 state["opp_day"].append(today)
                 info[fid] = {"home": m["home"], "away": m["away"], "comp": m["league"],
                              "kickoff": m["kickoff"], "rule": o["rule"], "k": o["k"], "odd": o["odd"],
                              "prob": o["prob"]}
+                if auto:
+                    pf["bets"][fid] = {**info[fid], "stake": stake, "status": "open", "auto": True,
+                                       "approved": datetime.now(AMMAN).strftime("%d/%m %H:%M")}
                 sent_today += 1
                 sent += 1
 
@@ -1059,7 +1067,7 @@ def portfolio_html(pf):
 <div><b>{w}</b><span>صح</span></div>
 <div><b>{pr:+.2f}</b><span>الربح أو الخسارة الوهمية</span></div>
 <div><b>{(pr / st if st else 0):+.1%}</b><span>العائد من {st:.0f}</span></div></div>
-<p class="hint">مبالغ وهمية بالكامل. كل اختيار بتوافق عليه من الإشعار بينسجل هون بمبلغ {cfg['stake']}، وبعد المباراة بينحسب لحاله.
+<p class="hint">مبالغ وهمية بالكامل. {"كل فرصة بتنطبق عليها الشروط بتنسجل هون تلقائياً" if cfg.get("auto_approve", True) else "كل اختيار بتوافق عليه من الإشعار بينسجل هون"} بمبلغ {cfg['stake']}، وبعد المباراة بينحسب لحاله.
 شروطك الحالية: {"فوز فقط (بدون تعادل)" if cfg['only_wins'] else "كل النتائج"}، احتمال {cfg['min_win_percent']}% أو أكثر،
 وسعر أعلى من العادل بـ {cfg['value_min_percent']}% أو أكثر{"، والسعر العادل من Pinnacle فقط" if cfg.get('require_sharp_source', True) else ""}{"" if cfg['require_value'] else f"، أو صورة واضحة من {cfg['clear_min_percent']}%"}،
 والإشعار قبل المباراة بـ {cfg['alert_hours_before']} ساعات كحد أقصى. بتقدر تغيّرها من ملف agent_settings.json.</p>"""
