@@ -1148,7 +1148,8 @@ def daily_summary(log, pf):
                 lines.append(f"{'✅' if r['ok'] else '❌'} {r['home']} {r['score']} {r['away']} · {pick}")
         msg = "\n".join(lines)
     if ntfy_publish(f"📊 حصيلة يوم {d}", msg) or tg_send(msg):
-        state["daily"] = today.isoformat()
+        if now_a.hour >= 22 or now_a.hour < 3:      # a test during the day does not block tonight's summary
+            state["daily"] = today.isoformat()
         json.dump(state, open(ALERTS, "w", encoding="utf-8"))
         print("   Daily summary sent.")
         send_dashboard_file()
