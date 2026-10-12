@@ -2,8 +2,8 @@ name: Football dashboard
 
 on:
   schedule:
-    - cron: "7,37 * * * *"
-    - cron: "55 20 * * *"
+    - cron: "7,22,37,52 * * * *"   # every 15 minutes
+    - cron: "55 20 * * *"          # 23:55 Amman = daily summary
   workflow_dispatch:
     inputs:
       daily:
