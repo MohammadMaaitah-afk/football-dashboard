@@ -12,5 +12,6 @@
   "require_sharp_source": true,
   "include_arab_leagues": true,
   "include_european_cups": false,
-  "result_alerts": "all"
+  "result_alerts": "all",
+  "auto_approve": true
 }
