@@ -1,0 +1,16 @@
+{
+  "stake": 10,
+  "only_wins": true,
+  "min_win_percent": 60,
+  "value_min_percent": 3,
+  "require_value": true,
+  "clear_min_percent": 60,
+  "alert_hours_before": 3,
+  "max_per_day": 15,
+  "send_prematch_alerts": false,
+  "send_move_alerts": false,
+  "require_sharp_source": true,
+  "include_arab_leagues": true,
+  "include_european_cups": false,
+  "result_alerts": "all"
+}
