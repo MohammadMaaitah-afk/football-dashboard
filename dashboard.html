@@ -1,0 +1,227 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>لوحة المباريات</title><style>
+:root{--bg:#F3F5F2;--card:#fff;--ink:#16221B;--muted:#5D6B63;--line:#DCE3DE;--w:#2F7A50;--d:#C98E2B;--l:#B9473D}
+@media (prefers-color-scheme:dark){:root{--bg:#0F1612;--card:#18221C;--ink:#E7EEE9;--muted:#9AAAA1;--line:#2A3A31;--w:#45A872;--d:#E0A445;--l:#DE675C}}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Tahoma,"Segoe UI",sans-serif;line-height:1.5}
+header{background:#1E5A3A;color:#fff;padding:18px 16px 0} header h1{margin:0;font-size:1.4rem} header p{margin:4px 0 0;opacity:.85;font-size:.85rem}
+.tabs{display:flex;gap:4px;margin-top:12px} .tabs button{border:0;background:transparent;color:#fff;opacity:.75;padding:10px 14px;font:inherit;font-weight:bold;cursor:pointer;border-bottom:3px solid transparent}
+.tabs button.on{opacity:1;border-bottom-color:#fff}
+main{max-width:760px;margin:0 auto;padding:8px 14px 40px}
+h2{font-size:1.1rem;margin:22px 0 4px} h3{font-size:.9rem;color:var(--muted);margin:14px 0 6px}
+article{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+.top{display:flex;justify-content:space-between;gap:8px;font-weight:bold} .top small{color:var(--muted);font-weight:normal} .time{color:var(--muted)}
+.bar{display:flex;height:30px;border-radius:8px;overflow:hidden;margin-top:10px}
+.bar span{display:flex;align-items:center;justify-content:center;color:#fff;font-size:.85rem;font-weight:bold;min-width:30px}
+.w{background:var(--w)} .d{background:var(--d)} .l{background:var(--l)}
+.legend{display:flex;justify-content:space-between;font-size:.75rem;color:var(--muted);margin-top:3px}
+.meta{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:.78rem;color:var(--muted);margin-top:8px}
+.chip{padding:1px 9px;border-radius:99px;font-weight:bold;color:#fff} .chip.hi{background:var(--w)} .chip.mid{background:var(--d)} .chip.lo{background:#7A857F}
+.out{font-size:.8rem;margin-top:6px}
+.fair{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:.82rem;margin-top:8px;padding:6px 8px;border-radius:8px;border:1px dashed var(--line)}
+.fair .fl{color:var(--muted)}
+.fair.best{border-style:solid;border-color:transparent;background:rgba(127,127,127,.07)} .fair.extra{border:0;padding:0 8px}
+.fair em{font-style:normal;font-weight:bold;font-size:.75rem;padding:0 6px;border-radius:99px}
+.fair em.up{background:rgba(47,122,80,.18);color:var(--w)} .fair em.odd{background:rgba(127,127,127,.18);color:var(--muted)} .fair small{color:var(--muted);direction:ltr;unicode-bidi:isolate} .empty{color:var(--muted)}
+.lu{font-size:.8rem;margin-top:6px;padding:6px 8px;border-radius:8px;background:rgba(47,122,80,.10)} .lu.wait{background:transparent;color:var(--muted);padding:0}
+.move{font-size:.8rem;margin-top:6px;color:var(--muted)}
+.alert{font-size:.82rem;margin-top:8px;padding:6px 8px;border-radius:8px;background:rgba(201,142,43,.18);font-weight:bold}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px}
+.filters button,.filters select{font:inherit;font-size:.85rem;padding:6px 12px;border-radius:99px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}
+.filters button.on{background:#1E5A3A;color:#fff;border-color:#1E5A3A}
+.hl{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:4px 14px 8px;margin-top:14px} .hl h2{margin-top:10px}
+.hl ul{margin:0;padding:0;list-style:none} .hl li{padding:6px 0;border-bottom:1px solid var(--line);font-size:.9rem} .hl li:last-child{border:0} .hl small{color:var(--muted)}
+.kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:16px}
+.kpis div{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px;text-align:center}
+.kpis b{display:block;font-size:1.4rem} .kpis span{font-size:.75rem;color:var(--muted)}
+@media (max-width:520px){.kpis{grid-template-columns:repeat(2,1fr)}}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:.85rem}
+th,td{padding:7px 8px;text-align:right;border-bottom:1px solid var(--line)} th{color:var(--muted);font-weight:normal}
+.res{display:flex;gap:10px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin-bottom:6px}
+.res .rt{display:flex;flex-direction:column} .res small{color:var(--muted)}
+.hint{font-size:.8rem;color:var(--muted)}
+.note{font-size:.78rem;color:var(--muted);margin-top:26px}
+[hidden]{display:none!important}
+</style></head><body><header><h1>لوحة المباريات</h1><p>آخر تحديث: 12/10/2026 15:58 بتوقيت عمّان</p>
+<div class="tabs"><button class="on" data-tab="up">المباريات القادمة</button><button data-tab="rec">سجل التوقعات</button><button data-tab="pf">المحفظة التجريبية</button></div></header>
+<main>
+<div id="up">
+<section class="hl"><h2>أبرز الـ 24 ساعة الجاية</h2><ul><li>🟢 <b>Pyramids FC ضد Ceramica Cleopatra</b> <small>20:00، الأرجح فوز Pyramids FC 62%</small></li><li>🟢 <b>Atalanta ضد Venezia</b> <small>19:30، الأرجح فوز Atalanta 60%</small></li><li>💰 <b>Khenchela ضد CS Constantine</b> <small>17:00، فوز Khenchela: Dafabet عارضة 2.60، يعني 10% فوق العادل</small></li><li>💰 <b>Hassania Agadir ضد FAR Rabat</b> <small>23:00، تعادل: Marathonbet عارضة 3.36، يعني 9% فوق العادل</small></li><li>💰 <b>El Mokawloon ضد Masr</b> <small>17:00، تعادل: Betano عارضة 2.85، يعني 5% فوق العادل</small></li><li>💰 <b>Torino ضد Udinese</b> <small>21:45، تعادل: 1xBet عارضة 3.35، يعني 4% فوق العادل</small></li><li>💰 <b>Levante ضد Sevilla</b> <small>22:00، تعادل: 1xBet عارضة 3.35، يعني 3% فوق العادل</small></li></ul></section>
+<div class="filters">
+<button class="on" data-f="all">الكل</button><button data-f="hi">صورة واضحة</button><button data-f="move">حركة كبيرة ⚠️</button><button data-f="value">سعر فوق العادل 💰</button>
+<select id="comp"><option value="">كل البطولات</option><option value="الدوري الإيطالي">الدوري الإيطالي</option><option value="الدوري الإنجليزي">الدوري الإنجليزي</option><option value="الدوري الإسباني">الدوري الإسباني</option><option value="الدوري اللبناني">الدوري اللبناني</option><option value="الدوري الجزائري">الدوري الجزائري</option><option value="الدوري المصري">الدوري المصري</option><option value="الدوري المغربي">الدوري المغربي</option><option value="الدوري السعودي">الدوري السعودي</option><option value="الدوري الأردني">الدوري الأردني</option></select>
+<select id="dayf"><option value="">كل الأيام</option><option value="الاثنين 12/10">الاثنين 12/10</option><option value="الثلاثاء 13/10">الثلاثاء 13/10</option><option value="الأربعاء 14/10">الأربعاء 14/10</option><option value="الخميس 15/10">الخميس 15/10</option></select>
+</div>
+<p class="empty" id="none" hidden>لا توجد مباريات بهالفلتر.</p>
+<div class="day" data-day="الاثنين 12/10"><h2>الاثنين 12/10</h2><div class="grp" data-comp="الدوري الإيطالي"><h3>الدوري الإيطالي</h3><article data-conf="hi" data-move="0" data-value="0"><div class="top"><span class="teams">Atalanta <small>ضد</small> Venezia</span><span class="time">19:30</span></div><div class="bar"><span class="w" style="flex:60">60%</span><span class="d" style="flex:22">22%</span><span class="l" style="flex:18">18%</span></div>
+<div class="legend"><span>فوز Atalanta</span><span>تعادل</span><span>فوز Venezia</span></div>
+<div class="meta"><span class="chip hi">صورة واضحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Atalanta</b> 1.66 <small>(-151)</small></span>
+<span><b>تعادل</b> 4.48 <small>(+348)</small></span>
+<span><b>Venezia</b> 5.68 <small>(+468)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Atalanta</b> 1.66 <small>(-152)</small> <small>1xBet</small> </span><span><b>تعادل</b> 4.50 <small>(+350)</small> <small>BetVictor</small> </span><span><b>Venezia</b> 5.50 <small>(+450)</small> <small>Bet365</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 63% <small>(1.60)</small></span><span><b>أقل من 2.5</b> 37% <small>(2.68)</small></span><span><b>الفريقين بيسجلوا</b> 58% <small>(1.72)</small></span><span><b>لا</b> 42% <small>(2.40)</small></span></div><div class="out"><b>غيابات Atalanta:</b> I. Hien، O. Kossounou، K. Sulemana، G. Raspadori، I. Hien، O. Kossounou، K. Sulemana، G. Raspadori</div><div class="out"><b>غيابات Venezia:</b> A. Adorante، A. Bella-Kotchap، G. Busio، B. Franjic، P. Mazzocchi، M. Sverko، A. Adorante، A. Bella-Kotchap</div></article><article data-conf="lo" data-move="0" data-value="1"><div class="top"><span class="teams">Torino <small>ضد</small> Udinese</span><span class="time">21:45</span></div><div class="bar"><span class="w" style="flex:39">39%</span><span class="d" style="flex:31">31%</span><span class="l" style="flex:30">30%</span></div>
+<div class="legend"><span>فوز Torino</span><span>تعادل</span><span>فوز Udinese</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Torino</b> 2.54 <small>(+154)</small></span>
+<span><b>تعادل</b> 3.21 <small>(+221)</small></span>
+<span><b>Udinese</b> 3.40 <small>(+240)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Torino</b> 2.47 <small>(+147)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 3.35 <small>(+235)</small> <small>1xBet</small> <em class="up">+4% فوق العادل</em></span><span><b>Udinese</b> 3.35 <small>(+235)</small> <small>1xBet</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 43% <small>(2.32)</small></span><span><b>أقل من 2.5</b> 57% <small>(1.76)</small></span><span><b>الفريقين بيسجلوا</b> 51% <small>(1.94)</small></span><span><b>لا</b> 49% <small>(2.06)</small></span></div><div class="out"><b>غيابات Torino:</b> F. Israel، P. Pellegri، C. Casadei، F. Israel، P. Pellegri، C. Casadei</div><div class="out"><b>غيابات Udinese:</b> I. Gueye، J. Piotrowski، N. Zaniolo، I. Gueye، J. Piotrowski، N. Zaniolo</div></article></div><div class="grp" data-comp="الدوري الإنجليزي"><h3>الدوري الإنجليزي</h3><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Coventry <small>ضد</small> Newcastle</span><span class="time">22:00</span></div><div class="bar"><span class="w" style="flex:29">29%</span><span class="d" style="flex:27">27%</span><span class="l" style="flex:44">44%</span></div>
+<div class="legend"><span>فوز Coventry</span><span>تعادل</span><span>فوز Newcastle</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Coventry</b> 3.40 <small>(+240)</small></span>
+<span><b>تعادل</b> 3.67 <small>(+267)</small></span>
+<span><b>Newcastle</b> 2.30 <small>(+130)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Coventry</b> 3.31 <small>(+231)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 3.70 <small>(+270)</small> <small>BetVictor</small> </span><span><b>Newcastle</b> 2.27 <small>(+127)</small> <small>1xBet</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 56% <small>(1.77)</small></span><span><b>أقل من 2.5</b> 44% <small>(2.30)</small></span><span><b>الفريقين بيسجلوا</b> 60% <small>(1.67)</small></span><span><b>لا</b> 40% <small>(2.50)</small></span></div><div class="out"><b>غيابات Coventry:</b> A. Amenda، T. Awoniyi، J. Eccles، L. Woolfenden، H. Wright، K. Kesler-Hayden، J. Latibeaudiere، A. Amenda</div><div class="out"><b>غيابات Newcastle:</b> A. Elanga، E. Jaouen، D. Burn، Joelinton، V. Livramento، W. Osula، J. Ramsey، A. Elanga</div></article></div><div class="grp" data-comp="الدوري الإسباني"><h3>الدوري الإسباني</h3><article data-conf="lo" data-move="0" data-value="1"><div class="top"><span class="teams">Levante <small>ضد</small> Sevilla</span><span class="time">22:00</span></div><div class="bar"><span class="w" style="flex:35">35%</span><span class="d" style="flex:31">31%</span><span class="l" style="flex:34">34%</span></div>
+<div class="legend"><span>فوز Levante</span><span>تعادل</span><span>فوز Sevilla</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Levante</b> 2.85 <small>(+185)</small></span>
+<span><b>تعادل</b> 3.26 <small>(+226)</small></span>
+<span><b>Sevilla</b> 2.93 <small>(+193)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Levante</b> 2.80 <small>(+180)</small> <small>1xBet</small> </span><span><b>تعادل</b> 3.35 <small>(+235)</small> <small>1xBet</small> <em class="up">+3% فوق العادل</em></span><span><b>Sevilla</b> 2.85 <small>(+185)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 43% <small>(2.34)</small></span><span><b>أقل من 2.5</b> 57% <small>(1.75)</small></span><span><b>الفريقين بيسجلوا</b> 52% <small>(1.91)</small></span><span><b>لا</b> 48% <small>(2.10)</small></span></div><div class="out"><b>غيابات Levante:</b> K. Etta Eyong، A. Primo، H. Sotelo، K. Etta Eyong، A. Primo، H. Sotelo</div><div class="out"><b>غيابات Sevilla:</b> N. Guillen، Marcao، I. Munoz، L. Stassin، N. Guillen، Marcao، I. Munoz، L. Stassin</div></article></div><div class="grp" data-comp="الدوري اللبناني"><h3>الدوري اللبناني</h3><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">Al Nejmeh <small>ضد</small> Tadamon Sour</span><span class="time">16:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article></div><div class="grp" data-comp="الدوري الجزائري"><h3>الدوري الجزائري</h3><article data-conf="mid" data-move="0" data-value="0"><div class="top"><span class="teams">JS El Biar <small>ضد</small> CR Belouizdad</span><span class="time">17:00</span></div><div class="bar"><span class="w" style="flex:18">18%</span><span class="d" style="flex:31">31%</span><span class="l" style="flex:51">51%</span></div>
+<div class="legend"><span>فوز JS El Biar</span><span>تعادل</span><span>فوز CR Belouizdad</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>JS El Biar</b> 5.65 <small>(+465)</small></span>
+<span><b>تعادل</b> 3.22 <small>(+222)</small></span>
+<span><b>CR Belouizdad</b> 1.95 <small>(-105)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>JS El Biar</b> 5.24 <small>(+424)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 3.15 <small>(+215)</small> <small>Dafabet</small> </span><span><b>CR Belouizdad</b> 1.82 <small>(-122)</small> <small>Betano</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 36% <small>(2.77)</small></span><span><b>أقل من 2.5</b> 64% <small>(1.56)</small></span><span><b>الفريقين بيسجلوا</b> 41% <small>(2.45)</small></span><span><b>لا</b> 59% <small>(1.69)</small></span></div><div class="lu wait">التشكيلة الرسمية تنزل قبل المباراة بساعة تقريباً</div></article><article data-conf="lo" data-move="0" data-value="1"><div class="top"><span class="teams">Khenchela <small>ضد</small> CS Constantine</span><span class="time">17:00</span></div><div class="bar"><span class="w" style="flex:42">42%</span><span class="d" style="flex:30">30%</span><span class="l" style="flex:28">28%</span></div>
+<div class="legend"><span>فوز Khenchela</span><span>تعادل</span><span>فوز CS Constantine</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Khenchela</b> 2.37 <small>(+137)</small></span>
+<span><b>تعادل</b> 3.35 <small>(+235)</small></span>
+<span><b>CS Constantine</b> 3.57 <small>(+257)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Khenchela</b> 2.60 <small>(+160)</small> <small>Dafabet</small> <em class="up">+10% فوق العادل</em></span><span><b>تعادل</b> 3.11 <small>(+211)</small> <small>Pinnacle</small> </span><span><b>CS Constantine</b> 3.31 <small>(+231)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 37% <small>(2.68)</small></span><span><b>أقل من 2.5</b> 63% <small>(1.59)</small></span><span><b>الفريقين بيسجلوا</b> 45% <small>(2.23)</small></span><span><b>لا</b> 55% <small>(1.82)</small></span></div><div class="lu wait">التشكيلة الرسمية تنزل قبل المباراة بساعة تقريباً</div></article></div><div class="grp" data-comp="الدوري المصري"><h3>الدوري المصري</h3><article data-conf="lo" data-move="0" data-value="1"><div class="top"><span class="teams">El Mokawloon <small>ضد</small> Masr</span><span class="time">17:00</span></div><div class="bar"><span class="w" style="flex:28">28%</span><span class="d" style="flex:37">37%</span><span class="l" style="flex:35">35%</span></div>
+<div class="legend"><span>فوز El Mokawloon</span><span>تعادل</span><span>فوز Masr</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>El Mokawloon</b> 3.61 <small>(+261)</small></span>
+<span><b>تعادل</b> 2.73 <small>(+173)</small></span>
+<span><b>Masr</b> 2.81 <small>(+181)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>El Mokawloon</b> 3.44 <small>(+244)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 2.85 <small>(+185)</small> <small>Betano</small> <em class="up">+5% فوق العادل</em></span><span><b>Masr</b> 2.68 <small>(+168)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 32% <small>(3.10)</small></span><span><b>أقل من 2.5</b> 68% <small>(1.48)</small></span><span><b>الفريقين بيسجلوا</b> 43% <small>(2.35)</small></span><span><b>لا</b> 57% <small>(1.74)</small></span></div><div class="lu wait">التشكيلة الرسمية تنزل قبل المباراة بساعة تقريباً</div></article><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Future FC <small>ضد</small> Enppi</span><span class="time">17:00</span></div><div class="bar"><span class="w" style="flex:40">40%</span><span class="d" style="flex:35">35%</span><span class="l" style="flex:25">25%</span></div>
+<div class="legend"><span>فوز Future FC</span><span>تعادل</span><span>فوز Enppi</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Future FC</b> 2.48 <small>(+148)</small></span>
+<span><b>تعادل</b> 2.88 <small>(+188)</small></span>
+<span><b>Enppi</b> 4.00 <small>(+300)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Future FC</b> 2.38 <small>(+138)</small> <small>William Hill</small> </span><span><b>تعادل</b> 2.85 <small>(+185)</small> <small>Dafabet</small> </span><span><b>Enppi</b> 3.82 <small>(+282)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 31% <small>(3.20)</small></span><span><b>أقل من 2.5</b> 69% <small>(1.46)</small></span><span><b>الفريقين بيسجلوا</b> 41% <small>(2.43)</small></span><span><b>لا</b> 59% <small>(1.70)</small></span></div><div class="lu wait">التشكيلة الرسمية تنزل قبل المباراة بساعة تقريباً</div></article><article data-conf="hi" data-move="0" data-value="0"><div class="top"><span class="teams">Pyramids FC <small>ضد</small> Ceramica Cleopatra</span><span class="time">20:00</span></div><div class="bar"><span class="w" style="flex:62">62%</span><span class="d" style="flex:24">24%</span><span class="l" style="flex:14">14%</span></div>
+<div class="legend"><span>فوز Pyramids FC</span><span>تعادل</span><span>فوز Ceramica Cleopatra</span></div>
+<div class="meta"><span class="chip hi">صورة واضحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Pyramids FC</b> 1.62 <small>(-161)</small></span>
+<span><b>تعادل</b> 4.13 <small>(+313)</small></span>
+<span><b>Ceramica Cleopatra</b> 7.11 <small>(+611)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Pyramids FC</b> 1.57 <small>(-175)</small> <small>William Hill</small> </span><span><b>تعادل</b> 3.93 <small>(+293)</small> <small>Pinnacle</small> </span><span><b>Ceramica Cleopatra</b> 6.76 <small>(+576)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 47% <small>(2.12)</small></span><span><b>أقل من 2.5</b> 53% <small>(1.90)</small></span><span><b>الفريقين بيسجلوا</b> 46% <small>(2.15)</small></span><span><b>لا</b> 54% <small>(1.87)</small></span></div></article><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Smouha SC <small>ضد</small> Ghazl El Mehalla</span><span class="time">20:00</span></div><div class="bar"><span class="w" style="flex:40">40%</span><span class="d" style="flex:38">38%</span><span class="l" style="flex:22">22%</span></div>
+<div class="legend"><span>فوز Smouha SC</span><span>تعادل</span><span>فوز Ghazl El Mehalla</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Smouha SC</b> 2.50 <small>(+150)</small></span>
+<span><b>تعادل</b> 2.66 <small>(+166)</small></span>
+<span><b>Ghazl El Mehalla</b> 4.47 <small>(+347)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Smouha SC</b> 2.40 <small>(+140)</small> <small>William Hill</small> </span><span><b>تعادل</b> 2.63 <small>(+163)</small> <small>Betfair</small> </span><span><b>Ghazl El Mehalla</b> 4.26 <small>(+326)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 25% <small>(4.07)</small></span><span><b>أقل من 2.5</b> 75% <small>(1.33)</small></span><span><b>الفريقين بيسجلوا</b> 35% <small>(2.87)</small></span><span><b>لا</b> 65% <small>(1.54)</small></span></div></article></div><div class="grp" data-comp="الدوري المغربي"><h3>الدوري المغربي</h3><article data-conf="mid" data-move="0" data-value="1"><div class="top"><span class="teams">Hassania Agadir <small>ضد</small> FAR Rabat</span><span class="time">23:00</span></div><div class="bar"><span class="w" style="flex:20">20%</span><span class="d" style="flex:33">33%</span><span class="l" style="flex:47">47%</span></div>
+<div class="legend"><span>فوز Hassania Agadir</span><span>تعادل</span><span>فوز FAR Rabat</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Hassania Agadir</b> 5.08 <small>(+408)</small></span>
+<span><b>تعادل</b> 3.07 <small>(+207)</small></span>
+<span><b>FAR Rabat</b> 2.09 <small>(+109)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 10 شركات</span><span><b>Hassania Agadir</b> 4.66 <small>(+366)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 3.36 <small>(+236)</small> <small>Marathonbet</small> <em class="up">+9% فوق العادل</em></span><span><b>FAR Rabat</b> 1.98 <small>(-102)</small> <small>Betano</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 46% <small>(2.19)</small></span><span><b>أقل من 2.5</b> 54% <small>(1.84)</small></span><span><b>الفريقين بيسجلوا</b> 50% <small>(2.01)</small></span><span><b>لا</b> 50% <small>(1.99)</small></span></div></article></div></div><div class="day" data-day="الثلاثاء 13/10"><h2>الثلاثاء 13/10</h2><div class="grp" data-comp="الدوري اللبناني"><h3>الدوري اللبناني</h3><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">Shabab Al Sahel <small>ضد</small> Safa</span><span class="time">15:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">Jwaaya FC <small>ضد</small> Al Hikma</span><span class="time">16:30</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">Al Ahed <small>ضد</small> Al Mabarrah</span><span class="time">21:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article></div><div class="grp" data-comp="الدوري الجزائري"><h3>الدوري الجزائري</h3><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">US Biskra <small>ضد</small> MC Oran</span><span class="time">17:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">ASO Chlef <small>ضد</small> MC Alger</span><span class="time">19:45</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">USM Alger <small>ضد</small> JS Saoura</span><span class="time">22:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article></div><div class="grp" data-comp="الدوري المصري"><h3>الدوري المصري</h3><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Abu Qair Semad <small>ضد</small> Asyut Petrol</span><span class="time">17:00</span></div><div class="bar"><span class="w" style="flex:44">44%</span><span class="d" style="flex:32">32%</span><span class="l" style="flex:24">24%</span></div>
+<div class="legend"><span>فوز Abu Qair Semad</span><span>تعادل</span><span>فوز Asyut Petrol</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Abu Qair Semad</b> 2.26 <small>(+126)</small></span>
+<span><b>تعادل</b> 3.08 <small>(+208)</small></span>
+<span><b>Asyut Petrol</b> 4.29 <small>(+329)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 8 شركات</span><span><b>Abu Qair Semad</b> 2.13 <small>(+113)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 3.10 <small>(+210)</small> <small>Betfair</small> </span><span><b>Asyut Petrol</b> 4.04 <small>(+304)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 36% <small>(2.81)</small></span><span><b>أقل من 2.5</b> 64% <small>(1.55)</small></span><span><b>الفريقين بيسجلوا</b> 43% <small>(2.33)</small></span><span><b>لا</b> 57% <small>(1.75)</small></span></div></article><article data-conf="mid" data-move="0" data-value="1"><div class="top"><span class="teams">National Bank of Egypt <small>ضد</small> El Geish</span><span class="time">17:00</span></div><div class="bar"><span class="w" style="flex:48">48%</span><span class="d" style="flex:31">31%</span><span class="l" style="flex:21">21%</span></div>
+<div class="legend"><span>فوز National Bank of Egypt</span><span>تعادل</span><span>فوز El Geish</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>National Bank of Egypt</b> 2.08 <small>(+108)</small></span>
+<span><b>تعادل</b> 3.22 <small>(+222)</small></span>
+<span><b>El Geish</b> 4.81 <small>(+381)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 9 شركات</span><span><b>National Bank of Egypt</b> 2.00 <small>(+100)</small> <small>Betano</small> </span><span><b>تعادل</b> 3.30 <small>(+230)</small> <small>Betfair</small> <em class="up">+3% فوق العادل</em></span><span><b>El Geish</b> 4.52 <small>(+352)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 38% <small>(2.64)</small></span><span><b>أقل من 2.5</b> 62% <small>(1.61)</small></span><span><b>الفريقين بيسجلوا</b> 43% <small>(2.30)</small></span><span><b>لا</b> 57% <small>(1.77)</small></span></div></article><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Al Ittihad <small>ضد</small> El Gouna FC</span><span class="time">20:00</span></div><div class="bar"><span class="w" style="flex:43">43%</span><span class="d" style="flex:34">34%</span><span class="l" style="flex:23">23%</span></div>
+<div class="legend"><span>فوز Al Ittihad</span><span>تعادل</span><span>فوز El Gouna FC</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Al Ittihad</b> 2.33 <small>(+133)</small></span>
+<span><b>تعادل</b> 2.90 <small>(+190)</small></span>
+<span><b>El Gouna FC</b> 4.42 <small>(+342)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 9 شركات</span><span><b>Al Ittihad</b> 2.20 <small>(+120)</small> <small>William Hill</small> </span><span><b>تعادل</b> 2.80 <small>(+180)</small> <small>Betfair</small> </span><span><b>El Gouna FC</b> 4.15 <small>(+315)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 30% <small>(3.32)</small></span><span><b>أقل من 2.5</b> 70% <small>(1.43)</small></span><span><b>الفريقين بيسجلوا</b> 38% <small>(2.61)</small></span><span><b>لا</b> 62% <small>(1.62)</small></span></div></article><article data-conf="lo" data-move="0" data-value="1"><div class="top"><span class="teams">Petrojet <small>ضد</small> Wadi Degla</span><span class="time">20:00</span></div><div class="bar"><span class="w" style="flex:29">29%</span><span class="d" style="flex:35">35%</span><span class="l" style="flex:36">36%</span></div>
+<div class="legend"><span>فوز Petrojet</span><span>تعادل</span><span>فوز Wadi Degla</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Petrojet</b> 3.42 <small>(+242)</small></span>
+<span><b>تعادل</b> 2.85 <small>(+185)</small></span>
+<span><b>Wadi Degla</b> 2.80 <small>(+180)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 9 شركات</span><span><b>Petrojet</b> 3.22 <small>(+222)</small> <small>Pinnacle</small> </span><span><b>تعادل</b> 3.00 <small>(+200)</small> <small>William Hill</small> <em class="up">+5% فوق العادل</em></span><span><b>Wadi Degla</b> 2.64 <small>(+164)</small> <small>Pinnacle</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 44% <small>(2.26)</small></span><span><b>أقل من 2.5</b> 56% <small>(1.79)</small></span><span><b>الفريقين بيسجلوا</b> 51% <small>(1.95)</small></span><span><b>لا</b> 49% <small>(2.06)</small></span></div></article></div><div class="grp" data-comp="الدوري المغربي"><h3>الدوري المغربي</h3><article data-conf="mid" data-move="0" data-value="0"><div class="top"><span class="teams">Renaissance Berkane <small>ضد</small> CR Khemis Zemamra</span><span class="time">21:00</span></div><div class="bar"><span class="w" style="flex:62">62%</span><span class="d" style="flex:25">25%</span><span class="l" style="flex:13">13%</span></div>
+<div class="legend"><span>فوز Renaissance Berkane</span><span>تعادل</span><span>فوز CR Khemis Zemamra</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: متوسط 7 شركات</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Renaissance Berkane</b> 1.61 <small>(-163)</small></span>
+<span><b>تعادل</b> 3.96 <small>(+296)</small></span>
+<span><b>CR Khemis Zemamra</b> 7.81 <small>(+681)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 7 شركات</span><span><b>Renaissance Berkane</b> 1.50 <small>(-200)</small> <small>Betano</small> </span><span><b>تعادل</b> 3.75 <small>(+275)</small> <small>Dafabet</small> </span><span><b>CR Khemis Zemamra</b> 7.50 <small>(+650)</small> <small>Betfair</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 38% <small>(2.66)</small></span><span><b>أقل من 2.5</b> 62% <small>(1.60)</small></span><span><b>الفريقين بيسجلوا</b> 35% <small>(2.83)</small></span><span><b>لا</b> 65% <small>(1.55)</small></span></div></article><article data-conf="mid" data-move="0" data-value="0"><div class="top"><span class="teams">FUS Rabat <small>ضد</small> Raja Casablanca</span><span class="time">23:00</span></div><div class="bar"><span class="w" style="flex:19">19%</span><span class="d" style="flex:26">26%</span><span class="l" style="flex:55">55%</span></div>
+<div class="legend"><span>فوز FUS Rabat</span><span>تعادل</span><span>فوز Raja Casablanca</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: متوسط 6 شركات</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>FUS Rabat</b> 5.40 <small>(+440)</small></span>
+<span><b>تعادل</b> 3.81 <small>(+281)</small></span>
+<span><b>Raja Casablanca</b> 1.81 <small>(-124)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 6 شركات</span><span><b>FUS Rabat</b> 5.40 <small>(+440)</small> <small>Dafabet</small> </span><span><b>تعادل</b> 3.60 <small>(+260)</small> <small>Betfair</small> </span><span><b>Raja Casablanca</b> 1.67 <small>(-149)</small> <small>William Hill</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 47% <small>(2.12)</small></span><span><b>أقل من 2.5</b> 53% <small>(1.90)</small></span><span><b>الفريقين بيسجلوا</b> 49% <small>(2.05)</small></span><span><b>لا</b> 51% <small>(1.95)</small></span></div></article></div></div><div class="day" data-day="الأربعاء 14/10"><h2>الأربعاء 14/10</h2><div class="grp" data-comp="الدوري الجزائري"><h3>الدوري الجزائري</h3><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">ES Setif <small>ضد</small> JS Kabylie</span><span class="time">20:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Témouchent <small>ضد</small> MB Rouisset</span><span class="time">20:00</span></div><div class="bar"><span class="w" style="flex:42">42%</span><span class="d" style="flex:31">31%</span><span class="l" style="flex:27">27%</span></div>
+<div class="legend"><span>فوز Témouchent</span><span>تعادل</span><span>فوز MB Rouisset</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: متوسط 6 شركات</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Témouchent</b> 2.40 <small>(+140)</small></span>
+<span><b>تعادل</b> 3.18 <small>(+218)</small></span>
+<span><b>MB Rouisset</b> 3.72 <small>(+272)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 6 شركات</span><span><b>Témouchent</b> 2.20 <small>(+120)</small> <small>Betano</small> </span><span><b>تعادل</b> 2.92 <small>(+192)</small> <small>Betano</small> </span><span><b>MB Rouisset</b> 3.41 <small>(+241)</small> <small>1xBet</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 35% <small>(2.90)</small></span><span><b>أقل من 2.5</b> 65% <small>(1.53)</small></span><span><b>الفريقين بيسجلوا</b> 41% <small>(2.43)</small></span><span><b>لا</b> 59% <small>(1.70)</small></span></div></article></div><div class="grp" data-comp="الدوري المغربي"><h3>الدوري المغربي</h3><article data-conf="mid" data-move="0" data-value="0"><div class="top"><span class="teams">Ittihad Tanger <small>ضد</small> Maghreb Fès</span><span class="time">23:00</span></div><div class="bar"><span class="w" style="flex:27">27%</span><span class="d" style="flex:24">24%</span><span class="l" style="flex:49">49%</span></div>
+<div class="legend"><span>فوز Ittihad Tanger</span><span>تعادل</span><span>فوز Maghreb Fès</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: متوسط 1 شركات</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Ittihad Tanger</b> 3.76 <small>(+276)</small></span>
+<span><b>تعادل</b> 4.17 <small>(+317)</small></span>
+<span><b>Maghreb Fès</b> 2.02 <small>(+102)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 1 شركات</span><span><b>Ittihad Tanger</b> 3.38 <small>(+238)</small> <small>1xBet</small> </span><span><b>تعادل</b> 3.75 <small>(+275)</small> <small>1xBet</small> </span><span><b>Maghreb Fès</b> 1.82 <small>(-122)</small> <small>1xBet</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 57% <small>(1.75)</small></span><span><b>أقل من 2.5</b> 43% <small>(2.34)</small></span><span><b>الفريقين بيسجلوا</b> 59% <small>(1.70)</small></span><span><b>لا</b> 41% <small>(2.42)</small></span></div></article></div></div><div class="day" data-day="الخميس 15/10"><h2>الخميس 15/10</h2><div class="grp" data-comp="الدوري السعودي"><h3>الدوري السعودي</h3><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">Al-Faisaly FC <small>ضد</small> Al Kholood</span><span class="time">16:40</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article><article data-conf="mid" data-move="0" data-value="0"><div class="top"><span class="teams">Al Khaleej Saihat <small>ضد</small> Al-Fayha</span><span class="time">17:50</span></div><div class="bar"><span class="w" style="flex:45">45%</span><span class="d" style="flex:27">27%</span><span class="l" style="flex:28">28%</span></div>
+<div class="legend"><span>فوز Al Khaleej Saihat</span><span>تعادل</span><span>فوز Al-Fayha</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Al Khaleej Saihat</b> 2.21 <small>(+121)</small></span>
+<span><b>تعادل</b> 3.66 <small>(+266)</small></span>
+<span><b>Al-Fayha</b> 3.65 <small>(+265)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 7 شركات</span><span><b>Al Khaleej Saihat</b> 2.13 <small>(+113)</small> <small>Dafabet</small> </span><span><b>تعادل</b> 3.50 <small>(+250)</small> <small>Betfair</small> </span><span><b>Al-Fayha</b> 3.50 <small>(+250)</small> <small>Betfair</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 48% <small>(2.09)</small></span><span><b>أقل من 2.5</b> 52% <small>(1.91)</small></span><span><b>الفريقين بيسجلوا</b> 52% <small>(1.93)</small></span><span><b>لا</b> 48% <small>(2.08)</small></span></div></article><article data-conf="lo" data-move="0" data-value="0"><div class="top"><span class="teams">Al-Hazm <small>ضد</small> Al-Fateh</span><span class="time">18:15</span></div><div class="bar"><span class="w" style="flex:35">35%</span><span class="d" style="flex:26">26%</span><span class="l" style="flex:39">39%</span></div>
+<div class="legend"><span>فوز Al-Hazm</span><span>تعادل</span><span>فوز Al-Fateh</span></div>
+<div class="meta"><span class="chip lo">مباراة مفتوحة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Al-Hazm</b> 2.88 <small>(+188)</small></span>
+<span><b>تعادل</b> 3.90 <small>(+290)</small></span>
+<span><b>Al-Fateh</b> 2.53 <small>(+153)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 7 شركات</span><span><b>Al-Hazm</b> 2.77 <small>(+177)</small> <small>Betano</small> </span><span><b>تعادل</b> 3.66 <small>(+266)</small> <small>Pinnacle</small> </span><span><b>Al-Fateh</b> 2.45 <small>(+145)</small> <small>Betano</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 57% <small>(1.77)</small></span><span><b>أقل من 2.5</b> 43% <small>(2.30)</small></span><span><b>الفريقين بيسجلوا</b> 60% <small>(1.67)</small></span><span><b>لا</b> 40% <small>(2.49)</small></span></div></article><article data-conf="mid" data-move="0" data-value="0"><div class="top"><span class="teams">Al-Ahli Jeddah <small>ضد</small> Al-Nassr</span><span class="time">21:00</span></div><div class="bar"><span class="w" style="flex:29">29%</span><span class="d" style="flex:25">25%</span><span class="l" style="flex:46">46%</span></div>
+<div class="legend"><span>فوز Al-Ahli Jeddah</span><span>تعادل</span><span>فوز Al-Nassr</span></div>
+<div class="meta"><span class="chip mid">صورة متوسطة</span><span>المصدر: Pinnacle</span></div>
+<div class="fair"><span class="fl">السعر العادل</span>
+<span><b>Al-Ahli Jeddah</b> 3.43 <small>(+243)</small></span>
+<span><b>تعادل</b> 4.01 <small>(+301)</small></span>
+<span><b>Al-Nassr</b> 2.18 <small>(+118)</small></span></div><div class="fair best"><span class="fl">أعلى سعر متاح بين 7 شركات</span><span><b>Al-Ahli Jeddah</b> 3.30 <small>(+230)</small> <small>Betano</small> </span><span><b>تعادل</b> 3.80 <small>(+280)</small> <small>Betfair</small> </span><span><b>Al-Nassr</b> 2.11 <small>(+111)</small> <small>Dafabet</small> </span></div><div class="fair extra"><span class="fl">أسواق ثانية</span><span><b>أكثر من 2.5 هدف</b> 60% <small>(1.67)</small></span><span><b>أقل من 2.5</b> 40% <small>(2.49)</small></span><span><b>الفريقين بيسجلوا</b> 62% <small>(1.62)</small></span><span><b>لا</b> 38% <small>(2.61)</small></span></div></article></div><div class="grp" data-comp="الدوري الأردني"><h3>الدوري الأردني</h3><article data-conf="none" data-move="0" data-value="0"><div class="top"><span class="teams">Al Arabi <small>ضد</small> Shabab Al Ordon</span><span class="time">18:00</span></div><div class="meta"><span class="chip lo">لا توجد أسعار بعد</span></div></article></div></div>
+</div>
+<div id="rec" hidden><p class='empty'>لا توجد نتائج بعد. أول ما تنتهي مباراة كانت على اللوحة قبل بدايتها، بتنضاف هون تلقائياً مع توقعنا ونتيجتها.</p></div>
+<div id="pf" hidden><div class="kpis">
+<div><b>0</b><span>اختيار انتهى</span></div>
+<div><b>0</b><span>صح</span></div>
+<div><b>+0.00</b><span>الربح أو الخسارة الوهمية</span></div>
+<div><b>+0.0%</b><span>العائد من 0</span></div></div>
+<p class="hint">مبالغ وهمية بالكامل. كل اختيار بتوافق عليه من الإشعار بينسجل هون بمبلغ 10، وبعد المباراة بينحسب لحاله.
+شروطك الحالية: فوز فقط (بدون تعادل)، احتمال 60% أو أكثر،
+وسعر أعلى من العادل بـ 3% أو أكثر، والسعر العادل من Pinnacle فقط،
+والإشعار قبل المباراة بـ 3 ساعات كحد أقصى. بتقدر تغيّرها من ملف agent_settings.json.</p><p class='empty'>المحفظة فاضية. لما يوصلك إشعار 💡 فرصة حسب شروطك، اضغط زر «سجّل بالمحفظة» وبتنضاف هون.</p></div>
+<p class="note">الاحتمالات مأخوذة من أحدّ أسعار السوق بعد إزالة هامش الشركة، وهي أدق تقدير متاح لكنها ليست يقيناً. المباريات الودية أقل دقة بكثير لأن المدربين يجربون لاعبين.</p>
+</main>
+<script>
+var f="all";
+function apply(){
+  var c=document.getElementById("comp").value, d=document.getElementById("dayf").value, any=false;
+  document.querySelectorAll(".day").forEach(function(day){
+    var dayOk=!d||day.dataset.day===d, dayAny=false;
+    day.querySelectorAll(".grp").forEach(function(g){
+      var gAny=false;
+      g.querySelectorAll("article").forEach(function(a){
+        var ok=dayOk&&(!c||g.dataset.comp===c)&&(f==="all"||(f==="hi"&&a.dataset.conf==="hi")||(f==="move"&&a.dataset.move==="1")||(f==="value"&&a.dataset.value==="1"));
+        a.hidden=!ok; if(ok)gAny=true;
+      });
+      g.hidden=!gAny; if(gAny)dayAny=true;
+    });
+    day.hidden=!dayAny; if(dayAny)any=true;
+  });
+  document.getElementById("none").hidden=any;
+}
+document.querySelectorAll(".filters button").forEach(function(b){b.onclick=function(){
+  document.querySelectorAll(".filters button").forEach(function(x){x.classList.remove("on")});b.classList.add("on");f=b.dataset.f;apply();}});
+document.getElementById("comp").onchange=apply;document.getElementById("dayf").onchange=apply;
+document.querySelectorAll(".tabs button").forEach(function(b){b.onclick=function(){
+  document.querySelectorAll(".tabs button").forEach(function(x){x.classList.remove("on")});b.classList.add("on");
+  ["up","rec","pf"].forEach(function(id){document.getElementById(id).hidden=b.dataset.tab!==id;});}});
+</script>
+</body></html>
