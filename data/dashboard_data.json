@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642042,
-  "kickoff": "2026-10-13T16:30:00+03:00",
-  "home": "Jwaaya FC",
-  "away": "Al Hikma",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الجزائري",
   "type": "arab",
   "en": "Algeria Ligue 1",
@@ -92,7 +71,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-5-1",
+    "xi": [
+     "Mohamed Zakaria Shika",
+     "M. Alaa",
+     "Ahmed Awad",
+     "M. Dabash",
+     "Ahmed Dahesh",
+     "F. Akem",
+     "Mostafa Rahim",
+     "R. Milad",
+     "O. Ibrahim",
+     "Ahmed Khaled",
+     "Ali Hussein"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "A. Ahmed",
+     "Mahmoud Alaa",
+     "A. Shokry",
+     "Mahmoud Alaa",
+     "Ahmed Younes",
+     "I. Abbas",
+     "Abdelrahman Medhat",
+     "A. R. Al Khamisi",
+     "Mohamed Hesha",
+     "M. Eid",
+     "C. C. Bodne"
+    ]
+   }
+  },
   "ou": [
    0.31590909090909086,
    0.6840909090909091
