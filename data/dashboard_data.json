@@ -4287,5 +4287,1704 @@
    ],
    "since": "13/10 00:47"
   }
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557430,
+  "kickoff": "2026-10-17T14:30:00+03:00",
+  "home": "Everton",
+  "away": "Chelsea",
+  "p": [
+   0.303363074811256,
+   0.2587508579272477,
+   0.43788606726149626
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5732323232323232,
+   0.42676767676767674
+  ],
+  "btts": [
+   0.6035933526453156,
+   0.39640664735468445
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 3.24,
+    "edge": -0.017103637611530442
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.88,
+    "edge": 0.003953328757721142
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.23,
+    "edge": -0.02351407000686334
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570416,
+  "kickoff": "2026-10-17T15:00:00+03:00",
+  "home": "Espanyol",
+  "away": "Atletico Madrid",
+  "p": [
+   0.21675174844599723,
+   0.2491527830075123,
+   0.5340954685464905
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5309278350515463,
+   0.4690721649484536
+  ],
+  "btts": [
+   0.5491589408808838,
+   0.45084105911911626
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 4.46,
+    "edge": -0.03328720193085233
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.9,
+    "edge": -0.02830414627070199
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.91,
+    "edge": 0.02012234492379683
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642044,
+  "kickoff": "2026-10-17T15:00:00+03:00",
+  "home": "Tadamon Sour",
+  "away": "Al Akhaa Al Ahli",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645674,
+  "kickoff": "2026-10-17T15:00:00+03:00",
+  "home": "Hottin",
+  "away": "Horriya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550156,
+  "kickoff": "2026-10-17T16:00:00+03:00",
+  "home": "Venezia",
+  "away": "Napoli",
+  "p": [
+   0.20073469342388253,
+   0.22454276171369184,
+   0.5747225448624256
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "A. Adorante",
+    "M. Šverko"
+   ],
+   "away": [
+    "A. Buongiorno"
+   ]
+  },
+  "lineups": null,
+  "ou": [
+   0.5674300254452926,
+   0.43256997455470736
+  ],
+  "btts": [
+   0.5593002496267353,
+   0.4406997503732647
+  ],
+  "best": [
+   {
+    "book": "Bet365",
+    "odd": 5.0,
+    "edge": 0.0036734671194127433
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.3,
+    "edge": -0.034466124631125195
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.76,
+    "edge": 0.011511678957869087
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642112,
+  "kickoff": "2026-10-17T16:00:00+03:00",
+  "home": "Smail",
+  "away": "Al Musannah",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإماراتي",
+  "type": "arab",
+  "en": "United-Arab-Emirates Pro League",
+  "id": 1639009,
+  "kickoff": "2026-10-17T16:05:00+03:00",
+  "home": "Al Nasr",
+  "away": "Hatta SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575188,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "Union Berlin",
+  "away": "Borussia Dortmund",
+  "p": [
+   0.2031938462726964,
+   0.21885958498759817,
+   0.5779465687397054
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6326034063260341,
+   0.3673965936739659
+  ],
+  "btts": [
+   0.6217117034862291,
+   0.3782882965137709
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 5.0,
+    "edge": 0.01596923136348205
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.45,
+    "edge": -0.026074846805188123
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.73,
+    "edge": -0.00015243608030968137
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575190,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "Hamburger SV",
+  "away": "VfB Stuttgart",
+  "p": [
+   0.23389771619573996,
+   0.24520574827645003,
+   0.52089653552781
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.676605504587156,
+   0.323394495412844
+  ],
+  "btts": [
+   0.6795958708382929,
+   0.32040412916170713
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 4.12,
+    "edge": -0.03634140927355134
+   },
+   {
+    "book": "Betfair",
+    "odd": 4.2,
+    "edge": 0.029864142761090173
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.9,
+    "edge": -0.010296582497161033
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575191,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "Werder Bremen",
+  "away": "SC Paderborn 07",
+  "p": [
+   0.539731663192308,
+   0.2252027219380493,
+   0.2350656148696427
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6271186440677965,
+   0.37288135593220334
+  ],
+  "btts": [
+   0.6184886728422047,
+   0.3815113271577953
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.84,
+    "edge": -0.0068937397261531475
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.29,
+    "edge": -0.03388032288576848
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.21,
+    "edge": -0.010373761398804304
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575192,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "FC Schalke 04",
+  "away": "FSV Mainz 05",
+  "p": [
+   0.32263372630345105,
+   0.2637332912562271,
+   0.41363298244032193
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.599502487562189,
+   0.40049751243781095
+  ],
+  "btts": [
+   0.6278599753062027,
+   0.3721400246937973
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.0,
+    "edge": -0.0320988210896469
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.7,
+    "edge": -0.02418682235195979
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.44,
+    "edge": 0.009264477154385498
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575193,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "SV Elversberg",
+  "away": "FC Augsburg",
+  "p": [
+   0.38262754251417147,
+   0.2588362787595865,
+   0.35853617872624205
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6483253588516746,
+   0.35167464114832536
+  ],
+  "btts": [
+   0.672720337074371,
+   0.3272796629256291
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.55,
+    "edge": -0.024299766588862792
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.92,
+    "edge": 0.014638212737579037
+   },
+   {
+    "book": "Betano",
+    "odd": 2.72,
+    "edge": -0.02478159386462153
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557428,
+  "kickoff": "2026-10-17T17:00:00+03:00",
+  "home": "Brentford",
+  "away": "Liverpool",
+  "p": [
+   0.39031787892972264,
+   0.2652022848618389,
+   0.3444798362084385
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6074074074074073,
+   0.39259259259259255
+  ],
+  "btts": [
+   0.6404906486645706,
+   0.3595093513354294
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.61,
+    "edge": 0.01872966400657594
+   },
+   {
+    "book": "Bet365",
+    "odd": 3.75,
+    "edge": -0.005491431768104182
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 2.81,
+    "edge": -0.03201166025428792
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557431,
+  "kickoff": "2026-10-17T17:00:00+03:00",
+  "home": "Fulham",
+  "away": "Hull City",
+  "p": [
+   0.5666608819839375,
+   0.23553141793953394,
+   0.19780770007652848
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5487179487179488,
+   0.4512820512820513
+  ],
+  "btts": [
+   0.546498480714978,
+   0.45350151928502197
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.73,
+    "edge": -0.019676674167788177
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.11,
+    "edge": -0.03196587226851544
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.18,
+    "edge": 0.02464388639641757
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557433,
+  "kickoff": "2026-10-17T17:00:00+03:00",
+  "home": "Manchester City",
+  "away": "Ipswich",
+  "p": [
+   0.7837269746692568,
+   0.13044296167755706,
+   0.08583006365318611
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6977777777777777,
+   0.3022222222222222
+  ],
+  "btts": [
+   0.528057815271757,
+   0.47194218472824306
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.26,
+    "edge": -0.012504011916736446
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 7.33,
+    "edge": -0.04385309090350675
+   },
+   {
+    "book": "Betfair",
+    "odd": 12.0,
+    "edge": 0.029960763838233317
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642045,
+  "kickoff": "2026-10-17T17:00:00+03:00",
+  "home": "Al Hikma",
+  "away": "Al Ahed",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643364,
+  "kickoff": "2026-10-17T17:00:00+03:00",
+  "home": "Al Faisaly",
+  "away": "Al Ramtha",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570422,
+  "kickoff": "2026-10-17T17:15:00+03:00",
+  "home": "Villarreal",
+  "away": "Elche",
+  "p": [
+   0.656807467586895,
+   0.19233206720174018,
+   0.15086046521136495
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.645083932853717,
+   0.354916067146283
+  ],
+  "btts": [
+   0.5895566452421575,
+   0.41044335475784255
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.51,
+    "edge": -0.008220723943788477
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 5.02,
+    "edge": -0.03449302264726439
+   },
+   {
+    "book": "1xBet",
+    "odd": 6.73,
+    "edge": 0.01529093087248623
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1627999,
+  "kickoff": "2026-10-17T18:00:00+03:00",
+  "home": "Al-Jolan SC",
+  "away": "Duhok",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628005,
+  "kickoff": "2026-10-17T18:00:00+03:00",
+  "home": "Erbil",
+  "away": "Mosul",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552790,
+  "kickoff": "2026-10-17T18:15:00+03:00",
+  "home": "Strasbourg",
+  "away": "Paris Saint Germain",
+  "p": [
+   0.1427959805575843,
+   0.16974337018661698,
+   0.6874606492557988
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.7191087208241376,
+   0.2808912791758624
+  ],
+  "btts": [
+   0.6403278330979388,
+   0.3596721669020613
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 6.74,
+    "edge": -0.037555091041881816
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 5.67,
+    "edge": -0.037555091041881705
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.46,
+    "edge": 0.003692547913466182
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607451,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "AS Marsa",
+  "away": "ES Metlaoui",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607452,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "Club Africain",
+  "away": "CA Bizertin",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607453,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "CS Sfaxien",
+  "away": "ES Tunis",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607454,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "ES Hammam-Sousse",
+  "away": "US Ben Guerdane",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607455,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "CS Hammam-Lif",
+  "away": "Jeunesse Sportive Omrane",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607456,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "US Monastirienne",
+  "away": "Progrès Sakiet Eddaïer",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607457,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "Olympique Béja",
+  "away": "ES Sahel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607458,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "Stade Tunisien",
+  "away": "ES Zarzis",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642113,
+  "kickoff": "2026-10-17T18:30:00+03:00",
+  "home": "Fanja",
+  "away": "Saham",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603052,
+  "kickoff": "2026-10-17T18:40:00+03:00",
+  "home": "NEOM",
+  "away": "Al-Ettifaq",
+  "p": [
+   0.48383521971689475,
+   0.2523789119063802,
+   0.2637858683767251
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5564304461942258,
+   0.44356955380577423
+  ],
+  "btts": [
+   0.5849465992337073,
+   0.41505340076629266
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.98,
+    "edge": -0.04200626496054838
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.8,
+    "edge": -0.04096013475575533
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.7,
+    "edge": -0.02399228700611722
+   }
+  ],
+  "nbooks": 7,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628001,
+  "kickoff": "2026-10-17T18:45:00+03:00",
+  "home": "Naft",
+  "away": "Zakho",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإماراتي",
+  "type": "arab",
+  "en": "United-Arab-Emirates Pro League",
+  "id": 1639010,
+  "kickoff": "2026-10-17T18:45:00+03:00",
+  "home": "Shabab Al Ahli Dubai",
+  "away": "Al Ain",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550149,
+  "kickoff": "2026-10-17T19:00:00+03:00",
+  "home": "Bologna",
+  "away": "Inter",
+  "p": [
+   0.16116748151241922,
+   0.23546175957546128,
+   0.6033707589121196
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5808080808080808,
+   0.41919191919191917
+  ],
+  "btts": [
+   0.5590694582568553,
+   0.4409305417431448
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 5.99,
+    "edge": -0.034606785740608825
+   },
+   {
+    "book": "Dafabet",
+    "odd": 4.3,
+    "edge": 0.012485566174483376
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.65,
+    "edge": -0.004438247795002792
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611420,
+  "kickoff": "2026-10-17T19:00:00+03:00",
+  "home": "CS Constantine",
+  "away": "JS El Biar",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643402,
+  "kickoff": "2026-10-17T19:00:00+03:00",
+  "home": "Al Najma",
+  "away": "Al-Hidd",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643403,
+  "kickoff": "2026-10-17T19:00:00+03:00",
+  "home": "Al Riffa",
+  "away": "East Riffa",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557434,
+  "kickoff": "2026-10-17T19:30:00+03:00",
+  "home": "Newcastle",
+  "away": "Aston Villa",
+  "p": [
+   0.45038561523567777,
+   0.25348928606196525,
+   0.2961250987023569
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5889724310776941,
+   0.41102756892230574
+  ],
+  "btts": [
+   0.6178100189986356,
+   0.3821899810013645
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.17,
+    "edge": -0.022663214938579257
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.92,
+    "edge": -0.00632199863709626
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.34,
+    "edge": -0.01094217033412792
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570413,
+  "kickoff": "2026-10-17T19:30:00+03:00",
+  "home": "Real Betis",
+  "away": "Barcelona",
+  "p": [
+   0.15831434858898918,
+   0.16857289657111282,
+   0.6731127548398981
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.7380028572743472,
+   0.26199714272565283
+  ],
+  "btts": [
+   0.6633561793038787,
+   0.3366438206961213
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 6.21,
+    "edge": -0.016867895262377197
+   },
+   {
+    "book": "Bet365",
+    "odd": 5.75,
+    "edge": -0.03070584471610127
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.49,
+    "edge": 0.0029380047114482277
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575185,
+  "kickoff": "2026-10-17T19:30:00+03:00",
+  "home": "Bayern München",
+  "away": "RB Leipzig",
+  "p": [
+   0.7769452544795169,
+   0.12164294388315669,
+   0.1014118016373264
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.8301420971482659,
+   0.169857902851734
+  ],
+  "btts": [
+   0.6823233936410193,
+   0.3176766063589807
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.26,
+    "edge": -0.02104897935580874
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 7.92,
+    "edge": -0.036587884445399066
+   },
+   {
+    "book": "1xBet",
+    "odd": 11.3,
+    "edge": 0.14595335850178826
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643365,
+  "kickoff": "2026-10-17T19:30:00+03:00",
+  "home": "Al Wihdat",
+  "away": "Al Hussein",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628002,
+  "kickoff": "2026-10-17T20:30:00+03:00",
+  "home": "Al Quwa Al Jawiya",
+  "away": "Al-Karma",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1622651,
+  "kickoff": "2026-10-17T20:45:00+03:00",
+  "home": "Al Arabi",
+  "away": "Al Salmiyah",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1635594,
+  "kickoff": "2026-10-17T20:45:00+03:00",
+  "home": "Al Qadsia",
+  "away": "Al Sahel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603045,
+  "kickoff": "2026-10-17T21:00:00+03:00",
+  "home": "Al Diriyah",
+  "away": "Al Taawon",
+  "p": [
+   0.45300113250283125,
+   0.26791781265167447,
+   0.2790810548454942
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5356200527704486,
+   0.4643799472295515
+  ],
+  "btts": [
+   0.574224206873564,
+   0.425775793126436
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 2.12,
+    "edge": -0.039637599093997666
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.8,
+    "edge": 0.018087688076362962
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.36,
+    "edge": -0.06228765571913941
+   }
+  ],
+  "nbooks": 7,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611424,
+  "kickoff": "2026-10-17T21:00:00+03:00",
+  "home": "MC Oran",
+  "away": "Khenchela",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1644214,
+  "kickoff": "2026-10-17T21:00:00+03:00",
+  "home": "CODM Meknès",
+  "away": "UTS Rabat",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550148,
+  "kickoff": "2026-10-17T21:45:00+03:00",
+  "home": "AS Roma",
+  "away": "Genoa",
+  "p": [
+   0.6924887905639618,
+   0.18582228163781986,
+   0.1216889277982183
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "M. Bah"
+   ],
+   "away": [
+    "L. Venturino"
+   ]
+  },
+  "lineups": null,
+  "ou": [
+   0.5612244897959184,
+   0.4387755102040816
+  ],
+  "btts": [
+   0.48315705858447383,
+   0.5168429414155261
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.4,
+    "edge": -0.030515693210453443
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.3,
+    "edge": -0.015141907319554782
+   },
+   {
+    "book": "1xBet",
+    "odd": 9.05,
+    "edge": 0.10128479657387568
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552786,
+  "kickoff": "2026-10-17T21:45:00+03:00",
+  "home": "Lille",
+  "away": "Stade Brestois 29",
+  "p": [
+   0.5284585761767115,
+   0.2423757379457098,
+   0.2291656858775787
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.564885496183206,
+   0.43511450381679384
+  ],
+  "btts": [
+   0.567275930726444,
+   0.432724069273556
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.86,
+    "edge": -0.017067048311316446
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.04,
+    "edge": -0.020802018699332403
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.36,
+    "edge": -0.0008376095737567812
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552791,
+  "kickoff": "2026-10-17T21:45:00+03:00",
+  "home": "Estac Troyes",
+  "away": "Lens",
+  "p": [
+   0.2371413205703866,
+   0.23831238882011693,
+   0.5245462906094964
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6029776674937966,
+   0.39702233250620345
+  ],
+  "btts": [
+   0.6062894960611681,
+   0.3937105039388319
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 4.3,
+    "edge": 0.019707678452662192
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.05,
+    "edge": -0.03483482527852644
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.87,
+    "edge": -0.019098436560241683
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570421,
+  "kickoff": "2026-10-17T22:00:00+03:00",
+  "home": "Valencia",
+  "away": "Athletic Club",
+  "p": [
+   0.2651404448774151,
+   0.28051090545001894,
+   0.4543486496725659
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.46923076923076923,
+   0.5307692307692307
+  ],
+  "btts": [
+   0.5189525550723096,
+   0.48104744492769036
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.65,
+    "edge": -0.03223737619743483
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.58,
+    "edge": 0.004229041511067733
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.18,
+    "edge": -0.009519943713806267
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1644215,
+  "kickoff": "2026-10-17T23:00:00+03:00",
+  "home": "Difaa EL Jadida",
+  "away": "Moghreb Tetouan",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  }
 ]
