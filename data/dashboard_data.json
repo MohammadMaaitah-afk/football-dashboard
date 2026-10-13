@@ -17,7 +17,39 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "A. Lakred",
+     "A. Serrhat",
+     "Issam Naji",
+     "A. Maher",
+     "A. Lemsen",
+     "M. Lahtimi",
+     "F. Karmoune",
+     "Emanuel anderson",
+     "Fernando Data Chamboco",
+     "A. Souane",
+     "Déo Gracias Maurile Gloire Bassinga"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "I. Zidani",
+     "Y. Bakiz",
+     "A. Barkok",
+     "B. Benoun",
+     "A. Bettaieb",
+     "K. Chemseddine",
+     "A. El Amloud",
+     "Marian Huja",
+     "M. Oyewusi",
+     "El Mehdi Al Harrar"
+    ]
+   }
+  },
   "ou": [
    0.30663615560640733,
    0.6933638443935927
