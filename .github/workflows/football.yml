@@ -36,7 +36,7 @@ jobs:
         env:
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-          DAILY: ${{ github.event.schedule == '55 20 * * *' || inputs.daily == true }}
+          DAILY: ${{ github.event.schedule == '55 20 * * *' || inputs.daily == true || inputs.daily == 'true' }}
         run: |
           if [ "$DAILY" = "true" ]; then
             python step8_dashboard.py --daily
