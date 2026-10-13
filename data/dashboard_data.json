@@ -146,7 +146,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Abdel Aziz El Balouti",
+     "Hisham Saleh",
+     "Mahmoud El Gazzar",
+     "Amir Medhat",
+     "Ahmed Meteb",
+     "K. Hamed",
+     "Anderson Ceará",
+     "Ali Hamdy",
+     "Mohamed Naser",
+     "Mohamed Nasr",
+     "Ahmed Yasser Rayan"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Omar Radwan",
+     "Ahmed Abdel Rahman Zola",
+     "Z. Mohamed",
+     "Mohamed Fathallah",
+     "Amro Tarek",
+     "Mohamed Atef",
+     "Ahmed Tarek",
+     "Walid Benbella",
+     "Karim Tarek",
+     "Islam Mohareb",
+     "Ayman Amir Abdelaziz"
+    ]
+   }
+  },
   "ou": [
    0.3959899749373434,
    0.6040100250626567
@@ -299,9 +332,9 @@
   "home": "Petrojet",
   "away": "Wadi Degla",
   "p": [
-   0.2665607575126029,
-   0.3547537218940961,
-   0.37868552059330096
+   0.30732451309116,
+   0.35010228414414196,
+   0.34257320276469805
   ],
   "source": "Pinnacle",
   "out": {
@@ -314,32 +347,32 @@
    0.6074999999999999
   ],
   "btts": [
-   0.4841516867817179,
-   0.5158483132182822
+   0.4799449835788798,
+   0.5200550164211203
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.58,
-    "edge": -0.0457124881048816
+    "odd": 3.11,
+    "edge": -0.044220764286492464
    },
    {
     "book": "Betfair",
     "odd": 3.0,
-    "edge": 0.06426116568228823
+    "edge": 0.05030685243242594
    },
    {
     "book": "Pinnacle",
-    "odd": 2.52,
-    "edge": -0.0457124881048816
+    "odd": 2.79,
+    "edge": -0.044220764286492464
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.025735240107782442,
-    0.0035622620666181937,
-    0.02217297804116425
+    0.015028515470774662,
+    -0.0010891756833359412,
+    -0.013939339787438665
    ],
    "since": "12/10 15:58"
   }
@@ -443,8 +476,8 @@
    0.6081424936386769
   ],
   "btts": [
-   0.38027629422407966,
-   0.6197237057759203
+   0.37737340893203175,
+   0.6226265910679682
   ],
   "best": [
    {
