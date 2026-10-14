@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "Soufyan Ahannach",
+     "M. Barcola",
+     "Y. Najari",
+     "G. Mohutsiwa",
+     "Abdel Maali",
+     "A. Laaziri",
+     "Z. Kiani",
+     "B. Elouadghiri",
+     "M. El Arouch",
+     "ibrahim dieng",
+     "M. Saoud"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "S. Chihab",
+     "K. Baba",
+     "A. Brika",
+     "S. Ghedamsi",
+     "A. Harmach",
+     "C. Ibayi",
+     "M. Jaouab",
+     "A. Khafifi",
+     "Oussama nourdine",
+     "D. Titus",
+     "M. Ouhrou"
+    ]
+   }
+  },
   "ou": [
    0.35467980295566504,
    0.645320197044335
