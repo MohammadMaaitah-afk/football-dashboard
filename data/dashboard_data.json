@@ -4802,6 +4802,48 @@
   }
  },
  {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607454,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "ES Hammam-Sousse",
+  "away": "US Ben Guerdane",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642045,
+  "kickoff": "2026-10-17T16:30:00+03:00",
+  "home": "Al Hikma",
+  "away": "Al Ahed",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري الإنجليزي",
   "type": "top",
   "en": "Premier League",
@@ -4964,27 +5006,6 @@
   }
  },
  {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642045,
-  "kickoff": "2026-10-17T17:00:00+03:00",
-  "home": "Al Hikma",
-  "away": "Al Ahed",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الأردني",
   "type": "arab",
   "en": "Jordan League",
@@ -5067,27 +5088,6 @@
   "kickoff": "2026-10-17T18:00:00+03:00",
   "home": "Al-Jolan SC",
   "away": "Duhok",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628005,
-  "kickoff": "2026-10-17T18:00:00+03:00",
-  "home": "Erbil",
-  "away": "Mosul",
   "p": null,
   "source": null,
   "out": {
@@ -5205,27 +5205,6 @@
   "kickoff": "2026-10-17T18:30:00+03:00",
   "home": "CS Sfaxien",
   "away": "ES Tunis",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607454,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "ES Hammam-Sousse",
-  "away": "US Ben Guerdane",
   "p": null,
   "source": null,
   "out": {
