@@ -47,7 +47,40 @@
     "A. Lahdo"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "T. Ernst",
+     "G. Read",
+     "J. St. Juste",
+     "Mika Màrmol",
+     "Javi López",
+     "G. Zechiël",
+     "C. Vanhoutte",
+     "O. Targhalline",
+     "A. Hadj-Moussa",
+     "Nacho Ferri",
+     "L. Valente"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Robert Sánchez",
+     "I. Smolčić",
+     "Jacobo Ramón Naveros",
+     "T. Chalobah",
+     "Álex Valle",
+     "Luis Milla",
+     "M. Perrone",
+     "Assane Diao",
+     "M. Baturina",
+     "Kaiki",
+     "N. Paz"
+    ]
+   }
+  },
   "ou": [
    0.6262135922330097,
    0.37378640776699024
@@ -129,7 +162,40 @@
     "D. Szoboszlai"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "L. Jungwirth",
+     "K. Jørgensen",
+     "X. Mbuyamba",
+     "Alemão",
+     "A. Andrade",
+     "Y. Dibango",
+     "K. Daněk",
+     "M. Bogarde",
+     "A. Schöpf",
+     "C. Lang",
+     "S. Adeniran"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Alisson Becker",
+     "J. Frimpong",
+     "R. Araújo",
+     "J. Jacquet",
+     "K. Tsimikas",
+     "R. Gravenberch",
+     "T. Nyoni",
+     "B. Barcola",
+     "F. Wirtz",
+     "R. Ngumoha",
+     "L. Koumas"
+    ]
+   }
+  },
   "ou": [
    0.6148148148148148,
    0.3851851851851852
