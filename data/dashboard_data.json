@@ -1013,12 +1013,10 @@
     "S. Resink",
     "K. Smit",
     "H. Verhulst",
-    "J. Zoet",
     "J. Hornkamp",
     "S. Resink",
     "K. Smit",
-    "H. Verhulst",
-    "J. Zoet"
+    "H. Verhulst"
    ],
    "away": [
     "D. Biton",
@@ -1162,13 +1160,15 @@
     "J. Hofmann",
     "C. Kofane",
     "T. Oermann",
+    "E. Ben Seghir",
     "V. Boniface",
     "M. Culbreath",
     "G. Doue",
     "K. Eichhorn",
     "J. Hofmann",
     "C. Kofane",
-    "T. Oermann"
+    "T. Oermann",
+    "E. Ben Seghir"
    ]
   },
   "lineups": null,
@@ -1223,14 +1223,12 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "R. Himbert",
     "M. Niakhate",
-    "M. Ouedraogo",
     "L. Openda",
-    "R. Himbert",
-    "M. Niakhate",
     "M. Ouedraogo",
-    "L. Openda"
+    "M. Niakhate",
+    "L. Openda",
+    "M. Ouedraogo"
    ],
    "away": [
     "C. Doucoure",
@@ -1312,6 +1310,7 @@
     "K. Rodriguez",
     "R. Sykes",
     "A. Zorgane",
+    "R. Schoofs",
     "A. Ait El Hadj",
     "R. Florucz",
     "I. Hurtevent",
@@ -1320,12 +1319,15 @@
     "I. Pavlic",
     "K. Rodriguez",
     "R. Sykes",
-    "A. Zorgane"
+    "A. Zorgane",
+    "R. Schoofs"
    ],
    "away": [
     "J. Aramburu",
+    "L. Beitia",
     "A. Odriozola",
     "J. Aramburu",
+    "L. Beitia",
     "A. Odriozola"
    ]
   },
@@ -1335,8 +1337,8 @@
    0.42783505154639173
   ],
   "btts": [
-   0.6083816003037078,
-   0.3916183996962923
+   0.6080999995969452,
+   0.3919000004030548
   ],
   "best": [
    {
@@ -1385,6 +1387,7 @@
     "A. Chase",
     "S. Diabate",
     "F. Matijasevic",
+    "J. Moser",
     "J. Omoregie",
     "D. Redzic",
     "N. Veratschnig",
@@ -1393,16 +1396,17 @@
     "A. Chase",
     "S. Diabate",
     "F. Matijasevic",
+    "J. Moser",
     "J. Omoregie",
     "D. Redzic",
     "N. Veratschnig",
     "C. Zawieschitzky"
    ],
    "away": [
-    "A. Saelemaekers",
     "M. Gabbia",
     "A. Saelemaekers",
-    "M. Gabbia"
+    "M. Gabbia",
+    "A. Saelemaekers"
    ]
   },
   "lineups": null,
@@ -1475,10 +1479,10 @@
     "L. Mbe Soh"
    ],
    "away": [
-    "E. B. Garnas",
     "C. Jebara",
     "E. B. Garnas",
-    "C. Jebara"
+    "C. Jebara",
+    "E. B. Garnas"
    ]
   },
   "lineups": null,
@@ -1487,8 +1491,8 @@
    0.37623762376237624
   ],
   "btts": [
-   0.5152395255829766,
-   0.48476047441702336
+   0.5192588020602625,
+   0.4807411979397374
   ],
   "best": [
    {
@@ -1565,19 +1569,19 @@
    0.38653366583541143
   ],
   "btts": [
-   0.5442015195422194,
-   0.45579848045778065
+   0.524781414785935,
+   0.47521858521406507
   ],
   "best": [
    {
     "book": "Bet365",
-    "odd": 7.5,
-    "edge": 0.025929187135044884
+    "odd": 9.0,
+    "edge": 0.2311150245620539
    },
    {
-    "book": "Dafabet",
-    "odd": 5.2,
-    "edge": -0.027219081162912717
+    "book": "Bet365",
+    "odd": 5.5,
+    "edge": 0.028902894923842348
    },
    {
     "book": "1xBet",
@@ -1658,9 +1662,9 @@
   "home": "Egnatia Rrogozhinë",
   "away": "FC Midtjylland",
   "p": [
-   0.14667546799207878,
-   0.22035590167968847,
-   0.6329686303282327
+   0.14928955114314155,
+   0.22269907038137657,
+   0.6280113784754819
   ],
   "source": "Pinnacle",
   "out": {
@@ -1669,36 +1673,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5456919060052219,
-   0.4543080939947781
+   0.544502617801047,
+   0.4554973821989528
   ],
   "btts": [
-   0.5034410084391988,
-   0.4965589915608012
+   0.5019141349552207,
+   0.4980858650447792
   ],
   "best": [
    {
     "book": "Bet365",
     "odd": 6.5,
-    "edge": -0.04660945805148786
+    "edge": -0.029617917569579988
+   },
+   {
+    "book": "Dafabet",
+    "odd": 4.5,
+    "edge": 0.002145816716194515
    },
    {
     "book": "1xBet",
-    "odd": 4.41,
-    "edge": -0.0282304735925738
-   },
-   {
-    "book": "William Hill",
-    "odd": 1.57,
-    "edge": -0.006239250384674655
+    "odd": 1.53,
+    "edge": -0.0391425909325126
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.0026140831510627627,
+    0.002343168701688103,
+    -0.004957251852750755
    ],
    "since": "13/10 22:21"
   }
@@ -2278,31 +2282,30 @@
   "out": {
    "home": [
     "M. Aarons",
-    "A. Adli",
     "J. Araujo",
     "F. Forster",
     "D. Jebbison",
     "J. Kluivert",
     "E. J. Kroupi",
-    "V. Milosavljevic",
     "J. Sanchez",
+    "A. Adli",
+    "V. Milosavljevic",
     "A. Scott",
     "M. Aarons",
-    "A. Adli",
     "J. Araujo",
     "F. Forster",
     "D. Jebbison",
     "J. Kluivert",
     "E. J. Kroupi",
-    "V. Milosavljevic",
     "J. Sanchez",
+    "A. Adli",
+    "V. Milosavljevic",
     "A. Scott"
    ],
    "away": [
     "N. Geyrhofer",
     "L. Grgic",
     "S. Jatta",
-    "A. Kayombo",
     "O. Kiteishvili",
     "G. Mamageishvili",
     "F. Rozga",
@@ -2313,7 +2316,6 @@
     "N. Geyrhofer",
     "L. Grgic",
     "S. Jatta",
-    "A. Kayombo",
     "O. Kiteishvili",
     "G. Mamageishvili",
     "F. Rozga",
@@ -2375,14 +2377,14 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "A. Antanon",
     "J. El Abdellaoui",
     "M. Roman",
     "C. Starfelt",
     "A. Antanon",
     "J. El Abdellaoui",
     "M. Roman",
-    "C. Starfelt"
+    "C. Starfelt",
+    "A. Antanon"
    ],
    "away": [
     "J. Boga",
@@ -2616,19 +2618,21 @@
   "out": {
    "home": [
     "L. Engelns",
+    "P. Wimmer",
     "A. Hajdari",
     "L. Engelns",
+    "P. Wimmer",
     "A. Hajdari"
    ],
    "away": [
+    "V. Cerny",
     "C. Keles",
     "M. Rashica",
     "M. Rashica",
     "V. Cerny",
     "C. Keles",
     "M. Rashica",
-    "M. Rashica",
-    "V. Cerny"
+    "M. Rashica"
    ]
   },
   "lineups": null,
@@ -2759,12 +2763,16 @@
    "away": [
     "Clayton",
     "A. El Kaabi",
+    "M. Mouandilmadji",
     "B. Popovic",
+    "J. Roca",
     "L. Scipioni",
     "Y. Yazici",
     "Clayton",
     "A. El Kaabi",
+    "M. Mouandilmadji",
     "B. Popovic",
+    "J. Roca",
     "L. Scipioni",
     "Y. Yazici"
    ]
@@ -2826,6 +2834,7 @@
     "B. Nuytinck",
     "P. Sandler",
     "A. Tahaui",
+    "A. Thomas",
     "D. Geiger",
     "K. Sierhuis",
     "I. Hansen-Aaroen",
@@ -2833,15 +2842,20 @@
     "B. Nuytinck",
     "P. Sandler",
     "A. Tahaui",
+    "A. Thomas",
     "D. Geiger",
     "K. Sierhuis"
    ],
    "away": [
     "A. Bouras",
+    "P. Hristov",
+    "O. Kamdem",
     "R. Kirilov",
     "M. Sangare",
     "N. Serafimov",
     "A. Bouras",
+    "P. Hristov",
+    "O. Kamdem",
     "R. Kirilov",
     "M. Sangare",
     "N. Serafimov"
@@ -2954,9 +2968,9 @@
   "home": "Atalanta",
   "away": "Pafos",
   "p": [
-   0.6771557768538742,
-   0.19650240706198016,
-   0.12634181608414563
+   0.6870114894971928,
+   0.19247561157692317,
+   0.12051289892588402
   ],
   "source": "Pinnacle",
   "out": {
@@ -2965,36 +2979,36 @@
   },
   "lineups": null,
   "ou": [
-   0.615,
-   0.385
+   0.6194029850746269,
+   0.38059701492537307
   ],
   "btts": [
-   0.5147712774092077,
-   0.48522872259079225
+   0.5118592890986376,
+   0.48814071090136224
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 1.42,
-    "edge": -0.03843879686749874
+    "book": "Betano",
+    "odd": 1.39,
+    "edge": -0.045054029598902035
    },
    {
     "book": "Dafabet",
     "odd": 5.4,
-    "edge": 0.06111299813469295
+    "edge": 0.039368302515385256
    },
    {
-    "book": "Betfair",
-    "odd": 8.5,
-    "edge": 0.07390543671523786
+    "book": "1xBet",
+    "odd": 9.05,
+    "edge": 0.09064173527925035
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.009855712643318637,
+    -0.004026795485056994,
+    -0.005828917158261615
    ],
    "since": "13/10 22:21"
   }
