@@ -1,291 +1,5 @@
 [
  {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635665,
-  "kickoff": "2026-10-14T19:45:00+03:00",
-  "home": "Feyenoord",
-  "away": "Como",
-  "p": [
-   0.2975270313670913,
-   0.25205010170217323,
-   0.4504228669307354
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. Beelen",
-    "G. Borges",
-    "J. Bos",
-    "J. Moder",
-    "R. Nelson",
-    "B. Nieuwkoop",
-    "G. Smal",
-    "S. van Persie",
-    "T. Beelen",
-    "G. Borges",
-    "J. Bos",
-    "J. Moder",
-    "R. Nelson",
-    "B. Nieuwkoop",
-    "G. Smal",
-    "S. van Persie"
-   ],
-   "away": [
-    "J. Addai",
-    "M. Caqueret",
-    "E. Goldaniga",
-    "W. Kambwala",
-    "M. Kean",
-    "A. Lahdo",
-    "J. Addai",
-    "M. Caqueret",
-    "E. Goldaniga",
-    "W. Kambwala",
-    "M. Kean",
-    "A. Lahdo"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "T. Ernst",
-     "G. Read",
-     "J. St. Juste",
-     "Mika Màrmol",
-     "Javi López",
-     "G. Zechiël",
-     "C. Vanhoutte",
-     "O. Targhalline",
-     "A. Hadj-Moussa",
-     "Nacho Ferri",
-     "L. Valente"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Robert Sánchez",
-     "I. Smolčić",
-     "Jacobo Ramón Naveros",
-     "T. Chalobah",
-     "Álex Valle",
-     "Luis Milla",
-     "M. Perrone",
-     "Assane Diao",
-     "M. Baturina",
-     "Kaiki",
-     "N. Paz"
-    ]
-   }
-  },
-  "ou": [
-   0.6262135922330097,
-   0.37378640776699024
-  ],
-  "btts": [
-   0.6520257878667806,
-   0.3479742121332195
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.27,
-    "edge": -0.027086607429611442
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.96,
-    "edge": -0.0018815972593939634
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.19,
-    "edge": -0.01357392142168945
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.02901514598773597,
-    0.02932134885293844,
-    -0.0583364948406746
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635674,
-  "kickoff": "2026-10-14T19:45:00+03:00",
-  "home": "Lask Linz",
-  "away": "Liverpool",
-  "p": [
-   0.1214227884351602,
-   0.18259586625895768,
-   0.6959813453058822
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "G. Bello",
-    "K. Cheikne",
-    "R. Harakate",
-    "A. Smakaj",
-    "M. Usor",
-    "G. Bello",
-    "K. Cheikne",
-    "R. Harakate",
-    "A. Smakaj",
-    "M. Usor"
-   ],
-   "away": [
-    "C. Bradley",
-    "F. Chiesa",
-    "H. Ekitike",
-    "W. Endo",
-    "C. Gakpo",
-    "A. Isak",
-    "G. Leoni",
-    "D. Szoboszlai",
-    "C. Bradley",
-    "F. Chiesa",
-    "H. Ekitike",
-    "W. Endo",
-    "C. Gakpo",
-    "A. Isak",
-    "G. Leoni",
-    "D. Szoboszlai"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "5-3-2",
-    "xi": [
-     "L. Jungwirth",
-     "K. Jørgensen",
-     "X. Mbuyamba",
-     "Alemão",
-     "A. Andrade",
-     "Y. Dibango",
-     "K. Daněk",
-     "M. Bogarde",
-     "A. Schöpf",
-     "C. Lang",
-     "S. Adeniran"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Alisson Becker",
-     "J. Frimpong",
-     "R. Araújo",
-     "J. Jacquet",
-     "K. Tsimikas",
-     "R. Gravenberch",
-     "T. Nyoni",
-     "B. Barcola",
-     "F. Wirtz",
-     "R. Ngumoha",
-     "L. Koumas"
-    ]
-   }
-  },
-  "ou": [
-   0.6148148148148148,
-   0.3851851851851852
-  ],
-  "btts": [
-   0.5382677758445987,
-   0.4617322241554013
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 8.25,
-    "edge": 0.0017380045900716734
-   },
-   {
-    "book": "1xBet",
-    "odd": 5.33,
-    "edge": -0.02676403283975548
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.43,
-    "edge": -0.004746676212588508
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.01402986684074356,
-    0.030084193259858005,
-    -0.04411406010060159
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611414,
-  "kickoff": "2026-10-14T20:00:00+03:00",
-  "home": "ES Setif",
-  "away": "JS Kabylie",
-  "p": [
-   0.4632352941176471,
-   0.3308823529411765,
-   0.20588235294117646
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.332541567695962,
-   0.667458432304038
-  ],
-  "btts": [
-   0.4074038270318894,
-   0.5925961729681106
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.01,
-    "edge": -0.06889705882352948
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.0,
-    "edge": -0.007352941176470451
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.5,
-    "edge": -0.07352941176470595
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.056737661726848854,
-    0.021885981383886755,
-    -0.07862364311073566
-   ],
-   "since": "13/10 00:47"
-  }
- },
- {
   "league": "الدوري الجزائري",
   "type": "arab",
   "en": "Algeria Ligue 1",
@@ -933,9 +647,9 @@
   "home": "Al Khaleej Saihat",
   "away": "Al-Fayha",
   "p": [
-   0.45727093350702097,
-   0.2678301181969694,
-   0.2748989482960096
+   0.4573540347477297,
+   0.2674358338779097,
+   0.27521013137436057
   ],
   "source": "Pinnacle",
   "out": {
@@ -955,25 +669,25 @@
    {
     "book": "Dafabet",
     "odd": 2.13,
-    "edge": -0.026012911630045377
+    "edge": -0.025835905987335872
    },
    {
-    "book": "Betfair",
-    "odd": 3.5,
-    "edge": -0.0625945863106071
+    "book": "Pinnacle",
+    "odd": 3.54,
+    "edge": -0.05327714807219963
    },
    {
     "book": "Betano",
     "odd": 3.45,
-    "edge": -0.05159862837876694
+    "edge": -0.05052504675845604
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.004528566630783437,
-    -0.005399240238544156,
-    0.0008706736077605526
+    0.004611667871492142,
+    -0.005793524557603846,
+    0.0011818566861115376
    ],
    "since": "12/10 15:58"
   }
