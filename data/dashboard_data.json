@@ -35,7 +35,40 @@
     "Y. Malede"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "J. De Busser",
+     "S. Maikuma",
+     "W. Goes",
+     "W. Hoedt",
+     "M. de Wit",
+     "D. Kwakman",
+     "V. Byskov",
+     "P. Koopmeiners",
+     "A. Oufkir",
+     "B. Kovacs",
+     "R. Daal"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "O. Marciano",
+     "G. Mizrahi",
+     "D. Diop",
+     "I. Nachmias",
+     "Pedro Amador",
+     "E. Peretz",
+     "Lucas Ventura",
+     "A. Forson",
+     "M. Abu Rumi",
+     "I. Zlatanović",
+     "Z. Ahmed"
+    ]
+   }
+  },
   "ou": [
    0.6516587677725119,
    0.34834123222748814
@@ -101,7 +134,40 @@
     "L. Brouwers"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Žan-Luk Leban",
+     "Ł. Bejger",
+     "Ž. Žužek",
+     "A. Tutyškinas",
+     "M. Avdyli",
+     "L. Tičić",
+     "Papa Mustapha Daniel",
+     "M. Zabukovnik",
+     "Y. Dukuly",
+     "B. Kramer",
+     "S. Sešlar"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Fabiano",
+     "J. Duverne",
+     "S. Coulibaly",
+     "Ľ. Šatka",
+     "J. Balkovec",
+     "P. Andreou",
+     "M. Tankovic",
+     "M. Marić",
+     "Ewandro",
+     "L. Diony",
+     "J. Montnor"
+    ]
+   }
+  },
   "ou": [
    0.5192802056555269,
    0.48071979434447304
@@ -185,7 +251,40 @@
     "T. Oermann"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Lis",
+     "Joel Pereira",
+     "W. Mońka",
+     "M. Skrzypczak",
+     "M. Gurgul",
+     "G. Berggren",
+     "A. Kozubal",
+     "P. Wålemark",
+     "L. Palma",
+     "L. Bengtsson",
+     "M. Ishak"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Flekken",
+     "Lucas Vázquez",
+     "L. Badé",
+     "E. Tapsoba",
+     "Miguel Gutiérrez",
+     "M. Tillman",
+     "Aleix García",
+     "E. Fernández",
+     "N. Tella",
+     "M. Terrier",
+     "I. Maza"
+    ]
+   }
+  },
   "ou": [
    0.6883408071748879,
    0.3116591928251121
@@ -265,7 +364,40 @@
     "T. Tomiyasu"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-2-1-2",
+    "xi": [
+     "D. Greif",
+     "Z. Athekame",
+     "F. Bacher",
+     "R. Kluivert",
+     "Abner",
+     "T. Morton",
+     "N. Nartey",
+     "C. Tolisso",
+     "K. Merah",
+     "E. Nuamah",
+     "Keito Nakamura"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "W. Benítez",
+     "C. Richards",
+     "A. Disasi",
+     "J. Canvot",
+     "Óscar Mingueza",
+     "Q. Timber",
+     "A. Wharton",
+     "T. Mitchell",
+     "I. Sarr",
+     "Yeremy Pino",
+     "J. Strand Larsen"
+    ]
+   }
+  },
   "ou": [
    0.5904522613065327,
    0.40954773869346733
@@ -347,7 +479,40 @@
     "A. Odriozola"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-1-4-2",
+    "xi": [
+     "H. Koffi",
+     "N. Havenaar",
+     "M. Sylla",
+     "N. Chibani",
+     "K. Van de Perre",
+     "L. Patris",
+     "B. Zeneli",
+     "D. Olaru",
+     "Guilherme Henriques da Silva Carvalho",
+     "M. Biondic",
+     "R. Mofokeng"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Unai Marrero",
+     "Zubeldia",
+     "M. Sarr",
+     "Jon Martín",
+     "Sergio Gómez",
+     "J. Ochieng",
+     "Jon Gorrotxategi",
+     "Y. Herrera",
+     "Gonçalo Guedes",
+     "Mikel Oyarzabal",
+     "L. Sučić"
+    ]
+   }
+  },
   "ou": [
    0.6176470588235294,
    0.3823529411764706
@@ -431,7 +596,40 @@
     "S. Chukwueze"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Christian Zawieschitzky",
+     "L. Morgalla",
+     "K. Boma",
+     "Valentin Zabransky",
+     "D. Schmid",
+     "A. Barry",
+     "B. Mazurek",
+     "J. Lindstrøm",
+     "S. Kitano",
+     "E. Baidoo",
+     "H. Tabaković"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Maignan",
+     "F. Tomori",
+     "K. De Winter",
+     "S. Pavlović",
+     "O. Hutchinson",
+     "A. Jashari",
+     "A. Rabiot",
+     "D. Bartesaghi",
+     "R. Loftus-Cheek",
+     "A. Cissè",
+     "F. Camarda"
+    ]
+   }
+  },
   "ou": [
    0.595,
    0.405
@@ -509,7 +707,40 @@
     "L. Alperud"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "J. Surovčík",
+     "M. Suchomel",
+     "A. Ševínský",
+     "T. Guddal",
+     "V. Vitályos",
+     "H. Sochurek",
+     "S. Mannsverk",
+     "A. Irving",
+     "M. Jurásek",
+     "J. Braut Brunes",
+     "E. Singhateh"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "P. Dahlberg",
+     "L. Ranger",
+     "R. Gabrielsen",
+     "S. Kristiansen",
+     "Y. Paintsil",
+     "Y. Ibrahimaj",
+     "F. Ottosson",
+     "G. Nyheim",
+     "D. Bassi",
+     "F. Gulbrandsen",
+     "Vá"
+    ]
+   }
+  },
   "ou": [
    0.6484560570071258,
    0.35154394299287406
@@ -589,7 +820,40 @@
     "W. Isidor"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Lucas Paes",
+     "J. Mutombo",
+     "M. Diadie",
+     "Volnei Feltes",
+     "Javi Vázquez",
+     "A. Oudrhiri",
+     "Alejandro Alfaro",
+     "Manu Pozo",
+     "K. Zoabi",
+     "João Marques",
+     "M. Abubakari"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "R. Roefs",
+     "T. Hume",
+     "L. O&apos;Nien",
+     "O. Alderete",
+     "D. Methalie",
+     "Jules Ahoka",
+     "N. Sadiki",
+     "N. Angulo",
+     "C. Rigg",
+     "M. Fofana",
+     "Timur Tuterov"
+    ]
+   }
+  },
   "ou": [
    0.5975,
    0.4025
