@@ -787,9 +787,9 @@
   "home": "CSKA Sofia",
   "away": "Monaco",
   "p": [
-   0.16638099902056808,
-   0.20335455435847208,
-   0.6302644466209598
+   0.1748178258067714,
+   0.20764388043424378,
+   0.6175382937589847
   ],
   "source": "Pinnacle",
   "out": {
@@ -798,36 +798,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5728900255754477,
-   0.4271099744245524
+   0.5692307692307692,
+   0.43076923076923074
   ],
   "btts": [
-   0.5259514193445575,
-   0.4740485806554426
+   0.531861061828818,
+   0.4681389381711821
   ],
   "best": [
    {
     "book": "Marathonbet",
-    "odd": 6.65,
-    "edge": 0.10643364348677786
+    "odd": 6.05,
+    "edge": 0.05764784613096707
    },
    {
     "book": "Marathonbet",
-    "odd": 4.75,
-    "edge": -0.03406586679725765
+    "odd": 4.6,
+    "edge": -0.044838150002478705
    },
    {
     "book": "Betano",
-    "odd": 1.55,
-    "edge": -0.0230901077375123
+    "odd": 1.57,
+    "edge": -0.03046487879839399
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.006636442335412107,
-    0.003164035448776664,
-    -0.009800477784188799
+    0.01507326912161544,
+    0.007453361524548369,
+    -0.022526630646163892
    ],
    "since": "13/10 22:21"
   }
@@ -841,9 +841,9 @@
   "home": "Egnatia Rrogozhinë",
   "away": "FC Midtjylland",
   "p": [
-   0.15468386551067878,
-   0.22758511313174032,
-   0.6177310213575808
+   0.15607531023091947,
+   0.22868588621364944,
+   0.615238803555431
   ],
   "source": "Pinnacle",
   "out": {
@@ -852,36 +852,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5390625,
-   0.4609375
+   0.5416666666666667,
+   0.4583333333333333
   ],
   "btts": [
-   0.5046210344012507,
-   0.4953789655987494
+   0.50781203577737,
+   0.49218796422263
   ],
   "best": [
    {
     "book": "Betano",
     "odd": 6.4,
-    "edge": -0.010023260731655714
+    "edge": -0.0011180145221153515
    },
    {
     "book": "Betano",
     "odd": 4.45,
-    "edge": 0.01275375343624452
+    "edge": 0.01765219365074011
    },
    {
     "book": "1xBet",
     "odd": 1.57,
-    "edge": -0.030162296468598027
+    "edge": -0.03407507841797319
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.008008397518599997,
-    0.0072292114520518536,
-    -0.01523760897065185
+    0.009399842238840689,
+    0.008329984533960971,
+    -0.01772982677280166
    ],
    "since": "13/10 22:21"
   }
@@ -4663,153 +4663,6 @@
   }
  },
  {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607451,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "AS Marsa",
-  "away": "ES Metlaoui",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607452,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "Club Africain",
-  "away": "CA Bizertin",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607453,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "CS Sfaxien",
-  "away": "ES Tunis",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607455,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "CS Hammam-Lif",
-  "away": "Jeunesse Sportive Omrane",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607456,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "US Monastirienne",
-  "away": "Progrès Sakiet Eddaïer",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607457,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "Olympique Béja",
-  "away": "ES Sahel",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607458,
-  "kickoff": "2026-10-17T18:30:00+03:00",
-  "home": "Stade Tunisien",
-  "away": "ES Zarzis",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري العُماني",
   "type": "arab",
   "en": "Oman Professional League",
@@ -6433,6 +6286,90 @@
    ],
    "since": "15/10 00:01"
   }
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607451,
+  "kickoff": "2026-10-18T16:30:00+03:00",
+  "home": "AS Marsa",
+  "away": "ES Metlaoui",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607455,
+  "kickoff": "2026-10-18T16:30:00+03:00",
+  "home": "CS Hammam-Lif",
+  "away": "Jeunesse Sportive Omrane",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607456,
+  "kickoff": "2026-10-18T16:30:00+03:00",
+  "home": "US Monastirienne",
+  "away": "Progrès Sakiet Eddaïer",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607457,
+  "kickoff": "2026-10-18T16:30:00+03:00",
+  "home": "Olympique Béja",
+  "away": "ES Sahel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري العُماني",
