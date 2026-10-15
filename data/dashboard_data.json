@@ -3,60 +3,6 @@
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
-  "id": 1603046,
-  "kickoff": "2026-10-15T16:40:00+03:00",
-  "home": "Al-Faisaly FC",
-  "away": "Al Kholood",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Fernando Pacheco",
-     "Yaseen Barnawi",
-     "Andrei Girotto",
-     "A. Seck",
-     "Mohammed Ali Al Shanqiti",
-     "Jaime Seoane",
-     "Eid Al Muwallad",
-     "Flávio",
-     "Abdulaziz Al Bishi",
-     "Alexandre Mendy",
-     "T. Bongonda"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "Muhannad Al Yahya",
-     "Ramzi Solan",
-     "Mansour Camara",
-     "S. Pinas",
-     "Yaseen Al Zubaidi",
-     "Abdulrahman Al Dosari",
-     "S. Cissé",
-     "J. Buckley",
-     "Coba",
-     "Iker Kortajarena",
-     "J. Domingues"
-    ]
-   }
-  },
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
   "id": 1603049,
   "kickoff": "2026-10-15T17:50:00+03:00",
   "home": "Al Khaleej Saihat",
@@ -850,9 +796,9 @@
   "home": "CSKA Sofia",
   "away": "Monaco",
   "p": [
-   0.16048466294440114,
-   0.2091907069384443,
-   0.6303246301171546
+   0.15619832494614622,
+   0.2054711871072696,
+   0.6383304879465842
   ],
   "source": "Pinnacle",
   "out": {
@@ -861,36 +807,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5801526717557253,
-   0.41984732824427484
+   0.5989974937343359,
+   0.40100250626566414
   ],
   "btts": [
-   0.5370645901228784,
-   0.46293540987712156
+   0.5463197682140309,
+   0.45368023178596906
   ],
   "best": [
    {
     "book": "Marathonbet",
-    "odd": 6.35,
-    "edge": 0.019077609696947162
+    "odd": 6.2,
+    "edge": -0.03157038533389345
    },
    {
     "book": "Marathonbet",
-    "odd": 4.7,
-    "edge": -0.016803677389311766
+    "odd": 4.8,
+    "edge": -0.013738301885105941
    },
    {
     "book": "Betano",
     "odd": 1.55,
-    "edge": -0.022996823318410353
+    "edge": -0.01058774368279447
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0007401062592451713,
-    0.009000188028748884,
-    -0.009740294287994056
+    -0.003546231739009753,
+    0.005280668197574195,
+    -0.0017344364585644145
    ],
    "since": "13/10 22:21"
   }
@@ -904,9 +850,9 @@
   "home": "Egnatia Rrogozhinë",
   "away": "FC Midtjylland",
   "p": [
-   0.15959591537958323,
-   0.22946685440940076,
-   0.610937230211016
+   0.1533850567128102,
+   0.22104451590945395,
+   0.6255704273777357
   ],
   "source": "Pinnacle",
   "out": {
@@ -915,36 +861,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5414507772020726,
-   0.45854922279792754
+   0.5526992287917738,
+   0.44730077120822626
   ],
   "btts": [
-   0.5107439274136316,
-   0.4892560725863685
+   0.5151279193082617,
+   0.4848720806917383
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 6.02,
-    "edge": -0.039232589414909036
+    "book": "Betano",
+    "odd": 6.3,
+    "edge": -0.03367414270929581
    },
    {
     "book": "Dafabet",
-    "odd": 4.4,
-    "edge": 0.009654159401363493
+    "odd": 4.5,
+    "edge": -0.0052996784074572645
    },
    {
-    "book": "Betano",
-    "odd": 1.6,
-    "edge": -0.022500431662374365
+    "book": "1xBet",
+    "odd": 1.57,
+    "edge": -0.017854429016954887
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.012920447387504447,
-    0.009110952729712296,
-    -0.022031400117216715
+    0.0067095887207314076,
+    0.0006886142297654885,
+    -0.007398202950496979
    ],
    "since": "13/10 22:21"
   }
