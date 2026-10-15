@@ -13,7 +13,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Fernando Pacheco",
+     "Yaseen Barnawi",
+     "Andrei Girotto",
+     "A. Seck",
+     "Mohammed Ali Al Shanqiti",
+     "Jaime Seoane",
+     "Eid Al Muwallad",
+     "Flávio",
+     "Abdulaziz Al Bishi",
+     "Alexandre Mendy",
+     "T. Bongonda"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "Muhannad Al Yahya",
+     "Ramzi Solan",
+     "Mansour Camara",
+     "S. Pinas",
+     "Yaseen Al Zubaidi",
+     "Abdulrahman Al Dosari",
+     "S. Cissé",
+     "J. Buckley",
+     "Coba",
+     "Iker Kortajarena",
+     "J. Domingues"
+    ]
+   }
+  },
   "ou": null,
   "btts": null,
   "best": null,
@@ -2683,9 +2716,9 @@
   "home": "Al-Dhafra",
   "away": "Dubai United",
   "p": [
-   0.3942933275891643,
-   0.25158662725528447,
-   0.35412004515555134
+   0.4093244980714074,
+   0.2473227178320641,
+   0.34335278409652853
   ],
   "source": "Pinnacle",
   "out": {
@@ -2694,8 +2727,8 @@
   },
   "lineups": null,
   "ou": [
-   0.5613577023498694,
-   0.4386422976501305
+   0.5725388601036269,
+   0.427461139896373
   ],
   "btts": [
    0.5948631443177351,
@@ -2703,27 +2736,27 @@
   ],
   "best": [
    {
-    "book": "BetVictor",
-    "odd": 2.38,
-    "edge": -0.061581880337789
+    "book": "Betano",
+    "odd": 2.32,
+    "edge": -0.05036716447433487
    },
    {
     "book": "Pinnacle",
-    "odd": 3.73,
-    "edge": -0.061581880337789
+    "odd": 3.79,
+    "edge": -0.06264689941647705
    },
    {
     "book": "Betano",
-    "odd": 2.72,
-    "edge": -0.03679347717690029
+    "odd": 2.75,
+    "edge": -0.055779843734546586
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.0033200984844749537,
-    -0.0006627505763791008,
-    0.003982849060854166
+    0.011711071997768163,
+    -0.004926659999599459,
+    -0.006784411998168649
    ],
    "since": "13/10 00:47"
   }
