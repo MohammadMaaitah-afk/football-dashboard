@@ -112,137 +112,6 @@
   "league": "الدوري الأوروبي",
   "type": "euro",
   "en": "Europa League",
-  "id": 1636236,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Bournemouth",
-  "away": "Sturm Graz",
-  "p": [
-   0.8314465582461276,
-   0.11010022917414473,
-   0.05845321257972775
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Aarons",
-    "J. Araujo",
-    "F. Forster",
-    "D. Jebbison",
-    "E. J. Kroupi",
-    "V. Milosavljevic",
-    "J. Sanchez",
-    "A. Scott",
-    "A. Adli",
-    "J. Kluivert",
-    "M. Aarons",
-    "J. Araujo",
-    "F. Forster",
-    "D. Jebbison",
-    "E. J. Kroupi",
-    "V. Milosavljevic",
-    "J. Sanchez",
-    "A. Scott",
-    "A. Adli",
-    "J. Kluivert"
-   ],
-   "away": [
-    "N. Geyrhofer",
-    "L. Grgic",
-    "S. Jatta",
-    "O. Kiteishvili",
-    "G. Mamageishvili",
-    "F. Rozga",
-    "E. Soglo",
-    "N. Weiper",
-    "S. Wlodarczyk",
-    "A. Kayombo",
-    "A. Vallci",
-    "N. Geyrhofer",
-    "L. Grgic",
-    "S. Jatta",
-    "O. Kiteishvili",
-    "G. Mamageishvili",
-    "F. Rozga",
-    "E. Soglo",
-    "N. Weiper",
-    "S. Wlodarczyk",
-    "A. Kayombo",
-    "A. Vallci"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "Đ. Petrović",
-     "A. Smith",
-     "António Silva",
-     "B. Diakité",
-     "J. Soler",
-     "M. Tavernier",
-     "L. Cook",
-     "T. Adams",
-     "B. Doak",
-     "Á. Rodríguez",
-     "Evanilson"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "D. Khudyakov",
-     "A. Malic",
-     "J. Quarshie",
-     "P. Petrović",
-     "L. Balbo",
-     "J. Heil",
-     "J. Gorenc Stankovič",
-     "V. Matoshi",
-     "Jacob Peter Hödl",
-     "S. Seidl",
-     "B. Beganović"
-    ]
-   }
-  },
-  "ou": [
-   0.7272727272727272,
-   0.2727272727272727
-  ],
-  "btts": [
-   0.48931106755554976,
-   0.5106889324444502
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.18,
-    "edge": -0.018893061269569578
-   },
-   {
-    "book": "Dafabet",
-    "odd": 8.8,
-    "edge": -0.03111798326752624
-   },
-   {
-    "book": "Bet365",
-    "odd": 17.0,
-    "edge": -0.006295386144628212
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.031940322843321045,
-    -0.017264217964990433,
-    -0.014676104878330647
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الأوروبي",
-  "type": "euro",
-  "en": "Europa League",
   "id": 1636243,
   "kickoff": "2026-10-15T22:00:00+03:00",
   "home": "Celta Vigo",
@@ -477,551 +346,6 @@
   "league": "الدوري الأوروبي",
   "type": "euro",
   "en": "Europa League",
-  "id": 1636260,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Ferencvarosi TC",
-  "away": "Plzen",
-  "p": [
-   0.4999731522001772,
-   0.24742261121701076,
-   0.252604236582812
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Bero",
-    "E. Botka",
-    "L. Joseph",
-    "B. Nagy",
-    "B. Otvos",
-    "I. Pappoe",
-    "G. Szecsi",
-    "N. Keita",
-    "M. Bero",
-    "E. Botka",
-    "L. Joseph",
-    "B. Nagy",
-    "B. Otvos",
-    "I. Pappoe",
-    "G. Szecsi",
-    "N. Keita"
-   ],
-   "away": [
-    "P. Adu",
-    "V. Jemelka",
-    "J. Paluska",
-    "M. Tvrdon",
-    "P. Adu",
-    "V. Jemelka",
-    "J. Paluska",
-    "M. Tvrdon"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Dániel István Radnóti",
-     "A. Osváth",
-     "T. Raemaekers",
-     "M. Gómez",
-     "Cadu",
-     "M. Corbu",
-     "Á. Nagy",
-     "B. Yusuf",
-     "K. Zachariassen",
-     "V. Birmančević",
-     "K. Lisztes"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "D. Ťapaj",
-     "A. Gabriel",
-     "F. Prebsl",
-     "S. Dweh",
-     "Merchas Doski",
-     "P. Hrošovský",
-     "S. PirgiÄ",
-     "A. Memić",
-     "Jiří Maxim Panoš",
-     "A. Sojka",
-     "C. Kabongo"
-    ]
-   }
-  },
-  "ou": [
-   0.5833333333333334,
-   0.4166666666666667
-  ],
-  "btts": [
-   0.5925395970342499,
-   0.40746040296575015
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.98,
-    "edge": -0.010053158643649196
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.94,
-    "edge": -0.025154911804977642
-   },
-   {
-    "book": "Betano",
-    "odd": 3.9,
-    "edge": -0.014843477327033172
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.012436813835694949,
-    0.004277890037793303,
-    -0.016714703873488335
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الأوروبي",
-  "type": "euro",
-  "en": "Europa League",
-  "id": 1636268,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "1899 Hoffenheim",
-  "away": "Beşiktaş",
-  "p": [
-   0.4976797363642478,
-   0.24137467213666014,
-   0.260945591499092
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "L. Engelns",
-    "A. Hajdari",
-    "P. Wimmer",
-    "L. Engelns",
-    "A. Hajdari",
-    "P. Wimmer"
-   ],
-   "away": [
-    "V. Cerny",
-    "C. Keles",
-    "M. Rashica",
-    "D. Vlahovic",
-    "V. Cerny",
-    "C. Keles",
-    "M. Rashica",
-    "D. Vlahovic"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "O. Baumann",
-     "V. Coufal",
-     "O. Kabak",
-     "K. Machida",
-     "Bernardo",
-     "W. Burger",
-     "L. Avdullahu",
-     "A. Kramarić",
-     "F. Asllani",
-     "A. Daghim",
-     "A. Hložek"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "A. Nübel",
-     "A. Murillo",
-     "E. Agbadou",
-     "E. Topçu",
-     "K. Ouattara",
-     "J. Olaitan",
-     "W. Ndidi",
-     "I. Fakili",
-     "O. Kökçü",
-     "L. Trossard",
-     "Oh Hyeon-Gyu"
-    ]
-   }
-  },
-  "ou": [
-   0.6361445783132531,
-   0.363855421686747
-  ],
-  "btts": [
-   0.644174169930751,
-   0.3558258300692489
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 2.0,
-    "edge": -0.0046405272715044354
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.06,
-    "edge": -0.020018831125159897
-   },
-   {
-    "book": "Marathonbet",
-    "odd": 3.84,
-    "edge": 0.0020310713565132588
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.005665013673057218,
-    0.008632413608719552,
-    -0.014297427281776853
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الأوروبي",
-  "type": "euro",
-  "en": "Europa League",
-  "id": 1636274,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Jagiellonia",
-  "away": "Ararat-Armenia",
-  "p": [
-   0.6631977520001113,
-   0.19348827774651137,
-   0.14331397025337725
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Drachal",
-    "C. Polak",
-    "N. Prelec",
-    "D. Rallis",
-    "N. Wojtuszek",
-    "Z. Zalewski",
-    "D. Drachal",
-    "C. Polak",
-    "N. Prelec",
-    "D. Rallis",
-    "N. Wojtuszek",
-    "Z. Zalewski"
-   ],
-   "away": [
-    "P. Ayongo",
-    "P. Ayongo"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "S. Abramowicz",
-     "Rodrigo Conceição",
-     "Bernardo Vital",
-     "Y. Kobayashi",
-     "B. Wdowik",
-     "A. Klynge",
-     "T. Romanczuk",
-     "Jesús Imaz",
-     "K. Jóźwiak",
-     "O. Sow",
-     "K. Szmyt"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "João Bravim",
-     "Hugo Oliveira",
-     "Bruno Wilson",
-     "Luís Felipe",
-     "E. Grigoryan",
-     "J. Balanta",
-     "M. Carlier",
-     "A. Tera",
-     "A. Serobyan",
-     "Sandro Lima",
-     "Zidane Banjaqui"
-    ]
-   }
-  },
-  "ou": [
-   0.6054590570719602,
-   0.39454094292803965
-  ],
-  "btts": [
-   0.5337932389057355,
-   0.4662067610942645
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.47,
-    "edge": -0.025099304559836333
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.97,
-    "edge": -0.03836325959983855
-   },
-   {
-    "book": "Betano",
-    "odd": 7.2,
-    "edge": 0.03186058582431617
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.012725687837255806,
-    0.002318011933922698,
-    0.010407675903333136
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الأوروبي",
-  "type": "euro",
-  "en": "Europa League",
-  "id": 1636295,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Marseille",
-  "away": "Olympiakos Piraeus",
-  "p": [
-   0.3978180311644072,
-   0.27778672865790505,
-   0.32439524017768784
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Cornelius",
-    "P. Hojbjerg",
-    "D. Cornelius",
-    "P. Hojbjerg"
-   ],
-   "away": [
-    "Clayton",
-    "A. El Kaabi",
-    "M. Mouandilmadji",
-    "B. Popovic",
-    "J. Roca",
-    "L. Scipioni",
-    "Y. Yazici",
-    "Clayton",
-    "A. El Kaabi",
-    "M. Mouandilmadji",
-    "B. Popovic",
-    "J. Roca",
-    "L. Scipioni",
-    "Y. Yazici"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "J. de Lange",
-     "T. Weah",
-     "B. Meité",
-     "N. Aguerd",
-     "Emerson",
-     "T. Nnadi",
-     "A. Gomes",
-     "H. Abdelli",
-     "K. Abdallah",
-     "N. Maupay",
-     "Igor Paixão"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "S. Ortega",
-     "M. Saliakas",
-     "P. Retsos",
-     "L. Pirola",
-     "S. Onyemaechi",
-     "G. Puerta",
-     "S. Hezze",
-     "Gelson Martins",
-     "Chiquinho",
-     "Jota Silva",
-     "R. Yaremchuk"
-    ]
-   }
-  },
-  "ou": [
-   0.5284974093264249,
-   0.4715025906735752
-  ],
-  "btts": [
-   0.5784738398642774,
-   0.42152616013572264
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 2.45,
-    "edge": -0.02534582364720217
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.5,
-    "edge": -0.02774644969733231
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.06,
-    "edge": -0.007350565056275182
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.009589376243000214,
-    0.006181790386300123,
-    0.0034075858567002015
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الأوروبي",
-  "type": "euro",
-  "en": "Europa League",
-  "id": 1636300,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "NEC Nijmegen",
-  "away": "Levski Sofia",
-  "p": [
-   0.5056365380874347,
-   0.2638704338106558,
-   0.2304930281019094
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "I. Hansen-Aaroen",
-    "E. Mor",
-    "B. Nuytinck",
-    "P. Sandler",
-    "A. Tahaui",
-    "D. Geiger",
-    "K. Sierhuis",
-    "A. Thomas",
-    "I. Hansen-Aaroen",
-    "E. Mor",
-    "B. Nuytinck",
-    "P. Sandler",
-    "A. Tahaui",
-    "D. Geiger",
-    "K. Sierhuis",
-    "A. Thomas"
-   ],
-   "away": [
-    "P. Hristov",
-    "O. Kamdem",
-    "R. Kirilov",
-    "A. Mitkov",
-    "M. Sangare",
-    "A. Bouras",
-    "M. Soula",
-    "P. Hristov",
-    "O. Kamdem",
-    "R. Kirilov",
-    "A. Mitkov",
-    "M. Sangare",
-    "A. Bouras",
-    "M. Soula"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "G. Crettaz",
-     "Gabriel Brás",
-     "P. Schuurs",
-     "Deveron Fonville",
-     "Kevin Kers",
-     "D. Nejašmić",
-     "N. Lebreton",
-     "Clement Bischoff",
-     "T. Chery",
-     "B. Linssen",
-     "D. Tadić"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "S. Vutsov",
-     "Aldair",
-     "K. Dimitrov",
-     "C. Makoun",
-     "Maicon",
-     "E. El Moubarik",
-     "M. Grujić",
-     "Serginho",
-     "David Kusso",
-     "Reinaldo",
-     "Everton Bala"
-    ]
-   }
-  },
-  "ou": [
-   0.4910025706940874,
-   0.5089974293059126
-  ],
-  "btts": [
-   0.5286231186998831,
-   0.47137688130011685
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.93,
-    "edge": -0.02412148149125104
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.72,
-    "edge": -0.0184019862243604
-   },
-   {
-    "book": "Betfair",
-    "odd": 4.2,
-    "edge": -0.03192928197198053
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.024489260524464984,
-    0.01993079897381761,
-    0.004558461550647347
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "الدوري الأوروبي",
-  "type": "euro",
-  "en": "Europa League",
   "id": 1636326,
   "kickoff": "2026-10-15T22:00:00+03:00",
   "home": "Rennes",
@@ -1121,9 +445,9 @@
   "home": "Atalanta",
   "away": "Pafos",
   "p": [
-   0.713398606174709,
-   0.18002902679361774,
-   0.10657236703167335
+   0.7305221243205633,
+   0.16443023760480033,
+   0.10504763807463645
   ],
   "source": "Pinnacle",
   "out": {
@@ -1165,123 +489,36 @@
    }
   },
   "ou": [
-   0.6234718826405868,
-   0.3765281173594133
+   0.6969026548672567,
+   0.30309734513274333
   ],
   "btts": [
-   0.5018701591557149,
-   0.4981298408442851
+   0.5476586756175904,
+   0.4523413243824096
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.35,
-    "edge": -0.03691188166414283
+    "odd": 1.34,
+    "edge": -0.02110035341044514
    },
    {
     "book": "Dafabet",
-    "odd": 5.8,
-    "edge": 0.044168355402982806
+    "odd": 6.2,
+    "edge": 0.01946747314976216
    },
    {
     "book": "1xBet",
-    "odd": 9.95,
-    "edge": 0.060395051965149715
+    "odd": 9.9,
+    "edge": 0.039971616938900834
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.03624282932083478,
-    -0.016473380268362425,
-    -0.019769449052472285
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "دوري المؤتمر الأوروبي",
-  "type": "euro",
-  "en": "Conference League",
-  "id": 1636392,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Brann",
-  "away": "Lincoln Red Imps FC",
-  "p": [
-   0.8297490329957454,
-   0.11244262596671316,
-   0.05780834103754143
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Simen Vidtun Nilsen",
-     "Thore Pedersen",
-     "Fredrik Pallesen Knudsen",
-     "Neraysho Kasanwirjo",
-     "Joachim Soltvedt",
-     "Kristall Máni Ingason",
-     "Jacob Lungi Sørensen",
-     "Eggert Aron Guðmundsson",
-     "Niklas Jensen Wassberg",
-     "Sævar Atli Magnússon",
-     "Niklas Castro"
-    ]
-   },
-   "away": {
-    "formation": "4-1-3-2",
-    "xi": [
-     "Jaylan Hankins",
-     "Julliani Eersteling",
-     "Gabri Garcia",
-     "Christian Rutjens",
-     "Nano",
-     "Joe",
-     "Toni García",
-     "Graeme Torrilla",
-     "Mandi",
-     "Alvaro Romero",
-     "Kike Gómez"
-    ]
-   }
-  },
-  "ou": [
-   0.701098901098901,
-   0.29890109890109895
-  ],
-  "btts": [
-   0.4442051313081778,
-   0.5557948686918223
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.17,
-    "edge": -0.02919363139497788
-   },
-   {
-    "book": "1xBet",
-    "odd": 8.9,
-    "edge": 0.0007393711037471107
-   },
-   {
-    "book": "Betano",
-    "odd": 18.5,
-    "edge": 0.06945430919451634
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.017592607886952827,
-    -0.008962200467075424,
-    -0.008630407419877431
+    0.05336634746668911,
+    -0.03207216945717983,
+    -0.021294178009509182
    ],
    "since": "13/10 22:21"
   }
@@ -1377,267 +614,6 @@
   "league": "دوري المؤتمر الأوروبي",
   "type": "euro",
   "en": "Conference League",
-  "id": 1636406,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "FC Copenhagen",
-  "away": "SC Braga",
-  "p": [
-   0.36766305960553125,
-   0.3058022908465054,
-   0.32653464954796335
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Diant Ramaj",
-     "Junnosuke Suzuki",
-     "Felix Beijmo",
-     "Ákos Markgráf",
-     "Birger Meling",
-     "Alex Král",
-     "William Clem",
-     "Thapelo Maseko",
-     "Mohamed Elyounoussi",
-     "Robert",
-     "Viktor Bjarki Dadason"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "Bernardo Fontes",
-     "Sergio Barcia",
-     "Gustaf Lagerbielke",
-     "Bright Arrey-Mbi",
-     "Denis Huseinbašić",
-     "Jean-Baptiste Gorby",
-     "João Moutinho",
-     "Demir Ege Tıknaz",
-     "Diogo Travassos",
-     "Jonas Wind",
-     "Ricardo Horta"
-    ]
-   }
-  },
-  "ou": [
-   0.4510309278350516,
-   0.5489690721649485
-  ],
-  "btts": [
-   0.5230493105156795,
-   0.47695068948432046
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.62,
-    "edge": -0.03672278383350813
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.25,
-    "edge": -0.006142554748857498
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.04,
-    "edge": -0.0073346653741913626
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.008731709957813472,
-    0.0037275076300631316,
-    0.005004202327750229
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "دوري المؤتمر الأوروبي",
-  "type": "euro",
-  "en": "Conference League",
-  "id": 1636411,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "SC Freiburg",
-  "away": "FK Jablonec",
-  "p": [
-   0.7883928479520727,
-   0.13939699630456936,
-   0.07221015574335801
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Mio Backhaus",
-     "Lukas Kübler",
-     "Matthias Ginter",
-     "Maximilian Rosenfelder",
-     "Christian Günter",
-     "Maximilian Eggestein",
-     "Patrick Osterhage",
-     "Cyriaque Irié",
-     "Yuito Suzuki",
-     "Vincenzo Grifo",
-     "Lucas Höler"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Jan Hanuš",
-     "Martin Cedidla",
-     "Nemanja Tekijaški",
-     "Dušan Pavlović",
-     "Jiří Sláma",
-     "Richard Sedláček",
-     "Nelson Okeke",
-     "Vakhtang Chanturishvili",
-     "Saidou Alioum Moubarak",
-     "Matěj Polidar",
-     "Antonín Růsek"
-    ]
-   }
-  },
-  "ou": [
-   0.609452736318408,
-   0.39054726368159204
-  ],
-  "btts": [
-   0.40372260412033384,
-   0.5962773958796662
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.23,
-    "edge": -0.030276797018950696
-   },
-   {
-    "book": "1xBet",
-    "odd": 7.21,
-    "edge": 0.005052343355945066
-   },
-   {
-    "book": "1xBet",
-    "odd": 17.5,
-    "edge": 0.2636777255087652
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.08049612236920833,
-    -0.04062262989527951,
-    -0.03987349247392885
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "دوري المؤتمر الأوروبي",
-  "type": "euro",
-  "en": "Conference League",
-  "id": 1636423,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Heart Of Midlothian",
-  "away": "FC Nordsjaelland",
-  "p": [
-   0.3275348691427676,
-   0.2501175364362952,
-   0.42234759442093717
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Beau Reus",
-     "Christian Borchgrevink",
-     "Malachi Fagan-Walcott",
-     "Jamie McCart",
-     "Harry Milne",
-     "Oisin McEntee",
-     "Laurent Mendy",
-     "Calvin Miller",
-     "Cláudio Braga",
-     "Josh McPake",
-     "James Wilson"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "Andreas Hansen",
-     "Victor Nelsson",
-     "Tobias Salquist",
-     "Noah Markmann",
-     "Runar Robinsonn Norheim",
-     "Justin Janssen",
-     "Mark Brink",
-     "Juho Lähteenmäki",
-     "Ibrahim Adel",
-     "Alexander Lind",
-     "Prince Amoako Junior"
-    ]
-   }
-  },
-  "ou": [
-   0.6277372262773723,
-   0.3722627737226277
-  ],
-  "btts": [
-   0.6455911543459081,
-   0.35440884565409186
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.02,
-    "edge": -0.010844695188841902
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.85,
-    "edge": -0.037047484720263424
-   },
-   {
-    "book": "Dafabet",
-    "odd": 2.29,
-    "edge": -0.03282400877605385
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.02669482384878935,
-    7.897636346365644e-05,
-    -0.026773800212253118
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "دوري المؤتمر الأوروبي",
-  "type": "euro",
-  "en": "Conference League",
   "id": 1636471,
   "kickoff": "2026-10-15T22:00:00+03:00",
   "home": "St. Truiden",
@@ -1717,93 +693,6 @@
     0.08741764890228776,
     -0.043253527129207325,
     -0.044164121773080545
-   ],
-   "since": "13/10 22:21"
-  }
- },
- {
-  "league": "دوري المؤتمر الأوروبي",
-  "type": "euro",
-  "en": "Conference League",
-  "id": 1636480,
-  "kickoff": "2026-10-15T22:00:00+03:00",
-  "home": "Twente",
-  "away": "FC Thun",
-  "p": [
-   0.8003563414837438,
-   0.12111319164949465,
-   0.07853046686676145
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Joël Drommel",
-     "Bart van Rooij",
-     "Ruud Nijstad",
-     "Robin Pröpper",
-     "Aske Adelgaard",
-     "Ramiz Zerrouki",
-     "Daouda Weidmann",
-     "Daan Rots",
-     "Younes Taha",
-     "Sondre Ørjasæter",
-     "Wout Weghorst"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Niklas Steffen",
-     "Fabio Fehr",
-     "Nicolas Bürgy",
-     "Jan Bamert",
-     "Olivier Mambwa",
-     "Nils Reichmuth",
-     "Justin Roth",
-     "Mattias Käit",
-     "Patrik Kristal",
-     "Brighton Labeau",
-     "Furkan Dursun"
-    ]
-   }
-  },
-  "ou": [
-   0.7641509433962265,
-   0.2358490566037736
-  ],
-  "btts": [
-   0.5803119839008731,
-   0.41968801609912687
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.23,
-    "edge": -0.015561699974995125
-   },
-   {
-    "book": "1xBet",
-    "odd": 8.5,
-    "edge": 0.02946212902070444
-   },
-   {
-    "book": "BetVictor",
-    "odd": 13.0,
-    "edge": 0.020896069267898776
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.01966835382839771,
-    -0.013876085754887954,
-    -0.005792268073509951
    ],
    "since": "13/10 22:21"
   }
@@ -2315,8 +1204,8 @@
    0.6041131105398457
   ],
   "btts": [
-   0.4751085788431471,
-   0.5248914211568529
+   0.47370159348040036,
+   0.5262984065195996
   ],
   "best": [
    {
@@ -2325,9 +1214,9 @@
     "edge": -0.08416626414573558
    },
    {
-    "book": "Betfair",
-    "odd": 3.1,
-    "edge": -0.03432497239856469
+    "book": "Betano",
+    "odd": 3.05,
+    "edge": -0.04990037606955566
    },
    {
     "book": "Betano",
@@ -2375,47 +1264,47 @@
   "home": "Al Buqa'a",
   "away": "Al Salt",
   "p": [
-   0.3159179931447814,
-   0.2820661121498985,
-   0.4020158947053201
+   0.32885376207296335,
+   0.3151037789897732,
+   0.35604245893726344
   ],
-  "source": "متوسط 7 شركات",
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.47494820335209353,
-   0.5250517966479065
+   0.4225721784776903,
+   0.5774278215223098
   ],
   "btts": [
-   0.5279310133620215,
-   0.4720689866379784
+   0.5099041733015887,
+   0.4900958266984113
   ],
   "best": [
    {
-    "book": "Betfair",
-    "odd": 3.0,
-    "edge": -0.05224602056565575
+    "book": "Dafabet",
+    "odd": 2.8,
+    "edge": -0.07920946619570268
    },
    {
     "book": "Betfair",
-    "odd": 3.3,
-    "edge": -0.06918182990533495
+    "odd": 3.25,
+    "edge": 0.024087281716762998
    },
    {
-    "book": "BetVictor",
-    "odd": 2.3,
-    "edge": -0.0753634421777638
+    "book": "Pinnacle",
+    "odd": 2.54,
+    "edge": -0.09565215429935081
    }
   ],
-  "nbooks": 7,
+  "nbooks": 8,
   "move": {
    "diff": [
-    0.01093316372292008,
-    0.0023332688539486335,
-    -0.013266432576868548
+    0.023868932651102015,
+    0.035370935693823324,
+    -0.05923986834492523
    ],
    "since": "15/10 00:31"
   }
@@ -2815,9 +1704,9 @@
   "home": "Deportivo La Coruna",
   "away": "Levante",
   "p": [
-   0.45603753157704796,
-   0.2746589678816312,
-   0.26930350054132085
+   0.46334593485381403,
+   0.2727867616463299,
+   0.26386730349985593
   ],
   "source": "Pinnacle",
   "out": {
@@ -2842,8 +1731,8 @@
   },
   "lineups": null,
   "ou": [
-   0.48843187660668386,
-   0.5115681233933163
+   0.493573264781491,
+   0.5064267352185091
   ],
   "btts": [
    0.5424067729784344,
@@ -2851,27 +1740,27 @@
   ],
   "best": [
    {
-    "book": "1xBet",
+    "book": "Dafabet",
     "odd": 2.17,
-    "edge": -0.010398556477805965
+    "edge": 0.005460678632776439
    },
    {
     "book": "1xBet",
-    "odd": 3.62,
-    "edge": -0.005734536268495072
+    "odd": 3.6,
+    "edge": -0.01796765807321221
    },
    {
-    "book": "Betfair",
-    "odd": 3.6,
-    "edge": -0.030507398051244916
+    "book": "Pinnacle",
+    "odd": 3.67,
+    "edge": -0.031606996155528755
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.00480778058772352,
-    0.004330712142519455,
-    0.00047706844520412073
+    0.002500622689042553,
+    0.002458505907218189,
+    -0.004959128596260798
    ],
    "since": "13/10 00:47"
   }
