@@ -1410,18 +1410,20 @@
     "J. Kaminski"
    ],
    "away": [
-    "A. Johnston",
-    "S. Mheuka",
-    "C. Osmand",
-    "Yang Hyun-Jun",
-    "J. van den Berg",
     "C. Carter-Vickers",
+    "C. Duran",
     "A. Johnston",
     "S. Mheuka",
     "C. Osmand",
-    "Yang Hyun-Jun",
     "J. van den Berg",
-    "C. Carter-Vickers"
+    "Yang Hyun-Jun",
+    "C. Carter-Vickers",
+    "C. Duran",
+    "A. Johnston",
+    "S. Mheuka",
+    "C. Osmand",
+    "J. van den Berg",
+    "Yang Hyun-Jun"
    ]
   },
   "lineups": null,
@@ -1481,21 +1483,21 @@
     "F. Forster",
     "D. Jebbison",
     "E. J. Kroupi",
+    "V. Milosavljevic",
     "J. Sanchez",
     "A. Scott",
     "A. Adli",
     "J. Kluivert",
-    "V. Milosavljevic",
     "M. Aarons",
     "J. Araujo",
     "F. Forster",
     "D. Jebbison",
     "E. J. Kroupi",
+    "V. Milosavljevic",
     "J. Sanchez",
     "A. Scott",
     "A. Adli",
-    "J. Kluivert",
-    "V. Milosavljevic"
+    "J. Kluivert"
    ],
    "away": [
     "N. Geyrhofer",
@@ -1507,6 +1509,7 @@
     "E. Soglo",
     "N. Weiper",
     "S. Wlodarczyk",
+    "A. Kayombo",
     "A. Vallci",
     "N. Geyrhofer",
     "L. Grgic",
@@ -1517,6 +1520,7 @@
     "E. Soglo",
     "N. Weiper",
     "S. Wlodarczyk",
+    "A. Kayombo",
     "A. Vallci"
    ]
   },
@@ -1664,24 +1668,28 @@
     "A. Stojakovic",
     "P. Tabinas",
     "F. Topic",
+    "S. McKenna",
+    "S. Radeljic",
     "R. Mudrazija",
     "I. Nevistic",
     "N. Nsoki",
     "A. Stojakovic",
     "P. Tabinas",
-    "F. Topic"
+    "F. Topic",
+    "S. McKenna",
+    "S. Radeljic"
    ],
    "away": [
     "G. Biancone",
     "I. Camara",
+    "L. Hey",
     "I. Koutsoupias",
     "K. Sardella",
-    "L. Hey",
     "G. Biancone",
     "I. Camara",
+    "L. Hey",
     "I. Koutsoupias",
-    "K. Sardella",
-    "L. Hey"
+    "K. Sardella"
    ]
   },
   "lineups": null,
@@ -1996,31 +2004,33 @@
     "B. Nuytinck",
     "P. Sandler",
     "A. Tahaui",
-    "A. Thomas",
     "D. Geiger",
     "K. Sierhuis",
+    "A. Thomas",
     "I. Hansen-Aaroen",
     "E. Mor",
     "B. Nuytinck",
     "P. Sandler",
     "A. Tahaui",
-    "A. Thomas",
     "D. Geiger",
-    "K. Sierhuis"
+    "K. Sierhuis",
+    "A. Thomas"
    ],
    "away": [
-    "A. Bouras",
     "P. Hristov",
     "O. Kamdem",
     "R. Kirilov",
+    "A. Mitkov",
     "M. Sangare",
-    "N. Serafimov",
     "A. Bouras",
+    "M. Soula",
     "P. Hristov",
     "O. Kamdem",
     "R. Kirilov",
+    "A. Mitkov",
     "M. Sangare",
-    "N. Serafimov"
+    "A. Bouras",
+    "M. Soula"
    ]
   },
   "lineups": null,
@@ -2074,15 +2084,14 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [
-    "Q. Merlin",
-    "A. Nordin",
-    "Q. Merlin",
-    "A. Nordin"
-   ],
+   "home": [],
    "away": [
+    "A. Leya Iseka",
     "N. Marinakis",
-    "N. Marinakis"
+    "C. Sielis",
+    "A. Leya Iseka",
+    "N. Marinakis",
+    "C. Sielis"
    ]
   },
   "lineups": null,
@@ -2130,9 +2139,9 @@
   "home": "Atalanta",
   "away": "Pafos",
   "p": [
-   0.6978534468369221,
-   0.18682690702720747,
-   0.11531964613587048
+   0.6910832280009455,
+   0.19073897092826092,
+   0.11817780107079362
   ],
   "source": "Pinnacle",
   "out": {
@@ -2141,36 +2150,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6231527093596059,
-   0.37684729064039413
+   0.6206896551724138,
+   0.37931034482758624
   ],
   "btts": [
-   0.5080221103719712,
-   0.49197788962802885
+   0.5084122018589391,
+   0.49158779814106085
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 1.36,
-    "edge": -0.050919312301785924
+    "odd": 1.38,
+    "edge": -0.04630514535869534
    },
    {
     "book": "Dafabet",
-    "odd": 5.8,
-    "edge": 0.08359606075780324
+    "odd": 5.6,
+    "edge": 0.06813823719826106
    },
    {
-    "book": "Bet365",
-    "odd": 9.5,
-    "edge": 0.09553663829076964
+    "book": "Betano",
+    "odd": 9.25,
+    "edge": 0.09314465990484089
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.020697669983047895,
-    -0.009675500034772688,
-    -0.011022169948275151
+    0.01392745114707128,
+    -0.005763436133719241,
+    -0.00816401501335201
    ],
    "since": "13/10 22:21"
   }
@@ -2292,9 +2301,9 @@
   "home": "FC Copenhagen",
   "away": "SC Braga",
   "p": [
-   0.37969168900804284,
-   0.30965147453083114,
-   0.31065683646112596
+   0.38007380073800734,
+   0.30996309963099633,
+   0.30996309963099633
   ],
   "source": "Pinnacle",
   "out": {
@@ -2307,32 +2316,32 @@
    0.5544041450777203
   ],
   "btts": [
-   0.5243106230659847,
-   0.4756893769340152
+   0.5203455304468346,
+   0.4796544695531653
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 2.6,
-    "edge": -0.01280160857908852
+    "edge": -0.011808118081180874
    },
    {
     "book": "Dafabet",
     "odd": 3.3,
-    "edge": 0.021849865951742764
+    "edge": 0.022878228782287735
    },
    {
     "book": "Pinnacle",
-    "odd": 3.08,
-    "edge": -0.04317694369973202
+    "odd": 3.09,
+    "edge": -0.04221402214022141
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.003296919444698121,
-    0.0075766913143888726,
-    -0.01087361075908716
+    0.003679031174662617,
+    0.007888316414554064,
+    -0.011567347589216792
    ],
    "since": "13/10 22:21"
   }
