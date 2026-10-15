@@ -3491,8 +3491,24 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "K. Barja",
+    "A. Bonel",
+    "R. Del Castillo",
+    "J. Herrando",
+    "R. Moro",
+    "A. Oroz",
+    "K. Barja",
+    "A. Bonel",
+    "R. Del Castillo",
+    "J. Herrando",
+    "R. Moro",
+    "A. Oroz"
+   ],
+   "away": [
+    "S. Eriksson",
+    "S. Eriksson"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3588,9 +3604,19 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "A. Atta",
+    "F. Parisi",
+    "R. Sottil",
+    "A. Atta",
+    "F. Parisi",
     "R. Sottil"
    ],
-   "away": []
+   "away": [
+    "M. Kean",
+    "A. Diao",
+    "M. Kean",
+    "A. Diao"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3643,8 +3669,20 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "J. Lefort",
+    "U. Simbakoli",
+    "O. Camara",
+    "J. Lefort",
+    "U. Simbakoli",
+    "O. Camara"
+   ],
+   "away": [
+    "D. Cornelius",
+    "P. Hojbjerg",
+    "D. Cornelius",
+    "P. Hojbjerg"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3697,8 +3735,34 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "J. Araujo",
+    "E. J. Kroupi",
+    "V. Milosavljevic",
+    "A. Scott",
+    "A. Adli",
+    "J. Kluivert",
+    "J. Araujo",
+    "E. J. Kroupi",
+    "V. Milosavljevic",
+    "A. Scott",
+    "A. Adli",
+    "J. Kluivert"
+   ],
+   "away": [
+    "D. Ballard",
+    "H. Diarra",
+    "T. Meunier",
+    "R. Mundle",
+    "B. Brobbey",
+    "W. Isidor",
+    "D. Ballard",
+    "H. Diarra",
+    "T. Meunier",
+    "R. Mundle",
+    "B. Brobbey",
+    "W. Isidor"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3751,8 +3815,36 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "F. Azeez",
+    "E. Ferguson",
+    "Y. Minteh",
+    "K. Mitoma",
+    "S. Tzimas",
+    "M. Wieffer",
+    "Z. Yohanna",
+    "F. Azeez",
+    "E. Ferguson",
+    "Y. Minteh",
+    "K. Mitoma",
+    "S. Tzimas",
+    "M. Wieffer",
+    "Z. Yohanna"
+   ],
+   "away": [
+    "B. Chilwell",
+    "A. Disasi",
+    "D. Henderson",
+    "J. Mateta",
+    "C. Riad",
+    "T. Tomiyasu",
+    "B. Chilwell",
+    "A. Disasi",
+    "D. Henderson",
+    "J. Mateta",
+    "C. Riad",
+    "T. Tomiyasu"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3805,8 +3897,30 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "D. James",
+    "M. Joseph",
+    "J. Rodon",
+    "D. James",
+    "M. Joseph",
+    "J. Rodon"
+   ],
+   "away": [
+    "P. Dorgu",
+    "T. Heaton",
+    "K. Mainoo",
+    "N. Mazraoui",
+    "B. Sesko",
+    "L. Shaw",
+    "M. Ugarte",
+    "P. Dorgu",
+    "T. Heaton",
+    "K. Mainoo",
+    "N. Mazraoui",
+    "B. Sesko",
+    "L. Shaw",
+    "M. Ugarte"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3889,8 +4003,8 @@
    0.4005102040816326
   ],
   "btts": [
-   0.5536587280097933,
-   0.4463412719902067
+   0.5547156066748279,
+   0.4452843933251722
   ],
   "best": [
    {
@@ -3909,7 +4023,7 @@
     "edge": -0.04418780142405854
    }
   ],
-  "nbooks": 7,
+  "nbooks": 9,
   "move": {
    "diff": [
     0.00819055368861954,
@@ -3943,8 +4057,8 @@
    0.4386422976501305
   ],
   "btts": [
-   0.5448467532759734,
-   0.4551532467240265
+   0.5452588438208914,
+   0.45474115617910865
   ],
   "best": [
    {
@@ -3963,7 +4077,7 @@
     "edge": -0.038764792569106254
    }
   ],
-  "nbooks": 8,
+  "nbooks": 9,
   "move": {
    "diff": [
     0.0,
@@ -3988,8 +4102,24 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "E. Ben Seghir",
+    "M. Culbreath",
+    "G. Doue",
+    "K. Eichhorn",
+    "C. Kofane",
+    "E. Ben Seghir",
+    "M. Culbreath",
+    "G. Doue",
+    "K. Eichhorn",
+    "C. Kofane"
+   ],
+   "away": [
+    "Y. Suzuki",
+    "J. Beste",
+    "Y. Suzuki",
+    "J. Beste"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -4147,8 +4277,26 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "P. Duran",
+    "J. El Abdellaoui",
+    "B. Iglesias",
+    "M. Roman",
+    "C. Starfelt",
+    "P. Duran",
+    "J. El Abdellaoui",
+    "B. Iglesias",
+    "M. Roman",
+    "C. Starfelt"
+   ],
+   "away": [
+    "F. Garces",
+    "A. Perez",
+    "M. Rodriguez",
+    "F. Garces",
+    "A. Perez",
+    "M. Rodriguez"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -4312,9 +4460,9 @@
   "home": "Lorient",
   "away": "Monaco",
   "p": [
-   0.24786216104523637,
-   0.28515115872460817,
-   0.46698668023015544
+   0.24765323025952513,
+   0.28575372722252895,
+   0.46659304251794587
   ],
   "source": "Pinnacle",
   "out": {
@@ -4323,8 +4471,8 @@
   },
   "lineups": null,
   "ou": [
-   0.4858611825192801,
-   0.5141388174807198
+   0.4845360824742268,
+   0.5154639175257731
   ],
   "btts": [
    0.5395976484479411,
@@ -4334,25 +4482,25 @@
    {
     "book": "Pinnacle",
     "odd": 3.9,
-    "edge": -0.033337571923578224
+    "edge": -0.03415240198785208
    },
    {
     "book": "Betfair",
     "odd": 3.6,
-    "edge": 0.026544171408589445
+    "edge": 0.028713418001104163
    },
    {
-    "book": "1xBet",
-    "odd": 2.1,
-    "edge": -0.019327971516673537
+    "book": "Dafabet",
+    "odd": 2.11,
+    "edge": -0.015488680287134238
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    -0.00020893078571124213,
+    0.0006025684979207857,
+    -0.00039363771220957133
    ],
    "since": "15/10 00:01"
   }
@@ -4564,8 +4712,8 @@
    0.4450261780104712
   ],
   "btts": [
-   0.5845662752166811,
-   0.41543372478331886
+   0.5853061019475834,
+   0.41469389805241663
   ],
   "best": [
    {
@@ -4584,7 +4732,7 @@
     "edge": -0.06361958759303121
    }
   ],
-  "nbooks": 7,
+  "nbooks": 9,
   "move": {
    "diff": [
     0.002465753775091062,
@@ -4902,17 +5050,43 @@
   "kickoff": "2026-10-18T21:00:00+03:00",
   "home": "Al-Fateh",
   "away": "Al Khaleej Saihat",
-  "p": null,
-  "source": null,
+  "p": [
+   0.382896894042429,
+   0.28086748215687163,
+   0.3362356238006993
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.5236842105263159,
+   0.47631578947368425
+  ],
+  "btts": [
+   0.5731918104189038,
+   0.42680818958109623
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.45,
+    "edge": -0.061902609596048874
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.6,
+    "edge": 0.011122935764737996
+   },
+   {
+    "book": "Betano",
+    "odd": 2.85,
+    "edge": -0.0417284721680069
+   }
+  ],
+  "nbooks": 7,
   "move": null
  },
  {
@@ -4978,9 +5152,9 @@
   "home": "Juventus",
   "away": "Lazio",
   "p": [
-   0.5736648250460404,
-   0.2458563535911602,
-   0.18047882136279927
+   0.569618671250795,
+   0.24874820527489494,
+   0.1816331234743101
   ],
   "source": "Pinnacle",
   "out": {
@@ -4992,36 +5166,36 @@
   },
   "lineups": null,
   "ou": [
-   0.48711340206185555,
-   0.5128865979381443
+   0.47814910025706947,
+   0.5218508997429305
   ],
   "btts": [
-   0.4948047658291664,
-   0.5051952341708337
+   0.4972860410592194,
+   0.5027139589407806
   ],
   "best": [
    {
-    "book": "Dafabet",
+    "book": "Betfair",
     "odd": 1.7,
-    "edge": -0.024769797421731243
+    "edge": -0.03164825887364853
    },
    {
     "book": "1xBet",
     "odd": 4.04,
-    "edge": -0.006740331491712714
+    "edge": 0.004942749310575589
    },
    {
     "book": "1xBet",
     "odd": 5.71,
-    "edge": 0.030534069981583922
+    "edge": 0.03712513503831061
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.00035910287479068437,
-    0.000472079060117897,
-    -0.00011297618532737919
+    -0.004405256670036106,
+    0.0033639307438526334,
+    0.001041325926183445
    ],
    "since": "15/10 00:01"
   }
@@ -5254,7 +5428,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري الكويتي",
@@ -5322,7 +5503,14 @@
    }
   ],
   "nbooks": 7,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري السعودي",
@@ -5413,7 +5601,14 @@
    }
   ],
   "nbooks": 10,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري الكويتي",
@@ -5481,7 +5676,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري المصري",
@@ -5528,7 +5730,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري السعودي",
@@ -5575,7 +5784,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري السعودي",
@@ -5646,7 +5862,14 @@
    }
   ],
   "nbooks": 10,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري الإنجليزي",
@@ -5693,7 +5916,14 @@
    }
   ],
   "nbooks": 10,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  },
  {
   "league": "الدوري الإسباني",
@@ -5740,6 +5970,13 @@
    }
   ],
   "nbooks": 10,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "16/10 00:01"
+  }
  }
 ]
