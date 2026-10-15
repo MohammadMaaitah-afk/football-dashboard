@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Marwan Al Haidari",
+     "Saeed Al Hamsal",
+     "Abdullah Al Hafith",
+     "Mohammed Al Khabrani",
+     "Pedro Rebocho",
+     "Fahad Al Rashidi",
+     "Omar Mascarell",
+     "Majed Kanabah",
+     "Saleh  Al Amri",
+     "J. King",
+     "M. Barrow"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "O. Mosquera",
+     "Mohammed Al Baqawi",
+     "Mukhir Al Rashidi",
+     "O. Colley",
+     "Ahmed Bamasud",
+     "Ali Al Hussain",
+     "Alfa Semedo",
+     "Hugo Moura",
+     "Jason",
+     "Lázaro",
+     "Yago Santana"
+    ]
+   }
+  },
   "ou": [
    0.4817708333333334,
    0.5182291666666667
@@ -2845,9 +2878,9 @@
   "home": "Olympique Akbou",
   "away": "Ben Aknoun",
   "p": [
-   0.5021592804890065,
-   0.3086361026261336,
-   0.1892046168848599
+   0.4984122829373799,
+   0.31004911246271794,
+   0.1915386045999022
   ],
   "source": "Pinnacle",
   "out": {
@@ -2856,36 +2889,36 @@
   },
   "lineups": null,
   "ou": [
-   0.36724565756823824,
-   0.6327543424317617
+   0.36567164179104483,
+   0.6343283582089552
   ],
   "btts": [
-   0.4151899162978111,
-   0.5848100837021889
+   0.4087947047211589,
+   0.5912052952788411
   ],
   "best": [
    {
-    "book": "Bet365",
-    "odd": 1.95,
-    "edge": -0.020789403046437394
+    "book": "Pinnacle",
+    "odd": 1.86,
+    "edge": -0.07295315373647338
    },
    {
     "book": "Betfair",
-    "odd": 3.1,
-    "edge": -0.043228081858985745
+    "odd": 3.2,
+    "edge": -0.007842840119302585
    },
    {
     "book": "Pinnacle",
-    "odd": 4.91,
-    "edge": -0.07100533109533791
+    "odd": 4.84,
+    "edge": -0.07295315373647326
    }
   ],
   "nbooks": 7,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    -0.0037469975516266074,
+    0.0014130098365843224,
+    0.0023339877150423127
    ],
    "since": "15/10 06:46"
   }
