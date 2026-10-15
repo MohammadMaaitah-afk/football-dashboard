@@ -907,7 +907,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Fedor Lapoukhov",
+     "Pastor",
+     "Dinis Almeida",
+     "Facundo Rodríguez",
+     "Ángelo Martino",
+     "Bruno Jordão",
+     "Max Ebong",
+     "Stefano Sensi",
+     "Leandro Godoy",
+     "Ioannis Pittas",
+     "Léo Pereira"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Lukáš Hrádecký",
+     "Jordan Teze",
+     "Sadibou Sané",
+     "Mohammed Salisu",
+     "Christian Mawissa",
+     "Lamine Camara",
+     "Stanis Idumbo Muzambo",
+     "Edan Diop",
+     "Takumi Minamino",
+     "Ansu Fati",
+     "Paris Brunner"
+    ]
+   }
+  },
   "ou": [
    0.5989974937343359,
    0.40100250626566414
@@ -961,7 +994,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Mario Dajsinani",
+     "Guillem Jaime",
+     "Eljon Sota",
+     "Eneo Bitri",
+     "Andrey Yago",
+     "Altin Kryeziu",
+     "Albano Aleksi",
+     "Karim Loukili",
+     "Ildi Gruda",
+     "Daniel Adjessa",
+     "Alessandro Albanese"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Nordin Bakker",
+     "Rasmus Kristensen",
+     "Ousmane Diao",
+     "Mads Bech Sørensen",
+     "David Martínez Morales",
+     "Denil Castillo",
+     "Philip Billing",
+     "Hong Hyun-seok",
+     "Gue-sung Cho",
+     "Mileta Rajović",
+     "Julius Emefile"
+    ]
+   }
+  },
   "ou": [
    0.5526992287917738,
    0.44730077120822626
@@ -1015,7 +1081,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Davy Roef",
+     "Maksim Paskotsi",
+     "Christian Burgess",
+     "Siebe Van der Heyden",
+     "Tiago Araújo",
+     "Matties Volckaert",
+     "Mathias Delorge",
+     "Tibe De Vlieger",
+     "Michel Ange Balikwisha",
+     "Ibrahima Cisse",
+     "Momodou Sonko"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Mads Hedenstad",
+     "Colin Rösler",
+     "Daníel Grétarsson",
+     "Eric Kahl",
+     "Jacob Andersen",
+     "Markus Solbakken",
+     "Kristian Arnstad",
+     "Mikael Anderson",
+     "James Bogere",
+     "Callum McCowatt",
+     "Stefen Tchamche"
+    ]
+   }
+  },
   "ou": [
    0.5231958762886597,
    0.47680412371134023
@@ -1069,7 +1168,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Toni Silić",
+     "Mathieu Acapandié",
+     "Dennis Hadžikadunić",
+     "Dario Marešić",
+     "Šimun Hrgović",
+     "Khalil Fayad",
+     "Alberto del Moral",
+     "Abdoulie Sanyang Bamba",
+     "Dalisson de Almeida",
+     "Marin Šotiček",
+     "Michele Šego"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Marc-André Ter Stegen",
+     "Thilo Kehrer",
+     "Aaron Bouwman",
+     "Youri Baas",
+     "Jofre Torrents",
+     "Davy Klaassen",
+     "Sofyan Amrabat",
+     "Julian Brandt",
+     "Viktor Tsygankov",
+     "Tolu Arokodare",
+     "Abdellah Ouazane"
+    ]
+   }
+  },
   "ou": [
    0.6301703163017031,
    0.3698296836982968
@@ -1123,7 +1255,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Johannes Kreidl",
+     "Akseli Puukko",
+     "Kasim Adams",
+     "Arttu Lötjönen",
+     "Niilo Kujasalo",
+     "Samuel Pasanen",
+     "Petteri Pennanen",
+     "Joslyn Luyeye-Lutumba",
+     "Julius Eskesen",
+     "Bob Nii Armah",
+     "Piotr Parzyszek"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "André Onana",
+     "Wagner Pina",
+     "Batista Mendy",
+     "Samet Akaydın",
+     "Cenk Özkaçar",
+     "Melih Kabasakal",
+     "Ozan Tufan",
+     "Mohamed Salah",
+     "Benjamin Bouchouari",
+     "Aral Şimşir",
+     "Paul Onuachu"
+    ]
+   }
+  },
   "ou": [
    0.5666666666666667,
    0.4333333333333333
@@ -1177,7 +1342,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "David von Ballmoos",
+     "Antonios Papadopoulos",
+     "Lars Lukas Mai",
+     "Hannes Delcroix",
+     "Bekhruz Karimov",
+     "Uran Bislimi",
+     "Anto Grgić",
+     "Daniel Dos Santos",
+     "Yanis Cimignani",
+     "Renato Steffen",
+     "Albian Ajeti"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Matheus",
+     "Stefan Gudelj",
+     "Matej Gaštarov",
+     "Yuta Nakayama",
+     "Tomás Händel",
+     "Rade Krunić",
+     "Timi Max Elšnik",
+     "Mihailo Ristić",
+     "Vasilije Kostov",
+     "Vladimir Lučić",
+     "Ahmadou Bamba Dieng"
+    ]
+   }
+  },
   "ou": [
    0.5714285714285715,
    0.4285714285714286
@@ -1231,7 +1429,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "Alexander Lundin",
+     "Tony Miettinen",
+     "Axel Norén",
+     "Abdullah Iqbal",
+     "Villiam Granath",
+     "Jesper Gustavsson",
+     "Mads Enggård",
+     "Martin Agnarsson",
+     "Jeppe Kjaer",
+     "Jacob Bergström",
+     "Viktor Gustafson"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Javier Díaz",
+     "Anwar Hernandez",
+     "Víctor Alonso",
+     "Álex Sánchez",
+     "Jilmar Torres",
+     "Maurizio Pochettino",
+     "Domi Berlanga",
+     "Faysal Chouaib",
+     "David López",
+     "Soule Sidibe",
+     "Pablo Molina"
+    ]
+   }
+  },
   "ou": [
    0.5812182741116751,
    0.41878172588832485
@@ -1285,7 +1516,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Iñaki Peña",
+     "Davide Calabria",
+     "Stefan de Vrij",
+     "Rick Van Drongelen",
+     "Georgios Kyriakopoulos",
+     "Kings Kangwa",
+     "Etienne Camara",
+     "Vicente Taborda",
+     "Azzedine Ounahi",
+     "Santino Andino",
+     "Cyriel Dessers"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mladen Jurkas",
+     "Branimir Cipetić",
+     "Bart Meijers",
+     "Siniša Saničanin",
+     "Sebastian Herrera",
+     "Sandi Ogrinec",
+     "Amer Hiroš",
+     "Ante Roguljić",
+     "Miloš Jojić",
+     "Stefan Savić",
+     "Luka Juričić"
+    ]
+   }
+  },
   "ou": [
    0.625916870415648,
    0.37408312958435214
@@ -1393,7 +1657,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "Laurenţiu Popescu",
+     "Oleksandr Romanchuk",
+     "Nikola Stevanović",
+     "Vladimir Screciu",
+     "Samuel Teles",
+     "João Lameira",
+     "Tudor Băluță",
+     "Nicușor Bancu",
+     "Alexandru Cicâldău",
+     "Assad Al-Hamlawi",
+     "Ștefan Baiaram"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "David Soria",
+     "Andrés García",
+     "Djené",
+     "Jean Ives Valou",
+     "Davinchi",
+     "Nemanja Gudelj",
+     "Francho Serrano",
+     "Ramón Terrats",
+     "Mario Martín",
+     "Martín Satriano",
+     "Borja Mayoral"
+    ]
+   }
+  },
   "ou": [
    0.37837837837837845,
    0.6216216216216216
@@ -2953,9 +3250,9 @@
   "home": "Olympique Akbou",
   "away": "Ben Aknoun",
   "p": [
-   0.4984122829373799,
-   0.31004911246271794,
-   0.1915386045999022
+   0.50180840179711,
+   0.30638466776391204,
+   0.19180693043897798
   ],
   "source": "Pinnacle",
   "out": {
@@ -2964,36 +3261,36 @@
   },
   "lineups": null,
   "ou": [
-   0.36567164179104483,
-   0.6343283582089552
+   0.3778337531486146,
+   0.6221662468513854
   ],
   "btts": [
-   0.4087947047211589,
-   0.5912052952788411
+   0.4181818856010372,
+   0.5818181143989628
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 1.86,
-    "edge": -0.07295315373647338
+    "book": "William Hill",
+    "odd": 1.85,
+    "edge": -0.07165445667534653
    },
    {
     "book": "Betfair",
-    "odd": 3.2,
-    "edge": -0.007842840119302585
+    "odd": 3.1,
+    "edge": -0.05020752993187261
    },
    {
     "book": "Pinnacle",
     "odd": 4.84,
-    "edge": -0.07295315373647326
+    "edge": -0.07165445667534664
    }
   ],
-  "nbooks": 7,
+  "nbooks": 9,
   "move": {
    "diff": [
-    -0.0037469975516266074,
-    0.0014130098365843224,
-    0.0023339877150423127
+    -0.000350878691896539,
+    -0.0022514348622215685,
+    0.0026023135541180797
    ],
    "since": "15/10 06:46"
   }
