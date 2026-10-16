@@ -211,17 +211,43 @@
   "kickoff": "2026-10-16T17:30:00+03:00",
   "home": "Al Ahli Doha",
   "away": "Al Wakrah",
-  "p": null,
-  "source": null,
+  "p": [
+   0.4154885882750703,
+   0.22546655619666137,
+   0.3590448555282683
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.664319248826291,
+   0.3356807511737089
+  ],
+  "btts": [
+   0.6612736680310356,
+   0.33872633196896434
+  ],
+  "best": [
+   {
+    "book": "BetVictor",
+    "odd": 2.3,
+    "edge": -0.04437624696733844
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.22,
+    "edge": -0.04853113285008914
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 2.65,
+    "edge": -0.04853113285008903
+   }
+  ],
+  "nbooks": 6,
   "move": null
  },
  {
