@@ -194,7 +194,40 @@
     "E. Pieragnolo"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Palmisani",
+     "A. Oyono",
+     "G. Cittadini",
+     "I. Monterisi",
+     "G. Bracaglia",
+     "P. Masini",
+     "G. Calò",
+     "F. Ghedjemis",
+     "R. Schmid",
+     "G. Kvernadze",
+     "A. Raimondo"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "A. Murić",
+     "I. Van der Brempt",
+     "D. Ćaleta-Car",
+     "C. Odenthal",
+     "J. Doig",
+     "K. Thorstvedt",
+     "N. Matić",
+     "D. Bakola",
+     "D. Berardi",
+     "S. Esposito",
+     "A. Laurienté"
+    ]
+   }
+  },
   "ou": [
    0.6565420560747663,
    0.34345794392523366
@@ -259,7 +292,40 @@
    ],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-1-4-2",
+    "xi": [
+     "N. Kocik",
+     "D. Sidibé",
+     "S. Yohou",
+     "H. Voyer",
+     "L. Bretelle",
+     "L. Buadés",
+     "D. Traoré",
+     "J. Vercruysse",
+     "Y. Larouci",
+     "D. Guèye",
+     "L. Mafouta"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "G. Restes",
+     "R. Messali",
+     "M. McKenzie",
+     "R. Nicolaisen",
+     "C. Tapé",
+     "N. Sigur",
+     "C. Cásseres",
+     "T. Jørgensen",
+     "C. Tengstedt",
+     "A. Dønnum",
+     "J. Russell-Rowe"
+    ]
+   }
+  },
   "ou": [
    0.5930521091811414,
    0.4069478908188585
@@ -1374,9 +1440,9 @@
   "home": "Villarreal",
   "away": "Elche",
   "p": [
-   0.664839651759886,
-   0.18865313014713006,
-   0.14650721809298398
+   0.6634533688648635,
+   0.18899948621887075,
+   0.14754714491626567
   ],
   "source": "Pinnacle",
   "out": {
@@ -1396,32 +1462,32 @@
    0.35167464114832536
   ],
   "btts": [
-   0.5872360485878861,
-   0.4127639514121138
+   0.5866160430767261,
+   0.4133839569232739
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.51,
-    "edge": 0.003907874157427882
+    "edge": 0.0018145869859438335
    },
    {
     "book": "Pinnacle",
-    "odd": 5.11,
-    "edge": -0.03598250494816535
+    "odd": 5.09,
+    "edge": -0.03799261514594787
    },
    {
     "book": "1xBet",
     "odd": 6.73,
-    "edge": -0.014006422234217775
+    "edge": -0.0070077147135320095
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.008032184172991008,
-    -0.0036789370546101152,
-    -0.004353247118380976
+    0.006645901277968491,
+    -0.0033325809828694264,
+    -0.003313320295099287
    ],
    "since": "14/10 00:02"
   }
