@@ -1,92 +1,5 @@
 [
  {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597938,
-  "kickoff": "2026-10-16T17:30:00+03:00",
-  "home": "Al Ahli Doha",
-  "away": "Al Wakrah",
-  "p": [
-   0.3702486253884772,
-   0.2265568969639015,
-   0.4031944776476214
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Mohamed Lingliz",
-     "Ahmed Reyed",
-     "Talal Al Shila",
-     "R. Tihi",
-     "A. Amraoui",
-     "D. Fettouhi",
-     "Ismaeel Mohammad",
-     "B. Bourigeaud",
-     "J. Draxler",
-     "N. Sliti",
-     "Erik Expósito"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Omair Al Sayed",
-     "Nabil Irfan",
-     "P. Calione",
-     "Lucas Mendes",
-     "Murad Naji Hussein",
-     "Gelson Dala",
-     "Omar Al Osad",
-     "A. Assal",
-     "Luis Alberto",
-     "A. Zouhzouh",
-     "A. Laïdouni"
-    ]
-   }
-  },
-  "ou": [
-   0.6595744680851063,
-   0.3404255319148936
-  ],
-  "btts": [
-   0.6612736680310356,
-   0.33872633196896434
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.57,
-    "edge": -0.04846103275161362
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.2,
-    "edge": -0.04846103275161373
-   },
-   {
-    "book": "BetVictor",
-    "odd": 2.38,
-    "edge": -0.04039714319866117
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.0452399628865931,
-    0.0010903407672401277,
-    0.04414962211935308
-   ],
-   "since": "16/10 14:31"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -224,9 +137,9 @@
   "home": "Baniyas SC",
   "away": "Al-Wasl FC",
   "p": [
-   0.1578785706972458,
-   0.18429405139756322,
-   0.6578273779051909
+   0.17083334304948947,
+   0.19085017920478317,
+   0.6383164777457275
   ],
   "source": "Pinnacle",
   "out": {
@@ -235,36 +148,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6863636363636364,
-   0.31363636363636366
+   0.6811926605504588,
+   0.31880733944954126
   ],
   "btts": [
-   0.611979335777778,
-   0.3880206642222221
+   0.6171583314516199,
+   0.38284166854838003
   ],
   "best": [
    {
-    "book": "BetVictor",
-    "odd": 6.0,
-    "edge": -0.052728575816525125
+    "book": "Pinnacle",
+    "odd": 5.53,
+    "edge": -0.05529161293632323
    },
    {
     "book": "Pinnacle",
-    "odd": 5.14,
-    "edge": -0.052728575816525125
+    "odd": 4.95,
+    "edge": -0.05529161293632323
    },
    {
-    "book": "Pinnacle",
-    "odd": 1.44,
-    "edge": -0.052728575816525236
+    "book": "Bet365",
+    "odd": 1.5,
+    "edge": -0.04252528338140871
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.004570959174815453,
-    -0.00684266444779838,
-    0.011413623622613778
+    0.008383813177428201,
+    -0.00028653664057842754,
+    -0.008097276536849551
    ],
    "since": "13/10 00:47"
   }
