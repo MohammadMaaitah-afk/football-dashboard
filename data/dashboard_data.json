@@ -72,31 +72,29 @@
   "home": "Espanyol",
   "away": "Atletico Madrid",
   "p": [
-   0.1971201290621541,
-   0.23918546677765098,
-   0.563694404160195
+   0.19895607336260626,
+   0.24003406860911453,
+   0.5610098580282793
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
     "K. Garcia",
-    "M. Dmitrovic",
-    "A. Gorosabel",
     "Jofre",
     "K. Garcia",
-    "M. Dmitrovic",
-    "A. Gorosabel",
     "Jofre"
    ],
    "away": [
+    "J. Cardoso",
     "Koke",
+    "J. Cardoso",
     "Koke"
    ]
   },
   "lineups": null,
   "ou": [
-   0.5309278350515463,
-   0.4690721649484536
+   0.5295629820051414,
+   0.47043701799485865
   ],
   "btts": [
    0.5379629638855445,
@@ -104,27 +102,27 @@
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 4.89,
-    "edge": -0.036082568886066535
+    "book": "1xBet",
+    "odd": 4.88,
+    "edge": -0.029094361990481432
    },
    {
     "book": "Pinnacle",
-    "odd": 4.03,
-    "edge": -0.036082568886066424
+    "odd": 4.02,
+    "edge": -0.03506304419135975
    },
    {
     "book": "1xBet",
     "odd": 1.79,
-    "edge": 0.009012983446749168
+    "edge": 0.004207645870619947
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.01963161938384314,
-    -0.009967316229861328,
-    0.029598935613704525
+    -0.01779567508339097,
+    -0.009118714398397787,
+    0.026914389481788814
    ],
    "since": "14/10 00:02"
   }
@@ -767,35 +765,35 @@
   "out": {
    "home": [
     "K. Furo",
-    "A. Milambo",
     "N. Collins",
     "M. Damsgaard",
     "J. Dasilva",
+    "A. Milambo",
     "K. Schade",
+    "J. Schuster",
     "K. Furo",
-    "A. Milambo",
     "N. Collins",
     "M. Damsgaard",
     "J. Dasilva",
-    "K. Schade"
+    "A. Milambo",
+    "K. Schade",
+    "J. Schuster"
    ],
    "away": [
     "C. Bradley",
     "H. Ekitike",
-    "C. Gakpo",
     "R. Gravenberch",
-    "A. Isak",
     "G. Leoni",
+    "C. Gakpo",
+    "A. Isak",
     "D. Szoboszlai",
-    "R. Ngumoha",
     "C. Bradley",
     "H. Ekitike",
-    "C. Gakpo",
     "R. Gravenberch",
-    "A. Isak",
     "G. Leoni",
-    "D. Szoboszlai",
-    "R. Ngumoha"
+    "C. Gakpo",
+    "A. Isak",
+    "D. Szoboszlai"
    ]
   },
   "lineups": null,
@@ -851,27 +849,29 @@
   "out": {
    "home": [
     "T. Cairney",
-    "A. Robinson",
+    "H. Larsson",
     "T. Cairney",
-    "A. Robinson"
+    "H. Larsson"
    ],
    "away": [
     "I. Ansah",
     "J. Butland",
-    "D. Gyabi",
-    "C. Hughes",
-    "E. Matazo",
-    "M. Targett",
     "M. Cho",
     "L. Gourna-Douath",
-    "I. Ansah",
-    "J. Butland",
     "D. Gyabi",
     "C. Hughes",
     "E. Matazo",
+    "N. Mendy",
     "M. Targett",
+    "I. Ansah",
+    "J. Butland",
     "M. Cho",
-    "L. Gourna-Douath"
+    "L. Gourna-Douath",
+    "D. Gyabi",
+    "C. Hughes",
+    "E. Matazo",
+    "N. Mendy",
+    "M. Targett"
    ]
   },
   "lineups": null,
@@ -1358,21 +1358,17 @@
    "home": [
     "E. Holm",
     "R. Orsolini",
-    "S. Mbangula",
-    "J. Odgaard",
-    "A. Theate",
     "E. Holm",
-    "R. Orsolini",
-    "S. Mbangula",
-    "J. Odgaard",
-    "A. Theate"
+    "R. Orsolini"
    ],
    "away": [
     "C. Jones",
     "L. Martinez",
+    "B. Pavard",
     "J. Stones",
     "C. Jones",
     "L. Martinez",
+    "B. Pavard",
     "J. Stones"
    ]
   },
@@ -1436,8 +1432,8 @@
    0.6025641025641025
   ],
   "btts": [
-   0.4068217781726897,
-   0.5931782218273104
+   0.4104131747505411,
+   0.5895868252494589
   ],
   "best": [
    {
@@ -1456,7 +1452,7 @@
     "edge": -0.07312080536912746
    }
   ],
-  "nbooks": 5,
+  "nbooks": 6,
   "move": {
    "diff": [
     0.002885300147028036,
@@ -1995,9 +1991,9 @@
   "home": "Al Diriyah",
   "away": "Al Taawon",
   "p": [
-   0.5031618326938815,
-   0.25500844926719884,
-   0.24182971803891978
+   0.5195572647969233,
+   0.24753775443204204,
+   0.23290498077103466
   ],
   "source": "Pinnacle",
   "out": {
@@ -2006,36 +2002,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5509138381201044,
-   0.44908616187989553
+   0.5546875,
+   0.44531250000000006
   ],
   "btts": [
-   0.5683926393165554,
-   0.43160736068344463
+   0.5662555594595924,
+   0.4337444405404077
   ],
   "best": [
    {
-    "book": "William Hill",
-    "odd": 1.91,
-    "edge": -0.0389608995546864
+    "book": "1xBet",
+    "odd": 1.83,
+    "edge": -0.04921020542163024
    },
    {
     "book": "Pinnacle",
-    "odd": 3.67,
-    "edge": -0.06411899118938025
+    "odd": 3.82,
+    "edge": -0.05440577806959945
    },
    {
     "book": "Pinnacle",
-    "odd": 3.87,
-    "edge": -0.06411899118938036
+    "odd": 4.06,
+    "edge": -0.05440577806959934
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.050160700191050234,
-    -0.012909363384475625,
-    -0.03725133680657444
+    0.06655613229409207,
+    -0.02038005821963243,
+    -0.04617607407445956
    ],
    "since": "14/10 00:02"
   }
@@ -2064,8 +2060,8 @@
    0.6161616161616161
   ],
   "btts": [
-   0.3893332598574494,
-   0.6106667401425506
+   0.3926260281758146,
+   0.6073739718241854
   ],
   "best": [
    {
@@ -2084,7 +2080,7 @@
     "edge": -0.07119481186879972
    }
   ],
-  "nbooks": 5,
+  "nbooks": 6,
   "move": {
    "diff": [
     0.0069435056081436075,
@@ -5278,5 +5274,700 @@
    ],
    "since": "16/10 00:01"
   }
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612262,
+  "kickoff": "2026-10-20T17:00:00+03:00",
+  "home": "Asyut Petrol",
+  "away": "Zamalek SC",
+  "p": [
+   0.10501341412224188,
+   0.2274013103863632,
+   0.6675852754913948
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.427461139896373,
+   0.5725388601036269
+  ],
+  "btts": [
+   0.37513973938432016,
+   0.6248602606156799
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 8.9,
+    "edge": -0.06538061431204722
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.11,
+    "edge": -0.06538061431204722
+   },
+   {
+    "book": "Betano",
+    "odd": 1.44,
+    "edge": -0.03867720329239155
+   }
+  ],
+  "nbooks": 7,
+  "move": null
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612266,
+  "kickoff": "2026-10-20T17:00:00+03:00",
+  "home": "Masr",
+  "away": "Future FC",
+  "p": [
+   0.3710311012755595,
+   0.3353804260640289,
+   0.29358847266041155
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.3469879518072289,
+   0.653012048192771
+  ],
+  "btts": [
+   0.43686627447014803,
+   0.563133725529852
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.54,
+    "edge": -0.057581002760078825
+   },
+   {
+    "book": "Betano",
+    "odd": 2.92,
+    "edge": -0.02068915589303566
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.21,
+    "edge": -0.057581002760078936
+   }
+  ],
+  "nbooks": 7,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603054,
+  "kickoff": "2026-10-20T18:00:00+03:00",
+  "home": "Al Diriyah",
+  "away": "Al Riyadh",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612263,
+  "kickoff": "2026-10-20T18:00:00+03:00",
+  "home": "Wadi Degla",
+  "away": "National Bank of Egypt",
+  "p": [
+   0.32323624541995927,
+   0.30051676491120816,
+   0.37624698966883263
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.41645244215938304,
+   0.583547557840617
+  ],
+  "btts": [
+   0.49105378869473226,
+   0.5089462113052676
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.91,
+    "edge": -0.059382525827918475
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.13,
+    "edge": -0.059382525827918475
+   },
+   {
+    "book": "William Hill",
+    "odd": 2.5,
+    "edge": -0.059382525827918364
+   }
+  ],
+  "nbooks": 7,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603061,
+  "kickoff": "2026-10-20T18:10:00+03:00",
+  "home": "Al Taawon",
+  "away": "Al-Qadisiyah FC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635661,
+  "kickoff": "2026-10-20T19:45:00+03:00",
+  "home": "Fenerbahçe",
+  "away": "Slavia Praha",
+  "p": [
+   0.5614221818268794,
+   0.2314154847042503,
+   0.20716233346887036
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5850515463917526,
+   0.41494845360824745
+  ],
+  "btts": [
+   0.5738222277914596,
+   0.4261777722085403
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.74,
+    "edge": -0.023125403621229834
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.31,
+    "edge": -0.0025992609246813236
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.82,
+    "edge": -0.0014775526800447913
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635719,
+  "kickoff": "2026-10-20T19:45:00+03:00",
+  "home": "Sabah FA",
+  "away": "Borussia Dortmund",
+  "p": [
+   0.10982924910023607,
+   0.15882714642609896,
+   0.731343604473665
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6774941995359629,
+   0.3225058004640371
+  ],
+  "btts": [
+   0.5397839675135362,
+   0.4602160324864638
+  ],
+  "best": [
+   {
+    "book": "Betfair",
+    "odd": 10.0,
+    "edge": 0.09829249100236082
+   },
+   {
+    "book": "Dafabet",
+    "odd": 6.2,
+    "edge": -0.015271692158186356
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.34,
+    "edge": -0.019999570005288847
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612264,
+  "kickoff": "2026-10-20T20:00:00+03:00",
+  "home": "El Geish",
+  "away": "Pyramids FC",
+  "p": [
+   0.14091186367303568,
+   0.25152010074971953,
+   0.6075680355772447
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.4386422976501305,
+   0.5613577023498694
+  ],
+  "btts": [
+   0.4262063093045729,
+   0.5737936906954272
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 6.64,
+    "edge": -0.06434522521104313
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.9,
+    "edge": -0.0190716070760939
+   },
+   {
+    "book": "William Hill",
+    "odd": 1.55,
+    "edge": -0.058269544855270694
+   }
+  ],
+  "nbooks": 8,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603055,
+  "kickoff": "2026-10-20T21:00:00+03:00",
+  "home": "Al-Ettifaq",
+  "away": "Al-Ittihad FC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603059,
+  "kickoff": "2026-10-20T21:00:00+03:00",
+  "home": "Al-Nassr",
+  "away": "NEOM",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635617,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "AS Roma",
+  "away": "Slovan Bratislava",
+  "p": [
+   0.8075381818941563,
+   0.13574995299082798,
+   0.056711865115015775
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.724303614565961,
+   0.27569638543403907
+  ],
+  "btts": [
+   0.48516972029026356,
+   0.5148302797097364
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 1.17,
+    "edge": -0.05518032718383725
+   },
+   {
+    "book": "Betfair",
+    "odd": 9.0,
+    "edge": 0.22174957691745179
+   },
+   {
+    "book": "1xBet",
+    "odd": 19.5,
+    "edge": 0.1058813697428076
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635655,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "FC Porto",
+  "away": "PSV Eindhoven",
+  "p": [
+   0.5481006045227256,
+   0.2194939920889618,
+   0.23240540338831253
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6125,
+   0.3875
+  ],
+  "btts": [
+   0.6008388659945915,
+   0.3991611340054084
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.8,
+    "edge": -0.01341891185909394
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.41,
+    "edge": -0.032031494887678424
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.51,
+    "edge": 0.048148369281289405
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635688,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "Liverpool",
+  "away": "Villarreal",
+  "p": [
+   0.6358649623497973,
+   0.20596495519591262,
+   0.15817008245429015
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6320987654320989,
+   0.36790123456790125
+  ],
+  "btts": [
+   0.5715688057711988,
+   0.42843119422880127
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.57,
+    "edge": -0.0016920091108182378
+   },
+   {
+    "book": "Betfair",
+    "odd": 4.75,
+    "edge": -0.021666462819414978
+   },
+   {
+    "book": "Betano",
+    "odd": 6.1,
+    "edge": -0.03516249702883012
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635693,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "Manchester City",
+  "away": "AEK Athens FC",
+  "p": [
+   0.8999180825830624,
+   0.06877528244686708,
+   0.03130663497007044
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.73109243697479,
+   0.2689075630252101
+  ],
+  "btts": [
+   0.36572414836994244,
+   0.6342758516300575
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.08,
+    "edge": -0.028088470810292532
+   },
+   {
+    "book": "1xBet",
+    "odd": 17.0,
+    "edge": 0.1691798015967403
+   },
+   {
+    "book": "1xBet",
+    "odd": 42.0,
+    "edge": 0.31487866874295856
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635700,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "Napoli",
+  "away": "Bodo/Glimt",
+  "p": [
+   0.5989729362807307,
+   0.2098397426438037,
+   0.19118732107546557
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6447688564476886,
+   0.35523114355231145
+  ],
+  "btts": [
+   0.6083372942826937,
+   0.39166270571730627
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.64,
+    "edge": -0.017684384499601746
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.67,
+    "edge": -0.020048401853436704
+   },
+   {
+    "book": "Bet365",
+    "odd": 5.25,
+    "edge": 0.0037334356461942164
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635702,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "Paris Saint Germain",
+  "away": "Barcelona",
+  "p": [
+   0.39963055985514445,
+   0.21373499605735816,
+   0.3866344440874975
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.7098901098901099,
+   0.29010989010989013
+  ],
+  "btts": [
+   0.7664536525368177,
+   0.2335463474631823
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.49,
+    "edge": -0.004919905960690252
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.57,
+    "edge": -0.023231068017873113
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.54,
+    "edge": -0.01794851201775638
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "دوري أبطال أوروبا",
+  "type": "euro",
+  "en": "Champions League",
+  "id": 1635738,
+  "kickoff": "2026-10-20T22:00:00+03:00",
+  "home": "VfB Stuttgart",
+  "away": "Atletico Madrid",
+  "p": [
+   0.33671790189993595,
+   0.25076622694126804,
+   0.41251587115879595
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6212871287128713,
+   0.37871287128712877
+  ],
+  "btts": [
+   0.6442326456070903,
+   0.3557673543929097
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 3.01,
+    "edge": 0.01352088471880708
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.96,
+    "edge": -0.006965741312578544
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.32,
+    "edge": -0.0429631789115934
+   }
+  ],
+  "nbooks": 10,
+  "move": null
  }
 ]
