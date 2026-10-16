@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Mohamed Lingliz",
+     "Ahmed Reyed",
+     "Talal Al Shila",
+     "R. Tihi",
+     "A. Amraoui",
+     "D. Fettouhi",
+     "Ismaeel Mohammad",
+     "B. Bourigeaud",
+     "J. Draxler",
+     "N. Sliti",
+     "Erik Expósito"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Omair Al Sayed",
+     "Nabil Irfan",
+     "P. Calione",
+     "Lucas Mendes",
+     "Murad Naji Hussein",
+     "Gelson Dala",
+     "Omar Al Osad",
+     "A. Assal",
+     "Luis Alberto",
+     "A. Zouhzouh",
+     "A. Laïdouni"
+    ]
+   }
+  },
   "ou": [
    0.664319248826291,
    0.3356807511737089
