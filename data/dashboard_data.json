@@ -2950,48 +2950,6 @@
   "move": null
  },
  {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622651,
-  "kickoff": "2026-10-17T20:45:00+03:00",
-  "home": "Al Arabi",
-  "away": "Al Salmiyah",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1635594,
-  "kickoff": "2026-10-17T20:45:00+03:00",
-  "home": "Al Qadsia",
-  "away": "Al Sahel",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
