@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Al Sayed",
+     "Abdullah Al Karbi",
+     "D. Koumare",
+     "Samir",
+     "E. Noumonvi",
+     "M. Alhammadi",
+     "D. Mendy",
+     "R. Djooh",
+     "M. El Khaloui",
+     "Khalid Bawazir",
+     "S. Kaba"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "S. Leković",
+     "Hamid Yahya",
+     "A. Puric",
+     "O. Jamal",
+     "Hussain Abbas",
+     "M. Name",
+     "S. Babicka",
+     "A. Karimi",
+     "Jonas Naafo",
+     "Willy Semedo",
+     "E. Maouhoub"
+    ]
+   }
+  },
   "ou": [
    0.5633074935400517,
    0.4366925064599483
@@ -71,7 +104,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "K. Casteels",
+     "Jehad Abdullatif Ahm",
+     "G. Álvarez",
+     "Badra Diabbate Ali",
+     "Mohammed Abu Al Shamat",
+     "N. Nández",
+     "J. Weigl",
+     "T. Reijnders",
+     "C. Bonsu Baah",
+     "M. Retegui",
+     "Musab Al Juwayr"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "A. Al Bouq",
+     "J. Gaari",
+     "Abdullah Al Fahad",
+     "Abdulbasit Al-Hindi",
+     "Mohammed Al Dossary",
+     "N. Fekir",
+     "Firas Al-Ghamdi",
+     "K. Al Shamrani",
+     "Abdulkarim Darisi",
+     "G. Nkoudou",
+     "M. Batshuayi"
+    ]
+   }
+  },
   "ou": [
    0.7730627306273062,
    0.2269372693726937
@@ -407,9 +473,9 @@
   "home": "Baniyas SC",
   "away": "Al-Wasl FC",
   "p": [
-   0.1571024520230944,
-   0.1826278020616629,
-   0.6602697459152428
+   0.1578785706972458,
+   0.18429405139756322,
+   0.6578273779051909
   ],
   "source": "Pinnacle",
   "out": {
@@ -418,36 +484,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6957494407158836,
-   0.3042505592841164
+   0.6863636363636364,
+   0.31363636363636366
   ],
   "btts": [
-   0.6014911054516571,
-   0.398508894548343
+   0.611979335777778,
+   0.3880206642222221
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 6.01,
-    "edge": -0.05581426334120276
+    "book": "BetVictor",
+    "odd": 6.0,
+    "edge": -0.052728575816525125
    },
    {
     "book": "Pinnacle",
-    "odd": 5.17,
-    "edge": -0.05581426334120276
+    "odd": 5.14,
+    "edge": -0.052728575816525125
    },
    {
-    "book": "Betano",
-    "odd": 1.47,
-    "edge": -0.02940347350459316
+    "book": "Pinnacle",
+    "odd": 1.44,
+    "edge": -0.052728575816525236
    }
   ],
-  "nbooks": 9,
+  "nbooks": 6,
   "move": {
    "diff": [
-    -0.005347077848966875,
-    -0.008508913783698696,
-    0.01385599163266571
+    -0.004570959174815453,
+    -0.00684266444779838,
+    0.011413623622613778
    ],
    "since": "13/10 00:47"
   }
@@ -917,9 +983,9 @@
   "home": "Le Mans",
   "away": "Toulouse",
   "p": [
-   0.32170039965365876,
-   0.2697265189296693,
-   0.40857308141667203
+   0.31670475116479213,
+   0.2642074962162803,
+   0.4190877526189275
   ],
   "source": "Pinnacle",
   "out": {
@@ -939,36 +1005,36 @@
   },
   "lineups": null,
   "ou": [
-   0.569620253164557,
-   0.43037974683544306
+   0.5778894472361809,
+   0.42211055276381915
   ],
   "btts": [
-   0.6023142620296656,
-   0.39768573797033435
+   0.6011679209935317,
+   0.3988320790064683
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 3.11,
-    "edge": 0.0004882429228787455
+    "edge": -0.015048223877496492
    },
    {
-    "book": "1xBet",
-    "odd": 3.6,
-    "edge": -0.0289845318531905
+    "book": "BetVictor",
+    "odd": 3.7,
+    "edge": -0.022432263999762836
    },
    {
     "book": "1xBet",
     "odd": 2.4,
-    "edge": -0.019424604599987183
+    "edge": 0.005810606285425957
    }
   ],
-  "nbooks": 10,
+  "nbooks": 6,
   "move": {
    "diff": [
-    -0.0019141712419348256,
-    -0.005161994416303661,
-    0.007076165658238542
+    -0.006909819730801459,
+    -0.01068101712969266,
+    0.017590836860494008
    ],
    "since": "13/10 00:47"
   }
