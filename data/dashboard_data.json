@@ -1107,10 +1107,8 @@
    "home": [
     "T. Buchanan",
     "N. Pepe",
-    "P. Gulacsi",
     "T. Buchanan",
-    "N. Pepe",
-    "P. Gulacsi"
+    "N. Pepe"
    ],
    "away": []
   },
@@ -1251,10 +1249,10 @@
     "J. Panichelli"
    ],
    "away": [
-    "S. Mayulu",
     "A. Longoni",
     "S. Mayulu",
-    "A. Longoni"
+    "A. Longoni",
+    "S. Mayulu"
    ]
   },
   "lineups": null,
