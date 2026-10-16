@@ -42,27 +42,6 @@
   "move": null
  },
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645673,
-  "kickoff": "2026-10-16T15:00:00+03:00",
-  "home": "Foutoua",
-  "away": "Al Wahda",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الإماراتي",
   "type": "arab",
   "en": "United-Arab-Emirates Pro League",
@@ -452,8 +431,8 @@
    0.3042505592841164
   ],
   "btts": [
-   0.6012078835189506,
-   0.39879211648104945
+   0.6014911054516571,
+   0.398508894548343
   ],
   "best": [
    {
@@ -2596,6 +2575,60 @@
   }
  },
  {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1644214,
+  "kickoff": "2026-10-17T19:00:00+03:00",
+  "home": "CODM Meknès",
+  "away": "UTS Rabat",
+  "p": [
+   0.4502230069538003,
+   0.28953248035614165,
+   0.260244512690058
+  ],
+  "source": "متوسط 1 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.37595907928388744,
+   0.6240409207161125
+  ],
+  "btts": [
+   0.43548387096774194,
+   0.5645161290322581
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.0,
+    "edge": -0.0995539860923994
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.11,
+    "edge": -0.09955398609239952
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.46,
+    "edge": -0.0995539860923994
+   }
+  ],
+  "nbooks": 1,
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "15/10 00:31"
+  }
+ },
+ {
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
@@ -3063,60 +3096,6 @@
     0.0
    ],
    "since": "16/10 01:15"
-  }
- },
- {
-  "league": "الدوري المغربي",
-  "type": "arab",
-  "en": "Morocco Botola Pro",
-  "id": 1644214,
-  "kickoff": "2026-10-17T21:00:00+03:00",
-  "home": "CODM Meknès",
-  "away": "UTS Rabat",
-  "p": [
-   0.4502230069538003,
-   0.28953248035614165,
-   0.260244512690058
-  ],
-  "source": "متوسط 1 شركات",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.37595907928388744,
-   0.6240409207161125
-  ],
-  "btts": [
-   0.43548387096774194,
-   0.5645161290322581
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.0,
-    "edge": -0.0995539860923994
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.11,
-    "edge": -0.09955398609239952
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.46,
-    "edge": -0.0995539860923994
-   }
-  ],
-  "nbooks": 1,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "15/10 00:31"
   }
  },
  {
@@ -5634,6 +5613,27 @@
    ],
    "since": "15/10 00:01"
   }
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645673,
+  "kickoff": "2026-10-19T15:00:00+03:00",
+  "home": "Foutoua",
+  "away": "Al Wahda",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري العُماني",
