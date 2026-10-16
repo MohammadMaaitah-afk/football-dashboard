@@ -74,8 +74,10 @@
    ],
    "away": [
     "J. Gittens",
+    "R. James",
     "E. Emegha",
     "J. Gittens",
+    "R. James",
     "E. Emegha"
    ]
   },
@@ -376,15 +378,15 @@
   "out": {
    "home": [
     "A. Ilic",
-    "A. Markgraf",
     "J. Juranovic",
-    "E. Latte Lath",
+    "A. Markgraf",
     "S. Nsoki",
-    "A. Ilic",
-    "A. Markgraf",
-    "J. Juranovic",
     "E. Latte Lath",
-    "S. Nsoki"
+    "A. Ilic",
+    "J. Juranovic",
+    "A. Markgraf",
+    "S. Nsoki",
+    "E. Latte Lath"
    ],
    "away": [
     "E. Can",
@@ -447,22 +449,16 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "P. Daka",
     "N. Remberg",
     "M. Vuskovic",
-    "P. Daka",
-    "A. Gronbaek",
     "B. Jatta",
     "A. S. Lokonga",
-    "B. Nadir",
-    "A. Rossing-Lelesiit",
+    "P. Daka",
     "N. Remberg",
     "M. Vuskovic",
-    "P. Daka",
-    "A. Gronbaek",
     "B. Jatta",
-    "A. S. Lokonga",
-    "B. Nadir",
-    "A. Rossing-Lelesiit"
+    "A. S. Lokonga"
    ],
    "away": [
     "A. Al Dakhil",
@@ -539,7 +535,6 @@
     "J. Njinmah",
     "J. Stage",
     "K. Topp",
-    "Y. Regeer",
     "F. Agu",
     "S. Alvero",
     "S. Lynen",
@@ -547,17 +542,14 @@
     "M. N'Diaye",
     "J. Njinmah",
     "J. Stage",
-    "K. Topp",
-    "Y. Regeer"
+    "K. Topp"
    ],
    "away": [
     "N. Awortwie-Grant",
     "T. Gayret",
-    "M. Hoffmeier",
     "S. Klaas",
     "N. Awortwie-Grant",
     "T. Gayret",
-    "M. Hoffmeier",
     "S. Klaas"
    ]
   },
@@ -623,14 +615,10 @@
     "O. Ruoppi",
     "Silas",
     "R. Zentner",
-    "P. Nebel",
-    "S. Widmer",
     "D. Kohr",
     "O. Ruoppi",
     "Silas",
-    "R. Zentner",
-    "P. Nebel",
-    "S. Widmer"
+    "R. Zentner"
    ]
   },
   "lineups": null,
@@ -685,9 +673,11 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "C. Campbell",
     "L. Seifert",
     "J. Gyamerah",
     "F. Onyeka",
+    "C. Campbell",
     "L. Seifert",
     "J. Gyamerah",
     "F. Onyeka"
@@ -697,14 +687,10 @@
     "A. Claude-Maurice",
     "S. Mounie",
     "S. Suso",
-    "J. Bah",
-    "T. Breithaupt",
     "N. Banks",
     "A. Claude-Maurice",
     "S. Mounie",
-    "S. Suso",
-    "J. Bah",
-    "T. Breithaupt"
+    "S. Suso"
    ]
   },
   "lineups": null,
@@ -1704,26 +1690,22 @@
     "E. Jaouen",
     "V. Livramento",
     "J. Ramsey",
-    "B. Toure",
     "A. Elanga",
     "E. Jaouen",
     "V. Livramento",
-    "J. Ramsey",
-    "B. Toure"
+    "J. Ramsey"
    ],
    "away": [
+    "I. Maatsen",
+    "A. Onana",
+    "M. Ruggeri",
+    "M. Cisse",
     "G. Hemmings",
     "I. Maatsen",
     "A. Onana",
     "M. Ruggeri",
-    "R. Barkley",
-    "I. Mbaye",
-    "G. Hemmings",
-    "I. Maatsen",
-    "A. Onana",
-    "M. Ruggeri",
-    "R. Barkley",
-    "I. Mbaye"
+    "M. Cisse",
+    "G. Hemmings"
    ]
   },
   "lineups": null,
@@ -1788,10 +1770,8 @@
    "away": [
     "R. Bardghji",
     "A. Christensen",
-    "F. de Jong",
     "R. Bardghji",
-    "A. Christensen",
-    "F. de Jong"
+    "A. Christensen"
    ]
   },
   "lineups": null,
@@ -1848,16 +1828,18 @@
    "home": [
     "T. Buchmann",
     "J. Musiala",
+    "M. Neuer",
     "T. Buchmann",
-    "J. Musiala"
+    "J. Musiala",
+    "M. Neuer"
    ],
    "away": [
+    "C. Baumgartner",
     "M. Guiu",
     "A. Ouedraogo",
     "C. Baumgartner",
     "M. Guiu",
-    "A. Ouedraogo",
-    "C. Baumgartner"
+    "A. Ouedraogo"
    ]
   },
   "lineups": null,
