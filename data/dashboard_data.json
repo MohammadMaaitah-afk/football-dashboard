@@ -2099,25 +2099,25 @@
   "home": "AS Roma",
   "away": "Genoa",
   "p": [
-   0.6131887860463007,
-   0.22976286255195516,
-   0.15704835140174422
+   0.6123791957269391,
+   0.2300084538974389,
+   0.15761235037562205
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
     "M. Bah",
-    "D. Malen",
-    "M. Svilar",
     "B. Cristante",
     "P. Dybala",
     "M. Kone",
-    "M. Bah",
     "D. Malen",
     "M. Svilar",
+    "M. Bah",
     "B. Cristante",
     "P. Dybala",
-    "M. Kone"
+    "M. Kone",
+    "D. Malen",
+    "M. Svilar"
    ],
    "away": [
     "L. Colombo",
@@ -2149,25 +2149,25 @@
    {
     "book": "1xBet",
     "odd": 1.58,
-    "edge": -0.031161718046844866
+    "edge": -0.0324408707514362
    },
    {
     "book": "1xBet",
     "odd": 4.43,
-    "edge": 0.01784948110516127
+    "edge": 0.01893745076565434
    },
    {
     "book": "1xBet",
     "odd": 6.44,
-    "edge": 0.01139138302723297
+    "edge": 0.015023536419006112
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.07930000451766117,
-    0.0439405809141353,
-    0.035359423603525925
+    -0.08010959483702274,
+    0.044186172259619044,
+    0.035923422577403746
    ],
    "since": "14/10 00:02"
   }
@@ -2197,9 +2197,11 @@
    ],
    "away": [
     "B. Chardonnet",
+    "N. Edjouma",
     "R. Le Guen",
     "G. Versini",
     "B. Chardonnet",
+    "N. Edjouma",
     "R. Le Guen",
     "G. Versini"
    ]
@@ -2266,6 +2268,8 @@
     "I. Boura"
    ],
    "away": [
+    "J. Chavez",
+    "J. Gradit",
     "M. Nawrocki",
     "A. Sima",
     "M. Udol",
@@ -2273,9 +2277,7 @@
     "J. Gradit",
     "M. Nawrocki",
     "A. Sima",
-    "M. Udol",
-    "J. Chavez",
-    "J. Gradit"
+    "M. Udol"
    ]
   },
   "lineups": null,
