@@ -186,35 +186,27 @@
   "out": {
    "home": [
     "A. Adorante",
+    "A. Bella-Kotchap",
     "G. Busio",
+    "T. Correia",
     "B. Franjic",
     "M. Sverko",
-    "A. Bella-Kotchap",
-    "T. Correia",
-    "P. Mazzocchi",
     "A. Adorante",
-    "G. Busio",
-    "B. Franjic",
-    "M. Sverko",
     "A. Bella-Kotchap",
+    "G. Busio",
     "T. Correia",
-    "P. Mazzocchi"
+    "B. Franjic",
+    "M. Sverko"
    ],
    "away": [
     "A. Buongiorno",
     "David Neres",
     "C. Favasuli",
     "A. Vergara",
-    "Alisson Santos",
-    "F. Anguissa",
-    "M. Olivera",
     "A. Buongiorno",
     "David Neres",
     "C. Favasuli",
-    "A. Vergara",
-    "Alisson Santos",
-    "F. Anguissa",
-    "M. Olivera"
+    "A. Vergara"
    ]
   },
   "lineups": null,
@@ -960,8 +952,8 @@
    0.2967032967032967
   ],
   "btts": [
-   0.5369897135362031,
-   0.46301028646379694
+   0.5390966591915358,
+   0.4609033408084642
   ],
   "best": [
    {
@@ -2486,8 +2478,8 @@
   },
   "lineups": null,
   "ou": [
-   0.4666666666666667,
-   0.5333333333333333
+   0.46547314578005117,
+   0.5345268542199487
   ],
   "btts": [
    0.5048332072486081,
@@ -2560,8 +2552,8 @@
    0.40648379052369077
   ],
   "btts": [
-   0.6126830217536768,
-   0.38731697824632316
+   0.6094221521884594,
+   0.3905778478115406
   ],
   "best": [
    {
@@ -2641,59 +2633,63 @@
   "home": "Fiorentina",
   "away": "Como",
   "p": [
-   0.28244028405422855,
-   0.25758553905745646,
-   0.45997417688831505
+   0.2822349212686846,
+   0.25678137399246376,
+   0.46098370473885153
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
-    "A. Atta",
+    "F. Mastantuono",
     "F. Parisi",
     "R. Sottil",
     "A. Atta",
+    "L. Ranieri",
+    "F. Mastantuono",
     "F. Parisi",
-    "R. Sottil"
+    "R. Sottil",
+    "A. Atta",
+    "L. Ranieri"
    ],
    "away": [
-    "M. Kean",
     "A. Diao",
     "M. Kean",
-    "A. Diao"
+    "A. Diao",
+    "M. Kean"
    ]
   },
   "lineups": null,
   "ou": [
-   0.5746835443037974,
-   0.4253164556962025
+   0.5757575757575757,
+   0.4242424242424242
   ],
   "btts": [
-   0.5998740923328942,
-   0.4001259076671058
+   0.5959360090185305,
+   0.4040639909814695
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 3.54,
-    "edge": -0.00016139444803087155
+    "edge": -0.0008883787088564965
    },
    {
     "book": "1xBet",
     "odd": 3.81,
-    "edge": -0.018599096191090903
+    "edge": -0.021662965088713126
    },
    {
     "book": "1xBet",
     "odd": 2.12,
-    "edge": -0.024854744996772093
+    "edge": -0.022714545953634757
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.002001222683158388,
-    0.0009503237444081214,
-    -0.0029515464275663983
+    0.001795859897614438,
+    0.00014615867941542016,
+    -0.0019420185770299137
    ],
    "since": "15/10 00:01"
   }
@@ -2775,9 +2771,9 @@
   "home": "Bournemouth",
   "away": "Sunderland",
   "p": [
-   0.4497715648264439,
-   0.2762882469648155,
-   0.2739401882087406
+   0.44792281945264817,
+   0.27643236857649145,
+   0.27564481197086044
   ],
   "source": "Pinnacle",
   "out": {
@@ -2808,32 +2804,32 @@
    0.4974226804123712
   ],
   "btts": [
-   0.5557498109589311,
-   0.44425018904106894
+   0.5502943504428808,
+   0.4497056495571193
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.15,
-    "edge": -0.032991135623145595
+    "odd": 2.16,
+    "edge": -0.03248670998227987
    },
    {
     "book": "1xBet",
-    "odd": 3.7,
-    "edge": 0.022266513769817475
+    "odd": 3.63,
+    "edge": 0.003449497932664025
    },
    {
     "book": "1xBet",
-    "odd": 3.7,
-    "edge": 0.013578696372340326
+    "odd": 3.63,
+    "edge": 0.0005906674542233148
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.015524064993607478,
-    0.008936061874841195,
-    0.0065880031187662835
+    -0.017372810367403235,
+    0.009080183486517124,
+    0.008292626880886111
    ],
    "since": "15/10 00:01"
   }
@@ -2847,9 +2843,9 @@
   "home": "Brighton",
   "away": "Crystal Palace",
   "p": [
-   0.6265851596540287,
-   0.20530662678025624,
-   0.168108213565715
+   0.6302832628249322,
+   0.20430792205977677,
+   0.16540881511529096
   ],
   "source": "Pinnacle",
   "out": {
@@ -2890,8 +2886,8 @@
   },
   "lineups": null,
   "ou": [
-   0.6142506142506142,
-   0.3857493857493858
+   0.6151960784313726,
+   0.3848039215686275
   ],
   "btts": [
    0.5674781701104875,
@@ -2901,25 +2897,25 @@
    {
     "book": "1xBet",
     "odd": 1.58,
-    "edge": -0.009995447746634523
+    "edge": -0.0041524447366071415
    },
    {
-    "book": "1xBet",
+    "book": "Pinnacle",
     "odd": 4.72,
-    "edge": -0.030952721597190647
+    "edge": -0.035666607877853695
    },
    {
-    "book": "1xBet",
-    "odd": 5.8,
-    "edge": -0.024972361318852943
+    "book": "Pinnacle",
+    "odd": 5.83,
+    "edge": -0.035666607877853695
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.012697025280198782,
-    -0.003309037931196801,
-    -0.009387987349001953
+    0.016395128451102248,
+    -0.004307742651676272,
+    -0.012087385799426004
    ],
    "since": "15/10 00:01"
   }
@@ -3146,23 +3142,23 @@
   "out": {
    "home": [
     "E. Ben Seghir",
-    "M. Culbreath",
     "G. Doue",
     "K. Eichhorn",
     "C. Kofane",
     "M. Terrier",
-    "E. Ben Seghir",
     "M. Culbreath",
+    "E. Ben Seghir",
     "G. Doue",
     "K. Eichhorn",
     "C. Kofane",
-    "M. Terrier"
+    "M. Terrier",
+    "M. Culbreath"
    ],
    "away": [
     "Y. Suzuki",
-    "J. Beste",
+    "B. Yilmaz",
     "Y. Suzuki",
-    "J. Beste"
+    "B. Yilmaz"
    ]
   },
   "lineups": null,
@@ -3464,25 +3460,31 @@
     "A. Seko",
     "A. Toure",
     "S. Zagadou",
+    "R. Fofana",
     "E. Jelert",
     "F. Mambimbi",
     "L. Mpasi-Nzau",
     "T. Pembele",
     "A. Seko",
     "A. Toure",
-    "S. Zagadou"
+    "S. Zagadou",
+    "R. Fofana"
    ],
    "away": [
     "A. Diousse",
     "S. Fofana",
-    "R. Mandengue",
+    "R. Labeau Lascary",
     "B. Okoh",
+    "C. Akpa",
+    "R. Mandengue",
     "M. Senaya",
     "T. Siwe",
     "A. Diousse",
     "S. Fofana",
-    "R. Mandengue",
+    "R. Labeau Lascary",
     "B. Okoh",
+    "C. Akpa",
+    "R. Mandengue",
     "M. Senaya",
     "T. Siwe"
    ]
@@ -3532,37 +3534,29 @@
   "home": "Lorient",
   "away": "Monaco",
   "p": [
-   0.25784257986513426,
-   0.2860679510338028,
-   0.4560894691010629
+   0.2564875806353293,
+   0.2852384008835373,
+   0.45827401848113336
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
-    "B. Fadiga",
-    "P. Katseris",
     "N. Mbamba",
-    "M. Kone",
-    "B. Fadiga",
-    "P. Katseris",
-    "N. Mbamba",
-    "M. Kone"
+    "N. Mbamba"
    ],
    "away": [
     "P. Brunner",
     "E. Dier",
-    "L. Camara",
     "S. Idumbo",
     "P. Brunner",
     "E. Dier",
-    "L. Camara",
     "S. Idumbo"
    ]
   },
   "lineups": null,
   "ou": [
-   0.4961439588688946,
-   0.5038560411311055
+   0.4974226804123712,
+   0.502577319587629
   ],
   "btts": [
    0.5382177837116416,
@@ -3572,25 +3566,25 @@
    {
     "book": "1xBet",
     "odd": 3.86,
-    "edge": -0.004727641720581821
+    "edge": -0.009957938747628958
    },
    {
     "book": "1xBet",
     "odd": 3.58,
-    "edge": 0.02412326470101389
+    "edge": 0.02115347516306354
    },
    {
     "book": "Pinnacle",
-    "odd": 2.12,
-    "edge": -0.03309032550574664
+    "odd": 2.11,
+    "edge": -0.03304182100480868
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.00998041881989789,
-    0.000916792309194614,
-    -0.010897211129092532
+    0.008625419590092914,
+    8.7242158929135e-05,
+    -0.008712661749022077
    ],
    "since": "15/10 00:01"
   }
@@ -3611,12 +3605,14 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "V. Marchetti",
+    "J. Ikone",
     "N. Sangui",
     "S. Chergui",
     "V. Marchetti",
+    "J. Ikone",
     "N. Sangui",
-    "S. Chergui"
+    "S. Chergui",
+    "V. Marchetti"
    ],
    "away": []
   },
@@ -3665,9 +3661,9 @@
   "home": "Nottingham Forest",
   "away": "Arsenal",
   "p": [
-   0.1619310516593678,
-   0.2566779435877213,
-   0.581391004752911
+   0.1641187073989794,
+   0.2580262030764703,
+   0.5778550895245503
   ],
   "source": "Pinnacle",
   "out": {
@@ -3692,36 +3688,36 @@
   },
   "lineups": null,
   "ou": [
-   0.4961439588688946,
-   0.5038560411311055
+   0.493573264781491,
+   0.5064267352185091
   ],
   "btts": [
-   0.49062628379924195,
-   0.5093737162007581
+   0.4922420615685962,
+   0.5077579384314038
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 6.11,
-    "edge": -0.01060127436126268
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.98,
-    "edge": 0.021578215479130636
-   },
-   {
     "book": "Pinnacle",
-    "odd": 1.66,
-    "edge": -0.034890932110167916
+    "odd": 5.88,
+    "edge": -0.03498200049400113
+   },
+   {
+    "book": "Bet365",
+    "odd": 3.9,
+    "edge": 0.006302191998234008
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.7,
+    "edge": -0.017646347808264462
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.01186919668809222,
-    0.006055157233097408,
-    -0.01792435392118963
+    0.014056852427703825,
+    0.007403416721846412,
+    -0.021460269149550237
    ],
    "since": "15/10 00:01"
   }
@@ -3743,17 +3739,21 @@
   "out": {
    "home": [
     "J. Castrop",
+    "F. Fleck",
     "F. Honorat",
-    "N. Kuhn",
-    "E. Leopold",
     "K. Itakura",
     "T. Kleindienst",
-    "J. Castrop",
-    "F. Honorat",
-    "N. Kuhn",
     "E. Leopold",
+    "J. Leszczynski",
+    "N. Kuhn",
+    "J. Castrop",
+    "F. Fleck",
+    "F. Honorat",
     "K. Itakura",
-    "T. Kleindienst"
+    "T. Kleindienst",
+    "E. Leopold",
+    "J. Leszczynski",
+    "N. Kuhn"
    ],
    "away": [
     "Bernardo",
@@ -3893,34 +3893,32 @@
    "home": [
     "M. Gabbia",
     "A. Saelemaekers",
-    "P. Terracciano",
     "M. Gabbia",
-    "A. Saelemaekers",
-    "P. Terracciano"
+    "A. Saelemaekers"
    ],
    "away": [
-    "R. Bellanova",
     "E. Elmas",
     "I. Hien",
     "F. Kessie",
     "O. Kossounou",
     "G. Scalvini",
-    "K. Sulemana",
+    "R. Bellanova",
     "G. Raspadori",
-    "R. Bellanova",
+    "K. Sulemana",
     "E. Elmas",
     "I. Hien",
     "F. Kessie",
     "O. Kossounou",
     "G. Scalvini",
-    "K. Sulemana",
-    "G. Raspadori"
+    "R. Bellanova",
+    "G. Raspadori",
+    "K. Sulemana"
    ]
   },
   "lineups": null,
   "ou": [
-   0.5461538461538462,
-   0.45384615384615384
+   0.5473145780051151,
+   0.45268542199488493
   ],
   "btts": [
    0.5523724867724867,
@@ -4011,25 +4009,21 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "J. Cajuste",
+    "J. Cruz",
     "M. Diarra",
     "J. Lobete",
     "D. Murillo",
     "A. Ochoa",
     "J. Cruz",
-    "J. Cajuste",
     "M. Diarra",
     "J. Lobete",
     "D. Murillo",
-    "A. Ochoa",
-    "J. Cruz"
+    "A. Ochoa"
    ],
    "away": [
-    "J. Aramburu",
     "L. Beitia",
     "P. Marin",
     "A. Odriozola",
-    "J. Aramburu",
     "L. Beitia",
     "P. Marin",
     "A. Odriozola"
@@ -4335,21 +4329,19 @@
   "home": "Juventus",
   "away": "Lazio",
   "p": [
-   0.569955461823429,
-   0.24761561194899612,
-   0.1824289262275748
+   0.5703175631885937,
+   0.2471376107150573,
+   0.18254482609634912
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
-    "J. Boga",
     "J. Ekhator",
     "K. Grabara",
     "M. Locatelli",
     "A. Milik",
     "K. Thuram",
     "K. Yildiz",
-    "J. Boga",
     "J. Ekhator",
     "K. Grabara",
     "M. Locatelli",
@@ -4358,24 +4350,22 @@
     "K. Yildiz"
    ],
    "away": [
-    "M. Cancellieri",
     "A. Furlanetto",
     "A. Gudmundsson",
+    "M. Cancellieri",
     "A. Marusic",
-    "L. Pellegrini",
     "N. Rovella",
-    "M. Cancellieri",
     "A. Furlanetto",
     "A. Gudmundsson",
+    "M. Cancellieri",
     "A. Marusic",
-    "L. Pellegrini",
     "N. Rovella"
    ]
   },
   "lineups": null,
   "ou": [
-   0.4845360824742268,
-   0.5154639175257731
+   0.48711340206185555,
+   0.5128865979381443
   ],
   "btts": [
    0.494865709593988,
@@ -4385,25 +4375,25 @@
    {
     "book": "Pinnacle",
     "odd": 1.69,
-    "edge": -0.03677526951840493
+    "edge": -0.03616331821127661
    },
    {
     "book": "1xBet",
     "odd": 4.04,
-    "edge": 0.000367072273944391
+    "edge": -0.001564052711168551
    },
    {
     "book": "1xBet",
     "odd": 5.71,
-    "edge": 0.041669168759452146
+    "edge": 0.04233095701015355
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.004068466097402079,
-    0.0022313374179538104,
-    0.0018371286794481578
+    -0.0037063647322373994,
+    0.001753336184014992,
+    0.001953028548222463
    ],
    "since": "15/10 00:01"
   }
@@ -4427,23 +4417,21 @@
     "L. Openda",
     "M. Ouedraogo",
     "N. Tagliafico",
-    "C. Tolisso",
     "L. Openda",
     "M. Ouedraogo",
-    "N. Tagliafico",
-    "C. Tolisso"
+    "N. Tagliafico"
    ],
    "away": [
     "L. Abergel",
     "M. Bombito",
     "A. Mendy",
     "M. Sanson",
-    "D. Coulibaly",
+    "A. Abdi",
     "L. Abergel",
     "M. Bombito",
     "A. Mendy",
     "M. Sanson",
-    "D. Coulibaly"
+    "A. Abdi"
    ]
   },
   "lineups": null,
@@ -4500,26 +4488,26 @@
    "home": [
     "R. Asencio",
     "Eder Militao",
-    "F. Mendy",
     "Rodrygo",
     "Vinicius Junior",
+    "F. Mendy",
     "R. Asencio",
     "Eder Militao",
-    "F. Mendy",
     "Rodrygo",
-    "Vinicius Junior"
+    "Vinicius Junior",
+    "F. Mendy"
    ],
    "away": [
+    "J. Guridi",
     "Marcao",
-    "I. Munoz",
     "I. Romero",
-    "L. Stassin",
     "M. Sierra",
+    "G. Kochorashvili",
+    "J. Guridi",
     "Marcao",
-    "I. Munoz",
     "I. Romero",
-    "L. Stassin",
-    "M. Sierra"
+    "M. Sierra",
+    "G. Kochorashvili"
    ]
   },
   "lineups": null,
