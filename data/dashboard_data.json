@@ -383,7 +383,40 @@
     "N. Williams"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-4-1",
+    "xi": [
+     "S. Dimitrievski",
+     "Pablo Maffeo",
+     "César Tárrega",
+     "Pepelu",
+     "J. de Haas",
+     "José Gayà",
+     "Dani Raba",
+     "Javi Guerra",
+     "G. Rodríguez",
+     "A. Danjuma",
+     "Hugo Duro"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Unai Simón",
+     "Hugo Rincón",
+     "Aitor Paredes",
+     "Aymeric Laporte",
+     "J. Louis-Jean",
+     "Ruíz de Galarreta",
+     "Beñat Gerenabarrena",
+     "Robert Navarro",
+     "Peio Canales",
+     "Álex Berenguer",
+     "I. Williams"
+    ]
+   }
+  },
   "ou": [
    0.4540816326530612,
    0.5459183673469388
