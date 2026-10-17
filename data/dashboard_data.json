@@ -168,7 +168,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Ahmed Shambih",
+     "Zayed Sultan",
+     "Abdoulaye Sanogo",
+     "Gláuber",
+     "D. Petrović",
+     "K. Agudelo",
+     "L. Milivojević",
+     "I. Faiz",
+     "A. Toure",
+     "A. Hrustić",
+     "R. Mierez"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Marzooq Rashed",
+     "Saeed Sulaiman",
+     "Bruno Leonardo",
+     "Bastian Kaua",
+     "Adham Khalid Ali Abdelhameed",
+     "J. Pedroza",
+     "A. Rchoq",
+     "D. Simon",
+     "F. Ben Arbi",
+     "B. Faye",
+     "D. Coulibaly"
+    ]
+   }
+  },
   "ou": [
    0.6457831325301205,
    0.3542168674698795
@@ -2091,12 +2124,8 @@
   "kickoff": "2026-10-17T21:45:00+03:00",
   "home": "Lille",
   "away": "Stade Brestois 29",
-  "p": [
-   0.47646633885540596,
-   0.2614126129395875,
-   0.26212104820500653
-  ],
-  "source": "Pinnacle",
+  "p": null,
+  "source": null,
   "out": {
    "home": [
     "H. Igamane",
@@ -2118,40 +2147,11 @@
    ]
   },
   "lineups": null,
-  "ou": [
-   0.5512820512820513,
-   0.44871794871794873
-  ],
-  "btts": [
-   0.5775703865987083,
-   0.4224296134012917
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.03,
-    "edge": -0.032773332123525956
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.88,
-    "edge": 0.014280938205599503
-   },
-   {
-    "book": "Bet365",
-    "odd": 4.0,
-    "edge": 0.04848419282002614
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.05199223732130559,
-    0.01903687499387771,
-    0.03295536232742782
-   ],
-   "since": "14/10 00:02"
-  }
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الفرنسي",
