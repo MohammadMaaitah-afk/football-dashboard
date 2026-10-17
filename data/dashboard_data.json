@@ -21,303 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575190,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "Hamburger SV",
-  "away": "VfB Stuttgart",
-  "p": [
-   0.2441098898325404,
-   0.2335474426763247,
-   0.5223426674911349
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "P. Daka",
-    "N. Remberg",
-    "M. Vuskovic",
-    "B. Jatta",
-    "A. S. Lokonga",
-    "P. Daka",
-    "N. Remberg",
-    "M. Vuskovic",
-    "B. Jatta",
-    "A. S. Lokonga"
-   ],
-   "away": [
-    "A. Al Dakhil",
-    "J. Diehl",
-    "M. Mittelstadt",
-    "N. Nartey",
-    "T. Tomas",
-    "D. Zagadou",
-    "A. Al Dakhil",
-    "J. Diehl",
-    "M. Mittelstadt",
-    "N. Nartey",
-    "T. Tomas",
-    "D. Zagadou"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-5-2",
-    "xi": [
-     "Daniel Heuer Fernandes",
-     "N. Capaldo",
-     "S. Bornauw",
-     "W. Omari",
-     "D. Møller Wolfe",
-     "M. Adeline",
-     "B. Nadir",
-     "M. Muheim",
-     "L. Lemke",
-     "Y. Poulsen",
-     "Fábio Vieira"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "D. Seimen",
-     "J. Vagnoman",
-     "Finn Jeltsch",
-     "J. Chabot",
-     "R. Hendriks",
-     "A. Karazor",
-     "A. Stiller",
-     "J. Leweling",
-     "D. Undav",
-     "B. El Khannouss",
-     "E. Demirović"
-    ]
-   }
-  },
-  "ou": [
-   0.6757990867579909,
-   0.3242009132420091
-  ],
-  "btts": [
-   0.6700844700182287,
-   0.3299155299817712
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 4.21,
-    "edge": 0.027702636194995023
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.21,
-    "edge": -0.016765266332672946
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 1.86,
-    "edge": -0.02844263846648909
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.010212173636800437,
-    -0.011658305600125318,
-    0.0014461319633248815
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575191,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "Werder Bremen",
-  "away": "SC Paderborn 07",
-  "p": [
-   0.5528944589005128,
-   0.22819936393299464,
-   0.21890617716649263
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Agu",
-    "S. Alvero",
-    "S. Lynen",
-    "S. Musah",
-    "M. N'Diaye",
-    "J. Njinmah",
-    "J. Stage",
-    "K. Topp",
-    "F. Agu",
-    "S. Alvero",
-    "S. Lynen",
-    "S. Musah",
-    "M. N'Diaye",
-    "J. Njinmah",
-    "J. Stage",
-    "K. Topp"
-   ],
-   "away": [
-    "N. Awortwie-Grant",
-    "T. Gayret",
-    "S. Klaas",
-    "N. Awortwie-Grant",
-    "T. Gayret",
-    "S. Klaas"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "K. Hein",
-     "A. Pieper",
-     "M. Friedl",
-     "O. Deman",
-     "Arthur",
-     "L. Reis",
-     "Y. Regeer",
-     "M. Grüll",
-     "E. Dinkçi",
-     "Chuky San José",
-     "N. Füllkrug"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "N. Noll",
-     "J. ter Horst",
-     "T. Scheller",
-     "M. Hansen",
-     "L. Curda",
-     "L. Ulrich",
-     "S. Castañeda",
-     "G. Vidović",
-     "R. Obermair",
-     "S. Tigges",
-     "S. Marino"
-    ]
-   }
-  },
-  "ou": [
-   0.6389548693586697,
-   0.36104513064133015
-  ],
-  "btts": [
-   0.6199314646134257,
-   0.3800685353865743
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 1.8,
-    "edge": -0.004789973979076878
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.36,
-    "edge": -0.005050773252143315
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.42,
-    "edge": -0.03243469692410261
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.013162795708204778,
-    0.0029966419949453427,
-    -0.016159437703150065
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607454,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "ES Hammam-Sousse",
-  "away": "US Ben Guerdane",
-  "p": [
-   0.3417639058229051,
-   0.3456329311718437,
-   0.3126031630052511
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.3247058823529411,
-   0.6752941176470588
-  ],
-  "btts": [
-   0.42234442941145284,
-   0.5776555705885471
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 2.7,
-    "edge": -0.07723745427815609
-   },
-   {
-    "book": "Bet365",
-    "odd": 2.75,
-    "edge": -0.0495094392774299
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.93,
-    "edge": -0.08407273239461421
-   }
-  ],
-  "nbooks": 5,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "16/10 22:31"
-  }
- },
- {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642045,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "Al Hikma",
-  "away": "Al Ahed",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الإنجليزي",
   "type": "top",
   "en": "Premier League",
@@ -712,7 +415,40 @@
    ],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "P. Gulácsi",
+     "A. Freeman",
+     "J. Foyth",
+     "Logan Costa",
+     "Sergi Cardona",
+     "Ilias Akhomach",
+     "Santi Comesaña",
+     "C. Macia",
+     "Alberto Moleiro",
+     "Ayoze Pérez",
+     "T. Oluwaseyi"
+    ]
+   },
+   "away": {
+    "formation": "5-3-2",
+    "xi": [
+     "M. Dituro",
+     "Buba Sangaré",
+     "J. Morcillo",
+     "Víctor Chust",
+     "R. Revivo",
+     "Germán Valera",
+     "Gonzalo Villar",
+     "Marc Aguado",
+     "T. Lemar",
+     "A. Osorio",
+     "L. Cepeda"
+    ]
+   }
+  },
   "ou": [
    0.6795454545454547,
    0.3204545454545455
@@ -996,9 +732,9 @@
   "home": "Shabab Al Ahli Dubai",
   "away": "Al Ain",
   "p": [
-   0.29361161202589653,
-   0.24903183847222637,
-   0.4573565495018772
+   0.2743732945706781,
+   0.2566240787493943,
+   0.4690026266799276
   ],
   "source": "Pinnacle",
   "out": {
@@ -1007,36 +743,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6153846153846154,
-   0.38461538461538464
+   0.5841836734693877,
+   0.41581632653061223
   ],
   "btts": [
-   0.6248720827034304,
-   0.3751279172965696
+   0.6040950581943194,
+   0.3959049418056806
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.24,
-    "edge": -0.04869837703609514
+    "odd": 3.47,
+    "edge": -0.047924667839746915
    },
    {
     "book": "Pinnacle",
-    "odd": 3.82,
-    "edge": -0.04869837703609525
+    "odd": 3.71,
+    "edge": -0.04792466783974714
    },
    {
-    "book": "Pinnacle",
-    "odd": 2.08,
-    "edge": -0.048698377036095364
+    "book": "Bet365",
+    "odd": 2.05,
+    "edge": -0.0385446153061485
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    -0.019238317455218423,
+    0.007592240277167928,
+    0.011646077178050385
    ],
    "since": "17/10 10:45"
   }
@@ -1779,9 +1515,9 @@
   "home": "AS Roma",
   "away": "Genoa",
   "p": [
-   0.6037248305787138,
-   0.23792111549900055,
-   0.1583540539222856
+   0.6039451230681719,
+   0.24218350799726193,
+   0.1538713689345661
   ],
   "source": "Pinnacle",
   "out": {
@@ -1818,36 +1554,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5128865979381443,
-   0.48711340206185555
+   0.4974358974358974,
+   0.5025641025641026
   ],
   "btts": [
-   0.49437837837837834,
-   0.5056216216216216
+   0.4865674477189998,
+   0.5134325522810002
   ],
   "best": [
    {
     "book": "1xBet",
-    "odd": 1.61,
-    "edge": -0.028003022768270602
+    "odd": 1.62,
+    "edge": -0.021608900629561445
    },
    {
     "book": "1xBet",
-    "odd": 4.28,
-    "edge": 0.01830237433572246
+    "odd": 4.17,
+    "edge": 0.009905228348582318
    },
    {
     "book": "1xBet",
-    "odd": 6.28,
-    "edge": -0.005536541368046377
+    "odd": 6.33,
+    "edge": -0.02599423464419659
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.088763959985248,
-    0.05209883386118069,
-    0.036665126124067304
+    -0.0885436674957899,
+    0.056361226359442074,
+    0.0321824411363478
    ],
    "since": "14/10 00:02"
   }
