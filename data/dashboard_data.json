@@ -21,121 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550148,
-  "kickoff": "2026-10-17T21:45:00+03:00",
-  "home": "AS Roma",
-  "away": "Genoa",
-  "p": [
-   0.6039451230681719,
-   0.24218350799726193,
-   0.1538713689345661
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Bah",
-    "B. Cristante",
-    "P. Dybala",
-    "M. Kone",
-    "D. Malen",
-    "M. Svilar",
-    "M. Bah",
-    "B. Cristante",
-    "P. Dybala",
-    "M. Kone",
-    "D. Malen",
-    "M. Svilar"
-   ],
-   "away": [
-    "L. Colombo",
-    "E. Havel",
-    "F. Meichtry",
-    "D. Sow",
-    "L. Venturino",
-    "Amorim",
-    "S. Otoa",
-    "L. Colombo",
-    "E. Havel",
-    "F. Meichtry",
-    "D. Sow",
-    "L. Venturino",
-    "Amorim",
-    "S. Otoa"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "P. Gollini",
-     "L. Balerdi",
-     "E. Ndicka",
-     "K. Koulierakis",
-     "E. Lulli",
-     "M. de Roon",
-     "N. Pisilli",
-     "D. Rensch",
-     "M. Soulé",
-     "Rodrigo Mora",
-     "S. Castro"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "J. Bijlow",
-     "A. Marcandalli",
-     "L. Østigård",
-     "J. Vásquez",
-     "M. Ellertsson",
-     "S. Wiafe",
-     "M. Frendrup",
-     "D. Puczka",
-     "Junior Messias",
-     "S. El Shaarawy",
-     "M. Osmajić"
-    ]
-   }
-  },
-  "ou": [
-   0.4974358974358974,
-   0.5025641025641026
-  ],
-  "btts": [
-   0.4865674477189998,
-   0.5134325522810002
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.62,
-    "edge": -0.021608900629561445
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.17,
-    "edge": 0.009905228348582318
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.33,
-    "edge": -0.02599423464419659
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.0885436674957899,
-    0.056361226359442074,
-    0.0321824411363478
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -1229,7 +1114,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "17/10 21:45"
+  }
  },
  {
   "league": "الدوري العُماني",
