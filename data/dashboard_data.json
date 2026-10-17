@@ -1395,11 +1395,13 @@
   "out": {
    "home": [
     "Igor Jesus",
-    "N. Milenkovic",
     "N. Savona",
-    "Igor Jesus",
+    "M. Gibbs-White",
     "N. Milenkovic",
-    "N. Savona"
+    "Igor Jesus",
+    "N. Savona",
+    "M. Gibbs-White",
+    "N. Milenkovic"
    ],
    "away": [
     "P. Hincapie",
@@ -2211,11 +2213,13 @@
     "A. Furlanetto",
     "A. Gudmundsson",
     "M. Cancellieri",
+    "F. Gatto",
     "A. Marusic",
     "N. Rovella",
     "A. Furlanetto",
     "A. Gudmundsson",
     "M. Cancellieri",
+    "F. Gatto",
     "A. Marusic",
     "N. Rovella"
    ]
@@ -2265,9 +2269,9 @@
   "home": "Lyon",
   "away": "Nice",
   "p": [
-   0.5310684705617809,
-   0.24043398418468692,
-   0.22849754525353222
+   0.53297682153298,
+   0.24057058528047226,
+   0.2264525931865478
   ],
   "source": "Pinnacle",
   "out": {
@@ -2303,27 +2307,27 @@
   ],
   "best": [
    {
-    "book": "Pinnacle",
+    "book": "1xBet",
     "odd": 1.82,
-    "edge": -0.03345538357755884
+    "edge": -0.029982184809976387
    },
    {
     "book": "1xBet",
     "odd": 4.06,
-    "edge": -0.023838024210171227
+    "edge": -0.023283423761282673
    },
    {
     "book": "1xBet",
     "odd": 4.57,
-    "edge": 0.044233781808642236
+    "edge": 0.03488835086252351
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.03992886459865719,
-    0.011221277196292567,
-    0.02870758740236448
+    -0.038020513627458064,
+    0.011357878292077905,
+    0.026662635335380075
    ],
    "since": "15/10 00:01"
   }
@@ -2599,7 +2603,14 @@
    }
   ],
   "nbooks": 4,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "18/10 01:31"
+  }
  },
  {
   "league": "الدوري السعودي",
@@ -2847,7 +2858,14 @@
    }
   ],
   "nbooks": 4,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "18/10 01:31"
+  }
  },
  {
   "league": "الدوري المصري",
