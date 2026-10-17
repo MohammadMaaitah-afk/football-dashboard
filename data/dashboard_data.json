@@ -124,7 +124,40 @@
     "Koke"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "Ángel Fortuño",
+     "O. El Hilali",
+     "V. Drkušić",
+     "C. Riedel",
+     "L. Cabrera",
+     "Roger Hinojo",
+     "Edu Expósito",
+     "Pol Lozano",
+     "Bryan Zaragoza",
+     "Roberto Fernández",
+     "Javier Hernandez"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "J. Oblak",
+     "Marc Pubill",
+     "C. Romero",
+     "D. Hancko",
+     "Dani MartÃ­nez",
+     "G. Simeone",
+     "Pablo Barrios",
+     "M. Hjulmand",
+     "Lee Kang-In",
+     "J. David",
+     "A. Lookman"
+    ]
+   }
+  },
   "ou": [
    0.5535714285714286,
    0.44642857142857145
