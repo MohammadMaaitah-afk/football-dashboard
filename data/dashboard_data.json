@@ -24,111 +24,6 @@
   "league": "الدوري الألماني",
   "type": "top",
   "en": "Bundesliga",
-  "id": 1575188,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "Union Berlin",
-  "away": "Borussia Dortmund",
-  "p": [
-   0.17842047384288526,
-   0.21450105855333534,
-   0.6070784676037793
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Ilic",
-    "J. Juranovic",
-    "A. Markgraf",
-    "S. Nsoki",
-    "E. Latte Lath",
-    "A. Ilic",
-    "J. Juranovic",
-    "A. Markgraf",
-    "S. Nsoki",
-    "E. Latte Lath"
-   ],
-   "away": [
-    "E. Can",
-    "G. Konstantelias",
-    "J. Lerma",
-    "E. Can",
-    "G. Konstantelias",
-    "J. Lerma"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "F. Rønnow",
-     "J. Haberer",
-     "Z. Van Den Bosch",
-     "F. Uduokhai",
-     "T. Rothe",
-     "M. Aebischer",
-     "A. Schäfer",
-     "R. Khedira",
-     "K. Imeri",
-     "Jeong Woo-Yeong",
-     "T. Skarke"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "G. Kobel",
-     "Kouakou Joane Gadou",
-     "W. Anton",
-     "N. Schlotterbeck",
-     "J. Ryerson",
-     "J. Bellingham",
-     "F. Nmecha",
-     "D. Svensson",
-     "E. Nwaneri",
-     "M. Beier",
-     "S. Guirassy"
-    ]
-   }
-  },
-  "ou": [
-   0.6326034063260341,
-   0.3673965936739659
-  ],
-  "btts": [
-   0.6008805089732416,
-   0.39911949102675837
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 5.5,
-    "edge": -0.018687393864131097
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.62,
-    "edge": -0.009005109483590679
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.63,
-    "edge": -0.010462097805839843
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.024773372429811147,
-    -0.004358526434262822,
-    0.029131898864073857
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
   "id": 1575190,
   "kickoff": "2026-10-17T16:30:00+03:00",
   "home": "Hamburger SV",
@@ -348,212 +243,6 @@
   }
  },
  {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575192,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "FC Schalke 04",
-  "away": "FSV Mainz 05",
-  "p": [
-   0.3089989767501134,
-   0.26865744367440414,
-   0.4223435795754825
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Sylla",
-    "D. Ljubicic",
-    "M. Sylla",
-    "D. Ljubicic"
-   ],
-   "away": [
-    "D. Kohr",
-    "O. Ruoppi",
-    "Silas",
-    "R. Zentner",
-    "D. Kohr",
-    "O. Ruoppi",
-    "Silas",
-    "R. Zentner"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "L. Karius",
-     "H. Kuruçay",
-     "N. Katić",
-     "T. Becker",
-     "A. Gantenbein",
-     "S. El-Faouzi",
-     "S. Tanaka",
-     "R. Gosens",
-     "K. Karaman",
-     "A. Aouchiche",
-     "E. Džeko"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "A. Schwolow",
-     "D. da Costa",
-     "S. Posch",
-     "K. Potulski",
-     "A. Caci",
-     "Lee Jae-Sung",
-     "K. Sano",
-     "N. Amiri",
-     "P. Mwene",
-     "P. Tietz",
-     "S. Becker"
-    ]
-   }
-  },
-  "ou": [
-   0.5854271356783919,
-   0.414572864321608
-  ],
-  "btts": [
-   0.616527928192061,
-   0.38347207180793896
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.16,
-    "edge": -0.02356323346964162
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.7,
-    "edge": -0.005967458404704584
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.34,
-    "edge": -0.011716023793371
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.013634749553337655,
-    0.0049241524181770635,
-    0.008710597135160592
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575193,
-  "kickoff": "2026-10-17T16:30:00+03:00",
-  "home": "SV Elversberg",
-  "away": "FC Augsburg",
-  "p": [
-   0.3888737387510226,
-   0.26029451868012,
-   0.35083174256885746
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "C. Campbell",
-    "L. Seifert",
-    "J. Gyamerah",
-    "F. Onyeka",
-    "C. Campbell",
-    "L. Seifert",
-    "J. Gyamerah",
-    "F. Onyeka"
-   ],
-   "away": [
-    "N. Banks",
-    "A. Claude-Maurice",
-    "S. Mounie",
-    "S. Suso",
-    "N. Banks",
-    "A. Claude-Maurice",
-    "S. Mounie",
-    "S. Suso"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "N. Kristof",
-     "J. Gyamerah",
-     "L. Pinckert",
-     "M. Rohr",
-     "L. Günther",
-     "F. Keidel",
-     "Ł. Poręba",
-     "L. Petkov",
-     "Noah Darvich",
-     "M. Krattenmacher",
-     "D. Mokwa"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "F. Dahmen",
-     "Abdulay Bah",
-     "C. Matsima",
-     "C. Brackelmann",
-     "M. Wolf",
-     "H. Massengo",
-     "F. Rieder",
-     "Hennes Behrens",
-     "R. Fellhauer",
-     "A. Ibrahimović",
-     "Rodrigo Ribeiro"
-    ]
-   }
-  },
-  "ou": [
-   0.6317073170731708,
-   0.3682926829268293
-  ],
-  "btts": [
-   0.6653713904084809,
-   0.33462860959151913
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.54,
-    "edge": -0.01226070357240261
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.82,
-    "edge": -0.005674938641941685
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.78,
-    "edge": -0.024687755658576283
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.0062461962368511315,
-    0.0014582399205335106,
-    -0.0077044361573845865
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
   "league": "الدوري التونسي",
   "type": "arab",
   "en": "Tunisia Ligue 1",
@@ -676,7 +365,40 @@
     "D. Szoboszlai"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Kelleher",
+     "M. Kayode",
+     "K. Ajer",
+     "S. van den Berg",
+     "K. Lewis-Potter",
+     "Y. Yarmolyuk",
+     "V. Janelt",
+     "D. Ouattara",
+     "M. Jensen",
+     "J. Anthony",
+     "Thiago"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Alisson Becker",
+     "R. Araújo",
+     "J. Jacquet",
+     "V. van Dijk",
+     "M. Kerkez",
+     "D. Szoboszlai",
+     "A. Mac Allister",
+     "Víctor Muñoz",
+     "F. Wirtz",
+     "B. Barcola",
+     "A. Isak"
+    ]
+   }
+  },
   "ou": [
    0.6024691358024691,
    0.39753086419753086
@@ -754,7 +476,40 @@
     "M. Targett"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Leno",
+     "T. Castagne",
+     "D. Affengruber",
+     "C. Bassey",
+     "A. Robinson",
+     "S. Berge",
+     "S. Charles",
+     "Oscar Bobb",
+     "Joshua King",
+     "A. Iwobi",
+     "Gonzalo García"
+    ]
+   },
+   "away": {
+    "formation": "5-4-1",
+    "xi": [
+     "K. Tzolakis",
+     "L. Coyle",
+     "S. Ajayi",
+     "J. Egan",
+     "L. Herrington",
+     "B. Norton-Cuffy",
+     "M. Belloumi",
+     "M. Crooks",
+     "R. Slater",
+     "S. Thomas",
+     "O. McBurnie"
+    ]
+   }
+  },
   "ou": [
    0.5447570332480818,
    0.4552429667519181
@@ -811,7 +566,40 @@
     "J. Taylor"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "G. Donnarumma",
+     "Matheus Nunes",
+     "Rúben Dias",
+     "M. Guéhi",
+     "N. O&apos;Reilly",
+     "M. Kovačić",
+     "A. Bouaddi",
+     "I. Ndiaye",
+     "P. Foden",
+     "J. Doku",
+     "E. Haaland"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Walton",
+     "D. O&apos;Shea",
+     "I. Diop",
+     "J. Greaves",
+     "L. Davis",
+     "Florentino",
+     "E. Palacios",
+     "A. Ouattara",
+     "J. Enciso",
+     "D. Maeda",
+     "Emersonn"
+    ]
+   }
+  },
   "ou": [
    0.7265135699373695,
    0.27348643006263046
@@ -1587,9 +1375,9 @@
   "home": "Real Betis",
   "away": "Barcelona",
   "p": [
-   0.16498343620674027,
-   0.17053155176059526,
-   0.6644850120326644
+   0.17172897196261683,
+   0.17172897196261683,
+   0.6565420560747663
   ],
   "source": "Pinnacle",
   "out": {
@@ -1610,36 +1398,36 @@
   },
   "lineups": null,
   "ou": [
-   0.7785138521980628,
-   0.22148614780193726
+   0.7814077734980561,
+   0.21859222650194388
   ],
   "btts": [
-   0.6942273283714782,
-   0.30577267162852184
+   0.7082256914553321,
+   0.2917743085446679
   ],
   "best": [
    {
     "book": "1xBet",
-    "odd": 6.9,
-    "edge": 0.138385709826508
+    "odd": 6.29,
+    "edge": 0.08017523364485979
    },
    {
     "book": "Bet365",
     "odd": 5.75,
-    "edge": -0.019443577376577315
+    "edge": -0.012558411214953269
    },
    {
-    "book": "Pinnacle",
-    "odd": 1.45,
-    "edge": -0.036496732552636635
+    "book": "1xBet",
+    "odd": 1.48,
+    "edge": -0.0283177570093458
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.0066690876177510905,
-    0.0019586551894824333,
-    -0.008627742807233663
+    0.013414623373627643,
+    0.003156075391504004,
+    -0.01657069876513173
    ],
    "since": "14/10 00:02"
   }
@@ -1775,9 +1563,9 @@
   "home": "Lusail City",
   "away": "Al Shamal",
   "p": [
-   0.2535869225224735,
-   0.23651249133018729,
-   0.5099005861473392
+   0.2577483953434034,
+   0.23772283079291343,
+   0.5045287738636833
   ],
   "source": "Pinnacle",
   "out": {
@@ -1786,8 +1574,8 @@
   },
   "lineups": null,
   "ou": [
-   0.6356968215158926,
-   0.3643031784841076
+   0.6341463414634148,
+   0.3658536585365854
   ],
   "btts": [
    0.6392411617002898,
@@ -1796,26 +1584,26 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.74,
-    "edge": -0.051584909765949094
+    "odd": 3.68,
+    "edge": -0.05148590513627549
    },
    {
     "book": "Pinnacle",
-    "odd": 4.01,
-    "edge": -0.05158490976594898
+    "odd": 3.99,
+    "edge": -0.05148590513627538
    },
    {
     "book": "Pinnacle",
-    "odd": 1.86,
-    "edge": -0.05158490976594898
+    "odd": 1.88,
+    "edge": -0.05148590513627538
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.006809474131256099,
-    -0.003185730204912557,
-    0.009995204336168628
+    -0.00264800131032622,
+    -0.001975390742186417,
+    0.00462339205251272
    ],
    "since": "15/10 06:46"
   }
@@ -3032,14 +2820,14 @@
    0.35083532219570407
   ],
   "btts": [
-   0.6283207860223985,
-   0.37167921397760145
+   0.6280012371502182,
+   0.37199876284978195
   ],
   "best": [
    {
     "book": "1xBet",
-    "odd": 1.75,
-    "edge": -0.008137577166680066
+    "odd": 1.74,
+    "edge": -0.013805362440013291
    },
    {
     "book": "Pinnacle",
