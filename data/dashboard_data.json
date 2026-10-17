@@ -21,93 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603045,
-  "kickoff": "2026-10-17T21:00:00+03:00",
-  "home": "Al Diriyah",
-  "away": "Al Taawon",
-  "p": [
-   0.49361129791526565,
-   0.25958305312710156,
-   0.24680564895763282
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Amin Al Bukhari",
-     "Abdulaziz Al Faraj",
-     "B. Djimsiti",
-     "C. Mbemba",
-     "Hussain Al Sibyani",
-     "Óscar Rodríguez",
-     "I. Gueye",
-     "E. Millot",
-     "C. Diandy",
-     "D. Núñez",
-     "A. Boulbina"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Mailson",
-     "Ibrahim Mahnashi",
-     "Z. Belaïd",
-     "Muteb Al Mufarrij",
-     "A. Hendi",
-     "Faris Al Ghamdi",
-     "A. El Mahdioui",
-     "M. Petkov",
-     "Mohammed Al Kuwaykibi",
-     "Y. El Bahraoui",
-     "A. Hamed Allah"
-    ]
-   }
-  },
-  "ou": [
-   0.5338541666666666,
-   0.46614583333333337
-  ],
-  "btts": [
-   0.5469945286186408,
-   0.4530054713813592
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 1.93,
-    "edge": -0.0473301950235373
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.67,
-    "edge": -0.0473301950235373
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.86,
-    "edge": -0.0473301950235373
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.040610165412434396,
-    -0.00833475952457291,
-    -0.0322754058878614
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -153,7 +66,40 @@
     "S. Otoa"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "P. Gollini",
+     "L. Balerdi",
+     "E. Ndicka",
+     "K. Koulierakis",
+     "E. Lulli",
+     "M. de Roon",
+     "N. Pisilli",
+     "D. Rensch",
+     "M. Soulé",
+     "Rodrigo Mora",
+     "S. Castro"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Bijlow",
+     "A. Marcandalli",
+     "L. Østigård",
+     "J. Vásquez",
+     "M. Ellertsson",
+     "S. Wiafe",
+     "M. Frendrup",
+     "D. Puczka",
+     "Junior Messias",
+     "S. El Shaarawy",
+     "M. Osmajić"
+    ]
+   }
+  },
   "ou": [
    0.4974358974358974,
    0.5025641025641026
@@ -223,7 +169,40 @@
     "G. Versini"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "O. Gill",
+     "M. Goffi",
+     "N. Ngoy",
+     "T. Nianzou",
+     "R. Perraud",
+     "B. André",
+     "N. Mukau",
+     "E. Mbappé",
+     "H. Haraldsson",
+     "D. Bakwa",
+     "O. Giroud"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "E. Selvik",
+     "K. Lala",
+     "L. Tousart",
+     "G. Lloris",
+     "B. Locko",
+     "J. Chotard",
+     "H. Magnetti",
+     "Mama Baldé",
+     "K. Doumbia",
+     "P. Mboup",
+     "L. Ajorque"
+    ]
+   }
+  },
   "ou": [
    0.5510204081632654,
    0.44897959183673464
@@ -297,7 +276,40 @@
     "M. Udol"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "P. Beach",
+     "L. Maronnier",
+     "A. Monfray",
+     "M. Diaz",
+     "P. Gozzi",
+     "M. Diop",
+     "D. Karim",
+     "A. Mille",
+     "M. Ifnaoui",
+     "T. Nkada",
+     "R. Ripart"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "R. Risser",
+     "K. Antonio",
+     "I. Ganiou",
+     "J. Todibo",
+     "R. Aguilar",
+     "Y. Titraoui",
+     "A. Bulatović",
+     "M. Skóraś",
+     "F. Thauvin",
+     "F. Sotoca",
+     "O. Édouard"
+    ]
+   }
+  },
   "ou": [
    0.5768261964735516,
    0.4231738035264484
@@ -1049,9 +1061,9 @@
   "home": "Al-Ittihad Kalba",
   "away": "Al-Jazira",
   "p": [
-   0.1758471650874455,
-   0.2081054817254109,
-   0.6160473531871435
+   0.1744203092694911,
+   0.20707609404461605,
+   0.6185035966858928
   ],
   "source": "Pinnacle",
   "out": {
@@ -1060,36 +1072,36 @@
   },
   "lineups": null,
   "ou": [
-   0.596938775510204,
-   0.4030612244897959
+   0.5964467005076142,
+   0.4035532994923858
   ],
   "btts": [
-   0.5609610466631335,
-   0.4390389533368665
+   0.5567938170174903,
+   0.4432061829825097
   ],
   "best": [
    {
     "book": "BetVictor",
     "odd": 5.5,
-    "edge": -0.032840592019049764
+    "edge": -0.04068829901779902
    },
    {
     "book": "Pinnacle",
-    "odd": 4.47,
-    "edge": -0.06976849668741325
+    "odd": 4.54,
+    "edge": -0.05987453303744317
    },
    {
     "book": "Pinnacle",
-    "odd": 1.51,
-    "edge": -0.06976849668741325
+    "odd": 1.52,
+    "edge": -0.059874533037442834
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.01695347353695592,
-    0.009148850852361945,
-    -0.02610232438931792
+    0.015526617719001518,
+    0.008119463171567087,
+    -0.023646080890568633
    ],
    "since": "15/10 00:01"
   }
@@ -2270,9 +2282,9 @@
   ],
   "best": [
    {
-    "book": "Bet365",
-    "odd": 1.48,
-    "edge": -0.031159673568742496
+    "book": "Pinnacle",
+    "odd": 1.42,
+    "edge": -0.07043698409973942
    },
    {
     "book": "Pinnacle",
