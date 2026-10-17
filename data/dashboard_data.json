@@ -21,128 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1627999,
-  "kickoff": "2026-10-17T18:00:00+03:00",
-  "home": "Al-Jolan SC",
-  "away": "Duhok",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552790,
-  "kickoff": "2026-10-17T18:15:00+03:00",
-  "home": "Strasbourg",
-  "away": "Paris Saint Germain",
-  "p": [
-   0.14282096733350216,
-   0.1714358065332996,
-   0.6857432261331984
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "I. Doukoure",
-    "M. Godo",
-    "S. Nanasi",
-    "J. Panichelli",
-    "I. Doukoure",
-    "M. Godo",
-    "S. Nanasi",
-    "J. Panichelli"
-   ],
-   "away": [
-    "A. Longoni",
-    "S. Mayulu",
-    "A. Longoni",
-    "S. Mayulu"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "F. Jörgensen",
-     "G. Antwi",
-     "Abdoul Karim Coulibaly",
-     "J. Mitchell",
-     "Oso",
-     "Gessime Yassine",
-     "Dário Essugo",
-     "P. Diop",
-     "Fabio Amadu Uri Baldé",
-     "C. Harder",
-     "G. Reyna"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "M. Safonov",
-     "Beraldo",
-     "I. Zabarnyi",
-     "L. Hernández",
-     "L. Digne",
-     "Pedro Fernández",
-     "W. Zaïre-Emery",
-     "João Neves",
-     "M. Akliouche",
-     "Ferran Torres",
-     "K. Kvaratskhelia"
-    ]
-   }
-  },
-  "ou": [
-   0.7142857142857143,
-   0.2857142857142857
-  ],
-  "btts": [
-   0.627330505442901,
-   0.37266949455709897
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 7.06,
-    "edge": 0.008316029374525247
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.64,
-    "edge": -0.03310205115219034
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.44,
-    "edge": -0.012529754368194368
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    2.4986775917862358e-05,
-    0.0016924363466826187,
-    -0.00171742312260037
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
   "league": "الدوري العُماني",
   "type": "arab",
   "en": "Oman Professional League",
@@ -181,7 +59,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Bułka",
+     "Khalifah Al Dawsari",
+     "M. Sarr",
+     "N. Zézé",
+     "Islam Hawsawi",
+     "G. Masouras",
+     "Abdulmalik Al Oyayari",
+     "V. Vada",
+     "Mohannad Abu Taha",
+     "S. Benrahma",
+     "A. Lacazette"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "Radhi Al Otaibi",
+     "Khalid Al Ghannam",
+     "M. Rodák",
+     "Pedro Henrique",
+     "A. Kanté",
+     "J. Larsson",
+     "Sultan Ali Huran",
+     "J. Hendry",
+     "O. Duda",
+     "B. Celina",
+     "Madallah Al Olayan"
+    ]
+   }
+  },
   "ou": [
    0.5801526717557253,
    0.41984732824427484
@@ -256,7 +167,28 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-1-4-2",
+    "xi": [
+     "Hamad Abdullah",
+     "Igor Gomes",
+     "W. Faes",
+     "Renan",
+     "S. Ezatolahi",
+     "J. Markelo",
+     "Breno Cascardo",
+     "N. Maksimović",
+     "Kauan Santos",
+     "S. Azmoun",
+     "R. Ghandipour"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": []
+   }
+  },
   "ou": [
    0.5841836734693877,
    0.41581632653061223
@@ -1223,9 +1155,9 @@
   "home": "Valencia",
   "away": "Athletic Club",
   "p": [
-   0.28689872780369907,
-   0.2920680742506126,
-   0.4210331979456883
+   0.28800526995493003,
+   0.29058442162616815,
+   0.42141030841890187
   ],
   "source": "Pinnacle",
   "out": {
@@ -1254,8 +1186,8 @@
   },
   "lineups": null,
   "ou": [
-   0.44783715012722647,
-   0.5521628498727736
+   0.4540816326530612,
+   0.5459183673469388
   ],
   "btts": [
    0.5166312118570182,
@@ -1264,26 +1196,26 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.39,
-    "edge": -0.027413312745460106
+    "odd": 3.38,
+    "edge": -0.026542187552336505
    },
    {
     "book": "1xBet",
     "odd": 3.43,
-    "edge": 0.0017934946796012152
+    "edge": -0.0032954338222431767
    },
    {
     "book": "1xBet",
     "odd": 2.35,
-    "edge": -0.010571984827632552
+    "edge": -0.009685775215580561
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.021758282926283956,
-    0.011557168800593653,
-    -0.03331545172687761
+    0.022864825077514916,
+    0.010073516176149211,
+    -0.032938341253664016
    ],
    "since": "14/10 00:02"
   }
@@ -2471,9 +2403,9 @@
   "home": "Lorient",
   "away": "Monaco",
   "p": [
-   0.2564875806353293,
-   0.2852384008835373,
-   0.45827401848113336
+   0.25635701679333567,
+   0.28342110067767606,
+   0.46022188252898827
   ],
   "source": "Pinnacle",
   "out": {
@@ -2492,8 +2424,8 @@
   },
   "lineups": null,
   "ou": [
-   0.4974226804123712,
-   0.502577319587629
+   0.502577319587629,
+   0.4974226804123712
   ],
   "btts": [
    0.5382177837116416,
@@ -2503,25 +2435,25 @@
    {
     "book": "1xBet",
     "odd": 3.86,
-    "edge": -0.009957938747628958
+    "edge": -0.010461915177724324
    },
    {
     "book": "1xBet",
     "odd": 3.58,
-    "edge": 0.02115347516306354
+    "edge": 0.014647540426080408
    },
    {
     "book": "Pinnacle",
-    "odd": 2.11,
-    "edge": -0.03304182100480868
+    "odd": 2.1,
+    "edge": -0.03353404668912463
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.008625419590092914,
-    8.7242158929135e-05,
-    -0.008712661749022077
+    0.0084948557480993,
+    -0.0017300580469321036,
+    -0.006764797701167169
    ],
    "since": "15/10 00:01"
   }
