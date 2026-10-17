@@ -21,60 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628002,
-  "kickoff": "2026-10-17T20:30:00+03:00",
-  "home": "Al Quwa Al Jawiya",
-  "away": "Al-Karma",
-  "p": [
-   0.3259019554029835,
-   0.2906094386700021,
-   0.3834886059270144
-  ],
-  "source": "متوسط 4 شركات",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4463044873833149,
-   0.5536955126166851
-  ],
-  "btts": [
-   0.5113389507122477,
-   0.4886610492877523
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.81,
-    "edge": -0.08421550531761635
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.13,
-    "edge": -0.09039245696289344
-   },
-   {
-    "book": "BetVictor",
-    "odd": 2.4,
-    "edge": -0.0796273457751655
-   }
-  ],
-  "nbooks": 4,
-  "move": {
-   "diff": [
-    -0.0022898902077636007,
-    -0.003456424728197738,
-    0.005746314935961283
-   ],
-   "since": "16/10 13:31"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -92,7 +38,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Amin Al Bukhari",
+     "Abdulaziz Al Faraj",
+     "B. Djimsiti",
+     "C. Mbemba",
+     "Hussain Al Sibyani",
+     "Óscar Rodríguez",
+     "I. Gueye",
+     "E. Millot",
+     "C. Diandy",
+     "D. Núñez",
+     "A. Boulbina"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Mailson",
+     "Ibrahim Mahnashi",
+     "Z. Belaïd",
+     "Muteb Al Mufarrij",
+     "A. Hendi",
+     "Faris Al Ghamdi",
+     "A. El Mahdioui",
+     "M. Petkov",
+     "Mohammed Al Kuwaykibi",
+     "Y. El Bahraoui",
+     "A. Hamed Allah"
+    ]
+   }
+  },
   "ou": [
    0.5338541666666666,
    0.46614583333333337
