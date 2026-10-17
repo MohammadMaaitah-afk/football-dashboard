@@ -141,117 +141,6 @@
   "league": "الدوري الإنجليزي",
   "type": "top",
   "en": "Premier League",
-  "id": 1557431,
-  "kickoff": "2026-10-17T17:00:00+03:00",
-  "home": "Fulham",
-  "away": "Hull City",
-  "p": [
-   0.5957564067236153,
-   0.23312207219619732,
-   0.17112152108018738
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. Cairney",
-    "H. Larsson",
-    "T. Cairney",
-    "H. Larsson"
-   ],
-   "away": [
-    "I. Ansah",
-    "J. Butland",
-    "M. Cho",
-    "L. Gourna-Douath",
-    "D. Gyabi",
-    "C. Hughes",
-    "E. Matazo",
-    "N. Mendy",
-    "M. Targett",
-    "I. Ansah",
-    "J. Butland",
-    "M. Cho",
-    "L. Gourna-Douath",
-    "D. Gyabi",
-    "C. Hughes",
-    "E. Matazo",
-    "N. Mendy",
-    "M. Targett"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "B. Leno",
-     "T. Castagne",
-     "D. Affengruber",
-     "C. Bassey",
-     "A. Robinson",
-     "S. Berge",
-     "S. Charles",
-     "Oscar Bobb",
-     "Joshua King",
-     "A. Iwobi",
-     "Gonzalo García"
-    ]
-   },
-   "away": {
-    "formation": "5-4-1",
-    "xi": [
-     "K. Tzolakis",
-     "L. Coyle",
-     "S. Ajayi",
-     "J. Egan",
-     "L. Herrington",
-     "B. Norton-Cuffy",
-     "M. Belloumi",
-     "M. Crooks",
-     "R. Slater",
-     "S. Thomas",
-     "O. McBurnie"
-    ]
-   }
-  },
-  "ou": [
-   0.5447570332480818,
-   0.4552429667519181
-  ],
-  "btts": [
-   0.5386948012560724,
-   0.46130519874392767
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 1.73,
-    "edge": 0.030658583631854475
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": -0.03021217966381906
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.64,
-    "edge": -0.0348746211077432
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.029095524739677803,
-    -0.0024093457433366217,
-    -0.026686178996341098
-   ],
-   "since": "14/10 00:02"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
   "id": 1557433,
   "kickoff": "2026-10-17T17:00:00+03:00",
   "home": "Manchester City",
@@ -336,60 +225,6 @@
     7.139713615267329e-05
    ],
    "since": "14/10 00:02"
-  }
- },
- {
-  "league": "الدوري الأردني",
-  "type": "arab",
-  "en": "Jordan League",
-  "id": 1643364,
-  "kickoff": "2026-10-17T17:00:00+03:00",
-  "home": "Al Faisaly",
-  "away": "Al Ramtha",
-  "p": [
-   0.6406592290617882,
-   0.21819553453553656,
-   0.1411452364026752
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.5308310991957105,
-   0.46916890080428963
-  ],
-  "btts": [
-   0.46299789958878046,
-   0.5370021004112195
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 1.44,
-    "edge": -0.077450710151025
-   },
-   {
-    "book": "BetVictor",
-    "odd": 4.2,
-    "edge": -0.0835787549507464
-   },
-   {
-    "book": "1xBet",
-    "odd": 7.85,
-    "edge": 0.10799010576100021
-   }
-  ],
-  "nbooks": 5,
-  "move": {
-   "diff": [
-    0.002144472902703365,
-    -0.013937519304513563,
-    0.011793046401810114
-   ],
-   "since": "15/10 00:31"
   }
  },
  {
@@ -1910,9 +1745,9 @@
   "home": "Osasuna",
   "away": "Racing Santander",
   "p": [
-   0.48127417268028755,
-   0.25727688486366435,
-   0.26144894245604805
+   0.4816135725703712,
+   0.2574583193793739,
+   0.26092810805025496
   ],
   "source": "Pinnacle",
   "out": {
@@ -1948,25 +1783,25 @@
    {
     "book": "1xBet",
     "odd": 2.04,
-    "edge": -0.018200687732213394
+    "edge": -0.017508311956442757
    },
    {
     "book": "BetVictor",
     "odd": 3.8,
-    "edge": -0.022347837518075564
+    "edge": -0.021658386358379134
    },
    {
     "book": "1xBet",
     "odd": 3.82,
-    "edge": -0.0012650398178964961
+    "edge": -0.003254627248026054
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.005262406781109175,
-    -0.010397321445291874,
-    0.005134914664182755
+    0.0056018066711928105,
+    -0.010215886929582307,
+    0.004614080258389663
    ],
    "since": "15/10 00:01"
   }
