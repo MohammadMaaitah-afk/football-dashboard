@@ -21,93 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري المغربي",
-  "type": "arab",
-  "en": "Morocco Botola Pro",
-  "id": 1644215,
-  "kickoff": "2026-10-17T23:00:00+03:00",
-  "home": "Difaa EL Jadida",
-  "away": "Moghreb Tetouan",
-  "p": [
-   0.5497907949790795,
-   0.24435146443514644,
-   0.20585774058577405
-  ],
-  "source": "متوسط 1 شركات",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "Boulkassoum diarra",
-     "A. Moulhami",
-     "Megue",
-     "A. Ait Wahmane",
-     "reda chgraoui ech",
-     "B. El Idrissi Bouzidi",
-     "ayoub khafi el",
-     "A. Ennakouss",
-     "Ibra Lo",
-     "Y. Michte",
-     "M. Mouchtanim"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "Zakaria Benabbou",
-     "Issam Bouabsidi",
-     "Soulaimane driouache",
-     "eddine diae eddaoudi",
-     "Nadir El Fadili",
-     "Wissam Erbati",
-     "M. Karmoun",
-     "Mohamed kassou",
-     "Achraf marzak",
-     "Anouar oussarhan",
-     "Hicham Zeghari"
-    ]
-   }
-  },
-  "ou": [
-   0.4918032786885246,
-   0.5081967213114754
-  ],
-  "btts": [
-   0.5,
-   0.5
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.64,
-    "edge": -0.0983430962343097
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.69,
-    "edge": -0.0983430962343097
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.38,
-    "edge": -0.0983430962343097
-   }
-  ],
-  "nbooks": 1,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "15/10 00:31"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -965,7 +878,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "17/10 22:45"
+  }
  },
  {
   "league": "الدوري التونسي",
