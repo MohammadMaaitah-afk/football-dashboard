@@ -403,7 +403,40 @@
     "M. Zubimendi"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Sels",
+     "Jair",
+     "O. Diomande",
+     "Murillo",
+     "D. Muñoz",
+     "X. Schlager",
+     "N. Domínguez",
+     "N. Williams",
+     "J. McAtee",
+     "D. Ndoye",
+     "L. Delap"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "David Raya",
+     "B. White",
+     "E. Konsa",
+     "Gabriel Magalhães",
+     "R. Calafiori",
+     "D. Rice",
+     "Bruno Guimarães",
+     "B. Saka",
+     "M. Ødegaard",
+     "E. Eze",
+     "K. Havertz"
+    ]
+   }
+  },
   "ou": [
    0.5217391304347826,
    0.4782608695652174
@@ -481,7 +514,40 @@
     "P. Wimmer"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Nicolas",
+     "P. Sander",
+     "K. Diks",
+     "F. Chiarodia",
+     "J. Scally",
+     "Z. Uno",
+     "F. Neuhaus",
+     "L. Ullrich",
+     "H. Bolin",
+     "W. Mohya",
+     "I. Lidberg"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "O. Baumann",
+     "V. Coufal",
+     "R. Hranáč",
+     "K. Machida",
+     "M. Rots",
+     "B. Conté",
+     "L. Avdullahu",
+     "A. Prass",
+     "T. Lemperle",
+     "F. Asllani",
+     "A. Hložek"
+    ]
+   }
+  },
   "ou": [
    0.6933333333333334,
    0.30666666666666664
@@ -1151,8 +1217,8 @@
    0.4455958549222798
   ],
   "btts": [
-   0.5783513375967714,
-   0.4216486624032286
+   0.5847465491734237,
+   0.4152534508265763
   ],
   "best": [
    {
