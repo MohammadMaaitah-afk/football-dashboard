@@ -113,111 +113,6 @@
   }
  },
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552788,
-  "kickoff": "2026-10-18T21:45:00+03:00",
-  "home": "Lyon",
-  "away": "Nice",
-  "p": [
-   0.5168499150800036,
-   0.24787700008938948,
-   0.23527308483060694
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "L. Openda",
-    "M. Ouedraogo",
-    "N. Tagliafico",
-    "L. Openda",
-    "M. Ouedraogo",
-    "N. Tagliafico"
-   ],
-   "away": [
-    "L. Abergel",
-    "M. Bombito",
-    "A. Mendy",
-    "M. Sanson",
-    "A. Abdi",
-    "L. Abergel",
-    "M. Bombito",
-    "A. Mendy",
-    "M. Sanson",
-    "A. Abdi"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "R. Descamps",
-     "Z. Athekame",
-     "Clinton Mata",
-     "M. Niakhaté",
-     "Abner",
-     "M. Bidstrup",
-     "T. Tessmann",
-     "J. Duranville",
-     "N. Nartey",
-     "K. Boudache",
-     "P. Šulc"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Y. Diouf",
-     "Mohamed Abdelmonem",
-     "Y. Ndayishimiye",
-     "X. Mandza Tsiendi",
-     "J. Clauss",
-     "H. Boudaoui",
-     "A. Witsel",
-     "N. Nkounkou",
-     "G. Hein",
-     "M. Amoura",
-     "E. Wahi"
-    ]
-   }
-  },
-  "ou": [
-   0.565989847715736,
-   0.434010152284264
-  ],
-  "btts": [
-   0.5770560828572696,
-   0.42294391714273044
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.92,
-    "edge": -0.007648163046393264
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.94,
-    "edge": -0.02336461964780545
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": -0.021263967104675152
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.054147420080434494,
-    0.018664293100995127,
-    0.0354831269794392
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -716,7 +611,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "18/10 21:31"
+  }
  },
  {
   "league": "الدوري الإيطالي",
