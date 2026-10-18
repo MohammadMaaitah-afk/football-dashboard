@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "R. Ghanimi",
+     "S.  Moussaddaq Kerboub",
+     "M. Moufid",
+     "A. Khalloufi",
+     "S. Ganvoula",
+     "Aymane El Hassouni",
+     "I. Dayo",
+     "Y. Attiat-Allah",
+     "M. Aounzou",
+     "Oussama Zemraoui",
+     "Nizar Al Rashdan"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "M. Tounkara",
+     "Y. Faqir",
+     "Ayoub Adila",
+     "J. Assouab",
+     "H. Bouhbouh",
+     "A. El Malki",
+     "Z. Essalhi",
+     "O. Houssni",
+     "A. Ouaarab",
+     "S. P. Sodiq",
+     "Y. Zraa"
+    ]
+   }
+  },
   "ou": [
    0.4051282051282052,
    0.5948717948717949
