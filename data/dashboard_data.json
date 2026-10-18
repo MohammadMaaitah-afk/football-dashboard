@@ -29,7 +29,40 @@
     "S. Eriksson"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "Aitor Fernández",
+     "V. Rosier",
+     "Iker Muñoz",
+     "Moncayola",
+     "Moi Gómez",
+     "Rubén García",
+     "Jonathan Dubasin",
+     "Catena",
+     "A. Budimir",
+     "Abel Bretones",
+     "F. Boyomo"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "Julen Agirrezabala",
+     "M. Zabiri",
+     "Iñigo Vicente",
+     "Jorge Salinas",
+     "Pablo Ramón",
+     "M. Prati",
+     "Iván Martín",
+     "Álvaro Mantilla",
+     "Sergio Canales",
+     "J. Belocian",
+     "André Almeida"
+    ]
+   }
+  },
   "ou": [
    0.5825,
    0.4175
