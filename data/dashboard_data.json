@@ -1,251 +1,5 @@
 [
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570418,
-  "kickoff": "2026-10-18T19:30:00+03:00",
-  "home": "Malaga",
-  "away": "Real Sociedad",
-  "p": [
-   0.3022522044370587,
-   0.26519130743523955,
-   0.4325564881277018
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Cruz",
-    "M. Diarra",
-    "J. Lobete",
-    "D. Murillo",
-    "A. Ochoa",
-    "J. Cruz",
-    "M. Diarra",
-    "J. Lobete",
-    "D. Murillo",
-    "A. Ochoa"
-   ],
-   "away": [
-    "L. Beitia",
-    "P. Marin",
-    "A. Odriozola",
-    "L. Beitia",
-    "P. Marin",
-    "A. Odriozola"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "Alfonso Herrero",
-     "Rafita",
-     "Fernando Calero",
-     "Ángel Recio",
-     "José Salinas",
-     "David Larrubia",
-     "Izan Merino",
-     "Carlos Dotor",
-     "Pablo Martínez",
-     "Adrián Niño Heredia",
-     "Chupe"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Álex Remiro",
-     "Héctor Fort",
-     "Jon Martín",
-     "M. Sarr",
-     "Aihen Muñoz",
-     "T. Kubo",
-     "Jon Gorrotxategi",
-     "Carlos Soler",
-     "Barrenetxea",
-     "Mikel Oyarzabal",
-     "O. Óskarsson"
-    ]
-   }
-  },
-  "ou": [
-   0.5860349127182045,
-   0.4139650872817955
-  ],
-  "btts": [
-   0.6066320555243694,
-   0.39336794447563067
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.3,
-    "edge": -0.0025677253577063297
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.68,
-    "edge": -0.02409598863831841
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.27,
-    "edge": -0.01809677195011683
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.0169150287713416,
-    -0.005759119877584262,
-    -0.011155908893757283
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597939,
-  "kickoff": "2026-10-18T19:45:00+03:00",
-  "home": "Al-Gharafa",
-  "away": "Al-Rayyan SC",
-  "p": [
-   0.1893190931987848,
-   0.21442800836967385,
-   0.5962528984315414
-  ],
-  "source": "متوسط 5 شركات",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "Khalifa Ababacar",
-     "S. Sano",
-     "Ayoub Al Oui",
-     "Dame Traoré",
-     "I. Bennacer",
-     "F. Sassi",
-     "F. Díaz",
-     "Saifeldeen Hassan Fadlalla",
-     "A. Ounas",
-     "F. Magri",
-     "Y. Brahimi"
-    ]
-   },
-   "away": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Mahmud Abunada",
-     "D. Amaro",
-     "André Amaro",
-     "David García",
-     "Ahmed Al Minhali",
-     "J. De Sart",
-     "Ahmed Al Ganehi",
-     "Gregore",
-     "Otávio",
-     "Róger Guedes",
-     "Ahmed Alaa Eldin"
-    ]
-   }
-  },
-  "ou": [
-   0.6619560250468675,
-   0.33804397495313254
-  ],
-  "btts": [
-   0.6260099810725966,
-   0.37399001892740324
-  ],
-  "best": [
-   {
-    "book": "BetVictor",
-    "odd": 5.0,
-    "edge": -0.05340453400607603
-   },
-   {
-    "book": "BetVictor",
-    "odd": 4.33,
-    "edge": -0.07152672375931224
-   },
-   {
-    "book": "William Hill",
-    "odd": 1.57,
-    "edge": -0.06388294946247997
-   }
-  ],
-  "nbooks": 5,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "17/10 19:45"
-  }
- },
- {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611422,
-  "kickoff": "2026-10-18T19:45:00+03:00",
-  "home": "JS Kabylie",
-  "away": "US Biskra",
-  "p": [
-   0.7006430230286071,
-   0.2122677040155006,
-   0.0870892729558923
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4186046511627907,
-   0.5813953488372093
-  ],
-  "btts": [
-   0.3540804799024705,
-   0.6459195200975294
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 1.33,
-    "edge": -0.0681447793719524
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.39,
-    "edge": -0.0681447793719524
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 10.7,
-    "edge": -0.0681447793719524
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.04602118084532503,
-    -0.02426232547565982,
-    -0.021758855369665125
-   ],
-   "since": "17/10 19:16"
-  }
- },
- {
   "league": "الدوري الجزائري",
   "type": "arab",
   "en": "Algeria Ligue 1",
@@ -352,27 +106,6 @@
    ],
    "since": "17/10 19:16"
   }
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628005,
-  "kickoff": "2026-10-18T19:45:00+03:00",
-  "home": "Erbil",
-  "away": "Mosul",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الكويتي",
@@ -944,9 +677,9 @@
   "home": "Al Kuwait",
   "away": "Al Sulaibikhat",
   "p": [
-   0.7995510809300397,
-   0.13870681157276343,
-   0.061742107497196934
+   0.7997122224844757,
+   0.13923268272783773,
+   0.06105509478768652
   ],
   "source": "متوسط 4 شركات",
   "out": {
@@ -955,36 +688,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6403697379325004,
-   0.3596302620674995
+   0.6333327874508199,
+   0.3666672125491801
   ],
   "btts": [
-   0.4114655163908856,
-   0.5885344836091144
+   0.40257959266793397,
+   0.597420407332066
   ],
   "best": [
    {
     "book": "Bet365",
     "odd": 1.14,
-    "edge": -0.08851176773975489
+    "edge": -0.08832806636769774
    },
    {
     "book": "Bet365",
     "odd": 7.0,
-    "edge": -0.029052318990655968
+    "edge": -0.025371220905135883
    },
    {
     "book": "Marathonbet",
-    "odd": 17.75,
-    "edge": 0.09592240807524566
+    "odd": 18.25,
+    "edge": 0.11425547987527884
    }
   ],
   "nbooks": 4,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.0001611415544360284,
+    0.0005258711550742978,
+    -0.0006870127095104164
    ],
    "since": "18/10 01:31"
   }
