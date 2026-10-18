@@ -2663,5 +2663,1929 @@
    ],
    "since": "18/10 00:01"
   }
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645677,
+  "kickoff": "2026-10-22T15:00:00+03:00",
+  "home": "Qamishli",
+  "away": "Al Karama",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603065,
+  "kickoff": "2026-10-22T16:40:00+03:00",
+  "home": "Al-Hazm",
+  "away": "Al-Fayha",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628018,
+  "kickoff": "2026-10-22T17:30:00+03:00",
+  "home": "Zakho",
+  "away": "Erbil",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636434,
+  "kickoff": "2026-10-22T17:30:00+03:00",
+  "home": "Kairat Almaty",
+  "away": "Panathinaikos",
+  "p": [
+   0.23634316454458282,
+   0.252735021335291,
+   0.510921814120126
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5157934110997202,
+   0.4842065889002799
+  ],
+  "btts": [
+   0.5396963988116803,
+   0.4603036011883197
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 4.08,
+    "edge": -0.03571988865810205
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.82,
+    "edge": -0.034552218499188325
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.89,
+    "edge": -0.034357771312961805
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603064,
+  "kickoff": "2026-10-22T17:45:00+03:00",
+  "home": "Al-Fateh",
+  "away": "Al Shabab",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597944,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al-Duhail SC",
+  "away": "Lusail City",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597945,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al-Gharafa",
+  "away": "Al Ahli Doha",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597946,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al-Sailiya",
+  "away": "Al-Rayyan SC",
+  "p": [
+   0.138518272814189,
+   0.1780570135216874,
+   0.6834247136641236
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6602870813397128,
+   0.3397129186602871
+  ],
+  "btts": [
+   0.5687557334964194,
+   0.4312442665035805
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 6.85,
+    "edge": -0.051149831222805475
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 5.22,
+    "edge": -0.0705423894167918
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 1.36,
+    "edge": -0.0705423894167918
+   }
+  ],
+  "nbooks": 4,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597947,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al Shahaniya",
+  "away": "Al Sadd",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597948,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al Wakrah",
+  "away": "Al-Arabi SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597949,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al Shamal",
+  "away": "Qatar SC",
+  "p": [
+   0.5372416397156601,
+   0.21995304778947025,
+   0.24280531249486972
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6783216783216783,
+   0.3216783216783216
+  ],
+  "btts": [
+   0.6582972799189999,
+   0.3417027200810001
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 1.74,
+    "edge": -0.06519954689475149
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.25,
+    "edge": -0.06519954689475138
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.85,
+    "edge": -0.06519954689475149
+   }
+  ],
+  "nbooks": 5,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643366,
+  "kickoff": "2026-10-22T18:00:00+03:00",
+  "home": "Al Hussein",
+  "away": "Doqarah",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643406,
+  "kickoff": "2026-10-22T19:00:00+03:00",
+  "home": "Al Najma",
+  "away": "A'Ali",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643407,
+  "kickoff": "2026-10-22T19:00:00+03:00",
+  "home": "Sitra",
+  "away": "Al Riffa",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628013,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Al Talaba",
+  "away": "Al Quwa Al Jawiya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636215,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Ararat-Armenia",
+  "away": "AZ Alkmaar",
+  "p": [
+   0.16635995583364002,
+   0.2097902097902098,
+   0.6238498343761502
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6169154228855721,
+   0.38308457711442784
+  ],
+  "btts": [
+   0.5545839082268875,
+   0.4454160917731126
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 6.34,
+    "edge": 0.05472211998527765
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.62,
+    "edge": -0.03076923076923077
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 1.52,
+    "edge": -0.051748251748251706
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636258,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Dinamo Zagreb",
+  "away": "NEC Nijmegen",
+  "p": [
+   0.5649576903932304,
+   0.22598307615729216,
+   0.20905923344947733
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6055276381909548,
+   0.3944723618090452
+  ],
+  "btts": [
+   0.5987299071159551,
+   0.4012700928840448
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.74,
+    "edge": -0.01697361871577907
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.2,
+    "edge": -0.050871080139372915
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.61,
+    "edge": -0.03623693379790949
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636262,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Ferencvarosi TC",
+  "away": "Torreense",
+  "p": [
+   0.6899946799077851,
+   0.18755807767334634,
+   0.12244724241886862
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.586734693877551,
+   0.413265306122449
+  ],
+  "btts": [
+   0.5013708100688197,
+   0.4986291899311803
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.41,
+    "edge": -0.027107501330023154
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 5.04,
+    "edge": -0.05470728852633444
+   },
+   {
+    "book": "1xBet",
+    "odd": 8.1,
+    "edge": -0.008177336407164226
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636276,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Juventus",
+  "away": "Rennes",
+  "p": [
+   0.5965433044477426,
+   0.22583425096950258,
+   0.17762244458275486
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5584415584415584,
+   0.44155844155844154
+  ],
+  "btts": [
+   0.5275813165875384,
+   0.4724186834124616
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.61,
+    "edge": -0.03956527983913438
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.31,
+    "edge": -0.026654378321444017
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.58,
+    "edge": -0.008866759228227883
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636280,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Lech Poznan",
+  "away": "Sunderland",
+  "p": [
+   0.1908371072152919,
+   0.2236934959575473,
+   0.5854693968271608
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5286458333333333,
+   0.47135416666666663
+  ],
+  "btts": [
+   0.5153105607866092,
+   0.4846894392133908
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 5.07,
+    "edge": -0.03245586641846998
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.24,
+    "edge": -0.05153957713999935
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.68,
+    "edge": -0.016411413330369884
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636303,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "OFI",
+  "away": "Bayer Leverkusen",
+  "p": [
+   0.09375370068411415,
+   0.14260728567914954,
+   0.7636390136367363
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6964285714285715,
+   0.3035714285714286
+  ],
+  "btts": [
+   0.5335952797182734,
+   0.46640472028172664
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 11.9,
+    "edge": 0.11566903814095841
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 6.64,
+    "edge": -0.05308762309044712
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.26,
+    "edge": -0.0378148428177123
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636330,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Union St. Gilloise",
+  "away": "Hapoel Beer Sheva",
+  "p": [
+   0.7179331642219037,
+   0.16802691077533916,
+   0.11403992500275725
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6365853658536585,
+   0.36341463414634145
+  ],
+  "btts": [
+   0.5195601275564756,
+   0.4804398724435243
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.33,
+    "edge": -0.04514889158486801
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.73,
+    "edge": -0.03720580125730655
+   },
+   {
+    "book": "1xBet",
+    "odd": 9.6,
+    "edge": 0.09478328002646963
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636340,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Sturm Graz",
+  "away": "Marseille",
+  "p": [
+   0.2717079664140897,
+   0.25983002252713494,
+   0.4684620110587754
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5595854922279793,
+   0.4404145077720207
+  ],
+  "btts": [
+   0.5810610117752055,
+   0.41893898822479453
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 3.6,
+    "edge": -0.021851320909277105
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.73,
+    "edge": -0.030834015973786655
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.06,
+    "edge": -0.034968257218922716
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636397,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "FK Crvena Zvezda",
+  "away": "FC Copenhagen",
+  "p": [
+   0.38307466164148996,
+   0.2644655290599651,
+   0.35245980929854487
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5571364946116109,
+   0.44286350538838914
+  ],
+  "btts": [
+   0.5989474540867537,
+   0.40105254591324635
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.52,
+    "edge": -0.03465185266344528
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.65,
+    "edge": -0.03470081893112731
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.74,
+    "edge": -0.03426012252198696
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636415,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Getafe",
+  "away": "FC Lugano",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636424,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "FC Iberia 1999",
+  "away": "Mjallby AIF",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636429,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Inter Club d'Escaldes",
+  "away": "Universitatea Craiova",
+  "p": [
+   0.1455239949289425,
+   0.2388132302934416,
+   0.615662774777616
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.4894710592668532,
+   0.5105289407331468
+  ],
+  "btts": [
+   0.4663034001743679,
+   0.533696599825632
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 6.63,
+    "edge": -0.03517591362111128
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.04,
+    "edge": -0.035194549614495974
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.57,
+    "edge": -0.033409443599142885
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636430,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "FK Jablonec",
+  "away": "Brighton",
+  "p": [
+   0.12480689098237535,
+   0.18803096439299238,
+   0.6871621446246323
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6269430051813472,
+   0.3730569948186529
+  ],
+  "btts": [
+   0.5463013678884934,
+   0.45369863211150674
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 7.8,
+    "edge": -0.026506250337472226
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.19,
+    "edge": -0.02411929480036945
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.4,
+    "edge": -0.03797299752551486
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636437,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Kauno Žalgiris",
+  "away": "Brann",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636459,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "FC Nordsjaelland",
+  "away": "CSKA Sofia",
+  "p": [
+   0.6197544750262789,
+   0.21403996154202887,
+   0.16620556343169218
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5880113000234333,
+   0.41198869997656684
+  ],
+  "btts": [
+   0.5528709677419356,
+   0.44712903225806455
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.56,
+    "edge": -0.033183018959004884
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.51,
+    "edge": -0.03467977344544981
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.81,
+    "edge": -0.03434567646186848
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636462,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Pafos",
+  "away": "Riga",
+  "p": [
+   0.6114203598444043,
+   0.22672190905814005,
+   0.16185773109745555
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5366582583899979,
+   0.4633417416100022
+  ],
+  "btts": [
+   0.5121915393654524,
+   0.4878084606345475
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.58,
+    "edge": -0.033955831445841134
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.26,
+    "edge": -0.03416466741232349
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.96,
+    "edge": -0.035327922659164956
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636475,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Trabzonspor",
+  "away": "Heart Of Midlothian",
+  "p": [
+   0.6650793018667329,
+   0.19745822101302118,
+   0.13746247712024579
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5880113000234333,
+   0.41198869997656684
+  ],
+  "btts": [
+   0.5216181272324852,
+   0.47838187276751476
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.45,
+    "edge": -0.03563501229323729
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.9,
+    "edge": -0.03245471703619618
+   },
+   {
+    "book": "1xBet",
+    "odd": 7.04,
+    "edge": -0.03226416107346963
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603062,
+  "kickoff": "2026-10-22T21:00:00+03:00",
+  "home": "Al-Ahli Jeddah",
+  "away": "Al Khaleej Saihat",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628009,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Gharraf",
+  "away": "Naft",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636234,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Beşiktaş",
+  "away": "Crystal Palace",
+  "p": [
+   0.439133244173291,
+   0.24945527221362343,
+   0.31141148361308546
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.6045340050377834,
+   0.3954659949622167
+  ],
+  "btts": [
+   0.6256923341786431,
+   0.3743076658213569
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.23,
+    "edge": -0.020732865493561015
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.82,
+    "edge": -0.047080860143958514
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.14,
+    "edge": -0.022167941454911633
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636235,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Bournemouth",
+  "away": "AC Milan",
+  "p": [
+   0.4307154093767583,
+   0.26222618587400437,
+   0.30705840474923735
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5520833333333334,
+   0.44791666666666663
+  ],
+  "btts": [
+   0.5825504318082115,
+   0.4174495681917885
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.25,
+    "edge": -0.030890328902293818
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.63,
+    "edge": -0.048118945277364156
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.2,
+    "edge": -0.017413104802440404
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636241,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Celje",
+  "away": "Red Bull Salzburg",
+  "p": [
+   0.22637830858618463,
+   0.24074241446094252,
+   0.5328792769528728
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5794871794871795,
+   0.4205128205128206
+  ],
+  "btts": [
+   0.5732786723277379,
+   0.42672132767226223
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 4.26,
+    "edge": -0.035628405422853504
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.99,
+    "edge": -0.03943776630083928
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.83,
+    "edge": -0.024830923176242692
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636249,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Celtic",
+  "away": "Celta Vigo",
+  "p": [
+   0.3259358958307249,
+   0.2673406786027294,
+   0.4067234255665456
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5272727272727271,
+   0.4727272727272727
+  ],
+  "btts": [
+   0.5674882830418221,
+   0.4325117169581779
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 3.0,
+    "edge": -0.022192312507825274
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.56,
+    "edge": -0.04826718417428322
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.41,
+    "edge": -0.01979654438462497
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636267,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "1899 Hoffenheim",
+  "away": "Lyon",
+  "p": [
+   0.48022438097812753,
+   0.23594150727957625,
+   0.2838341117422962
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.628992628992629,
+   0.37100737100737097
+  ],
+  "btts": [
+   0.6355287700680569,
+   0.3644712299319431
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.01,
+    "edge": -0.034748994233963715
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.03,
+    "edge": -0.049155725663307726
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.55,
+    "edge": 0.007611096685151475
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636273,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Jagiellonia",
+  "away": "Anderlecht",
+  "p": [
+   0.3154076864058032,
+   0.2668154658110716,
+   0.41777684778312524
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5430809399477807,
+   0.4569190600522194
+  ],
+  "btts": [
+   0.5836183008162797,
+   0.41638169918372014
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.02,
+    "edge": -0.047468787054474326
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.63,
+    "edge": -0.03145985910581017
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.38,
+    "edge": -0.005691102276161986
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636288,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Lillestrom",
+  "away": "Real Sociedad",
+  "p": [
+   0.17630025365328067,
+   0.20492042470089117,
+   0.6187793216458283
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5856777493606138,
+   0.4143222506393862
+  ],
+  "btts": [
+   0.5445190281766858,
+   0.45548097182331426
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 5.83,
+    "edge": 0.027830478798626324
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.62,
+    "edge": -0.05326763788188282
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.56,
+    "edge": -0.03470425823250789
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636308,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Olympiakos Piraeus",
+  "away": "Sparta Praha",
+  "p": [
+   0.6113293051359516,
+   0.22243202416918428,
+   0.16623867069486403
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5430809399477807,
+   0.4569190600522194
+  ],
+  "btts": [
+   0.5154913514453037,
+   0.4845086485546962
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.6,
+    "edge": -0.021873111782477306
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.26,
+    "edge": -0.05243957703927504
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.78,
+    "edge": -0.03914048338368581
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636311,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Omonia Nicosia",
+  "away": "Benfica",
+  "p": [
+   0.12735672506036297,
+   0.18787015903536644,
+   0.6847731159042706
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.586734693877551,
+   0.413265306122449
+  ],
+  "btts": [
+   0.5165583523811194,
+   0.48344164761888064
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 7.42,
+    "edge": -0.0550131000521068
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.07,
+    "edge": -0.04749829369069214
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.43,
+    "edge": -0.02077444425689312
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الأوروبي",
+  "type": "euro",
+  "en": "Europa League",
+  "id": 1636318,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Plzen",
+  "away": "Levski Sofia",
+  "p": [
+   0.5612341427458751,
+   0.2365301000599823,
+   0.20223575719414263
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5569948186528497,
+   0.4430051813471503
+  ],
+  "btts": [
+   0.5592440668484008,
+   0.4407559331515992
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.74,
+    "edge": -0.023452591622177277
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.16,
+    "edge": -0.016034783750473625
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.69,
+    "edge": -0.051514298759471
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636378,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Aarhus",
+  "away": "Egnatia Rrogozhinë",
+  "p": [
+   0.5774205006376718,
+   0.23469016436070061,
+   0.18788933500162772
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5347290945076694,
+   0.4652709054923305
+  ],
+  "btts": [
+   0.5276575749628463,
+   0.47234242503715357
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.67,
+    "edge": -0.03570776393508812
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.11,
+    "edge": -0.03542342447752045
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.13,
+    "edge": -0.036127711441649835
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636379,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Ajax",
+  "away": "Atalanta",
+  "p": [
+   0.3297101109120903,
+   0.2625820811372632,
+   0.4077078079506463
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5462864721485412,
+   0.4537135278514589
+  ],
+  "btts": [
+   0.587915153936772,
+   0.4120848460632281
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.93,
+    "edge": -0.033949375027575335
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.68,
+    "edge": -0.03369794141487126
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.37,
+    "edge": -0.03373249515696819
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636385,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Borac Banja Luka",
+  "away": "KuPS",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636388,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "SC Braga",
+  "away": "Gent",
+  "p": [
+   0.5410176955500055,
+   0.25248184951812036,
+   0.20650045493187424
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.4894710592668532,
+   0.5105289407331468
+  ],
+  "btts": [
+   0.5040613983548766,
+   0.4959386016451234
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.78,
+    "edge": -0.036988501920990235
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.82,
+    "edge": -0.03551933484078029
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.67,
+    "edge": -0.03564287546814726
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636442,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Lincoln Red Imps FC",
+  "away": "Twente",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636449,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "FC Midtjylland",
+  "away": "St. Truiden",
+  "p": [
+   0.5407072653885181,
+   0.24325240714100405,
+   0.21604032747047774
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5992371049636138,
+   0.4007628950363862
+  ],
+  "btts": [
+   0.5989474540867537,
+   0.40105254591324635
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.78,
+    "edge": -0.037541067608437784
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.96,
+    "edge": -0.03672046772162396
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.46,
+    "edge": -0.03646013948166926
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636454,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "Monaco",
+  "away": "SC Freiburg",
+  "p": [
+   0.43656786705555056,
+   0.2553531182896393,
+   0.30807901465481013
+  ],
+  "source": "متوسط 2 شركات",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5807686237373737,
+   0.41923137626262624
+  ],
+  "btts": [
+   0.6072246519547291,
+   0.3927753480452709
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.21,
+    "edge": -0.03518501380723327
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.78,
+    "edge": -0.03476521286516343
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.13,
+    "edge": -0.03571268413044426
+   }
+  ],
+  "nbooks": 2,
+  "move": null
+ },
+ {
+  "league": "دوري المؤتمر الأوروبي",
+  "type": "euro",
+  "en": "Conference League",
+  "id": 1636474,
+  "kickoff": "2026-10-22T22:00:00+03:00",
+  "home": "FC Thun",
+  "away": "HNK Hajduk Split",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  }
 ]
