@@ -1,156 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550147,
-  "kickoff": "2026-10-18T19:00:00+03:00",
-  "home": "AC Milan",
-  "away": "Atalanta",
-  "p": [
-   0.5626973880226437,
-   0.24256629258118975,
-   0.19473631939616645
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Gabbia",
-    "A. Saelemaekers",
-    "M. Gabbia",
-    "A. Saelemaekers"
-   ],
-   "away": [
-    "E. Elmas",
-    "I. Hien",
-    "F. Kessie",
-    "O. Kossounou",
-    "G. Scalvini",
-    "R. Bellanova",
-    "G. Raspadori",
-    "K. Sulemana",
-    "E. Elmas",
-    "I. Hien",
-    "F. Kessie",
-    "O. Kossounou",
-    "G. Scalvini",
-    "R. Bellanova",
-    "G. Raspadori",
-    "K. Sulemana"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "S. Chukwueze",
-     "K. De Winter",
-     "Mario Gila",
-     "L. Modrić",
-     "Diego Moreira",
-     "Y. Musah",
-     "S. Pavlović",
-     "C. Pulišić",
-     "A. Rabiot",
-     "Gonçalo Ramos",
-     "M. Maignan"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "L. Samardžić",
-     "J. Rowe",
-     "Mario Pasalic",
-     "N. Krstović",
-     "T. Kristensen",
-     "S. Kolašinac",
-     "Éderson",
-     "C. De Ketelaere",
-     "L. Bernasconi",
-     "R. Bellanova",
-     "M. Carnesecchi"
-    ]
-   }
-  },
-  "ou": [
-   0.5955334987593052,
-   0.4044665012406948
-  ],
-  "btts": [
-   0.5833506654676417,
-   0.4166493345323583
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.77,
-    "edge": -0.004025623199920614
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.12,
-    "edge": -0.0006268745654981478
-   },
-   {
-    "book": "BetVictor",
-    "odd": 5.0,
-    "edge": -0.02631840301916777
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.0485656383250741,
-    -0.015874266090315753,
-    -0.03269137223475843
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري البحريني",
-  "type": "arab",
-  "en": "Bahrain Premier League",
-  "id": 1643404,
-  "kickoff": "2026-10-18T19:00:00+03:00",
-  "home": "Al Ahli",
-  "away": "Khalidiya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري البحريني",
-  "type": "arab",
-  "en": "Bahrain Premier League",
-  "id": 1643405,
-  "kickoff": "2026-10-18T19:00:00+03:00",
-  "home": "Muharraq",
-  "away": "Malkiya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -273,7 +122,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "Khalifa Ababacar",
+     "S. Sano",
+     "Ayoub Al Oui",
+     "Dame Traoré",
+     "I. Bennacer",
+     "F. Sassi",
+     "F. Díaz",
+     "Saifeldeen Hassan Fadlalla",
+     "A. Ounas",
+     "F. Magri",
+     "Y. Brahimi"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Mahmud Abunada",
+     "D. Amaro",
+     "André Amaro",
+     "David García",
+     "Ahmed Al Minhali",
+     "J. De Sart",
+     "Ahmed Al Ganehi",
+     "Gregore",
+     "Otávio",
+     "Róger Guedes",
+     "Ahmed Alaa Eldin"
+    ]
+   }
+  },
   "ou": [
    0.6619560250468675,
    0.33804397495313254
@@ -1116,9 +998,9 @@
   "home": "Al-Fayha",
   "away": "Al-Ahli Jeddah",
   "p": [
-   0.1302116249420068,
-   0.17500246585250914,
-   0.6947859092054841
+   0.12903325251565426,
+   0.1734110440350569,
+   0.6975557034492889
   ],
   "source": "Pinnacle",
   "out": {
@@ -1138,25 +1020,25 @@
    {
     "book": "1xBet",
     "odd": 8.15,
-    "edge": 0.06122474327735561
+    "edge": 0.05162100800258229
    },
    {
     "book": "1xBet",
     "odd": 5.47,
-    "edge": -0.04273651178677507
+    "edge": -0.05144158912823882
    },
    {
-    "book": "Pinnacle",
-    "odd": 1.34,
-    "edge": -0.06898688166465128
+    "book": "Bet365",
+    "odd": 1.33,
+    "edge": -0.0722509144124458
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.0008231564297164484,
-    0.0019212495776729788,
-    -0.002744406007389455
+    -0.00035521599663609904,
+    0.00032982776022072446,
+    2.538823641529131e-05
    ],
    "since": "16/10 00:01"
   }
