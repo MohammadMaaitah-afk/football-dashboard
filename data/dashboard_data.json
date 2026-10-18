@@ -1,104 +1,5 @@
 [
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570419,
-  "kickoff": "2026-10-18T15:00:00+03:00",
-  "home": "Osasuna",
-  "away": "Racing Santander",
-  "p": [
-   0.4909957199386256,
-   0.25583461196802065,
-   0.25316966809335384
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Bonel",
-    "R. Del Castillo",
-    "J. Herrando",
-    "A. Oroz",
-    "A. Bonel",
-    "R. Del Castillo",
-    "J. Herrando",
-    "A. Oroz"
-   ],
-   "away": [
-    "S. Eriksson",
-    "S. Eriksson"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "Aitor Fernández",
-     "V. Rosier",
-     "Iker Muñoz",
-     "Moncayola",
-     "Moi Gómez",
-     "Rubén García",
-     "Jonathan Dubasin",
-     "Catena",
-     "A. Budimir",
-     "Abel Bretones",
-     "F. Boyomo"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "Julen Agirrezabala",
-     "M. Zabiri",
-     "Iñigo Vicente",
-     "Jorge Salinas",
-     "Pablo Ramón",
-     "M. Prati",
-     "Iván Martín",
-     "Álvaro Mantilla",
-     "Sergio Canales",
-     "J. Belocian",
-     "André Almeida"
-    ]
-   }
-  },
-  "ou": [
-   0.5825,
-   0.4175
-  ],
-  "btts": [
-   0.6008988715368718,
-   0.39910112846312806
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.04,
-    "edge": 0.001631268674796349
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.8,
-    "edge": -0.027828474521521596
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.84,
-    "edge": -0.027828474521521263
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.014983954039447245,
-    -0.011839594340935566,
-    -0.0031443596985114564
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري اللبناني",
   "type": "arab",
   "en": "Lebanon Premier League",
@@ -106,27 +7,6 @@
   "kickoff": "2026-10-18T15:00:00+03:00",
   "home": "Al Mabarrah",
   "away": "Tripoli SC",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642047,
-  "kickoff": "2026-10-18T15:00:00+03:00",
-  "home": "Reyady Abaseya",
-  "away": "Jwaaya FC",
   "p": null,
   "source": null,
   "out": {
@@ -2197,9 +2077,9 @@
   "home": "Al-Fateh",
   "away": "Al Khaleej Saihat",
   "p": [
-   0.4120666669273083,
-   0.27274326664816106,
-   0.31519006642453057
+   0.4176935695793132,
+   0.27209752532595255,
+   0.31020890509473426
   ],
   "source": "Pinnacle",
   "out": {
@@ -2212,32 +2092,32 @@
    0.4455958549222798
   ],
   "btts": [
-   0.5777313320856112,
-   0.42226866791438866
+   0.5783513375967714,
+   0.4216486624032286
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.31,
-    "edge": -0.04812599939791773
+    "odd": 2.28,
+    "edge": -0.047658661359165966
    },
    {
     "book": "1xBet",
     "odd": 3.55,
-    "edge": -0.03176140339902822
+    "edge": -0.034053785092868494
    },
    {
     "book": "Pinnacle",
-    "odd": 3.02,
-    "edge": -0.04812599939791773
+    "odd": 3.07,
+    "edge": -0.047658661359165855
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.02916977288487932,
-    -0.008124215508710564,
-    -0.021045557376168755
+    0.0347966755368842,
+    -0.008769956830919079,
+    -0.02602671870596507
    ],
    "since": "16/10 00:16"
   }
