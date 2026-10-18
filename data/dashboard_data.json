@@ -1,113 +1,5 @@
 [
  {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597940,
-  "kickoff": "2026-10-18T17:30:00+03:00",
-  "home": "Al Sadd",
-  "away": "Al-Duhail SC",
-  "p": [
-   0.4618363842303336,
-   0.24085644342138912,
-   0.29730717234827725
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Meshaal Barsham",
-     "Pedro Miguel",
-     "Boualem Khoukhi",
-     "A. Romagnoli",
-     "Paulo Otávio",
-     "M. Camara",
-     "Claudinho",
-     "Y. Abdurisag",
-     "Roberto Firmino",
-     "Akram Afif",
-     "Giovani"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Salah Zakaria",
-     "Lucas Tuta",
-     "Bassam Al Rawi",
-     "J. Castelletto",
-     "Sultan Al Braik",
-     "M. Verratti",
-     "Assim Madibo",
-     "B. Soumaré",
-     "S. Yansané",
-     "Almoez Ali",
-     "K. Piątek"
-    ]
-   }
-  },
-  "ou": [
-   0.6635294117647058,
-   0.3364705882352941
-  ],
-  "btts": [
-   0.6728443170168859,
-   0.3271556829831141
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.06,
-    "edge": -0.04861704848551285
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.95,
-    "edge": -0.04861704848551296
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.25,
-    "edge": -0.033751689868098955
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.028301438943604595,
-    0.004100149967837141,
-    0.0242012889757674
-   ],
-   "since": "17/10 17:46"
-  }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622652,
-  "kickoff": "2026-10-18T17:40:00+03:00",
-  "home": "Al Fahaheel",
-  "away": "Al Shabab",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -213,7 +105,40 @@
     "T. Siwe"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "G. Gallon",
+     "D. Ouziad",
+     "J. Mwanga",
+     "A. Touba",
+     "M. Ndiaye",
+     "R. Ndiaye",
+     "S. Ebonog",
+     "A. Richardson",
+     "S. Nakamura",
+     "J. Maja",
+     "M. Samatta"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "P. Nardi",
+     "C. Makosso",
+     "A. Tuanzebe",
+     "C. Akpa",
+     "L. Sy",
+     "R. Faivre",
+     "K. Danois",
+     "N. Ahamada",
+     "F. Oppegård",
+     "D. Namaso",
+     "C. Archer"
+    ]
+   }
+  },
   "ou": [
    0.5459183673469388,
    0.4540816326530612
@@ -277,7 +202,40 @@
     "S. Idumbo"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Y. Mvogo",
+     "N. Adjei",
+     "M. Talbi",
+     "S. Touré",
+     "D. Sylla",
+     "N. Cadiou",
+     "A. Avom",
+     "K. Kouassi",
+     "J. Makengo",
+     "G. Bernardeau",
+     "I. Baldé"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Hrádecký",
+     "Vanderson",
+     "Sadibou Sané",
+     "M. Salisu",
+     "Flávio Nazinho",
+     "L. Camara",
+     "D. Zakaria",
+     "T. Minamino",
+     "A. Golovin",
+     "Ansu Fati",
+     "M. Abline"
+    ]
+   }
+  },
   "ou": [
    0.49104859335038353,
    0.5089514066496164
@@ -340,7 +298,40 @@
    ],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "K. Trapp",
+     "A. Camara",
+     "S. Chergui",
+     "D. Coppola",
+     "H. Traoré",
+     "M. Lopez",
+     "P. Lees-Melou",
+     "I. Kebbal",
+     "P. Pagis",
+     "L. Koleosho",
+     "L. Sinayoko"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "B. Samba",
+     "P. Frankowski",
+     "C. Cresswell",
+     "A. Rouault",
+     "B. Reynolds",
+     "S. Szymański",
+     "D. Cissé",
+     "A. Thomasson",
+     "L. Blas",
+     "E. Lepaul",
+     "I. Soumaré"
+    ]
+   }
+  },
   "ou": [
    0.5789473684210525,
    0.42105263157894735
@@ -1253,9 +1244,9 @@
   "home": "Juventus",
   "away": "Lazio",
   "p": [
-   0.6126267588748843,
-   0.23324103108971495,
-   0.1541322100354008
+   0.6149678205924762,
+   0.23153464708157978,
+   0.15349753232594399
   ],
   "source": "Pinnacle",
   "out": {
@@ -1290,8 +1281,8 @@
   },
   "lineups": null,
   "ou": [
-   0.5063938618925831,
-   0.4936061381074168
+   0.5115089514066496,
+   0.48849104859335046
   ],
   "btts": [
    0.4868483122793349,
@@ -1301,25 +1292,25 @@
    {
     "book": "1xBet",
     "odd": 1.61,
-    "edge": -0.01367091821143629
+    "edge": -0.009901808846113247
    },
    {
     "book": "1xBet",
     "odd": 4.27,
-    "edge": -0.004060797246917325
+    "edge": -0.01134705696165439
    },
    {
     "book": "1xBet",
     "odd": 6.3,
-    "edge": -0.028967076776974854
+    "edge": -0.03296554634655291
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.03860283095405315,
-    -0.012143243441327362,
-    -0.02645958751272584
+    0.04094389267164511,
+    -0.013849627449462526,
+    -0.027094265222182667
    ],
    "since": "15/10 00:01"
   }
