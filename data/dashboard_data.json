@@ -1,92 +1,5 @@
 [
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603056,
-  "kickoff": "2026-10-18T21:00:00+03:00",
-  "home": "Al-Fateh",
-  "away": "Al Khaleej Saihat",
-  "p": [
-   0.41102055141754085,
-   0.2732285614007721,
-   0.31575088718168703
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "A. Šemper",
-     "M. Lixandru",
-     "M. Saâdane",
-     "Abdulaziz Al Suwailem",
-     "A. Alamine Ali",
-     "Ali Al Hassan",
-     "H. Essadak",
-     "Abdulelah Al Khaibari",
-     "M. Batna",
-     "W. Kanga",
-     "L. Haraslín"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Marwan Al Haidari",
-     "Fawaz Al Saqour",
-     "Ahmad Asiri",
-     "K. Kouyaté",
-     "Ali Al Shaafi",
-     "Nawaf Al Saadi",
-     "Omar Mascarell",
-     "Mansour Hamzi",
-     "Hussain Al Eisa",
-     "Thamer Al Khaibri",
-     "M. Benegas"
-    ]
-   }
-  },
-  "ou": [
-   0.5544041450777203,
-   0.4455958549222798
-  ],
-  "btts": [
-   0.5847465491734237,
-   0.4152534508265763
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.32,
-    "edge": -0.04643232071130532
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.55,
-    "edge": -0.030038607027259023
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.02,
-    "edge": -0.0464323207113051
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.028123657375111855,
-    -0.00763892075609951,
-    -0.02048473661901229
-   ],
-   "since": "16/10 00:16"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -130,7 +43,40 @@
     "N. Rovella"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "G. Vicario",
+     "P. Kalulu",
+     "Bremer",
+     "J. Lucumí",
+     "W. McKennie",
+     "P. Sarr",
+     "Douglas Luiz",
+     "Z. Çelik",
+     "N. González",
+     "Kerim-Sam Alajbegović",
+     "R. Kolo Muani"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "C. Mandas",
+     "R. Floriani Mussolini",
+     "J. Šutalo",
+     "O. Provstgaard",
+     "Nuno Tavares",
+     "D. Frattesi",
+     "R. Belahyane",
+     "K. Taylor",
+     "G. Isaksen",
+     "T. Noslin",
+     "M. Zaccagni"
+    ]
+   }
+  },
   "ou": [
    0.5115089514066496,
    0.48849104859335046
@@ -202,7 +148,40 @@
     "A. Abdi"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "R. Descamps",
+     "Z. Athekame",
+     "Clinton Mata",
+     "M. Niakhaté",
+     "Abner",
+     "M. Bidstrup",
+     "T. Tessmann",
+     "J. Duranville",
+     "N. Nartey",
+     "K. Boudache",
+     "P. Šulc"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Y. Diouf",
+     "Mohamed Abdelmonem",
+     "Y. Ndayishimiye",
+     "X. Mandza Tsiendi",
+     "J. Clauss",
+     "H. Boudaoui",
+     "A. Witsel",
+     "N. Nkounkou",
+     "G. Hein",
+     "M. Amoura",
+     "E. Wahi"
+    ]
+   }
+  },
   "ou": [
    0.565989847715736,
    0.434010152284264
@@ -434,7 +413,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "18/10 21:01"
+  }
  },
  {
   "league": "الدوري المصري",
