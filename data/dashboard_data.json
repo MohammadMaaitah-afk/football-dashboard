@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628003,
-  "kickoff": "2026-10-18T20:30:00+03:00",
-  "home": "Al Shorta",
-  "away": "Al Karkh",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -38,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "A. Šemper",
+     "M. Lixandru",
+     "M. Saâdane",
+     "Abdulaziz Al Suwailem",
+     "A. Alamine Ali",
+     "Ali Al Hassan",
+     "H. Essadak",
+     "Abdulelah Al Khaibari",
+     "M. Batna",
+     "W. Kanga",
+     "L. Haraslín"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Marwan Al Haidari",
+     "Fawaz Al Saqour",
+     "Ahmad Asiri",
+     "K. Kouyaté",
+     "Ali Al Shaafi",
+     "Nawaf Al Saadi",
+     "Omar Mascarell",
+     "Mansour Hamzi",
+     "Hussain Al Eisa",
+     "Thamer Al Khaibri",
+     "M. Benegas"
+    ]
+   }
+  },
   "ou": [
    0.5544041450777203,
    0.4455958549222798
@@ -92,7 +104,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "Rabie Ajlid",
+     "Z. Labib",
+     "Akram Khouidsi",
+     "Tawfieq ijrouten",
+     "M. Gari",
+     "Oussama Essabri",
+     "F. El Kaaba",
+     "A. Cherrad",
+     "Nizar Cherki",
+     "Rabie Bounnit",
+     "M. Belkaida"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "A. El Ouaad",
+     "H. Smaali",
+     "Jawad rhabra",
+     "Hamza Rafa",
+     "Mouhcine Rabja",
+     "O. Mahrous",
+     "A. Maamouri",
+     "N. Khali",
+     "haimoud abdallah",
+     "S. Essallami",
+     "Abdellah Bouallali"
+    ]
+   }
+  },
   "ou": [
    0.31177829099307164,
    0.6882217090069285
