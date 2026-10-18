@@ -202,337 +202,6 @@
   }
  },
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557427,
-  "kickoff": "2026-10-18T16:00:00+03:00",
-  "home": "Bournemouth",
-  "away": "Sunderland",
-  "p": [
-   0.44179510888162443,
-   0.28671069012966777,
-   0.27149420098870775
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Araujo",
-    "E. J. Kroupi",
-    "A. Scott",
-    "V. Milosavljevic",
-    "J. Araujo",
-    "E. J. Kroupi",
-    "A. Scott",
-    "V. Milosavljevic"
-   ],
-   "away": [
-    "D. Ballard",
-    "T. Meunier",
-    "R. Mundle",
-    "W. Isidor",
-    "D. Ballard",
-    "T. Meunier",
-    "R. Mundle",
-    "W. Isidor"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Đ. Petrović",
-     "A. Smith",
-     "J. Hill",
-     "António Silva",
-     "A. Truffert",
-     "T. Adams",
-     "R. Christie",
-     "Rayan",
-     "L. Cook",
-     "M. Tavernier",
-     "Evanilson"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "R. Roefs",
-     "N. Mukiele",
-     "K. Danso",
-     "O. Alderete",
-     "Reinildo",
-     "G. Xhaka",
-     "N. Sadiki",
-     "T. Hume",
-     "E. Le Fée",
-     "C. Rigg",
-     "Timur Tuterov"
-    ]
-   }
-  },
-  "ou": [
-   0.4782608695652174,
-   0.5217391304347826
-  ],
-  "btts": [
-   0.5357743655913783,
-   0.4642256344086217
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.2,
-    "edge": -0.028050760460426205
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.54,
-    "edge": 0.014955843059023977
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.6,
-    "edge": -0.022620876440652138
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.023500520938426972,
-    0.01935850503969344,
-    0.00414201589873342
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557429,
-  "kickoff": "2026-10-18T16:00:00+03:00",
-  "home": "Brighton",
-  "away": "Crystal Palace",
-  "p": [
-   0.6491373082184222,
-   0.2031963422784557,
-   0.147666349503122
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Azeez",
-    "E. Ferguson",
-    "Y. Minteh",
-    "K. Mitoma",
-    "S. Tzimas",
-    "M. Wieffer",
-    "Z. Yohanna",
-    "P. Struijk",
-    "F. Azeez",
-    "E. Ferguson",
-    "Y. Minteh",
-    "K. Mitoma",
-    "S. Tzimas",
-    "M. Wieffer",
-    "Z. Yohanna",
-    "P. Struijk"
-   ],
-   "away": [
-    "A. Disasi",
-    "C. Riad",
-    "B. Chilwell",
-    "D. Henderson",
-    "J. Mateta",
-    "T. Tomiyasu",
-    "A. Disasi",
-    "C. Riad",
-    "B. Chilwell",
-    "D. Henderson",
-    "J. Mateta",
-    "T. Tomiyasu"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "B. Verbruggen",
-     "F. Kadıoğlu",
-     "L. Vušković",
-     "L. Dunk",
-     "O. Boscagli",
-     "P. Groß",
-     "José María Andrés Baixauli",
-     "D. Gómez",
-     "Y. Ayari",
-     "M. De Cuyper",
-     "C. Kostoulas"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "W. Benítez",
-     "J. Canvot",
-     "C. Richards",
-     "H. Ahanor",
-     "A. Khalaili",
-     "A. Wharton",
-     "Q. Timber",
-     "T. Mitchell",
-     "D. Kamada",
-     "Yeremy Pino",
-     "J. Strand Larsen"
-    ]
-   }
-  },
-  "ou": [
-   0.6102941176470588,
-   0.3897058823529411
-  ],
-  "btts": [
-   0.5590901243801768,
-   0.4409098756198233
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.54,
-    "edge": -0.0003285453436298047
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.83,
-    "edge": -0.018561666795058884
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 6.55,
-    "edge": -0.03278541075455099
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.03524917384459225,
-    -0.005419322432997337,
-    -0.02982985141159497
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557432,
-  "kickoff": "2026-10-18T16:00:00+03:00",
-  "home": "Leeds",
-  "away": "Manchester United",
-  "p": [
-   0.3728321702480481,
-   0.2845298141366683,
-   0.3426380156152837
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Joseph",
-    "J. Rodon",
-    "D. James",
-    "M. Joseph",
-    "J. Rodon",
-    "D. James"
-   ],
-   "away": [
-    "P. Dorgu",
-    "T. Heaton",
-    "B. Sesko",
-    "M. Ugarte",
-    "K. Mainoo",
-    "N. Mazraoui",
-    "L. Shaw",
-    "P. Dorgu",
-    "T. Heaton",
-    "B. Sesko",
-    "M. Ugarte",
-    "K. Mainoo",
-    "N. Mazraoui",
-    "L. Shaw"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "J. Trafford",
-     "J. Justin",
-     "N. Elvedi",
-     "T. Muharemović",
-     "J. Bogle",
-     "E. Ampadu",
-     "A. Tanaka",
-     "G. Gudmundsson",
-     "A. Stach",
-     "N. Okafor",
-     "D. Calvert-Lewin"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "S. Lammens",
-     "L. Yoro",
-     "H. Maguire",
-     "Lisandro Martínez",
-     "Diogo Dalot",
-     "Andrey Santos",
-     "C. Baleba",
-     "Bruno Fernandes",
-     "Y. Tielemans",
-     "A. Diallo",
-     "B. Mbeumo"
-    ]
-   }
-  },
-  "ou": [
-   0.4936061381074168,
-   0.5063938618925831
-  ],
-  "btts": [
-   0.5639319836895279,
-   0.4360680163104721
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.61,
-    "edge": -0.026908035652594475
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.52,
-    "edge": 0.001544945761072336
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.92,
-    "edge": 0.0005030055966284142
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    -0.02036851645899368,
-    0.01952332391767575,
-    0.0008451925413180406
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري العُماني",
   "type": "arab",
   "en": "Oman Professional League",
@@ -796,7 +465,40 @@
     "B. Yilmaz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Flekken",
+     "J. Quansah",
+     "E. Tapsoba",
+     "F. Medina",
+     "Miguel Gutiérrez",
+     "Aleix García",
+     "E. Fernández",
+     "M. Diaby",
+     "I. Maza",
+     "Afonso Moreira",
+     "P. Schick"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Backhaus",
+     "P. Treu",
+     "M. Ginter",
+     "P. Lienhart",
+     "J. Makengo",
+     "M. Eggestein",
+     "Y. Engelhardt",
+     "J. Beste",
+     "K. Goto",
+     "D. Scherhant",
+     "I. Matanović"
+    ]
+   }
+  },
   "ou": [
    0.6643356643356644,
    0.3356643356643357
@@ -2341,47 +2043,47 @@
   "home": "Widad Témara",
   "away": "Kawkab Marrakech",
   "p": [
-   0.21166476374035006,
-   0.24839997067049346,
-   0.5399352655891565
+   0.3742153800709796,
+   0.3309847224454513,
+   0.29479989748356916
   ],
-  "source": "متوسط 1 شركات",
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.4808743169398907,
-   0.5191256830601093
+   0.31177829099307164,
+   0.6882217090069285
   ],
   "btts": [
-   0.494535519125683,
-   0.505464480874317
+   0.4027004640019549,
+   0.5972995359980452
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 4.26,
-    "edge": -0.09830810646610877
+    "book": "Pinnacle",
+    "odd": 2.45,
+    "edge": -0.08317231882609988
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 2.77,
+    "edge": -0.08317231882609988
    },
    {
     "book": "1xBet",
-    "odd": 3.63,
-    "edge": -0.09830810646610877
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.67,
-    "edge": -0.09830810646610866
+    "odd": 3.22,
+    "edge": -0.05074433010290724
    }
   ],
-  "nbooks": 1,
+  "nbooks": 6,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.16255061633062953,
+    0.08258475177495783,
+    -0.24513536810558734
    ],
    "since": "15/10 00:01"
   }
@@ -2623,47 +2325,47 @@
   "home": "Wydad AC",
   "away": "Amal Tiznit",
   "p": [
-   0.6715414529207347,
-   0.20927105742181037,
-   0.11918748965745493
+   0.5979988196647094,
+   0.25274535748259813,
+   0.14925582285269254
   ],
-  "source": "متوسط 1 شركات",
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.49046321525885556,
-   0.5095367847411445
+   0.4051282051282052,
+   0.5948717948717949
   ],
   "btts": [
-   0.43163538873994634,
-   0.5683646112600536
+   0.41170918587438765,
+   0.5882908141256122
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 1.34,
-    "edge": -0.10013445308621538
+    "book": "Pinnacle",
+    "odd": 1.53,
+    "edge": -0.08506180591299461
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.62,
+    "edge": -0.08506180591299473
    },
    {
     "book": "1xBet",
-    "odd": 4.3,
-    "edge": -0.10013445308621538
-   },
-   {
-    "book": "1xBet",
-    "odd": 7.55,
-    "edge": -0.10013445308621527
+    "odd": 6.63,
+    "edge": -0.010433894486648443
    }
   ],
-  "nbooks": 1,
+  "nbooks": 6,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    -0.07354263325602539,
+    0.04347430006078776,
+    0.030068333195237607
    ],
    "since": "15/10 00:01"
   }
