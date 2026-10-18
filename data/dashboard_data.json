@@ -1,277 +1,5 @@
 [
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628006,
-  "kickoff": "2026-10-18T18:00:00+03:00",
-  "home": "Ghaz Al Shamal",
-  "away": "Al Zawra'a",
-  "p": [
-   0.22564589930238368,
-   0.3026581516240163,
-   0.47169594907359996
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.37984496124031014,
-   0.6201550387596899
-  ],
-  "btts": [
-   0.4412778266621533,
-   0.5587221733378467
-  ],
-  "best": [
-   {
-    "book": "BetVictor",
-    "odd": 4.1,
-    "edge": -0.07485181286022702
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.1,
-    "edge": -0.06175972996554935
-   },
-   {
-    "book": "William Hill",
-    "odd": 1.95,
-    "edge": -0.0801928993064801
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.03398329997146238,
-    0.02943307291184094,
-    -0.06341637288330332
-   ],
-   "since": "18/10 04:15"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552784,
-  "kickoff": "2026-10-18T18:15:00+03:00",
-  "home": "Le Havre",
-  "away": "Auxerre",
-  "p": [
-   0.4228656273199703,
-   0.27319970304380103,
-   0.3039346696362286
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "E. Jelert",
-    "F. Mambimbi",
-    "L. Mpasi-Nzau",
-    "T. Pembele",
-    "A. Seko",
-    "A. Toure",
-    "S. Zagadou",
-    "R. Fofana",
-    "E. Jelert",
-    "F. Mambimbi",
-    "L. Mpasi-Nzau",
-    "T. Pembele",
-    "A. Seko",
-    "A. Toure",
-    "S. Zagadou",
-    "R. Fofana"
-   ],
-   "away": [
-    "A. Diousse",
-    "S. Fofana",
-    "R. Labeau Lascary",
-    "B. Okoh",
-    "C. Akpa",
-    "R. Mandengue",
-    "M. Senaya",
-    "T. Siwe",
-    "A. Diousse",
-    "S. Fofana",
-    "R. Labeau Lascary",
-    "B. Okoh",
-    "C. Akpa",
-    "R. Mandengue",
-    "M. Senaya",
-    "T. Siwe"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "G. Gallon",
-     "D. Ouziad",
-     "J. Mwanga",
-     "A. Touba",
-     "M. Ndiaye",
-     "R. Ndiaye",
-     "S. Ebonog",
-     "A. Richardson",
-     "S. Nakamura",
-     "J. Maja",
-     "M. Samatta"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "P. Nardi",
-     "C. Makosso",
-     "A. Tuanzebe",
-     "C. Akpa",
-     "L. Sy",
-     "R. Faivre",
-     "K. Danois",
-     "N. Ahamada",
-     "F. Oppegård",
-     "D. Namaso",
-     "C. Archer"
-    ]
-   }
-  },
-  "ou": [
-   0.5459183673469388,
-   0.4540816326530612
-  ],
-  "btts": [
-   0.5791445786654392,
-   0.42085542133456083
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.34,
-    "edge": -0.010494432071269544
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.6,
-    "edge": -0.016481069042316276
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.22,
-    "edge": -0.021330363771343785
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.017974239950198534,
-    -0.009750710936828944,
-    -0.00822352901336959
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552787,
-  "kickoff": "2026-10-18T18:15:00+03:00",
-  "home": "Lorient",
-  "away": "Monaco",
-  "p": [
-   0.2579029689555987,
-   0.2834676947412848,
-   0.45862933630311653
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "N. Mbamba",
-    "N. Mbamba"
-   ],
-   "away": [
-    "P. Brunner",
-    "E. Dier",
-    "S. Idumbo",
-    "P. Brunner",
-    "E. Dier",
-    "S. Idumbo"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Y. Mvogo",
-     "N. Adjei",
-     "M. Talbi",
-     "S. Touré",
-     "D. Sylla",
-     "N. Cadiou",
-     "A. Avom",
-     "K. Kouassi",
-     "J. Makengo",
-     "G. Bernardeau",
-     "I. Baldé"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "L. Hrádecký",
-     "Vanderson",
-     "Sadibou Sané",
-     "M. Salisu",
-     "Flávio Nazinho",
-     "L. Camara",
-     "D. Zakaria",
-     "T. Minamino",
-     "A. Golovin",
-     "Ansu Fati",
-     "M. Abline"
-    ]
-   }
-  },
-  "ou": [
-   0.49104859335038353,
-   0.5089514066496164
-  ],
-  "btts": [
-   0.5259899265083139,
-   0.47401007349168617
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.8,
-    "edge": -0.019968717968724903
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.5,
-    "edge": -0.007863068405503215
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.15,
-    "edge": -0.013946926948299465
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.010040807910362354,
-    -0.0016834639833233633,
-    -0.008357343927038907
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
@@ -655,7 +383,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "A. Al Hosani",
+     "G. Zajkov",
+     "Mohamed Nasser",
+     "Yuri Matias",
+     "Vitor Vargas",
+     "Bilal Yousef",
+     "I. Moumen",
+     "Victor Henrique",
+     "Saad El Hadani",
+     "Lithierry",
+     "Lourency"
+    ]
+   },
+   "away": {
+    "formation": "4-5-1",
+    "xi": [
+     "Adel Al Hosani",
+     "Khaled Ebraheim",
+     "M. Katinić",
+     "C. Nsiala-Makengo",
+     "Leandrinho",
+     "Lorran",
+     "Agner",
+     "C. Pickel",
+     "Igor Coronado",
+     "Yahya Al Ghassani",
+     "K. Laba"
+    ]
+   }
+  },
   "ou": [
    0.5681233933161953,
    0.4318766066838046
@@ -818,9 +579,9 @@
   "home": "Malaga",
   "away": "Real Sociedad",
   "p": [
-   0.3088961651589988,
-   0.2680503912536767,
-   0.4230534435873245
+   0.3022522044370587,
+   0.26519130743523955,
+   0.4325564881277018
   ],
   "source": "Pinnacle",
   "out": {
@@ -847,36 +608,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5789473684210525,
-   0.42105263157894735
+   0.5860349127182045,
+   0.4139650872817955
   ],
   "btts": [
-   0.6007708952869286,
-   0.3992291047130713
+   0.6066320555243694,
+   0.39336794447563067
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 3.3,
-    "edge": 0.019357345024695993
+    "edge": -0.0025677253577063297
    },
    {
     "book": "1xBet",
     "odd": 3.68,
-    "edge": -0.013574560186469742
+    "edge": -0.02409598863831841
    },
    {
-    "book": "Pinnacle",
-    "odd": 2.3,
-    "edge": -0.026977079749153754
+    "book": "1xBet",
+    "odd": 2.27,
+    "edge": -0.01809677195011683
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.023558989493281723,
-    -0.0029000360591471264,
-    -0.020658953434134597
+    0.0169150287713416,
+    -0.005759119877584262,
+    -0.011155908893757283
    ],
    "since": "15/10 00:01"
   }
@@ -1742,9 +1503,9 @@
   "home": "Al-Fayha",
   "away": "Al-Ahli Jeddah",
   "p": [
-   0.12938846851229036,
-   0.17308121627483616,
-   0.6975303152128736
+   0.1302116249420068,
+   0.17500246585250914,
+   0.6947859092054841
   ],
   "source": "Pinnacle",
   "out": {
@@ -1753,36 +1514,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6305418719211823,
-   0.3694581280788178
+   0.6253101736972705,
+   0.3746898263027295
   ],
   "btts": [
-   0.5294347312375318,
-   0.47056526876246824
+   0.5276015307448139,
+   0.4723984692551862
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 8.15,
-    "edge": 0.05451601837516651
+    "edge": 0.06122474327735561
    },
    {
     "book": "1xBet",
     "odd": 5.47,
-    "edge": -0.05324574697664619
+    "edge": -0.04273651178677507
    },
    {
-    "book": "Bet365",
-    "odd": 1.33,
-    "edge": -0.0722846807668781
+    "book": "Pinnacle",
+    "odd": 1.34,
+    "edge": -0.06898688166465128
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.0008231564297164484,
+    0.0019212495776729788,
+    -0.002744406007389455
    ],
    "since": "16/10 00:01"
   }
