@@ -1,114 +1,5 @@
 [
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570420,
-  "kickoff": "2026-10-18T22:00:00+03:00",
-  "home": "Real Madrid",
-  "away": "Sevilla",
-  "p": [
-   0.7792665840255714,
-   0.1386356620074187,
-   0.08209775396701005
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "R. Asencio",
-    "Eder Militao",
-    "Rodrygo",
-    "Vinicius Junior",
-    "F. Mendy",
-    "R. Asencio",
-    "Eder Militao",
-    "Rodrygo",
-    "Vinicius Junior",
-    "F. Mendy"
-   ],
-   "away": [
-    "J. Guridi",
-    "Marcao",
-    "I. Romero",
-    "M. Sierra",
-    "G. Kochorashvili",
-    "J. Guridi",
-    "Marcao",
-    "I. Romero",
-    "M. Sierra",
-    "G. Kochorashvili"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "T. Courtois",
-     "F. Valverde",
-     "I. Konaté",
-     "D. Huijsen",
-     "Marc Cucurella",
-     "J. Bellingham",
-     "A. Tchouaméni",
-     "Endrick",
-     "A. Güler",
-     "Y. Diomande",
-     "Kylian Mbappé"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "O. Vlachodimos",
-     "Juan Iglesias",
-     "Andrés Castrín",
-     "Kike Salas",
-     "G. Suazo",
-     "L. Agoumé",
-     "Y. Fofana",
-     "R. Vargas",
-     "Peque Fernández",
-     "Félix Correia",
-     "R. Ure"
-    ]
-   }
-  },
-  "ou": [
-   0.6735632183908046,
-   0.3264367816091953
-  ],
-  "btts": [
-   0.508836081792156,
-   0.49116391820784405
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.29,
-    "edge": 0.005253893392987097
-   },
-   {
-    "book": "Bet365",
-    "odd": 7.0,
-    "edge": -0.029550365948069146
-   },
-   {
-    "book": "BetVictor",
-    "odd": 12.0,
-    "edge": -0.01482695239587939
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.012978805480407085,
-    -0.006056139077393274,
-    -0.006922666403013686
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري المغربي",
   "type": "arab",
   "en": "Morocco Botola Pro",
@@ -354,9 +245,9 @@
   "home": "Al-Fayha",
   "away": "Al-Ahli Jeddah",
   "p": [
-   0.12903325251565426,
-   0.1734110440350569,
-   0.6975557034492889
+   0.13152661985986883,
+   0.17602441087788057,
+   0.6924489692622506
   ],
   "source": "Pinnacle",
   "out": {
@@ -365,36 +256,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6253101736972705,
-   0.3746898263027295
+   0.6246913580246914,
+   0.3753086419753087
   ],
   "btts": [
-   0.5276015307448139,
-   0.4723984692551862
+   0.5294347312375318,
+   0.47056526876246824
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 8.15,
-    "edge": 0.05162100800258229
+    "edge": 0.07194195185793095
    },
    {
     "book": "1xBet",
     "odd": 5.47,
-    "edge": -0.05144158912823882
+    "edge": -0.0371464724979933
    },
    {
-    "book": "Bet365",
-    "odd": 1.33,
-    "edge": -0.0722509144124458
+    "book": "Pinnacle",
+    "odd": 1.36,
+    "edge": -0.05826940180333906
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.00035521599663609904,
-    0.00032982776022072446,
-    2.538823641529131e-05
+    0.002138151347578471,
+    0.0029431946030444023,
+    -0.005081345950622929
    ],
    "since": "16/10 00:01"
   }
