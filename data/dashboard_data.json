@@ -1,206 +1,5 @@
 [
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552789,
-  "kickoff": "2026-10-18T18:15:00+03:00",
-  "home": "Paris FC",
-  "away": "Rennes",
-  "p": [
-   0.45022163263985504,
-   0.26790047562040964,
-   0.2818778917397354
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Ikone",
-    "N. Sangui",
-    "S. Chergui",
-    "V. Marchetti",
-    "J. Ikone",
-    "N. Sangui",
-    "S. Chergui",
-    "V. Marchetti"
-   ],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "K. Trapp",
-     "A. Camara",
-     "S. Chergui",
-     "D. Coppola",
-     "H. Traoré",
-     "M. Lopez",
-     "P. Lees-Melou",
-     "I. Kebbal",
-     "P. Pagis",
-     "L. Koleosho",
-     "L. Sinayoko"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "B. Samba",
-     "P. Frankowski",
-     "C. Cresswell",
-     "A. Rouault",
-     "B. Reynolds",
-     "S. Szymański",
-     "D. Cissé",
-     "A. Thomasson",
-     "L. Blas",
-     "E. Lepaul",
-     "I. Soumaré"
-    ]
-   }
-  },
-  "ou": [
-   0.5789473684210525,
-   0.42105263157894735
-  ],
-  "btts": [
-   0.6042534653014997,
-   0.39574653469850035
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.26,
-    "edge": 0.017500889766072225
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.7,
-    "edge": -0.008768240204484301
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.45,
-    "edge": -0.02752127349791289
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.034949693870147125,
-    -0.02799665506259319,
-    -0.006953038807553991
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557435,
-  "kickoff": "2026-10-18T18:30:00+03:00",
-  "home": "Nottingham Forest",
-  "away": "Arsenal",
-  "p": [
-   0.16252678438788074,
-   0.2442005977545178,
-   0.5932726178576015
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "Igor Jesus",
-    "N. Savona",
-    "M. Gibbs-White",
-    "N. Milenkovic",
-    "Igor Jesus",
-    "N. Savona",
-    "M. Gibbs-White",
-    "N. Milenkovic"
-   ],
-   "away": [
-    "P. Hincapie",
-    "W. Saliba",
-    "C. Tzolis",
-    "M. Zubimendi",
-    "P. Hincapie",
-    "W. Saliba",
-    "C. Tzolis",
-    "M. Zubimendi"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "M. Sels",
-     "Jair",
-     "O. Diomande",
-     "Murillo",
-     "D. Muñoz",
-     "X. Schlager",
-     "N. Domínguez",
-     "N. Williams",
-     "J. McAtee",
-     "D. Ndoye",
-     "L. Delap"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "David Raya",
-     "B. White",
-     "E. Konsa",
-     "Gabriel Magalhães",
-     "R. Calafiori",
-     "D. Rice",
-     "Bruno Guimarães",
-     "B. Saka",
-     "M. Ødegaard",
-     "E. Eze",
-     "K. Havertz"
-    ]
-   }
-  },
-  "ou": [
-   0.5217391304347826,
-   0.4782608695652174
-  ],
-  "btts": [
-   0.5043011995953173,
-   0.4956988004046828
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 5.95,
-    "edge": -0.03296563289210963
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.0,
-    "edge": -0.023197608981928797
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.68,
-    "edge": -0.003302001999229476
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.012464929416605153,
-    -0.006422188600106071,
-    -0.006042740816499026
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري الألماني",
   "type": "top",
   "en": "Bundesliga",
@@ -309,60 +108,6 @@
     -0.0033809542112858137
    ],
    "since": "15/10 00:01"
-  }
- },
- {
-  "league": "الدوري العُماني",
-  "type": "arab",
-  "en": "Oman Professional League",
-  "id": 1642116,
-  "kickoff": "2026-10-18T18:30:00+03:00",
-  "home": "Al Nasr",
-  "away": "Al Seeb",
-  "p": [
-   0.2578212065612116,
-   0.3153144372926316,
-   0.42686435614615686
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4613333333333334,
-   0.5386666666666667
-  ],
-  "btts": [
-   0.505181748805727,
-   0.49481825119427303
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 3.7,
-    "edge": -0.04606153572351701
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.2,
-    "edge": 0.009006199336421217
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.12,
-    "edge": -0.09504756497014744
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "18/10 03:45"
   }
  },
  {
@@ -492,7 +237,40 @@
     "K. Sulemana"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "S. Chukwueze",
+     "K. De Winter",
+     "Mario Gila",
+     "L. Modrić",
+     "Diego Moreira",
+     "Y. Musah",
+     "S. Pavlović",
+     "C. Pulišić",
+     "A. Rabiot",
+     "Gonçalo Ramos",
+     "M. Maignan"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "L. Samardžić",
+     "J. Rowe",
+     "Mario Pasalic",
+     "N. Krstović",
+     "T. Kristensen",
+     "S. Kolašinac",
+     "Éderson",
+     "C. De Ketelaere",
+     "L. Bernasconi",
+     "R. Bellanova",
+     "M. Carnesecchi"
+    ]
+   }
+  },
   "ou": [
    0.5955334987593052,
    0.4044665012406948
