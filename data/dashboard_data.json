@@ -37,7 +37,40 @@
     "N. Stulic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Okoye",
+     "O. Solet",
+     "D. Alaba",
+     "E. Ebosse",
+     "M. Vojvoda",
+     "J. Karlström",
+     "Oier Zarraga",
+     "H. Kamara",
+     "J. Ekkelenkamp",
+     "G. Chakvetadze",
+     "K. Davis"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "W. Falcone",
+     "Danilo Veiga",
+     "Kialonda Gaspar",
+     "Tiago Gabriel",
+     "A. Gallo",
+     "L. Coulibaly",
+     "O. Ngom",
+     "Y. Maleh",
+     "K. N’Dri",
+     "W. Geubbels",
+     "A. Ahmed Fatah"
+    ]
+   }
+  },
   "ou": [
    0.46410256410256406,
    0.5358974358974359
