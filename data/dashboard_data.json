@@ -8,9 +8,9 @@
   "home": "Al-Fateh",
   "away": "Al Khaleej Saihat",
   "p": [
-   0.4176935695793132,
-   0.27209752532595255,
-   0.31020890509473426
+   0.41102055141754085,
+   0.2732285614007721,
+   0.31575088718168703
   ],
   "source": "Pinnacle",
   "out": {
@@ -62,115 +62,28 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.28,
-    "edge": -0.047658661359165966
+    "odd": 2.32,
+    "edge": -0.04643232071130532
    },
    {
     "book": "1xBet",
     "odd": 3.55,
-    "edge": -0.034053785092868494
+    "edge": -0.030038607027259023
    },
    {
     "book": "Pinnacle",
-    "odd": 3.07,
-    "edge": -0.047658661359165855
+    "odd": 3.02,
+    "edge": -0.0464323207113051
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    0.0347966755368842,
-    -0.008769956830919079,
-    -0.02602671870596507
+    0.028123657375111855,
+    -0.00763892075609951,
+    -0.02048473661901229
    ],
    "since": "16/10 00:16"
-  }
- },
- {
-  "league": "الدوري المغربي",
-  "type": "arab",
-  "en": "Morocco Botola Pro",
-  "id": 1644216,
-  "kickoff": "2026-10-18T21:00:00+03:00",
-  "home": "Widad Témara",
-  "away": "Kawkab Marrakech",
-  "p": [
-   0.3742153800709796,
-   0.3309847224454513,
-   0.29479989748356916
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "Rabie Ajlid",
-     "Z. Labib",
-     "Akram Khouidsi",
-     "Tawfieq ijrouten",
-     "M. Gari",
-     "Oussama Essabri",
-     "F. El Kaaba",
-     "A. Cherrad",
-     "Nizar Cherki",
-     "Rabie Bounnit",
-     "M. Belkaida"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "A. El Ouaad",
-     "H. Smaali",
-     "Jawad rhabra",
-     "Hamza Rafa",
-     "Mouhcine Rabja",
-     "O. Mahrous",
-     "A. Maamouri",
-     "N. Khali",
-     "haimoud abdallah",
-     "S. Essallami",
-     "Abdellah Bouallali"
-    ]
-   }
-  },
-  "ou": [
-   0.31177829099307164,
-   0.6882217090069285
-  ],
-  "btts": [
-   0.4027004640019549,
-   0.5972995359980452
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.45,
-    "edge": -0.08317231882609988
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.77,
-    "edge": -0.08317231882609988
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.22,
-    "edge": -0.05074433010290724
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.16255061633062953,
-    0.08258475177495783,
-    -0.24513536810558734
-   ],
-   "since": "15/10 00:01"
   }
  },
  {
@@ -484,17 +397,43 @@
   "kickoff": "2026-10-19T16:00:00+03:00",
   "home": "Al-Nahda",
   "away": "Sur",
-  "p": null,
-  "source": null,
+  "p": [
+   0.6765267616325891,
+   0.20371817091857738,
+   0.11975506744883346
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.5531914893617021,
+   0.44680851063829785
+  ],
+  "btts": [
+   0.4767036753981816,
+   0.5232963246018183
+  ],
+  "best": [
+   {
+    "book": "William Hill",
+    "odd": 1.36,
+    "edge": -0.07992360417967881
+   },
+   {
+    "book": "Bet365",
+    "odd": 4.5,
+    "edge": -0.08326823086640178
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 7.57,
+    "edge": -0.0934541394123306
+   }
+  ],
+  "nbooks": 6,
   "move": null
  },
  {
