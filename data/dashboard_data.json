@@ -1,118 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550152,
-  "kickoff": "2026-10-18T21:45:00+03:00",
-  "home": "Juventus",
-  "away": "Lazio",
-  "p": [
-   0.6125170209056771,
-   0.23263867620936773,
-   0.15484430288495518
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Ekhator",
-    "K. Grabara",
-    "M. Locatelli",
-    "A. Milik",
-    "K. Thuram",
-    "K. Yildiz",
-    "J. Ekhator",
-    "K. Grabara",
-    "M. Locatelli",
-    "A. Milik",
-    "K. Thuram",
-    "K. Yildiz"
-   ],
-   "away": [
-    "A. Furlanetto",
-    "A. Gudmundsson",
-    "M. Cancellieri",
-    "F. Gatto",
-    "A. Marusic",
-    "N. Rovella",
-    "A. Furlanetto",
-    "A. Gudmundsson",
-    "M. Cancellieri",
-    "F. Gatto",
-    "A. Marusic",
-    "N. Rovella"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "G. Vicario",
-     "P. Kalulu",
-     "Bremer",
-     "J. Lucumí",
-     "W. McKennie",
-     "P. Sarr",
-     "Douglas Luiz",
-     "Z. Çelik",
-     "N. González",
-     "Kerim-Sam Alajbegović",
-     "R. Kolo Muani"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "C. Mandas",
-     "R. Floriani Mussolini",
-     "J. Šutalo",
-     "O. Provstgaard",
-     "Nuno Tavares",
-     "D. Frattesi",
-     "R. Belahyane",
-     "K. Taylor",
-     "G. Isaksen",
-     "T. Noslin",
-     "M. Zaccagni"
-    ]
-   }
-  },
-  "ou": [
-   0.5115089514066496,
-   0.48849104859335046
-  ],
-  "btts": [
-   0.4868483122793349,
-   0.513151687720665
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.61,
-    "edge": -0.013847596341859836
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.27,
-    "edge": -0.006632852585999882
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.3,
-    "edge": -0.024480891824782414
-   }
-  ],
-  "nbooks": 6,
-  "move": {
-   "diff": [
-    0.038493092984845934,
-    -0.012745598321674573,
-    -0.025747494663171472
-   ],
-   "since": "15/10 00:01"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -245,8 +132,8 @@
    0.5948717948717949
   ],
   "btts": [
-   0.4106497190254471,
-   0.5893502809745528
+   0.410025799863669,
+   0.5899742001363311
   ],
   "best": [
    {
