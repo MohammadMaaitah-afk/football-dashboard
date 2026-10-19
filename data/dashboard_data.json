@@ -54,113 +54,6 @@
   }
  },
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550153,
-  "kickoff": "2026-10-19T19:30:00+03:00",
-  "home": "Monza",
-  "away": "Cagliari",
-  "p": [
-   0.4213715455475947,
-   0.29318321392016383,
-   0.2854452405322415
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "L. Lucchesi",
-    "Y. Maye",
-    "M. Pessina",
-    "I. Toure",
-    "E. Zeballos",
-    "J. Ziolkowski",
-    "L. Lucchesi",
-    "Y. Maye",
-    "M. Pessina",
-    "I. Toure",
-    "E. Zeballos",
-    "J. Ziolkowski"
-   ],
-   "away": [
-    "M. Felici",
-    "R. Idrissi",
-    "Y. Trepy",
-    "M. Felici",
-    "R. Idrissi",
-    "Y. Trepy"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "N. Törnqvist",
-     "E. Kouadio",
-     "S. Goglichidze",
-     "A. Carboni",
-     "S. Birindelli",
-     "M. Ondoa",
-     "E. Akinsanmiro",
-     "Ricardo Mangas",
-     "Dany Mota",
-     "Jay Robinson",
-     "Gustavo Varela"
-    ]
-   },
-   "away": {
-    "formation": "4-3-1-2",
-    "xi": [
-     "E. Caprile",
-     "Zé Pedro",
-     "Y. Mina",
-     "J. Rodríguez",
-     "A. Obert",
-     "M. Adopo",
-     "H. Winks",
-     "A. Romano",
-     "D. Maldini",
-     "P. Mendy",
-     "M&apos;Bala Nzola"
-    ]
-   }
-  },
-  "ou": [
-   0.46410256410256406,
-   0.5358974358974359
-  ],
-  "btts": [
-   0.5229107391680502,
-   0.47708926083194975
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.45,
-    "edge": 0.03236028659160706
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.32,
-    "edge": -0.026631729785056124
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.41,
-    "edge": -0.026631729785056346
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.018015995099421922,
-    -0.005598675300704903,
-    -0.012417319798716853
-   ],
-   "since": "16/10 00:01"
-  }
- },
- {
   "league": "الدوري الكويتي",
   "type": "arab",
   "en": "Kuwait Premier League",
@@ -232,7 +125,28 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed El Sayed",
+     "Karim El Eraki",
+     "B. El Mohamady",
+     "Mostafa Al Aash",
+     "Mohamed Shokry",
+     "Mahmoud Hamada",
+     "Hassan Ali",
+     "Ahmed El Armouty",
+     "Hussein Faisal",
+     "A. Ziani",
+     "Salah Mohsen"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": []
+   }
+  },
   "ou": [
    0.43814432989690716,
    0.5618556701030928
@@ -286,7 +200,28 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Abdel Rahman Samir",
+     "Sayed Said",
+     "M. Sharkia",
+     "Ahmed Khalil Kalousha",
+     "Mohamed Hamdy",
+     "Emad Mayhoub",
+     "Zeyad Kamal",
+     "Mohamed Sherif",
+     "Mohamed El Nahass",
+     "Mohamed Essam",
+     "Kahraba"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": []
+   }
+  },
   "ou": [
    0.3915211970074813,
    0.6084788029925187
