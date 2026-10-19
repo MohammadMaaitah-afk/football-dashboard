@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Eslam Risha",
+     "Ahmed Belya",
+     "Alpha Turay",
+     "Saber El Shimi",
+     "M. Metawea",
+     "Mohamed Reda",
+     "Nour El Sayed",
+     "Alaa Shaaban",
+     "M. Egbemba",
+     "Ziad El Shayat",
+     "Marwan Mohsen"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Ahmed Mayhoub",
+     "Ali Gamal",
+     "Mohamed Ragab",
+     "Abdel Ghani Mohamed",
+     "Mohamed Desouki",
+     "K. Mohamed",
+     "Mohamed Farouk",
+     "Mohamed Saeed",
+     "Khaled El Ghandour",
+     "Samir Fekri",
+     "P. Badji"
+    ]
+   }
+  },
   "ou": [
    0.30155210643015523,
    0.6984478935698448
@@ -77,24 +110,24 @@
    0.3464373464373464
   ],
   "btts": [
-   0.4220918177405624,
-   0.5779081822594376
+   0.4217188064803576,
+   0.5782811935196425
   ],
   "best": [
    {
-    "book": "Betano",
-    "odd": 1.19,
-    "edge": -0.06559318101179812
+    "book": "William Hill",
+    "odd": 1.18,
+    "edge": -0.0734453391545562
+   },
+   {
+    "book": "Dafabet",
+    "odd": 7.2,
+    "edge": -0.032501943124460975
    },
    {
     "book": "Betfair",
-    "odd": 7.0,
-    "edge": -0.059376889148781475
-   },
-   {
-    "book": "William Hill",
-    "odd": 15.0,
-    "edge": 0.20614183403896247
+    "odd": 14.0,
+    "edge": 0.12573237843636487
    }
   ],
   "nbooks": 10,
