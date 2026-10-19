@@ -91,7 +91,40 @@
     "Y. Trepy"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "N. Törnqvist",
+     "E. Kouadio",
+     "S. Goglichidze",
+     "A. Carboni",
+     "S. Birindelli",
+     "M. Ondoa",
+     "E. Akinsanmiro",
+     "Ricardo Mangas",
+     "Dany Mota",
+     "Jay Robinson",
+     "Gustavo Varela"
+    ]
+   },
+   "away": {
+    "formation": "4-3-1-2",
+    "xi": [
+     "E. Caprile",
+     "Zé Pedro",
+     "Y. Mina",
+     "J. Rodríguez",
+     "A. Obert",
+     "M. Adopo",
+     "H. Winks",
+     "A. Romano",
+     "D. Maldini",
+     "P. Mendy",
+     "M&apos;Bala Nzola"
+    ]
+   }
+  },
   "ou": [
    0.46410256410256406,
    0.5358974358974359
