@@ -87,93 +87,6 @@
   }
  },
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603060,
-  "kickoff": "2026-10-19T21:00:00+03:00",
-  "home": "Al Shabab",
-  "away": "Al-Faisaly FC",
-  "p": [
-   0.5882832088880269,
-   0.2172330197958081,
-   0.19448377131616496
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "M. Diaw",
-     "Mohammed Fuad Ibrahim Al Thani",
-     "T. Jedvaj",
-     "M. Barry",
-     "Dhari Al Anazi",
-     "A. Matuq",
-     "J. Brownhill",
-     "Y. Adli",
-     "Daniel Podence",
-     "Roger Martínez",
-     "Ricardo Mathias"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "Fernando Pacheco",
-     "Yaseen Barnawi",
-     "A. Ba",
-     "A. Seck",
-     "Mohammed Ali Al Shanqiti",
-     "Flávio",
-     "Andrei Girotto",
-     "Jaime Seoane",
-     "Abdulaziz Al Bishi",
-     "Alexandre Mendy",
-     "Abdullah Almuqrin"
-    ]
-   }
-  },
-  "ou": [
-   0.586734693877551,
-   0.413265306122449
-  ],
-  "btts": [
-   0.5703906870431237,
-   0.42960931295687627
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.65,
-    "edge": -0.029332705334755738
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.36,
-    "edge": -0.05286403369027659
-   },
-   {
-    "book": "1xBet",
-    "odd": 5.01,
-    "edge": -0.025636305706013607
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.0005287196180702169,
-    -0.00030369922134831917,
-    -0.00022502039672192553
-   ],
-   "since": "19/10 15:01"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -929,9 +842,9 @@
   "home": "Al-Nassr",
   "away": "NEOM",
   "p": [
-   0.6693489177997709,
-   0.17961293354086516,
-   0.15103814865936388
+   0.6830017358792897,
+   0.17625851248497798,
+   0.14073975163573244
   ],
   "source": "Pinnacle",
   "out": {
@@ -940,36 +853,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6354679802955665,
-   0.36453201970443344
+   0.6262376237623761,
+   0.37376237623762376
   ],
   "btts": [
-   0.5601417530473012,
-   0.4398582469526989
+   0.5543252734126787,
+   0.4456747265873214
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.45,
-    "edge": -0.029444069190332267
+    "odd": 1.42,
+    "edge": -0.030137535051408704
    },
    {
     "book": "Pinnacle",
-    "odd": 5.18,
-    "edge": -0.0696050042583185
+    "odd": 5.27,
+    "edge": -0.07111763920416614
    },
    {
     "book": "Betfair",
-    "odd": 7.0,
-    "edge": 0.057267040615547105
+    "odd": 7.5,
+    "edge": 0.05554813726799335
    }
   ],
-  "nbooks": 9,
+  "nbooks": 10,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.013652818079518791,
+    -0.00335442105588718,
+    -0.010298397023631445
    ],
    "since": "18/10 00:31"
   }
