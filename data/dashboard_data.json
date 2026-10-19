@@ -142,7 +142,40 @@
     "H. Wright"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "A. Kinský",
+     "T. Adarabioyo",
+     "J. van Hecke",
+     "M. van de Ven",
+     "A. Gray",
+     "S. Tonali",
+     "J. Maddison",
+     "A. Robertson",
+     "M. Kudus",
+     "Omar Marmoush",
+     "D. Solanke"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Rushworth",
+     "M. van Ewijk",
+     "B. Thomas",
+     "E. Pinnock",
+     "J. Dasilva",
+     "Caleb Marfo Yirenkyi",
+     "M. Grimes",
+     "B. Thomas-Asante",
+     "J. Rudoni",
+     "T. Sakamoto",
+     "S. Cherif"
+    ]
+   }
+  },
   "ou": [
    0.598014888337469,
    0.40198511166253104
@@ -216,7 +249,40 @@
     "A. Ratiu"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "David Soria",
+     "Daniel Carvajal",
+     "D. Dakonam",
+     "J. Valou",
+     "J. Mojica",
+     "Kiko Femenía",
+     "N. Gudelj",
+     "Mario Martín",
+     "M. Satriano",
+     "Ramón Terrats",
+     "E. Ünal"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "E. Audero",
+     "I. Balliu",
+     "F. Lejeune",
+     "Mujaid Sadick",
+     "Adrià Pedrosa",
+     "Isi Palazón",
+     "P. Ciss",
+     "Unai López",
+     "Jorge de Frutos",
+     "Sergio Camello",
+     "Álvaro García"
+    ]
+   }
+  },
   "ou": [
    0.33953488372093027,
    0.6604651162790697
