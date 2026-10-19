@@ -71,7 +71,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Y. Bounou",
+     "Mohammed Mater Mohsin Mahzari",
+     "Hassan Tambakti",
+     "K. Koulibaly",
+     "T. Hernández",
+     "Rúben Neves",
+     "Gabriel Martinelli",
+     "S. Milinković-Savić",
+     "Mohamed Kanno",
+     "C. Summerville",
+     "O. Watkins"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Staněk",
+     "Abdulaziz Al-Harbi",
+     "Sultan Tanker",
+     "Abdulrahman Al-Dakheel",
+     "A. Ben Hmida",
+     "A. Bah",
+     "Bonheur Mugisha",
+     "Aboubacar Diakite",
+     "S. Bendebka",
+     "Ahmed Al Nakhli",
+     "Afimico Pululu"
+    ]
+   }
+  },
   "ou": [
    0.768939393939394,
    0.2310606060606061
@@ -125,7 +158,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Diaw",
+     "Mohammed Fuad Ibrahim Al Thani",
+     "T. Jedvaj",
+     "M. Barry",
+     "Dhari Al Anazi",
+     "A. Matuq",
+     "J. Brownhill",
+     "Y. Adli",
+     "Daniel Podence",
+     "Roger Martínez",
+     "Ricardo Mathias"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Fernando Pacheco",
+     "Yaseen Barnawi",
+     "A. Ba",
+     "A. Seck",
+     "Mohammed Ali Al Shanqiti",
+     "Flávio",
+     "Andrei Girotto",
+     "Jaime Seoane",
+     "Abdulaziz Al Bishi",
+     "Alexandre Mendy",
+     "Abdullah Almuqrin"
+    ]
+   }
+  },
   "ou": [
    0.586734693877551,
    0.413265306122449
