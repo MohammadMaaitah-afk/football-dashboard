@@ -535,9 +535,9 @@
   "home": "Al-Nassr",
   "away": "NEOM",
   "p": [
-   0.6830017358792897,
-   0.17625851248497798,
-   0.14073975163573244
+   0.6858315405879448,
+   0.17497005784087233,
+   0.13919840157118285
   ],
   "source": "Pinnacle",
   "out": {
@@ -546,36 +546,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6262376237623761,
-   0.37376237623762376
+   0.6280788177339901,
+   0.37192118226600984
   ],
   "btts": [
-   0.5543252734126787,
-   0.4456747265873214
+   0.5492737732274725,
+   0.45072622677252755
   ],
   "best": [
    {
     "book": "Betano",
     "odd": 1.42,
-    "edge": -0.030137535051408704
+    "edge": -0.026119212365118383
    },
    {
     "book": "Pinnacle",
-    "odd": 5.27,
-    "edge": -0.07111763920416614
+    "odd": 5.37,
+    "edge": -0.06041078939451561
    },
    {
     "book": "Betfair",
-    "odd": 7.5,
-    "edge": 0.05554813726799335
+    "odd": 8.0,
+    "edge": 0.1135872125694628
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.013652818079518791,
-    -0.00335442105588718,
-    -0.010298397023631445
+    0.016482622788173917,
+    -0.004642875699992832,
+    -0.01183974708818103
    ],
    "since": "18/10 00:31"
   }
@@ -4380,5 +4380,747 @@
    ],
    "since": "19/10 12:01"
   }
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642050,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Al Ahed",
+  "away": "Reyady Abaseya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642051,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Tripoli SC",
+  "away": "Tadamon Sour",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645678,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Al Wahda",
+  "away": "Jaish",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645679,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Horriya",
+  "away": "Al Taliya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645680,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Tishreen",
+  "away": "Hottin",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642119,
+  "kickoff": "2026-10-23T15:50:00+03:00",
+  "home": "Al-Shabab",
+  "away": "Smail",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642120,
+  "kickoff": "2026-10-23T15:55:00+03:00",
+  "home": "Al Musannah",
+  "away": "Ibri",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603063,
+  "kickoff": "2026-10-23T16:30:00+03:00",
+  "home": "Al-Faisaly FC",
+  "away": "Al-Nassr",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643367,
+  "kickoff": "2026-10-23T17:00:00+03:00",
+  "home": "Al Salt",
+  "away": "Al Ramtha",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611429,
+  "kickoff": "2026-10-23T17:15:00+03:00",
+  "home": "JS El Biar",
+  "away": "MC Oran",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611432,
+  "kickoff": "2026-10-23T17:15:00+03:00",
+  "home": "Olympique Akbou",
+  "away": "CS Constantine",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628015,
+  "kickoff": "2026-10-23T17:30:00+03:00",
+  "home": "Duhok",
+  "away": "Karbala",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1634790,
+  "kickoff": "2026-10-23T17:35:00+03:00",
+  "home": "Kazma",
+  "away": "Al Sulaibikhat",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642121,
+  "kickoff": "2026-10-23T18:20:00+03:00",
+  "home": "Al Seeb",
+  "away": "Sohar",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642122,
+  "kickoff": "2026-10-23T18:20:00+03:00",
+  "home": "Saham",
+  "away": "Al-Nahda",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603066,
+  "kickoff": "2026-10-23T18:30:00+03:00",
+  "home": "Al-Ittihad FC",
+  "away": "Al Diriyah",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643408,
+  "kickoff": "2026-10-23T19:00:00+03:00",
+  "home": "Khalidiya",
+  "away": "Al Ittifaq Maqaba",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643409,
+  "kickoff": "2026-10-23T19:00:00+03:00",
+  "home": "East Riffa",
+  "away": "Muharraq",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643368,
+  "kickoff": "2026-10-23T19:30:00+03:00",
+  "home": "Al Jazeera",
+  "away": "Al Faisaly",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628011,
+  "kickoff": "2026-10-23T19:45:00+03:00",
+  "home": "Al Karkh",
+  "away": "Mosul",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628014,
+  "kickoff": "2026-10-23T19:45:00+03:00",
+  "home": "Al Zawra'a",
+  "away": "Al Shorta",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1622658,
+  "kickoff": "2026-10-23T19:50:00+03:00",
+  "home": "Al Tadhamon",
+  "away": "Al Kuwait",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603068,
+  "kickoff": "2026-10-23T21:00:00+03:00",
+  "home": "Al-Qadisiyah FC",
+  "away": "Al-Hilal Saudi FC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575196,
+  "kickoff": "2026-10-23T21:30:00+03:00",
+  "home": "VfB Stuttgart",
+  "away": "Borussia Mönchengladbach",
+  "p": [
+   0.688150731327931,
+   0.16784164178730024,
+   0.1440076268847688
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.7417464031876395,
+   0.2582535968123605
+  ],
+  "btts": [
+   0.6506622047733679,
+   0.34933779522663205
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.43,
+    "edge": -0.015944454201058722
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.8,
+    "edge": -0.026518477633658666
+   },
+   {
+    "book": "Bet365",
+    "odd": 7.0,
+    "edge": 0.00805338819338175
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550165,
+  "kickoff": "2026-10-23T21:45:00+03:00",
+  "home": "Torino",
+  "away": "Monza",
+  "p": [
+   0.4420197807523147,
+   0.2765780913850197,
+   0.28140212786266544
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "F. Israel",
+    "P. Pellegri"
+   ],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.46410256410256406,
+   0.5358974358974359
+  ],
+  "btts": [
+   0.5244683854361274,
+   0.47553161456387266
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.19,
+    "edge": -0.031976680152430825
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.62,
+    "edge": 0.0012126908137712888
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.64,
+    "edge": 0.024303745420102274
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552794,
+  "kickoff": "2026-10-23T21:45:00+03:00",
+  "home": "Stade Brestois 29",
+  "away": "Nice",
+  "p": [
+   0.4335870822347258,
+   0.2877676170784043,
+   0.2786453006868699
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5597964376590331,
+   0.4402035623409669
+  ],
+  "btts": [
+   0.5979797609304799,
+   0.4020202390695201
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.31,
+    "edge": 0.001586159962216671
+   },
+   {
+    "book": "Bet365",
+    "odd": 3.5,
+    "edge": 0.007186659774415016
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.47,
+    "edge": -0.03310080661656145
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557443,
+  "kickoff": "2026-10-23T22:00:00+03:00",
+  "home": "Ipswich",
+  "away": "Nottingham Forest",
+  "p": [
+   0.30659166229937146,
+   0.2776016197323822,
+   0.4158067179682463
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.541025641025641,
+   0.45897435897435895
+  ],
+  "btts": [
+   0.5867979282986661,
+   0.4132020717013339
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.16,
+    "edge": -0.031170347133986143
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.64,
+    "edge": 0.0104698958258711
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.39,
+    "edge": -0.006221944055891271
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570423,
+  "kickoff": "2026-10-23T22:00:00+03:00",
+  "home": "Alaves",
+  "away": "Malaga",
+  "p": [
+   0.5450087815489405,
+   0.25931869444667327,
+   0.19567252400438634
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.46272493573264784,
+   0.5372750642673522
+  ],
+  "btts": [
+   0.49079033450550263,
+   0.5092096654944973
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.84,
+    "edge": 0.0028161580500505323
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.72,
+    "edge": -0.035334456658375424
+   },
+   {
+    "book": "Bet365",
+    "odd": 5.0,
+    "edge": -0.02163737997806825
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628010,
+  "kickoff": "2026-10-23T22:00:00+03:00",
+  "home": "Al-Jolan SC",
+  "away": "Al Kahrabaa",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  }
 ]
