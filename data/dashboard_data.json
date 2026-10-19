@@ -1,114 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557436,
-  "kickoff": "2026-10-19T22:00:00+03:00",
-  "home": "Tottenham",
-  "away": "Coventry",
-  "p": [
-   0.6199342903571454,
-   0.21069662155929128,
-   0.16936908808356338
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "R. Bentancur",
-    "M. Mudryk",
-    "W. Odobert",
-    "X. Simons",
-    "D. Kulusevski",
-    "P. Porro",
-    "R. Bentancur",
-    "M. Mudryk",
-    "W. Odobert",
-    "X. Simons",
-    "D. Kulusevski",
-    "P. Porro"
-   ],
-   "away": [
-    "A. Amenda",
-    "J. Eccles",
-    "L. Woolfenden",
-    "H. Wright",
-    "A. Amenda",
-    "J. Eccles",
-    "L. Woolfenden",
-    "H. Wright"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "A. Kinský",
-     "T. Adarabioyo",
-     "J. van Hecke",
-     "M. van de Ven",
-     "A. Gray",
-     "S. Tonali",
-     "J. Maddison",
-     "A. Robertson",
-     "M. Kudus",
-     "Omar Marmoush",
-     "D. Solanke"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "C. Rushworth",
-     "M. van Ewijk",
-     "B. Thomas",
-     "E. Pinnock",
-     "J. Dasilva",
-     "Caleb Marfo Yirenkyi",
-     "M. Grimes",
-     "B. Thomas-Asante",
-     "J. Rudoni",
-     "T. Sakamoto",
-     "S. Cherif"
-    ]
-   }
-  },
-  "ou": [
-   0.598014888337469,
-   0.40198511166253104
-  ],
-  "btts": [
-   0.5614817476599551,
-   0.43851825234004493
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.6,
-    "edge": -0.008105135428567278
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.59,
-    "edge": -0.032902507042853024
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.19,
-    "edge": 0.04839465523725739
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.02741902468793711,
-    0.008058714118708704,
-    0.019360310569228545
-   ],
-   "since": "16/10 00:01"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -536,9 +427,9 @@
   "home": "El Geish",
   "away": "Pyramids FC",
   "p": [
-   0.13518250723635944,
-   0.24849198279787027,
-   0.6163255099657703
+   0.1333978081656755,
+   0.2464348982429058,
+   0.6201672935914186
   ],
   "source": "Pinnacle",
   "out": {
@@ -547,36 +438,36 @@
   },
   "lineups": null,
   "ou": [
-   0.43264248704663216,
-   0.5673575129533679
+   0.4352331606217616,
+   0.5647668393782384
   ],
   "btts": [
-   0.42106485348319594,
-   0.5789351465168041
+   0.4201710300447296,
+   0.5798289699552704
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 6.93,
-    "edge": -0.06318522485202915
+    "odd": 7.02,
+    "edge": -0.06354738667695803
    },
    {
-    "book": "Betfair",
-    "odd": 3.9,
-    "edge": -0.030881267088305964
+    "book": "Dafabet",
+    "odd": 3.95,
+    "edge": -0.026582151940522047
    },
    {
     "book": "William Hill",
     "odd": 1.53,
-    "edge": -0.05702196975237139
+    "edge": -0.051144040805129465
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.005729356436676242,
-    -0.003028117951849263,
-    0.008757474388525588
+    -0.007514055507360173,
+    -0.005085202506813741,
+    0.012599258014173942
    ],
    "since": "17/10 00:01"
   }
