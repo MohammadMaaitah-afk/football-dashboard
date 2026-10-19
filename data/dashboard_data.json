@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645673,
-  "kickoff": "2026-10-19T15:00:00+03:00",
-  "home": "Foutoua",
-  "away": "Al Wahda",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري العُماني",
   "type": "arab",
   "en": "Oman Professional League",
@@ -679,7 +658,14 @@
    }
   ],
   "nbooks": 10,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "19/10 15:01"
+  }
  },
  {
   "league": "الدوري الإيطالي",
