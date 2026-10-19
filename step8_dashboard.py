@@ -999,7 +999,8 @@ def run_agent(matches, log, state):
             msg = (f"{m['home']} ضد {m['away']}\n{m['league']}، الساعة {t}\n\n"
                    f"السبب: {RULE_TXT[o['rule']]}\n"
                    f"الاختيار: {pick}\nالاحتمال: {pct(o['prob'])}، السعر العادل {1 / o['prob']:.2f}\n"
-                   f"أعلى سعر: {o['odd']} عند {o['book']}" + (f" ({o['edge']:+.0%})" if o["rule"] == "value" else "") +
+                   f"أعلى سعر: {o['odd']} عند {o['book']}" +
+                   (f" ({o['edge']:+.1%} {'فوق' if o['edge'] >= 0 else 'تحت'} العادل)" if o["book"] != "السعر العادل" else "") +
                    f"\n\nكل الاحتمالات: {pct(h)} / {pct(d)} / {pct(a)}")
             if is_big(m):
                 msg += "\n⚠️ السعر تحرك بشكل كبير"
