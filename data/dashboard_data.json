@@ -2921,6 +2921,27 @@
   "move": null
  },
  {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597947,
+  "kickoff": "2026-10-22T17:30:00+03:00",
+  "home": "Al Shahaniya",
+  "away": "Al Sadd",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -3041,27 +3062,6 @@
   "league": "الدوري القطري",
   "type": "arab",
   "en": "Qatar Stars League",
-  "id": 1597945,
-  "kickoff": "2026-10-22T18:00:00+03:00",
-  "home": "Al-Gharafa",
-  "away": "Al Ahli Doha",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
   "id": 1597946,
   "kickoff": "2026-10-22T18:00:00+03:00",
   "home": "Al-Sailiya",
@@ -3111,27 +3111,6 @@
    ],
    "since": "19/10 00:01"
   }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597947,
-  "kickoff": "2026-10-22T18:00:00+03:00",
-  "home": "Al Shahaniya",
-  "away": "Al Sadd",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري القطري",
@@ -3258,6 +3237,27 @@
   "kickoff": "2026-10-22T19:00:00+03:00",
   "home": "Sitra",
   "away": "Al Riffa",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597945,
+  "kickoff": "2026-10-22T19:45:00+03:00",
+  "home": "Al-Gharafa",
+  "away": "Al Ahli Doha",
   "p": null,
   "source": null,
   "out": {
