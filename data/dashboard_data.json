@@ -3,93 +3,6 @@
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
-  "id": 1603057,
-  "kickoff": "2026-10-19T18:05:00+03:00",
-  "home": "Al-Fayha",
-  "away": "Al-Ahli Jeddah",
-  "p": [
-   0.13631493180346896,
-   0.1781592517356073,
-   0.6855258164609237
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "5-3-2",
-    "xi": [
-     "O. Mosquera",
-     "Mohammed Al Baqawi",
-     "Mukhir Al Rashidi",
-     "Ziyad Al Sahafi",
-     "O. Colley",
-     "Ahmed Bamasud",
-     "Alfa Semedo",
-     "Hugo Moura",
-     "Ali Al Hussain",
-     "Jason",
-     "Yago Santana"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Abdulrahman Al Sanbi",
-     "Saeed Baattia",
-     "M. Demiral",
-     "Ibañez",
-     "Saad Yaslam",
-     "V. Atangana Edoa",
-     "Ziyad Al Johani",
-     "Trincão",
-     "E. Spertsyan",
-     "Matheus Gonçalves",
-     "Feras Al Brikan"
-    ]
-   }
-  },
-  "ou": [
-   0.6231527093596059,
-   0.37684729064039413
-  ],
-  "btts": [
-   0.5264988127907964,
-   0.47350118720920353
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 7.8,
-    "edge": 0.06325646806705776
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.31,
-    "edge": -0.0539743732839254
-   },
-   {
-    "book": "Betano",
-    "odd": 1.4,
-    "edge": -0.04026385695470691
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.006926463291178603,
-    0.005078035460771124,
-    -0.012004498751949866
-   ],
-   "since": "16/10 00:01"
-  }
- },
- {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
   "id": 1603053,
   "kickoff": "2026-10-19T18:20:00+03:00",
   "home": "Abha",
@@ -983,9 +896,9 @@
   "home": "Al Taawon",
   "away": "Al-Qadisiyah FC",
   "p": [
-   0.16728986468372115,
-   0.18794711518110369,
-   0.6447630201351752
+   0.17039838205904526,
+   0.18913873365006043,
+   0.6404628842908944
   ],
   "source": "Pinnacle",
   "out": {
@@ -994,8 +907,8 @@
   },
   "lineups": null,
   "ou": [
-   0.6728971962616822,
-   0.32710280373831774
+   0.6721311475409837,
+   0.32786885245901637
   ],
   "btts": [
    0.6045978005989116,
@@ -1005,25 +918,25 @@
    {
     "book": "Betfair",
     "odd": 6.0,
-    "edge": 0.0037391881023269846
+    "edge": 0.02239029235427159
    },
    {
     "book": "Betfair",
     "odd": 5.0,
-    "edge": -0.06026442409448163
+    "edge": -0.0543063317496979
    },
    {
     "book": "Betano",
     "odd": 1.5,
-    "edge": -0.03285546979723719
+    "edge": -0.03930567356365844
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.004510387503667557,
-    -0.0024736142372289993,
-    0.006984001740896639
+    -0.0014018701283434465,
+    -0.0012819957682722594,
+    0.0026838658966158446
    ],
    "since": "18/10 12:45"
   }
