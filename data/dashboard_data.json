@@ -23,12 +23,12 @@
    0.5939086294416244
   ],
   "btts": [
-   0.372652723898853,
-   0.6273472761011469
+   0.36805929789187425,
+   0.6319407021081258
   ],
   "best": [
    {
-    "book": "Pinnacle",
+    "book": "Betfair",
     "odd": 9.0,
     "edge": -0.055862741018931295
    },
@@ -116,9 +116,9 @@
   "home": "Al Diriyah",
   "away": "Al Riyadh",
   "p": [
-   0.6182144448107759,
-   0.21308071567174133,
-   0.16870483951748283
+   0.6150107785708301,
+   0.21483253224049548,
+   0.17015668918867452
   ],
   "source": "Pinnacle",
   "out": {
@@ -127,8 +127,8 @@
   },
   "lineups": null,
   "ou": [
-   0.5558441558441558,
-   0.44415584415584414
+   0.5546875,
+   0.44531250000000006
   ],
   "btts": [
    0.5225105761745389,
@@ -138,25 +138,25 @@
    {
     "book": "Betano",
     "odd": 1.55,
-    "edge": -0.04176761054329725
+    "edge": -0.046733293215213356
    },
    {
-    "book": "Pinnacle",
-    "odd": 4.41,
-    "edge": -0.06031404388762074
+    "book": "Dafabet",
+    "odd": 4.4,
+    "edge": -0.05473685814181983
    },
    {
     "book": "Betfair",
     "odd": 6.0,
-    "edge": 0.012229037104896978
+    "edge": 0.020940135132047066
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.028118660055570843,
-    0.01075035240923275,
-    0.017368307646338232
+    -0.03132232629551668,
+    0.012502168977986894,
+    0.018820157317529923
    ],
    "since": "18/10 12:45"
   }
@@ -170,9 +170,9 @@
   "home": "Wadi Degla",
   "away": "National Bank of Egypt",
   "p": [
-   0.32323624541995927,
-   0.30051676491120816,
-   0.37624698966883263
+   0.3228882833787466,
+   0.300408719346049,
+   0.37670299727520434
   ],
   "source": "Pinnacle",
   "out": {
@@ -181,8 +181,8 @@
   },
   "lineups": null,
   "ou": [
-   0.41538461538461535,
-   0.5846153846153845
+   0.41581632653061223,
+   0.5841836734693877
   ],
   "btts": [
    0.492081924842465,
@@ -191,26 +191,26 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.91,
-    "edge": -0.059382525827918475
+    "odd": 2.94,
+    "edge": -0.05070844686648501
    },
    {
     "book": "Betfair",
-    "odd": 3.3,
-    "edge": -0.008294675793013129
+    "odd": 3.25,
+    "edge": -0.023671662125340664
    },
    {
-    "book": "William Hill",
-    "odd": 2.5,
-    "edge": -0.059382525827918364
+    "book": "Pinnacle",
+    "odd": 2.52,
+    "edge": -0.05070844686648501
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    -0.0003479620412126794,
+    -0.00010804556515914276,
+    0.0004560076063717111
    ],
    "since": "17/10 00:01"
   }
@@ -952,18 +952,22 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "N. Mendes",
     "A. Longoni",
     "S. Mayulu",
+    "N. Mendes",
     "A. Longoni",
     "S. Mayulu"
    ],
    "away": [
     "R. Bardghji",
     "A. Christensen",
-    "Gabriel Jesus",
+    "E. Garcia",
+    "J. Kounde",
     "R. Bardghji",
     "A. Christensen",
-    "Gabriel Jesus"
+    "E. Garcia",
+    "J. Kounde"
    ]
   },
   "lineups": null,
@@ -1018,28 +1022,24 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "A. Al Dakhil",
     "J. Diehl",
     "S. Drljaca",
     "L. Stergiou",
-    "M. Mittelstadt",
-    "N. Nartey",
-    "T. Tomas",
     "D. Zagadou",
-    "A. Al Dakhil",
+    "N. Nartey",
+    "T. Tomas",
     "J. Diehl",
     "S. Drljaca",
     "L. Stergiou",
-    "M. Mittelstadt",
+    "D. Zagadou",
     "N. Nartey",
-    "T. Tomas",
-    "D. Zagadou"
+    "T. Tomas"
    ],
    "away": [
-    "J. Cardoso",
     "Koke",
-    "J. Cardoso",
-    "Koke"
+    "C. Romero",
+    "Koke",
+    "C. Romero"
    ]
   },
   "lineups": null,
