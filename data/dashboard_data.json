@@ -1,59 +1,5 @@
 [
  {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1634788,
-  "kickoff": "2026-10-19T17:40:00+03:00",
-  "home": "Al Kuwait",
-  "away": "Al Sulaibikhat",
-  "p": [
-   0.7852158142757999,
-   0.13437473012160264,
-   0.08040945560259749
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.6535626535626535,
-   0.3464373464373464
-  ],
-  "btts": [
-   0.4217188064803576,
-   0.5782811935196425
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 1.18,
-    "edge": -0.0734453391545562
-   },
-   {
-    "book": "Dafabet",
-    "odd": 7.2,
-    "edge": -0.032501943124460975
-   },
-   {
-    "book": "Betfair",
-    "odd": 14.0,
-    "edge": 0.12573237843636487
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.014335266654239787,
-    -0.004332081451160791,
-    0.018667348105400557
-   ],
-   "since": "18/10 01:31"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -71,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "O. Mosquera",
+     "Mohammed Al Baqawi",
+     "Mukhir Al Rashidi",
+     "Ziyad Al Sahafi",
+     "O. Colley",
+     "Ahmed Bamasud",
+     "Alfa Semedo",
+     "Hugo Moura",
+     "Ali Al Hussain",
+     "Jason",
+     "Yago Santana"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Abdulrahman Al Sanbi",
+     "Saeed Baattia",
+     "M. Demiral",
+     "Ibañez",
+     "Saad Yaslam",
+     "V. Atangana Edoa",
+     "Ziyad Al Johani",
+     "Trincão",
+     "E. Spertsyan",
+     "Matheus Gonçalves",
+     "Feras Al Brikan"
+    ]
+   }
+  },
   "ou": [
    0.6231527093596059,
    0.37684729064039413
