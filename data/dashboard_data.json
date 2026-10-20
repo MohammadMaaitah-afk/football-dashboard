@@ -104,7 +104,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-4-1",
+    "xi": [
+     "Mailson",
+     "A. Hendi",
+     "Ibrahim Mahnashi",
+     "Z. Belaïd",
+     "Muteb Al Mufarrij",
+     "M. Petkov",
+     "Mohammed Al Kuwaykibi",
+     "A. El Mahdioui",
+     "Faris Al Ghamdi",
+     "Y. El Bahraoui",
+     "A. Hamed Allah"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "K. Casteels",
+     "Jehad Abdullatif Ahm",
+     "G. Álvarez",
+     "N. Nández",
+     "Mohammed Abu Al Shamat",
+     "T. Reijnders",
+     "J. Weigl",
+     "Mohammed Al Qahtani",
+     "C. Bonsu Baah",
+     "J. Quiñones",
+     "Abdullah Al Salem"
+    ]
+   }
+  },
   "ou": [
    0.6231527093596059,
    0.37684729064039413
