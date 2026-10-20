@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Amin Al Bukhari",
+     "T. Wadi",
+     "C. Mbemba",
+     "B. Djimsiti",
+     "Hussain Al Sibyani",
+     "Óscar Rodríguez",
+     "E. Millot",
+     "Abdulelah Al Malki",
+     "L. Chelfi",
+     "D. Núñez",
+     "C. Diandy"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Borjan",
+     "Sultan Alessa",
+     "Hossam Majrashi",
+     "R. Abascal",
+     "Hussain Qasim",
+     "T. Okou",
+     "K. Keita",
+     "V. Lekhal",
+     "B. Mensah",
+     "Trézéguet",
+     "H. Al Ali"
+    ]
+   }
+  },
   "ou": [
    0.5246753246753246,
    0.47532467532467537
