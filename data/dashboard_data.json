@@ -121,102 +121,6 @@
   }
  },
  {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635719,
-  "kickoff": "2026-10-20T19:45:00+03:00",
-  "home": "Sabah FA",
-  "away": "Borussia Dortmund",
-  "p": [
-   0.09293080235992358,
-   0.15563653793288176,
-   0.7514326597071946
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": [
-    "E. Can",
-    "K. Karetsas",
-    "G. Konstantelias",
-    "J. Lerma",
-    "E. Can",
-    "K. Karetsas",
-    "G. Konstantelias",
-    "J. Lerma"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "S. Pokatilov",
-     "A. Zedadka",
-     "S. Solvet",
-     "A. McCarthy",
-     "T. Puchacz",
-     "U. Rahmonaliyev",
-     "I. Lepinjica",
-     "K. Parris",
-     "Du Queiroz",
-     "V. Simić",
-     "J. Mickels"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "G. Kobel",
-     "N. Schlotterbeck",
-     "W. Anton",
-     "R. Bensebaïni",
-     "J. Ryerson",
-     "J. Veerman",
-     "C. Chukwuemeka",
-     "D. Svensson",
-     "Fábio Silva",
-     "F. Nmecha",
-     "S. Guirassy"
-    ]
-   }
-  },
-  "ou": [
-   0.6508313539192399,
-   0.34916864608076004
-  ],
-  "btts": [
-   0.5167272421165027,
-   0.4832727578834973
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 10.35,
-    "edge": -0.03816619557479095
-   },
-   {
-    "book": "Bet365",
-    "odd": 6.25,
-    "edge": -0.027271637919488945
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.33,
-    "edge": -0.0005945625894310247
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.01689844674031249,
-    -0.0031906084932172007,
-    0.020089055233529662
-   ],
-   "since": "17/10 00:01"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -234,7 +138,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Amr Hossam",
+     "Omar Adly",
+     "Ahmed Ayman",
+     "S. Teka",
+     "Ahmed Reda",
+     "H. Hassan",
+     "Ahmed Scholes",
+     "Ibrahim El Bahnasi",
+     "Zizo",
+     "Mahmoud Diasty",
+     "Mohamed Juhayna"
+    ]
+   },
+   "away": {
+    "formation": "4-4-1-1",
+    "xi": [
+     "Abdel Aziz El Balouti",
+     "Hisham Saleh",
+     "Mahmoud El Gazzar",
+     "Dao Cyrille",
+     "Ahmed Meteb",
+     "K. Hamed",
+     "Ali Hamdy",
+     "Mohamed Naser",
+     "Mostafa Shalaby",
+     "Amir Medhat",
+     "Ahmed Yasser Rayan"
+    ]
+   }
+  },
   "ou": [
    0.4101265822784811,
    0.589873417721519
