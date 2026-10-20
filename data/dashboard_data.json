@@ -37,7 +37,40 @@
     "A. Sporar"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "P. Gollini",
+     "D. Ghilardi",
+     "L. Balerdi",
+     "Hermoso",
+     "N. Molina",
+     "M. de Roon",
+     "N. Pisilli",
+     "Wesley",
+     "L. Pellegrini",
+     "Rodrigo Mora",
+     "D. Malen"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "D. Takáč",
+     "C. Blackman",
+     "K. Bajrič",
+     "S. Marković",
+     "Sandro Cruz",
+     "P. Pokorný",
+     "T. Barseghyan",
+     "R. Ibrahim",
+     "A. Gajdoš",
+     "Suleiman Camara",
+     "N. Marcelli"
+    ]
+   }
+  },
   "ou": [
    0.759890768658574,
    0.24010923134142612
@@ -119,7 +152,40 @@
     "R. van Bommel"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Diogo Costa",
+     "Alberto Baio",
+     "J. Bednarek",
+     "J. Kiwior",
+     "Z. Sanusi",
+     "Victor Mow Froholdt",
+     "P. Rosario",
+     "Gabri Veiga",
+     "Pepê Aquino",
+     "Samu",
+     "O. Pietuszewski"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Kovář",
+     "S. Dest",
+     "L. Geertruida",
+     "Yarek Gasiorowski",
+     "F. Kostić",
+     "K. Sano",
+     "Mauro Júnior",
+     "E. Bajraktarevic",
+     "G. Til",
+     "I. Perišić",
+     "S. Mijnans"
+    ]
+   }
+  },
   "ou": [
    0.6182266009852216,
    0.38177339901477836
@@ -191,7 +257,40 @@
     "N. Pepe"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Alisson Becker",
+     "R. Araújo",
+     "J. Jacquet",
+     "V. van Dijk",
+     "K. Tsimikas",
+     "R. Gravenberch",
+     "T. Nyoni",
+     "A. Mac Allister",
+     "R. Ngumoha",
+     "L. Koumas",
+     "C. Gakpo"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "P. Gulácsi",
+     "S. Mouriño",
+     "Pau Navarro",
+     "Renato Veiga",
+     "Sergi Cardona",
+     "N. Saliba",
+     "P. Gueye",
+     "T. Buchanan",
+     "Santi Comesaña",
+     "Alberto Moleiro",
+     "G. Mikautadze"
+    ]
+   }
+  },
   "ou": [
    0.6556603773584905,
    0.34433962264150947
@@ -245,7 +344,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "G. Donnarumma",
+     "R. Lewis",
+     "Rúben Dias",
+     "A. Khusanov",
+     "J. Gvardiol",
+     "E. Anderson",
+     "E. Fernández",
+     "Allan",
+     "R. Cherki",
+     "P. Foden",
+     "F. Samba"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Brignoli",
+     "L. Rota",
+     "H. Moukoudi",
+     "Filipe Relvas",
+     "S. Pilios",
+     "L. Majer",
+     "K. Arriaga",
+     "R. Marin",
+     "João Mário",
+     "B. Varga",
+     "L. Jović"
+    ]
+   }
+  },
   "ou": [
    0.7513131540598629,
    0.24868684594013712
@@ -321,7 +453,40 @@
     "I. Sjong"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "A. Meret",
+     "G. Di Lorenzo",
+     "Amir Rrahmani",
+     "Rafa Marín",
+     "M. Politano",
+     "A. Zambo Anguissa",
+     "S. McTominay",
+     "L. Spinazzola",
+     "K. De Bruyne",
+     "N. Lang",
+     "R. Højlund"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "N. Haikin",
+     "F. Sjøvold",
+     "J. Gundersen",
+     "O. Bjørtuft",
+     "F. Bjørkan",
+     "S. Auklend",
+     "P. Berg",
+     "S. Fet",
+     "O. Didrik Blomberg",
+     "A. Helmersen",
+     "J. Hauge"
+    ]
+   }
+  },
   "ou": [
    0.6148148148148148,
    0.3851851851851852
@@ -389,7 +554,40 @@
     "J. Kounde"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "M. Safonov",
+     "A. Hakimi",
+     "Marquinhos",
+     "W. Pacho",
+     "L. Hernández",
+     "João Neves",
+     "Vitinha",
+     "Fabián Ruiz",
+     "D. Doué",
+     "O. Dembélé",
+     "K. Kvaratskhelia"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Joan García",
+     "João Cancelo",
+     "Pau Cubarsí Paredes",
+     "Gerard Martín",
+     "X. Espart",
+     "Marc Bernal",
+     "Pedri",
+     "Lamine Yamal",
+     "Dani Olmo",
+     "A. Gordon",
+     "Raphinha"
+    ]
+   }
+  },
   "ou": [
    0.7922701627390203,
    0.20772983726097968
@@ -459,7 +657,40 @@
     "C. Romero"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Seimen",
+     "J. Chabot",
+     "R. Hendriks",
+     "M. Mittelstädt",
+     "J. Vagnoman",
+     "G. Prömel",
+     "A. Stiller",
+     "C. Führich",
+     "J. Leweling",
+     "B. El Khannouss",
+     "D. Undav"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "J. Oblak",
+     "Marcos Llorente",
+     "Marc Pubill",
+     "D. Hancko",
+     "Álex Grimaldo",
+     "G. Simeone",
+     "M. Hjulmand",
+     "Pablo Barrios",
+     "Álex Baena",
+     "J. David",
+     "J. Álvarez"
+    ]
+   }
+  },
   "ou": [
    0.6477541371158392,
    0.3522458628841607
