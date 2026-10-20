@@ -288,7 +288,28 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Emad El Sayed",
+     "Khaled Abo Ziada",
+     "Mohamed Fathallah",
+     "Z. Mohamed",
+     "Ahmed Abdel Rahman Zola",
+     "Karim Tarek",
+     "Walid Benbella",
+     "Ahmed Tarek",
+     "Mohamed Atef",
+     "Yehia Mostafa",
+     "Islam Mohareb"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": []
+   }
+  },
   "ou": [
    0.4545454545454546,
    0.5454545454545455
