@@ -591,6 +591,7 @@
     "A. Heaven",
     "K. Mainoo",
     "L. Martinez",
+    "M. Rashford",
     "L. Shaw",
     "P. Dorgu",
     "T. Heaton",
@@ -600,6 +601,7 @@
     "A. Heaven",
     "K. Mainoo",
     "L. Martinez",
+    "M. Rashford",
     "L. Shaw"
    ]
   },
@@ -648,41 +650,39 @@
   "home": "Lille",
   "away": "Galatasaray",
   "p": [
-   0.4435916414775814,
-   0.25515297583670915,
-   0.3012553826857095
+   0.43824724509090374,
+   0.2562239184261633,
+   0.3055288364829329
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
     "H. Igamane",
     "E. Mbappe",
-    "O. Sahraoui",
     "T. Santos",
     "A. Ueda",
+    "O. Sahraoui",
     "H. Igamane",
     "E. Mbappe",
-    "O. Sahraoui",
     "T. Santos",
-    "A. Ueda"
+    "A. Ueda",
+    "O. Sahraoui"
    ],
    "away": [
     "E. Aydin",
     "K. Ayhan",
     "A. Guner",
     "K. Karatas",
+    "R. Leao",
     "A. Unyay",
     "A. Yilmaz",
-    "R. Leao",
-    "W. Singo",
     "E. Aydin",
     "K. Ayhan",
     "A. Guner",
     "K. Karatas",
-    "A. Unyay",
-    "A. Yilmaz",
     "R. Leao",
-    "W. Singo"
+    "A. Unyay",
+    "A. Yilmaz"
    ]
   },
   "lineups": null,
@@ -691,32 +691,32 @@
    0.39900249376558605
   ],
   "btts": [
-   0.6219869973265865,
-   0.37801300267341365
+   0.6227066806659172,
+   0.37729331933408294
   ],
   "best": [
    {
     "book": "Dafabet",
     "odd": 2.24,
-    "edge": -0.006354723090217562
+    "edge": -0.018326170996375568
    },
    {
     "book": "1xBet",
     "odd": 3.84,
-    "edge": -0.02021257278703692
+    "edge": -0.016100153243532866
    },
    {
     "book": "1xBet",
     "odd": 3.27,
-    "edge": -0.014894898617729968
+    "edge": -0.0009207047008094049
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0026598611115248305,
-    -0.0015620229747955183,
-    -0.0010978381367293122
+    -0.002684535275152833,
+    -0.000491080385341347,
+    0.003175615660494069
    ],
    "since": "18/10 00:01"
   }
@@ -745,8 +745,8 @@
    0.4450261780104712
   ],
   "btts": [
-   0.40211646594554773,
-   0.5978835340544523
+   0.40262852246295766,
+   0.5973714775370423
   ],
   "best": [
    {
