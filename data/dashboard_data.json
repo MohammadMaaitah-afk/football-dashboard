@@ -4420,27 +4420,6 @@
   "league": "الدوري اللبناني",
   "type": "arab",
   "en": "Lebanon Premier League",
-  "id": 1642050,
-  "kickoff": "2026-10-23T15:00:00+03:00",
-  "home": "Al Ahed",
-  "away": "Reyady Abaseya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
   "id": 1642051,
   "kickoff": "2026-10-23T15:00:00+03:00",
   "home": "Tripoli SC",
@@ -4697,6 +4676,27 @@
   "kickoff": "2026-10-23T18:00:00+03:00",
   "home": "Al Karkh",
   "away": "Mosul",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642050,
+  "kickoff": "2026-10-23T18:00:00+03:00",
+  "home": "Al Ahed",
+  "away": "Reyady Abaseya",
   "p": null,
   "source": null,
   "out": {
