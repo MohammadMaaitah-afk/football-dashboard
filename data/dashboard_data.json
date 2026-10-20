@@ -62,9 +62,9 @@
   "home": "Masr",
   "away": "Future FC",
   "p": [
-   0.37244997085680986,
-   0.3344181076355159,
-   0.29313192150767436
+   0.3698512273841791,
+   0.3394705908490501,
+   0.2906781817667707
   ],
   "source": "Pinnacle",
   "out": {
@@ -83,26 +83,26 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.55,
-    "edge": -0.05025257431513486
+    "odd": 2.57,
+    "edge": -0.04948234562265985
    },
    {
     "book": "Betfair",
     "odd": 3.0,
-    "edge": 0.003254322906547591
+    "edge": 0.01841177254715043
    },
    {
     "book": "Pinnacle",
-    "odd": 3.24,
-    "edge": -0.05025257431513497
+    "odd": 3.27,
+    "edge": -0.04948234562265985
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.0014188695812503704,
-    -0.0009623184285130204,
-    -0.0004565511527371835
+    -0.0011798738913804119,
+    0.004090164785021222,
+    -0.0029102908936408656
    ],
    "since": "17/10 00:01"
   }
@@ -185,14 +185,14 @@
    0.5841836734693877
   ],
   "btts": [
-   0.492081924842465,
-   0.5079180751575351
+   0.49073629735128493,
+   0.509263702648715
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 2.94,
-    "edge": -0.05070844686648501
+    "book": "Betano",
+    "odd": 2.95,
+    "edge": -0.047479564032697485
    },
    {
     "book": "Betfair",
@@ -682,23 +682,21 @@
     "William Gomes"
    ],
    "away": [
-    "S. Lammers",
     "A. Nagalo",
-    "S. Ouaissa",
-    "R. Pepi",
     "A. Plea",
     "J. Schouten",
     "K. Sildillia",
     "P. Wanner",
+    "S. Lammers",
+    "R. Pepi",
     "G. Til",
-    "S. Lammers",
     "A. Nagalo",
-    "S. Ouaissa",
-    "R. Pepi",
     "A. Plea",
     "J. Schouten",
     "K. Sildillia",
     "P. Wanner",
+    "S. Lammers",
+    "R. Pepi",
     "G. Til"
    ]
   },
@@ -758,19 +756,19 @@
     "F. Chiesa",
     "H. Ekitike",
     "W. Endo",
-    "G. Leoni",
     "J. Frimpong",
+    "G. Leoni",
+    "D. Szoboszlai",
     "C. Bradley",
     "F. Chiesa",
     "H. Ekitike",
     "W. Endo",
+    "J. Frimpong",
     "G. Leoni",
-    "J. Frimpong"
+    "D. Szoboszlai"
    ],
    "away": [
-    "T. Buchanan",
     "N. Pepe",
-    "T. Buchanan",
     "N. Pepe"
    ]
   },
@@ -880,11 +878,13 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "Alisson Santos",
     "A. Buongiorno",
     "David Neres",
     "C. Favasuli",
     "L. Marianucci",
     "A. Vergara",
+    "Alisson Santos",
     "A. Buongiorno",
     "David Neres",
     "C. Favasuli",
@@ -896,12 +896,10 @@
     "A. Mikkelsen",
     "M. Riisnaes",
     "I. Sjong",
-    "O. Blomberg",
     "H. Evjen",
     "A. Mikkelsen",
     "M. Riisnaes",
-    "I. Sjong",
-    "O. Blomberg"
+    "I. Sjong"
    ]
   },
   "lineups": null,
