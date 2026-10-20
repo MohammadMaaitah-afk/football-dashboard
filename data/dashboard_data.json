@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "Amgad Youssef",
+     "Abdelrahman Medhat",
+     "A. Shokry",
+     "Ahmed Magdy",
+     "I. Abbas",
+     "Mohamed Hesha",
+     "A. R. Al Khamisi",
+     "Ahmed Younes",
+     "Mahmoud Alaa",
+     "M. Eid",
+     "C. C. Bodne"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Awad",
+     "Omar Gaber",
+     "Mahmoud Hamdi El Wensh",
+     "Mostafa El Zenary",
+     "Ahmed Abou El Fotouh",
+     "Mohamed Shehata",
+     "Mahmoud Gehad",
+     "Ahmed Esho",
+     "M. Hamad",
+     "Ahmed Sherif",
+     "Chico Banza"
+    ]
+   }
+  },
   "ou": [
    0.4623376623376624,
    0.5376623376623377
@@ -71,7 +104,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Aly Lotfy",
+     "Sameh Ibrahim",
+     "Mohamed Hussein",
+     "Abdallah Bakri",
+     "M. Mohamed",
+     "Marwan Mohamed Marzouk",
+     "Abdelrahman El Banouby",
+     "Mahmoud Nabil",
+     "Mahmoud Sayed okaa",
+     "Ahmed Elkalamawy",
+     "Rafaat Khalil"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Mostafa Makhlouf",
+     "Ali Fawzi",
+     "Mohamed Ahmed Sharkia",
+     "Khaled Reda",
+     "M. Halawani",
+     "Mohamed Mossad",
+     "Mohamed Sabry",
+     "Ghanam Mohamed",
+     "K. A. Kaboria",
+     "Adem Redjem",
+     "Mahmoud Mamdouh"
+    ]
+   }
+  },
   "ou": [
    0.3317757009345794,
    0.6682242990654206
