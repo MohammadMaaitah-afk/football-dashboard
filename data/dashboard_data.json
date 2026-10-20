@@ -424,37 +424,33 @@
     "M. Cisse",
     "T. Harwood-Bellis",
     "B. Madjo",
+    "J. Manzambi",
     "A. Onana",
     "M. Ruggeri",
-    "G. Hemmings",
-    "I. Maatsen",
-    "J. Manzambi",
     "A. Wan-Bissaka",
     "M. Cisse",
     "T. Harwood-Bellis",
     "B. Madjo",
+    "J. Manzambi",
     "A. Onana",
     "M. Ruggeri",
-    "G. Hemmings",
-    "I. Maatsen",
-    "J. Manzambi",
     "A. Wan-Bissaka"
    ],
    "away": [
     "A. Baertelsen",
     "V. Berisha",
     "S. Bjorshol",
+    "N. D'Agostino",
     "K. Frimpong",
     "M. Roseth",
-    "N. D'Agostino",
     "H. Falchener",
     "K. Haugen",
     "A. Baertelsen",
     "V. Berisha",
     "S. Bjorshol",
+    "N. D'Agostino",
     "K. Frimpong",
     "M. Roseth",
-    "N. D'Agostino",
     "H. Falchener",
     "K. Haugen"
    ]
@@ -582,11 +578,9 @@
     "J. Firpo",
     "C. Hernandez",
     "I. Losada",
-    "A. Ruibal",
     "J. Firpo",
     "C. Hernandez",
-    "I. Losada",
-    "A. Ruibal"
+    "I. Losada"
    ],
    "away": [
     "T. Beelen",
@@ -720,9 +714,9 @@
   "home": "Inter",
   "away": "Shakhtar Donetsk",
   "p": [
-   0.8006716463209564,
-   0.12146725355058755,
-   0.07786110012845605
+   0.7966450374154616,
+   0.12415247336344855,
+   0.0792024892210898
   ],
   "source": "Pinnacle",
   "out": {
@@ -765,32 +759,32 @@
    0.26229508196721313
   ],
   "btts": [
-   0.5690001850978152,
-   0.43099981490218475
+   0.5627125261260599,
+   0.43728747387394
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.23,
-    "edge": -0.015173875025223604
+    "edge": -0.02012660397898225
    },
    {
-    "book": "BetVictor",
-    "odd": 8.0,
-    "edge": -0.02826197159529964
+    "book": "1xBet",
+    "odd": 7.9,
+    "edge": -0.019195460428756417
    },
    {
-    "book": "Betfair",
-    "odd": 14.0,
-    "edge": 0.09005540179838478
+    "book": "Betano",
+    "odd": 13.5,
+    "edge": 0.06923360448471239
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.017515443766700778,
-    -0.010711008483885953,
-    -0.006804435282814825
+    0.01348883486120589,
+    -0.00802578867102495,
+    -0.005463046190181078
    ],
    "since": "18/10 00:01"
   }
@@ -812,11 +806,11 @@
   "out": {
    "home": [
     "R. Asencio",
-    "Rodrygo",
     "F. Mendy",
-    "R. Asencio",
     "Rodrygo",
-    "F. Mendy"
+    "R. Asencio",
+    "F. Mendy",
+    "Rodrygo"
    ],
    "away": [
     "M. Guiu",
@@ -874,9 +868,9 @@
   "home": "Sporting CP",
   "away": "Lask Linz",
   "p": [
-   0.7983260515178119,
-   0.11930152700141647,
-   0.08237242148077163
+   0.8035494795752915,
+   0.11689778492598986,
+   0.07955273549871855
   ],
   "source": "Pinnacle",
   "out": {
@@ -903,36 +897,36 @@
   },
   "lineups": null,
   "ou": [
-   0.7429718875502008,
-   0.2570281124497992
+   0.7470119521912351,
+   0.252988047808765
   ],
   "btts": [
-   0.5389338692950169,
-   0.4610661307049831
+   0.5381457367631663,
+   0.46185426323683376
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.22,
-    "edge": -0.026042217148269486
+    "edge": -0.01966963491814433
    },
    {
     "book": "1xBet",
     "odd": 8.25,
-    "edge": -0.015762402238314155
+    "edge": -0.03559327436058368
    },
    {
-    "book": "1xBet",
-    "odd": 13.4,
-    "edge": 0.10379044784233993
+    "book": "Betano",
+    "odd": 14.5,
+    "edge": 0.15351466473141895
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.03889872617536272,
-    -0.01979594470089327,
-    -0.01910278147446942
+    0.04412215423284238,
+    -0.02219968677631988,
+    -0.0219224674565225
    ],
    "since": "18/10 00:01"
   }
