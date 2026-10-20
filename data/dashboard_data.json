@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-5-1",
+    "xi": [
+     "M. Rodák",
+     "Meshal Al Alaeli",
+     "Abdullah Khateeb",
+     "Pedro Henrique",
+     "J. Hendry",
+     "Radhi Al Otaibi",
+     "A. Kanté",
+     "O. Duda",
+     "Yasir Shammari",
+     "M. Gluščević",
+     "Sultan Ali Huran"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "P. Rajković",
+     "Muhannad Al Shanqiti",
+     "Saad Al Mosa",
+     "Danilo Pereira",
+     "F. Abdi",
+     "Mukhtar Ali",
+     "H. Aouar",
+     "R. Rios",
+     "G. Wijnaldum",
+     "G. Ilenikhena",
+     "S. Bergwijn"
+    ]
+   }
+  },
   "ou": [
    0.6682242990654206,
    0.3317757009345794
@@ -71,7 +104,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Bento",
+     "Nawaf Boushal",
+     "Abdulelah Al Amri",
+     "Íñigo Martínez",
+     "Ayman Yahya",
+     "Samú Costa",
+     "Ângelo",
+     "Abdullah Al Khaibari",
+     "João Félix",
+     "S. Mané",
+     "Cristiano Ronaldo"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Bułka",
+     "Mohammed Al Burayk",
+     "M. Sarr",
+     "N. Zézé",
+     "Muhammad Al Dosari",
+     "Khalil Al Absi",
+     "Abdulmalik Al Oyayari",
+     "A. Al Hassan",
+     "Mohannad Abu Taha",
+     "A. Lacazette",
+     "S. Benrahma"
+    ]
+   }
+  },
   "ou": [
    0.6144278606965174,
    0.3855721393034826
