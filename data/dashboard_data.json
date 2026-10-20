@@ -1,92 +1,5 @@
 [
  {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612266,
-  "kickoff": "2026-10-20T17:00:00+03:00",
-  "home": "Masr",
-  "away": "Future FC",
-  "p": [
-   0.3090937761550685,
-   0.3485765577807159,
-   0.3423296660642156
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Aly Lotfy",
-     "Sameh Ibrahim",
-     "Mohamed Hussein",
-     "Abdallah Bakri",
-     "M. Mohamed",
-     "Marwan Mohamed Marzouk",
-     "Abdelrahman El Banouby",
-     "Mahmoud Nabil",
-     "Mahmoud Sayed okaa",
-     "Ahmed Elkalamawy",
-     "Rafaat Khalil"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Mostafa Makhlouf",
-     "Ali Fawzi",
-     "Mohamed Ahmed Sharkia",
-     "Khaled Reda",
-     "M. Halawani",
-     "Mohamed Mossad",
-     "Mohamed Sabry",
-     "Ghanam Mohamed",
-     "K. A. Kaboria",
-     "Adem Redjem",
-     "Mahmoud Mamdouh"
-    ]
-   }
-  },
-  "ou": [
-   0.319634703196347,
-   0.6803652968036529
-  ],
-  "btts": [
-   0.42672583370228484,
-   0.5732741662977151
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.09,
-    "edge": -0.04490023168083834
-   },
-   {
-    "book": "Betfair",
-    "odd": 2.9,
-    "edge": 0.010872017564075964
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.79,
-    "edge": -0.044900231680838454
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.061937325120490994,
-    0.013196131716686987,
-    0.04874119340380406
-   ],
-   "since": "17/10 00:01"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -216,12 +129,14 @@
     "M. Muldur",
     "J. Oosterwolde",
     "M. Yandas",
+    "N. Kante",
     "M. Asensio",
     "A. Diouf",
     "A. Fall",
     "M. Muldur",
     "J. Oosterwolde",
-    "M. Yandas"
+    "M. Yandas",
+    "N. Kante"
    ],
    "away": [
     "S. Chaloupek",
