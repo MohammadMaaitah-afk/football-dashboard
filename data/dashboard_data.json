@@ -3721,10 +3721,52 @@
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
+  "id": 1645678,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Al Wahda",
+  "away": "Jaish",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
   "id": 1645679,
   "kickoff": "2026-10-23T15:00:00+03:00",
   "home": "Horriya",
   "away": "Al Taliya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645680,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Tishreen",
+  "away": "Hottin",
   "p": null,
   "source": null,
   "out": {
@@ -4211,48 +4253,6 @@
   "kickoff": "2026-10-23T19:00:00+03:00",
   "home": "East Riffa",
   "away": "Muharraq",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645678,
-  "kickoff": "2026-10-23T19:00:00+03:00",
-  "home": "Al Wahda",
-  "away": "Jaish",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645680,
-  "kickoff": "2026-10-23T19:00:00+03:00",
-  "home": "Tishreen",
-  "away": "Hottin",
   "p": null,
   "source": null,
   "out": {
@@ -5758,90 +5758,6 @@
    ],
    "since": "21/10 00:01"
   }
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607462,
-  "kickoff": "2026-10-24T18:30:00+03:00",
-  "home": "ES Tunis",
-  "away": "US Monastirienne",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607463,
-  "kickoff": "2026-10-24T18:30:00+03:00",
-  "home": "ES Sahel",
-  "away": "CS Sfaxien",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607465,
-  "kickoff": "2026-10-24T18:30:00+03:00",
-  "home": "ES Metlaoui",
-  "away": "ES Zarzis",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607466,
-  "kickoff": "2026-10-24T18:30:00+03:00",
-  "home": "Progrès Sakiet Eddaïer",
-  "away": "Club Africain",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري العُماني",
