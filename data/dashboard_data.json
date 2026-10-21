@@ -932,27 +932,6 @@
   }
  },
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645677,
-  "kickoff": "2026-10-22T15:00:00+03:00",
-  "home": "Qamishli",
-  "away": "Al Karama",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -1188,48 +1167,6 @@
    ],
    "since": "20/10 12:31"
   }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597944,
-  "kickoff": "2026-10-22T18:00:00+03:00",
-  "home": "Al-Duhail SC",
-  "away": "Lusail City",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597948,
-  "kickoff": "2026-10-22T18:00:00+03:00",
-  "home": "Al Wakrah",
-  "away": "Al-Arabi SC",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الأردني",
@@ -3752,6 +3689,27 @@
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
+  "id": 1645677,
+  "kickoff": "2026-10-23T15:00:00+03:00",
+  "home": "Qamishli",
+  "away": "Al Karama",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
   "id": 1645679,
   "kickoff": "2026-10-23T15:00:00+03:00",
   "home": "Horriya",
@@ -5707,6 +5665,27 @@
   }
  },
  {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597948,
+  "kickoff": "2026-10-24T17:30:00+03:00",
+  "home": "Al Wakrah",
+  "away": "Al-Arabi SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري الكويتي",
   "type": "arab",
   "en": "Kuwait Premier League",
@@ -6210,6 +6189,27 @@
   "kickoff": "2026-10-24T19:30:00+03:00",
   "home": "Shabab Al Ordon",
   "away": "Al Wihdat",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597944,
+  "kickoff": "2026-10-24T19:45:00+03:00",
+  "home": "Al-Duhail SC",
+  "away": "Lusail City",
   "p": null,
   "source": null,
   "out": {
