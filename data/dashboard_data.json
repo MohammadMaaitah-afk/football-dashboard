@@ -57,7 +57,40 @@
     "L. Yoro"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Butez",
+     "Yan Couto",
+     "M. Kempf",
+     "Jacobo Ramón Naveros",
+     "Álex Valle",
+     "M. Perrone",
+     "Luis Milla",
+     "L. da Cunha",
+     "N. Paz",
+     "M. Baturina",
+     "T. Douvikas"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "S. Lammens",
+     "Diogo Dalot",
+     "H. Maguire",
+     "M. de Ligt",
+     "N. Mazraoui",
+     "Andrey Santos",
+     "Y. Tielemans",
+     "Matheus Cunha",
+     "Bruno Fernandes",
+     "M. Mount",
+     "B. Mbeumo"
+    ]
+   }
+  },
   "ou": [
    0.6176470588235294,
    0.3823529411764706
@@ -137,7 +170,40 @@
     "A. Yilmaz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "B. Özer",
+     "M. Goffi",
+     "N. Ngoy",
+     "Alexsandro Ribeiro",
+     "C. Verdonk",
+     "N. Mukau",
+     "N. Bentaleb",
+     "B. André",
+     "D. Bakwa",
+     "H. Haraldsson",
+     "S. Diaoune"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "U. Çakır",
+     "R. Sallai",
+     "D. Sánchez",
+     "A. Bardakcı",
+     "I. Jakobs",
+     "L. Torreira",
+     "Gabriel Sara",
+     "Y. Akgün",
+     "A. Batrakov",
+     "B. Yılmaz",
+     "V. Osimhen"
+    ]
+   }
+  },
   "ou": [
    0.5757575757575757,
    0.4242424242424242
@@ -2581,7 +2647,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "21/10 19:01"
+  }
  },
  {
   "league": "الدوري السعودي",
