@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Amer Amer",
+     "Mohamed Salem Ekbad",
+     "Ahmed El Aash",
+     "F. Nechat Djabri",
+     "Yehia Zakaria",
+     "M. Touré",
+     "Abdel Rahman Osama",
+     "Amr Gomaa",
+     "A. Yasser",
+     "Ahmed Etman",
+     "Abdel Fattah Sheta"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Sobhi Soliman",
+     "Momen Awad",
+     "Mohamed Mostafa Mido",
+     "Mostafa Ibrahim",
+     "K. Mosaad",
+     "I. Saviour",
+     "Mohamed Fakhry",
+     "Joseph Arumala",
+     "Mohamed Toni",
+     "Nour Alaa",
+     "Hossam Hassan"
+    ]
+   }
+  },
   "ou": [
    0.2702702702702703,
    0.7297297297297297
