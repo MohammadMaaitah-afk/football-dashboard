@@ -257,7 +257,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mostafa Shobeir",
+     "Mohamed Hany",
+     "A. Dari",
+     "Yassin Marei",
+     "Tawfik Mohamed",
+     "Omar El Saeey",
+     "Marwan Attia",
+     "Zizo",
+     "Emam Ashour",
+     "A. Bencharki",
+     "M. Bakrar"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Shaaban",
+     "Ossama Fathy",
+     "Ibrahim Samy",
+     "Mohamed El Shebini",
+     "Mohab Samy",
+     "H. Ibrahim",
+     "Mahmoud Behiry",
+     "M. Wayo",
+     "Mohamed Sadek",
+     "M. Hany",
+     "Hazem Abou Sena"
+    ]
+   }
+  },
   "ou": [
    0.5633074935400517,
    0.4366925064599483
