@@ -3723,52 +3723,10 @@
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
-  "id": 1645678,
-  "kickoff": "2026-10-23T15:00:00+03:00",
-  "home": "Al Wahda",
-  "away": "Jaish",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
   "id": 1645679,
   "kickoff": "2026-10-23T15:00:00+03:00",
   "home": "Horriya",
   "away": "Al Taliya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645680,
-  "kickoff": "2026-10-23T15:00:00+03:00",
-  "home": "Tishreen",
-  "away": "Hottin",
   "p": null,
   "source": null,
   "out": {
@@ -4255,6 +4213,48 @@
   "kickoff": "2026-10-23T19:00:00+03:00",
   "home": "East Riffa",
   "away": "Muharraq",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645678,
+  "kickoff": "2026-10-23T19:00:00+03:00",
+  "home": "Al Wahda",
+  "away": "Jaish",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645680,
+  "kickoff": "2026-10-23T19:00:00+03:00",
+  "home": "Tishreen",
+  "away": "Hottin",
   "p": null,
   "source": null,
   "out": {
