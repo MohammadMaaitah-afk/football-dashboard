@@ -344,7 +344,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Alaa",
+     "M. Fathy",
+     "Moaz Mosaad",
+     "Mohamed El Maghraby",
+     "Hussein Al Sayed",
+     "Amr Kalawa",
+     "Amr Al Sulaya",
+     "P. Gwargis",
+     "Mohamed Reda",
+     "Marwan Osman",
+     "N. Gradišar"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Omar Salah",
+     "Mahmoud Shedid Kenawi",
+     "Barakat Haggag",
+     "Youssef Abdel-Tawab",
+     "Islam Abdallah",
+     "Mohamed Ibrahim Dodo",
+     "Adham Hamed",
+     "Mohamed Osman",
+     "Badr Moussa",
+     "Mostafa El Badry",
+     "Ahmed Bahbah"
+    ]
+   }
+  },
   "ou": [
    0.4533678756476684,
    0.5466321243523315
