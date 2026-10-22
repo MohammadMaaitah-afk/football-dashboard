@@ -170,9 +170,9 @@
   "home": "Kairat Almaty",
   "away": "Panathinaikos",
   "p": [
-   0.1778265642151482,
-   0.2349066959385291,
-   0.5872667398463226
+   0.1894940380277151,
+   0.24315178859168549,
+   0.5673541733805995
   ],
   "source": "Pinnacle",
   "out": {
@@ -181,36 +181,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5233160621761658,
-   0.4766839378238342
+   0.5181347150259067,
+   0.48186528497409326
   ],
   "btts": [
-   0.5141872950284719,
-   0.48581270497152795
+   0.5155277190104053,
+   0.4844722809895946
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 5.35,
-    "edge": -0.048627881448957244
+    "book": "1xBet",
+    "odd": 5.08,
+    "edge": -0.03737028681920718
    },
    {
-    "book": "Pinnacle",
-    "odd": 4.05,
-    "edge": -0.048627881448957244
+    "book": "1xBet",
+    "odd": 4.03,
+    "edge": -0.020098291975507387
    },
    {
     "book": "1xBet",
     "odd": 1.69,
-    "edge": -0.007519209659714865
+    "edge": -0.041171446986786986
    }
   ],
   "nbooks": 6,
   "move": {
    "diff": [
-    -0.05851660032943462,
-    -0.017828325396761935,
-    0.07634492572619656
+    -0.046849126516867706,
+    -0.009583232743605535,
+    0.05643235926047341
    ],
    "since": "19/10 00:01"
   }
@@ -3305,6 +3305,27 @@
   }
  },
  {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643409,
+  "kickoff": "2026-10-23T17:30:00+03:00",
+  "home": "East Riffa",
+  "away": "Muharraq",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري الكويتي",
   "type": "arab",
   "en": "Kuwait Premier League",
@@ -3354,27 +3375,6 @@
   "kickoff": "2026-10-23T18:00:00+03:00",
   "home": "Al Ahed",
   "away": "Reyady Abaseya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري العُماني",
-  "type": "arab",
-  "en": "Oman Professional League",
-  "id": 1642121,
-  "kickoff": "2026-10-23T18:20:00+03:00",
-  "home": "Al Seeb",
-  "away": "Sohar",
   "p": null,
   "source": null,
   "out": {
@@ -3464,13 +3464,13 @@
   }
  },
  {
-  "league": "الدوري البحريني",
+  "league": "الدوري العُماني",
   "type": "arab",
-  "en": "Bahrain Premier League",
-  "id": 1643408,
-  "kickoff": "2026-10-23T19:00:00+03:00",
-  "home": "Khalidiya",
-  "away": "Al Ittifaq Maqaba",
+  "en": "Oman Professional League",
+  "id": 1642121,
+  "kickoff": "2026-10-23T18:50:00+03:00",
+  "home": "Al Seeb",
+  "away": "Sohar",
   "p": null,
   "source": null,
   "out": {
@@ -3488,10 +3488,10 @@
   "league": "الدوري البحريني",
   "type": "arab",
   "en": "Bahrain Premier League",
-  "id": 1643409,
+  "id": 1643408,
   "kickoff": "2026-10-23T19:00:00+03:00",
-  "home": "East Riffa",
-  "away": "Muharraq",
+  "home": "Khalidiya",
+  "away": "Al Ittifaq Maqaba",
   "p": null,
   "source": null,
   "out": {
@@ -5147,27 +5147,6 @@
   }
  },
  {
-  "league": "الدوري العُماني",
-  "type": "arab",
-  "en": "Oman Professional League",
-  "id": 1642124,
-  "kickoff": "2026-10-24T18:05:00+03:00",
-  "home": "Bahla",
-  "away": "Al Nasr",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
@@ -5220,6 +5199,27 @@
    ],
    "since": "21/10 00:01"
   }
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642124,
+  "kickoff": "2026-10-24T18:30:00+03:00",
+  "home": "Bahla",
+  "away": "Al Nasr",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري العُماني",
@@ -5608,6 +5608,27 @@
   "kickoff": "2026-10-24T19:45:00+03:00",
   "home": "Al-Duhail SC",
   "away": "Lusail City",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611434,
+  "kickoff": "2026-10-24T19:45:00+03:00",
+  "home": "USM Alger",
+  "away": "CR Belouizdad",
   "p": null,
   "source": null,
   "out": {
