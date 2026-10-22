@@ -642,19 +642,21 @@
     "M. Bakker",
     "I. Hansen-Aaroen",
     "E. Mor",
+    "Y. Moslih",
     "B. Nuytinck",
     "P. Sandler",
+    "D. Tadic",
     "A. Tahaui",
     "A. Thomas",
-    "D. Tadic",
     "M. Bakker",
     "I. Hansen-Aaroen",
     "E. Mor",
+    "Y. Moslih",
     "B. Nuytinck",
     "P. Sandler",
+    "D. Tadic",
     "A. Tahaui",
-    "A. Thomas",
-    "D. Tadic"
+    "A. Thomas"
    ]
   },
   "lineups": null,
@@ -711,20 +713,20 @@
    "home": [
     "M. Bero",
     "E. Botka",
-    "L. Joseph",
     "B. Nagy",
     "B. Otvos",
     "I. Pappoe",
     "G. Szecsi",
+    "L. Joseph",
     "N. Keita",
     "F. Kovacevic",
     "M. Bero",
     "E. Botka",
-    "L. Joseph",
     "B. Nagy",
     "B. Otvos",
     "I. Pappoe",
     "G. Szecsi",
+    "L. Joseph",
     "N. Keita",
     "F. Kovacevic"
    ],
@@ -806,7 +808,10 @@
     "K. Yildiz",
     "E. Zhegrova"
    ],
-   "away": []
+   "away": [
+    "E. Lepaul",
+    "E. Lepaul"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -862,36 +867,40 @@
    "home": [
     "A. Douglas",
     "A. Gholizadeh",
-    "J. Moutinho",
-    "A. Sayyadmanesh",
     "R. Gumny",
     "W. Monka",
-    "A. Douglas",
-    "A. Gholizadeh",
     "J. Moutinho",
     "A. Sayyadmanesh",
+    "T. Yegbe",
+    "A. Douglas",
+    "A. Gholizadeh",
     "R. Gumny",
-    "W. Monka"
+    "W. Monka",
+    "J. Moutinho",
+    "A. Sayyadmanesh",
+    "T. Yegbe"
    ],
    "away": [
     "J. Angulo",
+    "D. Ballard",
     "A. Browne",
     "M. Ellborg",
-    "R. Mundle",
-    "J. Ta Bi",
-    "C. Talbi",
-    "D. Ballard",
     "W. Isidor",
     "T. Meunier",
-    "J. Angulo",
-    "A. Browne",
-    "M. Ellborg",
     "R. Mundle",
     "J. Ta Bi",
     "C. Talbi",
+    "B. Brobbey",
+    "J. Angulo",
     "D. Ballard",
+    "A. Browne",
+    "M. Ellborg",
     "W. Isidor",
-    "T. Meunier"
+    "T. Meunier",
+    "R. Mundle",
+    "J. Ta Bi",
+    "C. Talbi",
+    "B. Brobbey"
    ]
   },
   "lineups": null,
@@ -947,10 +956,12 @@
   "out": {
    "home": [
     "A. Chatzigiovanis",
+    "N. Christogeorgos",
     "A. Leya Iseka",
     "N. Marinakis",
     "C. Sielis",
     "A. Chatzigiovanis",
+    "N. Christogeorgos",
     "A. Leya Iseka",
     "N. Marinakis",
     "C. Sielis"
@@ -958,22 +969,22 @@
    "away": [
     "E. Ben Seghir",
     "V. Boniface",
+    "M. Culbreath",
     "G. Doue",
     "K. Eichhorn",
     "J. Hofmann",
     "C. Kofane",
     "T. Oermann",
     "M. Terrier",
-    "M. Culbreath",
     "E. Ben Seghir",
     "V. Boniface",
+    "M. Culbreath",
     "G. Doue",
     "K. Eichhorn",
     "J. Hofmann",
     "C. Kofane",
     "T. Oermann",
-    "M. Terrier",
-    "M. Culbreath"
+    "M. Terrier"
    ]
   },
   "lineups": null,
@@ -1033,8 +1044,8 @@
     "O. Kricfalusi",
     "K. Mac Allister",
     "I. Pavlic",
-    "K. Rodriguez",
     "R. Schoofs",
+    "K. Rodriguez",
     "R. Sykes",
     "A. Zorgane",
     "A. Ait El Hadj",
@@ -1042,22 +1053,22 @@
     "O. Kricfalusi",
     "K. Mac Allister",
     "I. Pavlic",
-    "K. Rodriguez",
     "R. Schoofs",
+    "K. Rodriguez",
     "R. Sykes",
     "A. Zorgane"
    ],
    "away": [
     "D. Biton",
-    "Y. Stoyanov",
     "Lucas Ventura",
     "I. Nachmias",
-    "I. Rotman",
+    "Y. Stoyanov",
+    "Joao Victor",
     "D. Biton",
-    "Y. Stoyanov",
     "Lucas Ventura",
     "I. Nachmias",
-    "I. Rotman"
+    "Y. Stoyanov",
+    "Joao Victor"
    ]
   },
   "lineups": null,
@@ -1115,6 +1126,7 @@
     "N. Geyrhofer",
     "L. Grgic",
     "S. Jatta",
+    "D. Khudyakov",
     "O. Kiteishvili",
     "G. Mamageishvili",
     "F. Rozga",
@@ -1124,6 +1136,7 @@
     "N. Geyrhofer",
     "L. Grgic",
     "S. Jatta",
+    "D. Khudyakov",
     "O. Kiteishvili",
     "G. Mamageishvili",
     "F. Rozga",
@@ -1133,9 +1146,13 @@
    ],
    "away": [
     "D. Cornelius",
+    "A. Koum Mbondo",
     "P. Hojbjerg",
+    "F. Moumbagna",
     "D. Cornelius",
-    "P. Hojbjerg"
+    "A. Koum Mbondo",
+    "P. Hojbjerg",
+    "F. Moumbagna"
    ]
   },
   "lineups": null,
@@ -1290,18 +1307,51 @@
   "kickoff": "2026-10-22T19:45:00+03:00",
   "home": "FC Iberia 1999",
   "away": "Mjallby AIF",
-  "p": null,
-  "source": null,
+  "p": [
+   0.3030887504334849,
+   0.2893536106857439,
+   0.4075576388807712
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
+  "ou": [
+   0.5,
+   0.5
+  ],
+  "btts": [
+   0.5475743655226755,
+   0.4524256344773246
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 3.26,
+    "edge": -0.011930673586839413
+   },
+   {
+    "book": "Bet365",
+    "odd": 3.5,
+    "edge": 0.012737637400103585
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 2.35,
+    "edge": -0.04223954863018764
+   }
+  ],
+  "nbooks": 6,
+  "move": {
+   "diff": [
+    0.029699416278121116,
+    0.002709036086483707,
+    -0.03240845236460488
+   ],
+   "since": "19/10 06:01"
+  }
  },
  {
   "league": "دوري المؤتمر الأوروبي",
@@ -1327,8 +1377,8 @@
    0.49610389610389616
   ],
   "btts": [
-   0.49324244348649604,
-   0.5067575565135041
+   0.49378004630670747,
+   0.5062199536932925
   ],
   "best": [
    {
@@ -1543,8 +1593,8 @@
    0.45077720207253885
   ],
   "btts": [
-   0.5345146184521468,
-   0.4654853815478532
+   0.5326814179594288,
+   0.46731858204057114
   ],
   "best": [
    {
@@ -2075,11 +2125,15 @@
     "P. Wimmer"
    ],
    "away": [
+    "A. Hamdani",
     "L. Openda",
     "M. Ouedraogo",
+    "P. Sulc",
     "N. Tagliafico",
+    "A. Hamdani",
     "L. Openda",
     "M. Ouedraogo",
+    "P. Sulc",
     "N. Tagliafico"
    ]
   },
@@ -2303,18 +2357,22 @@
    "away": [
     "M. Andersen",
     "E. Cobbaut",
+    "J. Grimaldo",
     "A. Karabec",
+    "J. Mercado",
     "O. Penxa",
     "M. Rynes",
+    "A. Sevinsky",
     "E. Uchenna",
-    "L. Mbe Soh",
     "M. Andersen",
     "E. Cobbaut",
+    "J. Grimaldo",
     "A. Karabec",
+    "J. Mercado",
     "O. Penxa",
     "M. Rynes",
-    "E. Uchenna",
-    "L. Mbe Soh"
+    "A. Sevinsky",
+    "E. Uchenna"
    ]
   },
   "lineups": null,
@@ -2437,10 +2495,14 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "P. Adu",
     "V. Jemelka",
+    "J. Paluska",
     "M. Tvrdon",
     "A. Sojka",
+    "P. Adu",
     "V. Jemelka",
+    "J. Paluska",
     "M. Tvrdon",
     "A. Sojka"
    ],
@@ -2450,13 +2512,13 @@
     "R. Kirilov",
     "A. Mitkov",
     "M. Sangare",
-    "A. Bouras",
+    "G. Trdin",
     "P. Hristov",
     "O. Kamdem",
     "R. Kirilov",
     "A. Mitkov",
     "M. Sangare",
-    "A. Bouras"
+    "G. Trdin"
    ]
   },
   "lineups": null,
