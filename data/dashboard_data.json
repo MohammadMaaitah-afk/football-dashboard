@@ -3305,27 +3305,6 @@
   }
  },
  {
-  "league": "الدوري البحريني",
-  "type": "arab",
-  "en": "Bahrain Premier League",
-  "id": 1643409,
-  "kickoff": "2026-10-23T17:30:00+03:00",
-  "home": "East Riffa",
-  "away": "Muharraq",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الكويتي",
   "type": "arab",
   "en": "Kuwait Premier League",
@@ -3492,6 +3471,27 @@
   "kickoff": "2026-10-23T19:00:00+03:00",
   "home": "Khalidiya",
   "away": "Al Ittifaq Maqaba",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1643409,
+  "kickoff": "2026-10-23T19:00:00+03:00",
+  "home": "East Riffa",
+  "away": "Muharraq",
   "p": null,
   "source": null,
   "out": {
