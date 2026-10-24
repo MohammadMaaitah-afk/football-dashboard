@@ -87,6 +87,11 @@ ARAB = {
 }
 
 
+
+def safe_escape(x):
+    """html.escape that never crashes on missing values (the API sometimes sends a null name)."""
+    return html.escape("" if x is None else str(x))
+
 def build_comps(key, cfg):
     """Active competitions: top 5 first divisions, plus optional European cups and Arab top divisions."""
     comps = {lid: ALL_COMPS[lid] for lid in TOP5}
@@ -240,7 +245,7 @@ def best_html(m):
     """Highest price on offer for each outcome, compared with the fair price."""
     if not m.get("best"):
         return ""
-    e = html.escape
+    e = safe_escape
     names = [m["home"], "تعادل", m["away"]]
     cells = ""
     for k, b in enumerate(m["best"]):
@@ -343,7 +348,9 @@ def collect(key):
             out = {"home": [], "away": []}
             for i in api("injuries", {"fixture": fid}, key):
                 side = "home" if i["team"]["id"] == f["teams"]["home"]["id"] else "away"
-                out[side].append(i["player"]["name"])
+                name = (i.get("player") or {}).get("name")
+                if name and name not in out[side]:          # skip empty names and duplicates
+                    out[side].append(name)
             c = {**od, "out": out, "fetched": now.isoformat(), "lineups": (c or {}).get("lineups")}
             refreshed += 1
         if not c.get("lineups") and hours_to_ko <= LINEUP_WINDOW_H:
@@ -407,7 +414,7 @@ def get_lineups(resp, f):
     for t in resp:
         side = "home" if t["team"]["id"] == f["teams"]["home"]["id"] else "away"
         out[side] = {"formation": t.get("formation") or "",
-                     "xi": [x["player"]["name"] for x in t.get("startXI", [])]}
+                     "xi": [x["player"]["name"] or "" for x in t.get("startXI", [])]}
     return out if out.get("home") and out.get("away") and out["home"]["xi"] else None
 
 
@@ -447,7 +454,7 @@ def fmt_time(iso):
 
 
 def card(m):
-    e = html.escape
+    e = safe_escape
     _, _, t = fmt_time(m["kickoff"])
     conf_cls, big_flag = "none", 0
     if m["p"]:
@@ -492,7 +499,7 @@ def card(m):
     for side in ("home", "away"):
         if m["out"][side]:
             team = m["home"] if side == "home" else m["away"]
-            names = "، ".join(e(n) for n in m["out"][side][:8])
+            names = "، ".join(e(n) for n in list(dict.fromkeys(x for x in m["out"][side] if x))[:8])
             outs += f'<div class="out"><b>غيابات {e(team)}:</b> {names}</div>'
     return f"""<article data-conf="{conf_cls}" data-move="{big_flag}" data-value="{1 if has_value(m) else 0}"><div class="top"><span class="teams">{e(m['home'])} <small>ضد</small> {e(m['away'])}</span><span class="time">{t}</span></div>{body}{move}{lu}{outs}</article>"""
 
@@ -506,7 +513,7 @@ PICK_TXT = ["فوز {h}", "تعادل", "فوز {a}"]
 
 
 def results_html(log):
-    e = html.escape
+    e = safe_escape
     recs = sorted(log.values(), key=lambda r: r["day"], reverse=True)
     if not recs:
         return ("<p class='empty'>لا توجد نتائج بعد. أول ما تنتهي مباراة كانت على اللوحة قبل بدايتها، "
@@ -558,7 +565,7 @@ def results_html(log):
 
 
 def highlights(matches):
-    e = html.escape
+    e = safe_escape
     now = datetime.now(timezone.utc)
     soon = [m for m in matches if m["p"] and
             datetime.fromisoformat(m["kickoff"].replace("Z", "+00:00")) - now <= timedelta(hours=24)]
@@ -590,7 +597,7 @@ def highlights(matches):
 
 def build_html(matches, log=None, pf=None):
     log = log or {}
-    e = html.escape
+    e = safe_escape
     now = datetime.now(AMMAN).strftime("%d/%m/%Y %H:%M")
     groups = {}
     for m in sorted(matches, key=lambda m: m["kickoff"]):
@@ -1055,7 +1062,7 @@ def run_agent(matches, log, state):
 
 
 def portfolio_html(pf):
-    e = html.escape
+    e = safe_escape
     cfg = load_agent_cfg()
     bets = sorted((pf or {}).get("bets", {}).values(), key=lambda b: b["kickoff"], reverse=True)
     done = [b for b in bets if b["status"] != "open"]
