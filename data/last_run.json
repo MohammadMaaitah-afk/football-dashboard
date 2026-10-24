@@ -1,12 +1,12 @@
 {
- "time": "2026-10-24 14:15",
+ "time": "2026-10-24 14:30",
  "ok": false,
- "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1236, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1193, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 347, in collect\n    od = parse_odds(api(\"odds\", {\"fixture\": fid}, key))\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 151, in api\n    raise RuntimeError(f\"Server said {r.status_code} on /{endpoint}: {r.text[:300]}\")\nRuntimeError: Server said 429 on /odds: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your daily request limit. Please try again later or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}\n",
- "calls": 92,
+ "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1236, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1193, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 319, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 154, in api\n    raise RuntimeError(f\"API error on /{endpoint}: {data['errors']}\")\nRuntimeError: API error on /fixtures: {'requests': 'You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan.'}\n",
+ "calls": 1,
  "api_status": {
-  "http": 429,
+  "http": 200,
   "errors": {
-   "rateLimit": "Too many requests. You have reached your daily request limit. Please try again later or upgrade your plan for higher limits."
+   "requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."
   },
   "subscription": null,
   "requests": null
