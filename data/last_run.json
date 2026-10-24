@@ -1,8 +1,8 @@
 {
- "time": "2026-10-24 13:20",
- "ok": false,
- "error": "_dashboard.py\", line 1196, in main\n    open(\"dashboard.html\", \"w\", encoding=\"utf-8\").write(build_html(matches, log, pf))\n                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 606, in build_html\n    sections += f'<div class=\"grp\" data-comp=\"{e(lname)}\"><h3>{lname}</h3>' + \"\".join(card(m) for m in ms) + \"</div>\"\n                                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 606, in <genexpr>\n    sections += f'<div class=\"grp\" data-comp=\"{e(lname)}\"><h3>{lname}</h3>' + \"\".join(card(m) for m in ms) + \"</div>\"\n                                                                                      ^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 495, in card\n    names = \"، \".join(e(n) for n in m[\"out\"][side][:8])\n            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 495, in <genexpr>\n    names = \"، \".join(e(n) for n in m[\"out\"][side][:8])\n                      ^^^^\n  File \"/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/html/__init__.py\", line 19, in escape\n    s = s.replace(\"&\", \"&amp;\") # Must be done first!\n        ^^^^^^^^^\nAttributeError: 'NoneType' object has no attribute 'replace'\n",
- "calls": 171,
+ "time": "2026-10-24 13:21",
+ "ok": true,
+ "error": "",
+ "calls": 9,
  "api_status": {
   "http": 200,
   "errors": [],
@@ -12,7 +12,7 @@
    "active": true
   },
   "requests": {
-   "current": 7191,
+   "current": 7221,
    "limit_day": 7500
   }
  }
