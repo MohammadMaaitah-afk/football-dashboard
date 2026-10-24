@@ -1205,10 +1205,31 @@ def main():
     print("Done. Open dashboard.html on your Desktop (double click).")
 
 
+def save_run_status(ok, err=""):
+    """Writes data/last_run.json so problems can be seen without the Actions logs (never contains the key)."""
+    info = {"time": datetime.now(AMMAN).strftime("%Y-%m-%d %H:%M"), "ok": ok, "error": err[-1500:], "calls": calls}
+    try:
+        key = os.environ.get("API_FOOTBALL_KEY", "").strip()
+        if key:
+            r = requests.get(f"{BASE_URL}/status", headers={"x-apisports-key": key}, timeout=30)
+            j = r.json()
+            resp = j.get("response") or {}
+            info["api_status"] = {"http": r.status_code, "errors": j.get("errors"),
+                                  "subscription": resp.get("subscription") if isinstance(resp, dict) else None,
+                                  "requests": resp.get("requests") if isinstance(resp, dict) else None}
+    except Exception as e:
+        info["api_status"] = f"status check failed: {e}"
+    if os.path.isdir("data"):
+        json.dump(info, open(os.path.join("data", "last_run.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+
 if __name__ == "__main__":
+    import traceback
     try:
         main()
-    except RuntimeError as e:
+        save_run_status(True)
+    except Exception as e:
+        save_run_status(False, traceback.format_exc())
         print(f"\n{e}")
-        if "season" in str(e).lower() or "plan" in str(e).lower():
-            print("This usually means the Pro plan is not active yet on this key.")
+        if not isinstance(e, RuntimeError):
+            raise
