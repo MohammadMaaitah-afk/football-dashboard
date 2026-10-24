@@ -1,19 +1,14 @@
 {
- "time": "2026-10-24 14:01",
- "ok": true,
- "error": "",
- "calls": 11,
+ "time": "2026-10-24 14:15",
+ "ok": false,
+ "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1236, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1193, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 347, in collect\n    od = parse_odds(api(\"odds\", {\"fixture\": fid}, key))\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 151, in api\n    raise RuntimeError(f\"Server said {r.status_code} on /{endpoint}: {r.text[:300]}\")\nRuntimeError: Server said 429 on /odds: {\"get\": \"\",\"parameters\": [],\"errors\": {\"rateLimit\": \"Too many requests. You have reached your daily request limit. Please try again later or upgrade your plan for higher limits.\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}\n",
+ "calls": 92,
  "api_status": {
-  "http": 200,
-  "errors": [],
-  "subscription": {
-   "plan": "Pro",
-   "end": "2026-11-07T07:21:44+00:00",
-   "active": true
+  "http": 429,
+  "errors": {
+   "rateLimit": "Too many requests. You have reached your daily request limit. Please try again later or upgrade your plan for higher limits."
   },
-  "requests": {
-   "current": 7398,
-   "limit_day": 7500
-  }
+  "subscription": null,
+  "requests": null
  }
 }
