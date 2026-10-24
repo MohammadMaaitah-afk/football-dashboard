@@ -37,7 +37,40 @@
     "N. O'Reilly"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Z. Suzuki",
+     "M. Cash",
+     "V. Lindelöf",
+     "Pau Torres",
+     "I. Maatsen",
+     "B. Kamara",
+     "João Gomes",
+     "Alysson Edward",
+     "J. Manzambi",
+     "J.  McGinn",
+     "N. Jackson"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "G. Donnarumma",
+     "A. Khusanov",
+     "Rúben Dias",
+     "M. Guéhi",
+     "J. Gvardiol",
+     "E. Anderson",
+     "E. Fernández",
+     "I. Ndiaye",
+     "R. Cherki",
+     "J. Doku",
+     "E. Haaland"
+    ]
+   }
+  },
   "ou": [
    0.657210401891253,
    0.3427895981087471
