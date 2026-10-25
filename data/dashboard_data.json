@@ -62,9 +62,9 @@
   "home": "Udinese",
   "away": "AC Milan",
   "p": [
-   0.21005205302803948,
-   0.26765635565899765,
-   0.5222915913129629
+   0.19584810763987756,
+   0.26854518914609254,
+   0.5356067032140298
   ],
   "source": "Pinnacle",
   "out": {
@@ -84,38 +84,71 @@
     "A. Saelemaekers"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Okoye",
+     "J. Abankwah",
+     "C. Kabasele",
+     "M. Palma",
+     "M. Vojvoda",
+     "J. Piotrowski",
+     "J. Karlström",
+     "H. Kamara",
+     "G. Chakvetadze",
+     "J. Ekkelenkamp",
+     "K. Davis"
+    ]
+   },
+   "away": {
+    "formation": "4-4-1-1",
+    "xi": [
+     "M. Maignan",
+     "F. Tomori",
+     "K. De Winter",
+     "S. Pavlović",
+     "S. Bocoum",
+     "O. Hutchinson",
+     "L. Modrić",
+     "A. Jashari",
+     "D. Bartesaghi",
+     "C. Pulišić",
+     "Gonçalo Ramos"
+    ]
+   }
+  },
   "ou": [
-   0.49487179487179483,
-   0.5051282051282052
+   0.5063938618925831,
+   0.4936061381074168
   ],
   "btts": [
-   0.5242799917453919,
-   0.4757200082546081
+   0.536357125432982,
+   0.46364287456701797
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 4.62,
-    "edge": -0.029559515010457615
+    "book": "Pinnacle",
+    "odd": 4.95,
+    "edge": -0.03055186718260605
    },
    {
     "book": "1xBet",
-    "odd": 3.8,
-    "edge": 0.017094151504190913
+    "odd": 3.84,
+    "edge": 0.03121352632099539
    },
    {
-    "book": "Betano",
-    "odd": 1.9,
-    "edge": -0.0076459765053705775
+    "book": "1xBet",
+    "odd": 1.86,
+    "edge": -0.0037715320219045
    }
   ],
-  "nbooks": 9,
+  "nbooks": 10,
   "move": {
    "diff": [
-    0.033834287985059525,
-    0.032699335601691054,
-    -0.06653362358675063
+    0.01963034259689761,
+    0.03358816908878595,
+    -0.0532185116856837
    ],
    "since": "22/10 00:01"
   }
