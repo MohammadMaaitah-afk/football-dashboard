@@ -77,7 +77,40 @@
     "F. Grillitsch"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Carnesecchi",
+     "R. Bellanova",
+     "T. Kristensen",
+     "R. ObriÄ",
+     "D. Zappacosta",
+     "Éderson",
+     "G. Gaetano",
+     "E. Elmas",
+     "C. De Ketelaere",
+     "J. Rowe",
+     "N. Krstović"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Palmisani",
+     "A. Oyono",
+     "G. Cittadini",
+     "G. Calvani",
+     "G. Bracaglia",
+     "G. Calò",
+     "P. Masini",
+     "F. Ghedjemis",
+     "R. Schmid",
+     "G. Kvernadze",
+     "A. Raimondo"
+    ]
+   }
+  },
   "ou": null,
   "btts": null,
   "best": null,
@@ -111,7 +144,28 @@
     "M. Sverko"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Bijlow",
+     "S. Otoa",
+     "L. Østigård",
+     "J. Vásquez",
+     "M. Ellertsson",
+     "H. Traorè",
+     "S. Wiafe",
+     "M. Mitaj",
+     "Junior Messias",
+     "S. El Shaarawy",
+     "M. Osmajić"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": []
+   }
+  },
   "ou": [
    0.4757033248081842,
    0.5242966751918159
@@ -172,7 +226,40 @@
     "A. Ueda"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Hrádecký",
+     "Vanderson",
+     "Sadibou Sané",
+     "J. Teze",
+     "Flávio Nazinho",
+     "L. Camara",
+     "D. Zakaria",
+     "M. Coulibaly",
+     "A. Golovin",
+     "Ansu Fati",
+     "Paris Josua  Brunner"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Özer",
+     "T. Nianzou",
+     "N. Ngoy",
+     "Alexsandro Ribeiro",
+     "R. Perraud",
+     "B. André",
+     "N. Bentaleb",
+     "E. Mbappé",
+     "H. Haraldsson",
+     "N. Mukau",
+     "S. Diaoune"
+    ]
+   }
+  },
   "ou": [
    0.5217391304347826,
    0.4782608695652174
@@ -237,7 +324,40 @@
     "J. Ramsey"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "W. Benítez",
+     "C. Richards",
+     "A. Disasi",
+     "J. Canvot",
+     "A. Khalaili",
+     "A. Wharton",
+     "D. Kamada",
+     "T. Mitchell",
+     "D. McNeil",
+     "Yeremy Pino",
+     "J. Mateta"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Horníček",
+     "A. Dedić",
+     "F. Schär",
+     "D. Burn",
+     "L. Hall",
+     "Nico González",
+     "Joelinton",
+     "J. Murphy",
+     "J. Willock",
+     "H. Barnes",
+     "W. Osula"
+    ]
+   }
+  },
   "ou": [
    0.6102941176470588,
    0.3897058823529411
@@ -305,7 +425,40 @@
     "Y. Yarmolyuk"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-4-1",
+    "xi": [
+     "K. Tzolakis",
+     "L. Coyle",
+     "S. Ajayi",
+     "J. Egan",
+     "L. Herrington",
+     "R. Giles",
+     "M. Belloumi",
+     "T. Iroegbunam",
+     "R. Slater",
+     "E. Stroud",
+     "O. McBurnie"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Kelleher",
+     "M. Kayode",
+     "S. van den Berg",
+     "K. Ajer",
+     "A. Hickey",
+     "M. Jensen",
+     "M. Sangaré",
+     "D. Ouattara",
+     "K. Schade",
+     "K. Lewis-Potter",
+     "Thiago"
+    ]
+   }
+  },
   "ou": [
    0.5768261964735516,
    0.4231738035264484
@@ -376,7 +529,40 @@
     "P. Struijk"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Alisson Becker",
+     "R. Araújo",
+     "J. Jacquet",
+     "V. van Dijk",
+     "M. Kerkez",
+     "R. Gravenberch",
+     "A. Mac Allister",
+     "C. Gakpo",
+     "F. Wirtz",
+     "B. Barcola",
+     "A. Isak"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Verbruggen",
+     "F. Kadıoğlu",
+     "L. Vušković",
+     "L. Dunk",
+     "O. Boscagli",
+     "P. Groß",
+     "José María Andrés Baixauli",
+     "D. Gómez",
+     "Y. Ayari",
+     "M. De Cuyper",
+     "C. Kostoulas"
+    ]
+   }
+  },
   "ou": [
    0.6310679611650486,
    0.3689320388349514
@@ -444,7 +630,40 @@
     "V. Milosavljevic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "S. Lammens",
+     "Diogo Dalot",
+     "L. Yoro",
+     "H. Maguire",
+     "A. Heaven",
+     "Andrey Santos",
+     "C. Baleba",
+     "A. Diallo",
+     "Y. Tielemans",
+     "M. Mount",
+     "B. Mbeumo"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Đ. Petrović",
+     "A. Smith",
+     "J. Hill",
+     "António Silva",
+     "A. Truffert",
+     "T. Adams",
+     "L. Cook",
+     "Rayan",
+     "J. Kluivert",
+     "M. Tavernier",
+     "Evanilson"
+    ]
+   }
+  },
   "ou": [
    0.5347043701799487,
    0.4652956298200514
@@ -656,7 +875,14 @@
    }
   ],
   "nbooks": 9,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "25/10 16:15"
+  }
  },
  {
   "league": "الدوري الفرنسي",
