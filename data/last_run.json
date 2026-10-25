@@ -1,14 +1,19 @@
 {
- "time": "2026-10-25 03:01",
- "ok": false,
- "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1236, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1193, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 319, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 154, in api\n    raise RuntimeError(f\"API error on /{endpoint}: {data['errors']}\")\nRuntimeError: API error on /fixtures: {'requests': 'You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan.'}\n",
- "calls": 1,
+ "time": "2026-10-25 03:16",
+ "ok": true,
+ "error": "",
+ "calls": 92,
  "api_status": {
   "http": 200,
-  "errors": {
-   "requests": "You have reached the request limit for the day, Go to https://dashboard.api-football.com to upgrade your plan."
+  "errors": [],
+  "subscription": {
+   "plan": "Pro",
+   "end": "2026-11-07T07:21:44+00:00",
+   "active": true
   },
-  "subscription": null,
-  "requests": null
+  "requests": {
+   "current": 0,
+   "limit_day": 7500
+  }
  }
 }
