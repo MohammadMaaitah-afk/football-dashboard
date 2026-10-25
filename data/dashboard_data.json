@@ -130,7 +130,40 @@
     "B. Fadiga"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Anthony Lopes",
+     "C. Arcus",
+     "O. Camara",
+     "J. Lefort",
+     "J. Kalulu",
+     "Y. Belkhdim",
+     "B. van den Boomen",
+     "L. Rao-Lisoa",
+     "P. Peter",
+     "A. Sbaï",
+     "A. El Ouazzani"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Y. Mvogo",
+     "N. Adjei",
+     "M. Talbi",
+     "S. Touré",
+     "D. Sylla",
+     "N. Cadiou",
+     "A. Avom",
+     "K. Kouassi",
+     "J. Makengo",
+     "S. Faye",
+     "I. Baldé"
+    ]
+   }
+  },
   "ou": [
    0.4769230769230769,
    0.523076923076923
@@ -196,7 +229,40 @@
     "H. Voyer"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "P. Nardi",
+     "C. Makosso",
+     "A. Tuanzebe",
+     "C. Akpa",
+     "L. Sy",
+     "N. Ahamada",
+     "K. Danois",
+     "F. Oppegård",
+     "R. Faivre",
+     "D. Namaso",
+     "C. Archer"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "N. Kocik",
+     "D. Sidibé",
+     "S. Yohou",
+     "Raúl Torrente",
+     "L. Buadés",
+     "L. Bretelle",
+     "A. Lauray",
+     "L. Calodat",
+     "A. Rabillard",
+     "L. Mafouta",
+     "H. Diallo"
+    ]
+   }
+  },
   "ou": [
    0.5594936708860759,
    0.44050632911392407
@@ -259,7 +325,40 @@
     "S. Zagadou"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "H. Abdelli",
+     "J. de Lange",
+     "Igor Paixão",
+     "T. Nnadi",
+     "P. Højbjerg",
+     "A. Harit",
+     "A. Gouiri",
+     "Emerson",
+     "C. Egan-Riley",
+     "N. Aguerd",
+     "T. Weah"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "G. Gallon",
+     "S. Ebonog",
+     "R. Fofana",
+     "J. Mwanga",
+     "R. Ndiaye",
+     "D. Ouziad",
+     "A. Richardson",
+     "M. Samatta",
+     "A. Seko",
+     "E. Koffi Vinette",
+     "A. Touba"
+    ]
+   }
+  },
   "ou": [
    0.6389548693586697,
    0.36104513064133015
@@ -320,7 +419,40 @@
     "J. Panichelli"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "B. Samba",
+     "P. Frankowski",
+     "A. Ait Boudlal",
+     "C. Cresswell",
+     "A. Rouault",
+     "M. Nagida",
+     "M. Camara",
+     "V. Rongier",
+     "S. Szymański",
+     "B. Dia",
+     "Mousa Tamari"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "F. Jörgensen",
+     "G. Antwi",
+     "J. Mitchell",
+     "Abdoul Karim Coulibaly",
+     "Oso",
+     "Dário Essugo",
+     "Diogo Sousa",
+     "Gessime Yassine",
+     "G. Reyna",
+     "P. Diop",
+     "C. Harder"
+    ]
+   }
+  },
   "ou": [
    0.6556603773584905,
    0.34433962264150947
@@ -382,7 +514,40 @@
     "Y. Titi"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "G. Restes",
+     "R. Messali",
+     "R. Nicolaisen",
+     "M. McKenzie",
+     "C. Tapé",
+     "A. Dønnum",
+     "C. Cásseres",
+     "N. Sigur",
+     "T. Jørgensen",
+     "J. Russell-Rowe",
+     "C. Tengstedt"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "H. Konaté",
+     "L. Maronnier",
+     "A. Monfray",
+     "M. Diaz",
+     "P. Gozzi",
+     "A. Mille",
+     "D. Karim",
+     "M. Diop",
+     "T. Nkada",
+     "R. Ripart",
+     "M. Ifnaoui"
+    ]
+   }
+  },
   "ou": [
    0.6102941176470588,
    0.3897058823529411
