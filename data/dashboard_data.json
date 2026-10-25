@@ -83,7 +83,40 @@
     "R. Sottil"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "I. Provedel",
+     "Y. Bisseck",
+     "M. Akanji",
+     "A. Bastoni",
+     "A. Diouf",
+     "N. Barella",
+     "H. Çalhanoğlu",
+     "H. Mkhitaryan",
+     "Carlos Augusto",
+     "M. Thuram",
+     "F. Esposito"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "David de Gea",
+     "Álex Jiménez",
+     "R. Drăgușin",
+     "M. Pongračić",
+     "Valde",
+     "C. Ndour",
+     "N. Fagioli",
+     "M. Brescianini",
+     "Franco Mastantuono",
+     "Mateo Pellegrino",
+     "A. Njie"
+    ]
+   }
+  },
   "ou": [
    0.6758620689655173,
    0.32413793103448274
