@@ -54,298 +54,6 @@
   }
  },
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552799,
-  "kickoff": "2026-10-25T19:15:00+03:00",
-  "home": "Toulouse",
-  "away": "Estac Troyes",
-  "p": [
-   0.6331586892815914,
-   0.21059408578279018,
-   0.1562472249356185
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Niflore",
-    "S. Oppong"
-   ],
-   "away": [
-    "I. Boura",
-    "Y. Kone",
-    "A. Ouzenadji",
-    "Y. Titi"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "G. Restes",
-     "R. Messali",
-     "R. Nicolaisen",
-     "M. McKenzie",
-     "C. Tapé",
-     "A. Dønnum",
-     "C. Cásseres",
-     "N. Sigur",
-     "T. Jørgensen",
-     "J. Russell-Rowe",
-     "C. Tengstedt"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "H. Konaté",
-     "L. Maronnier",
-     "A. Monfray",
-     "M. Diaz",
-     "P. Gozzi",
-     "A. Mille",
-     "D. Karim",
-     "M. Diop",
-     "T. Nkada",
-     "R. Ripart",
-     "M. Ifnaoui"
-    ]
-   }
-  },
-  "ou": [
-   0.6102941176470588,
-   0.3897058823529411
-  ],
-  "btts": [
-   0.5643356069280657,
-   0.4356643930719343
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.57,
-    "edge": -0.005940857827901547
-   },
-   {
-    "book": "Dafabet",
-    "odd": 4.7,
-    "edge": -0.010207796820886128
-   },
-   {
-    "book": "Bet365",
-    "odd": 6.5,
-    "edge": 0.015606962081520237
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.04875009436480915,
-    -0.016293956949607613,
-    -0.03245613741520159
-   ],
-   "since": "21/10 00:01"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557446,
-  "kickoff": "2026-10-25T19:30:00+03:00",
-  "home": "Sunderland",
-  "away": "Leeds",
-  "p": [
-   0.3221664870564338,
-   0.3078932882627943,
-   0.3699402246807719
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Ballard",
-    "K. Danso",
-    "R. Mundle",
-    "W. Isidor",
-    "T. Meunier"
-   ],
-   "away": [
-    "M. Joseph",
-    "J. Rodon",
-    "D. Calvert-Lewin",
-    "N. Okafor",
-    "A. Stach"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "R. Roefs",
-     "T. Hume",
-     "N. Mukiele",
-     "L. O&apos;Nien",
-     "Reinildo",
-     "G. Xhaka",
-     "N. Sadiki",
-     "N. Angulo",
-     "C. Rigg",
-     "E. Le Fée",
-     "B. Brobbey"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "J. Trafford",
-     "J. Justin",
-     "J. Bijol",
-     "T. Muharemović",
-     "J. Bogle",
-     "E. Ampadu",
-     "A. Tanaka",
-     "G. Gudmundsson",
-     "H. Wilson",
-     "B. Aaronson",
-     "D. Calvert-Lewin"
-    ]
-   }
-  },
-  "ou": [
-   0.4282115869017632,
-   0.5717884130982368
-  ],
-  "btts": [
-   0.5062894638514333,
-   0.4937105361485667
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.02,
-    "edge": -0.027057209089569878
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.25,
-    "edge": 0.0006531868540813335
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.67,
-    "edge": -0.012259600102338952
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.0017047626092162038,
-    0.006399703268838819,
-    -0.008104465878055078
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575198,
-  "kickoff": "2026-10-25T19:30:00+03:00",
-  "home": "SC Freiburg",
-  "away": "Bayern München",
-  "p": [
-   0.17505706372190794,
-   0.18731786974134118,
-   0.6376250665367509
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "Y. Engelhardt",
-    "B. Yilmaz"
-   ],
-   "away": [
-    "T. Buchmann",
-    "L. Diaz",
-    "Kim Min-Jae",
-    "J. Kimmich",
-    "J. Musiala",
-    "M. Neuer",
-    "A. Pavlovic"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Backhaus",
-     "P. Treu",
-     "M. Ginter",
-     "P. Lienhart",
-     "J. Makengo",
-     "M. Eggestein",
-     "P. Osterhage",
-     "J. Beste",
-     "Y. Suzuki",
-     "D. Scherhant",
-     "L. Höler"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Urbig",
-     "J. Stanišić",
-     "D. Upamecano",
-     "J. Tah",
-     "N. Brown",
-     "K. Laimer",
-     "T. Bischof",
-     "L. Karl",
-     "M. Olise",
-     "S. Gnabry",
-     "H. Kane"
-    ]
-   }
-  },
-  "ou": [
-   0.7277464794198347,
-   0.2722535205801652
-  ],
-  "btts": [
-   0.6578080350228045,
-   0.34219196497719556
-  ],
-  "best": [
-   {
-    "book": "BetVictor",
-    "odd": 5.75,
-    "edge": 0.006578116400970613
-   },
-   {
-    "book": "1xBet",
-    "odd": 5.28,
-    "edge": -0.010961647765718507
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.53,
-    "edge": -0.02443364819877114
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.0283129428454017,
-    0.02660978410697043,
-    -0.0549227269523721
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -378,7 +86,40 @@
     "K. Yildiz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "W. Falcone",
+     "Danilo Veiga",
+     "Kialonda Gaspar",
+     "Tiago Gabriel",
+     "A. Gallo",
+     "M. Kaba",
+     "O. Ngom",
+     "Y. Maleh",
+     "K. N’Dri",
+     "W. Geubbels",
+     "A. Ahmed Fatah"
+    ]
+   },
+   "away": {
+    "formation": "3-4-1-2",
+    "xi": [
+     "G. Vicario",
+     "Bremer",
+     "J. Lucumí",
+     "P. Kalulu",
+     "F. Gatti",
+     "Douglas Luiz",
+     "T. Koopmeiners",
+     "A. Cambiaso",
+     "W. McKennie",
+     "N. Woltemade",
+     "R. Kolo Muani"
+    ]
+   }
+  },
   "ou": [
    0.5357142857142857,
    0.4642857142857143
