@@ -54,105 +54,6 @@
   }
  },
  {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575197,
-  "kickoff": "2026-10-25T17:30:00+03:00",
-  "home": "1899 Hoffenheim",
-  "away": "Bayer Leverkusen",
-  "p": [
-   0.28675586213438947,
-   0.23200533953116476,
-   0.4812387983344457
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "N. De Cat",
-    "A. Hajdari",
-    "P. Wimmer",
-    "B. Conte"
-   ],
-   "away": [
-    "E. Ben Seghir",
-    "G. Doue",
-    "K. Eichhorn",
-    "C. Kofane",
-    "M. Terrier",
-    "M. Culbreath"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "O. Baumann",
-     "V. Coufal",
-     "O. Kabak",
-     "K. Machida",
-     "M. Rots",
-     "L. Avdullahu",
-     "W. Burger",
-     "A. Prass",
-     "F. Asllani",
-     "A. Hložek",
-     "A. Daghim"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Flekken",
-     "J. Quansah",
-     "E. Tapsoba",
-     "F. Medina",
-     "Miguel Gutiérrez",
-     "Aleix García",
-     "E. Fernández",
-     "M. Diaby",
-     "I. Maza",
-     "N. Tella",
-     "P. Schick"
-    ]
-   }
-  },
-  "ou": [
-   0.7278350515463918,
-   0.2721649484536083
-  ],
-  "btts": [
-   0.7237334251825563,
-   0.27626657481744354
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 3.4,
-    "edge": -0.025030068743075784
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.42,
-    "edge": 0.025463600727748226
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.1,
-    "edge": 0.010601476502336116
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.05910071768851066,
-    -0.006516439657042267,
-    0.06561715734555285
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -887,7 +788,14 @@
    }
   ],
   "nbooks": 10,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "25/10 17:15"
+  }
  },
  {
   "league": "الدوري الإيطالي",
