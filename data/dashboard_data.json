@@ -54,60 +54,6 @@
   }
  },
  {
-  "league": "الدوري المغربي",
-  "type": "arab",
-  "en": "Morocco Botola Pro",
-  "id": 1646855,
-  "kickoff": "2026-10-25T19:00:00+03:00",
-  "home": "CR Khemis Zemamra",
-  "away": "FUS Rabat",
-  "p": [
-   0.3246407663650878,
-   0.3001596593932943,
-   0.3751995742416179
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4020618556701031,
-   0.5979381443298969
-  ],
-  "btts": [
-   0.4682265853535136,
-   0.5317734146464864
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.9,
-    "edge": -0.05854177754124534
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.05,
-    "edge": -0.08451303885045236
-   },
-   {
-    "book": "Betfair",
-    "odd": 2.5,
-    "edge": -0.06200106439595532
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "25/10 16:15"
-  }
- },
- {
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
@@ -613,7 +559,40 @@
     "A. Stach"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "R. Roefs",
+     "T. Hume",
+     "N. Mukiele",
+     "L. O&apos;Nien",
+     "Reinildo",
+     "G. Xhaka",
+     "N. Sadiki",
+     "N. Angulo",
+     "C. Rigg",
+     "E. Le Fée",
+     "B. Brobbey"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Trafford",
+     "J. Justin",
+     "J. Bijol",
+     "T. Muharemović",
+     "J. Bogle",
+     "E. Ampadu",
+     "A. Tanaka",
+     "G. Gudmundsson",
+     "H. Wilson",
+     "B. Aaronson",
+     "D. Calvert-Lewin"
+    ]
+   }
+  },
   "ou": [
    0.4282115869017632,
    0.5717884130982368
@@ -678,7 +657,40 @@
     "A. Pavlovic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Backhaus",
+     "P. Treu",
+     "M. Ginter",
+     "P. Lienhart",
+     "J. Makengo",
+     "M. Eggestein",
+     "P. Osterhage",
+     "J. Beste",
+     "Y. Suzuki",
+     "D. Scherhant",
+     "L. Höler"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Urbig",
+     "J. Stanišić",
+     "D. Upamecano",
+     "J. Tah",
+     "N. Brown",
+     "K. Laimer",
+     "T. Bischof",
+     "L. Karl",
+     "M. Olise",
+     "S. Gnabry",
+     "H. Kane"
+    ]
+   }
+  },
   "ou": [
    0.7277464794198347,
    0.2722535205801652
