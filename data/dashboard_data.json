@@ -179,7 +179,40 @@
     "Dela"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Álex Remiro",
+     "Héctor Fort",
+     "Jon Martín",
+     "M. Sarr",
+     "Sergio Gómez",
+     "L. Sučić",
+     "Jon Gorrotxategi",
+     "Beñat Turrientes",
+     "Gonçalo Guedes",
+     "Mikel Oyarzabal",
+     "O. Óskarsson"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Ryan",
+     "Nacho Pérez",
+     "A. Mandi",
+     "Ifeanyi Ndukwe",
+     "Manu Sánchez",
+     "Brugui",
+     "Jon Ander Olasagasti",
+     "Reque",
+     "T. Fernández",
+     "Iván Romero",
+     "P. Ratkov"
+    ]
+   }
+  },
   "ou": [
    0.6508313539192399,
    0.34916864608076004
