@@ -57,387 +57,6 @@
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
-  "id": 1552792,
-  "kickoff": "2026-10-25T19:15:00+03:00",
-  "home": "Angers",
-  "away": "Lorient",
-  "p": [
-   0.30961399230270925,
-   0.2919483290782304,
-   0.3984376786190603
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "B. Diatta"
-   ],
-   "away": [
-    "P. Katseris",
-    "B. Fadiga"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Anthony Lopes",
-     "C. Arcus",
-     "O. Camara",
-     "J. Lefort",
-     "J. Kalulu",
-     "Y. Belkhdim",
-     "B. van den Boomen",
-     "L. Rao-Lisoa",
-     "P. Peter",
-     "A. Sbaï",
-     "A. El Ouazzani"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Y. Mvogo",
-     "N. Adjei",
-     "M. Talbi",
-     "S. Touré",
-     "D. Sylla",
-     "N. Cadiou",
-     "A. Avom",
-     "K. Kouassi",
-     "J. Makengo",
-     "S. Faye",
-     "I. Baldé"
-    ]
-   }
-  },
-  "ou": [
-   0.4769230769230769,
-   0.523076923076923
-  ],
-  "btts": [
-   0.534074026019078,
-   0.465925973980922
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.14,
-    "edge": -0.02781206416949289
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.38,
-    "edge": -0.01321464771558134
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.52,
-    "edge": 0.004062950120031994
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.006559413282951454,
-    0.0014106050265421666,
-    0.005148808256409232
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552793,
-  "kickoff": "2026-10-25T19:15:00+03:00",
-  "home": "Auxerre",
-  "away": "Le Mans",
-  "p": [
-   0.44976976457617224,
-   0.2661651209546663,
-   0.28406511446916144
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Diousse",
-    "S. Fofana",
-    "R. Labeau Lascary",
-    "B. Okoh",
-    "M. Senaya",
-    "T. Siwe"
-   ],
-   "away": [
-    "A. Bourabaa",
-    "E. Colas",
-    "Y. Larouci",
-    "H. Voyer"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "P. Nardi",
-     "C. Makosso",
-     "A. Tuanzebe",
-     "C. Akpa",
-     "L. Sy",
-     "N. Ahamada",
-     "K. Danois",
-     "F. Oppegård",
-     "R. Faivre",
-     "D. Namaso",
-     "C. Archer"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "N. Kocik",
-     "D. Sidibé",
-     "S. Yohou",
-     "Raúl Torrente",
-     "L. Buadés",
-     "L. Bretelle",
-     "A. Lauray",
-     "L. Calodat",
-     "A. Rabillard",
-     "L. Mafouta",
-     "H. Diallo"
-    ]
-   }
-  },
-  "ou": [
-   0.5594936708860759,
-   0.44050632911392407
-  ],
-  "btts": [
-   0.5895525066960625,
-   0.4104474933039374
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.16,
-    "edge": -0.028497308515467945
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.7,
-    "edge": -0.01518905246773461
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.54,
-    "edge": 0.005590505220831599
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.003906711324613121,
-    0.00916222370235975,
-    -0.0052555123777466295
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552796,
-  "kickoff": "2026-10-25T19:15:00+03:00",
-  "home": "Marseille",
-  "away": "Le Havre",
-  "p": [
-   0.6507805224594219,
-   0.19432123816924618,
-   0.154898239371332
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Cornelius"
-   ],
-   "away": [
-    "E. Jelert",
-    "F. Mambimbi",
-    "L. Mpasi-Nzau",
-    "T. Pembele",
-    "A. Toure",
-    "S. Zagadou"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "H. Abdelli",
-     "J. de Lange",
-     "Igor Paixão",
-     "T. Nnadi",
-     "P. Højbjerg",
-     "A. Harit",
-     "A. Gouiri",
-     "Emerson",
-     "C. Egan-Riley",
-     "N. Aguerd",
-     "T. Weah"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "G. Gallon",
-     "S. Ebonog",
-     "R. Fofana",
-     "J. Mwanga",
-     "R. Ndiaye",
-     "D. Ouziad",
-     "A. Richardson",
-     "M. Samatta",
-     "A. Seko",
-     "E. Koffi Vinette",
-     "A. Touba"
-    ]
-   }
-  },
-  "ou": [
-   0.6389548693586697,
-   0.36104513064133015
-  ],
-  "btts": [
-   0.5844759822559952,
-   0.4155240177440048
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.53,
-    "edge": -0.0043058006370845225
-   },
-   {
-    "book": "1xBet",
-    "odd": 5.08,
-    "edge": -0.012848110100229349
-   },
-   {
-    "book": "Betfair",
-    "odd": 6.5,
-    "edge": 0.0068385559136581175
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.045077114882798974,
-    -0.0026252685887968585,
-    -0.04245184629400209
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552798,
-  "kickoff": "2026-10-25T19:15:00+03:00",
-  "home": "Rennes",
-  "away": "Strasbourg",
-  "p": [
-   0.5424145250892011,
-   0.22475046294205323,
-   0.23283501196874581
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "E. Lepaul"
-   ],
-   "away": [
-    "F. Balde",
-    "I. Doukoure",
-    "S. Nanasi",
-    "J. Panichelli"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "5-3-2",
-    "xi": [
-     "B. Samba",
-     "P. Frankowski",
-     "A. Ait Boudlal",
-     "C. Cresswell",
-     "A. Rouault",
-     "M. Nagida",
-     "M. Camara",
-     "V. Rongier",
-     "S. Szymański",
-     "B. Dia",
-     "Mousa Tamari"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "F. Jörgensen",
-     "G. Antwi",
-     "J. Mitchell",
-     "Abdoul Karim Coulibaly",
-     "Oso",
-     "Dário Essugo",
-     "Diogo Sousa",
-     "Gessime Yassine",
-     "G. Reyna",
-     "P. Diop",
-     "C. Harder"
-    ]
-   }
-  },
-  "ou": [
-   0.6556603773584905,
-   0.34433962264150947
-  ],
-  "btts": [
-   0.6521693082152139,
-   0.3478306917847861
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.83,
-    "edge": -0.007381419086762042
-   },
-   {
-    "book": "Betano",
-    "odd": 4.5,
-    "edge": 0.011377083239239472
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.22,
-    "edge": -0.017436249491892708
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.002926966080353699,
-    0.007839352971241581,
-    -0.004912386890887688
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
   "id": 1552799,
   "kickoff": "2026-10-25T19:15:00+03:00",
   "home": "Toulouse",
@@ -538,9 +157,9 @@
   "home": "Sunderland",
   "away": "Leeds",
   "p": [
-   0.3255717513554993,
-   0.30708502730376747,
-   0.3673432213407332
+   0.3221664870564338,
+   0.3078932882627943,
+   0.3699402246807719
   ],
   "source": "Pinnacle",
   "out": {
@@ -598,32 +217,32 @@
    0.5717884130982368
   ],
   "btts": [
-   0.5114363953513059,
-   0.488563604648694
+   0.5062894638514333,
+   0.4937105361485667
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 3.01,
-    "edge": -0.020029028419947137
+    "book": "Pinnacle",
+    "odd": 3.02,
+    "edge": -0.027057209089569878
    },
    {
     "book": "Dafabet",
     "odd": 3.25,
-    "edge": -0.001973661262755777
+    "edge": 0.0006531868540813335
    },
    {
     "book": "1xBet",
     "odd": 2.67,
-    "edge": -0.019193599020242313
+    "edge": -0.012259600102338952
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.005110026908281717,
-    0.005591442309812011,
-    -0.010701469218093784
+    0.0017047626092162038,
+    0.006399703268838819,
+    -0.008104465878055078
    ],
    "since": "22/10 00:01"
   }
