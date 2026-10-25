@@ -182,7 +182,40 @@
     "Vinicius Junior"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Joan García",
+     "X. Espart",
+     "Pau Cubarsí Paredes",
+     "Gerard Martín",
+     "João Cancelo",
+     "Pedri",
+     "Rodri",
+     "Fermín",
+     "Lamine Yamal",
+     "Raphinha",
+     "A. Gordon"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Lunin",
+     "F. Valverde",
+     "I. Konaté",
+     "D. Huijsen",
+     "Marc Cucurella",
+     "A. Güler",
+     "A. Tchouaméni",
+     "Bernardo Silva",
+     "J. Bellingham",
+     "Kylian Mbappé",
+     "Y. Diomande"
+    ]
+   }
+  },
   "ou": [
    0.800826971067576,
    0.19917302893242383
