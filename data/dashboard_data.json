@@ -1696,48 +1696,6 @@
   "move": null
  },
  {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622655,
-  "kickoff": "2026-10-27T17:30:00+03:00",
-  "home": "Al Arabi",
-  "away": "Al Fahaheel",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622657,
-  "kickoff": "2026-10-27T19:50:00+03:00",
-  "home": "Al Shabab",
-  "away": "Al Qadsia",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -1968,6 +1926,48 @@
    ],
    "since": "25/10 03:16"
   }
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1622655,
+  "kickoff": "2026-10-28T17:30:00+03:00",
+  "home": "Al Arabi",
+  "away": "Al Fahaheel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1622657,
+  "kickoff": "2026-10-28T19:50:00+03:00",
+  "home": "Al Shabab",
+  "away": "Al Qadsia",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري المصري",
