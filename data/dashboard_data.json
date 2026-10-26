@@ -1,105 +1,5 @@
 [
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552800,
-  "kickoff": "2026-10-26T22:30:00+03:00",
-  "home": "Paris Saint Germain",
-  "away": "Lyon",
-  "p": [
-   0.7264163959511835,
-   0.1651510780538588,
-   0.1084325259949578
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "O. Dembele",
-    "K. Kvaratskhelia",
-    "Marquinhos",
-    "N. Mendes",
-    "A. Longoni"
-   ],
-   "away": [
-    "S. Kango",
-    "K. Nakamura",
-    "L. Openda",
-    "M. Ouedraogo",
-    "P. Sulc",
-    "N. Tagliafico"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "M. Safonov",
-     "A. Hakimi",
-     "I. Zabarnyi",
-     "W. Pacho",
-     "W. Zaïre-Emery",
-     "João Neves",
-     "Vitinha",
-     "Fabián Ruiz",
-     "D. Doué",
-     "Ferran Torres",
-     "M. Akliouche"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "D. Greif",
-     "Z. Athekame",
-     "F. Bacher",
-     "M. Niakhaté",
-     "Abner",
-     "T. Tessmann",
-     "T. Morton",
-     "C. Tolisso",
-     "E. Nuamah",
-     "K. Merah",
-     "J. Duranville"
-    ]
-   }
-  },
-  "ou": [
-   0.695364238410596,
-   0.3046357615894039
-  ],
-  "btts": [
-   0.582535043479152,
-   0.4174649565208481
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.35,
-    "edge": -0.019337865465902215
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.09,
-    "edge": 0.005770065348000175
-   },
-   {
-    "book": "Betfair",
-    "odd": 9.5,
-    "edge": 0.03010899695209912
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.05299911805797497,
-    -0.010256336770783803,
-    -0.04274278128719104
-   ],
-   "since": "22/10 00:01"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -125,7 +25,40 @@
     "A. Oroz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "O. Vlachodimos",
+     "Juan Iglesias",
+     "Andrés Castrín",
+     "Kike Salas",
+     "G. Suazo",
+     "C. Ejuke",
+     "L. Agoumé",
+     "Y. Fofana",
+     "Félix Correia",
+     "Isaac",
+     "L. Stassin"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Aitor Fernández",
+     "V. Rosier",
+     "Catena",
+     "F. Boyomo",
+     "Abel Bretones",
+     "Moncayola",
+     "Lucas Torró",
+     "Moi Gómez",
+     "Rubén García",
+     "A. Budimir",
+     "Jonathan Dubasin"
+    ]
+   }
+  },
   "ou": [
    0.42000000000000004,
    0.58
