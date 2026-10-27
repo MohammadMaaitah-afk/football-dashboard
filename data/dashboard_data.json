@@ -1,201 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550168,
-  "kickoff": "2026-10-27T22:45:00+03:00",
-  "home": "AS Roma",
-  "away": "Cagliari",
-  "p": [
-   0.7426956398238888,
-   0.17650901860531176,
-   0.08079534157079962
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Bah",
-    "M. Kone",
-    "L. Pellegrini",
-    "M. Svilar",
-    "P. Dybala"
-   ],
-   "away": [
-    "M. Felici",
-    "R. Idrissi",
-    "H. Winks"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-5-2",
-    "xi": [
-     "P. Gollini",
-     "G. Mancini",
-     "E. Ndicka",
-     "K. Koulierakis",
-     "E. Lulli",
-     "B. Cristante",
-     "M. de Roon",
-     "N. Pisilli",
-     "N. Molina",
-     "M. Soulé",
-     "S. Castro"
-    ]
-   },
-   "away": {
-    "formation": "3-5-1-1",
-    "xi": [
-     "E. Caprile",
-     "Zé Pedro",
-     "Y. Mina",
-     "J. Rodríguez",
-     "Y. Sugawara",
-     "A. Romano",
-     "A. Deiola",
-     "M. Adopo",
-     "A. Obert",
-     "A. Fadera",
-     "M&apos;Bala Nzola"
-    ]
-   }
-  },
-  "ou": [
-   0.5244215938303342,
-   0.47557840616966585
-  ],
-  "btts": [
-   0.4248704590651561,
-   0.5751295409348439
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.33,
-    "edge": -0.012214799034227952
-   },
-   {
-    "book": "Dafabet",
-    "odd": 5.8,
-    "edge": 0.02375230791080818
-   },
-   {
-    "book": "1xBet",
-    "odd": 12.1,
-    "edge": -0.02237636699332457
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.03615438901610535,
-    -0.020733747245194445,
-    -0.015420641770910723
-   ],
-   "since": "24/10 13:20"
-  }
- },
- {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550175,
-  "kickoff": "2026-10-27T22:45:00+03:00",
-  "home": "Torino",
-  "away": "Como",
-  "p": [
-   0.2098738747515092,
-   0.25261581269045885,
-   0.5375103125580319
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Israel",
-    "R. Mandragora",
-    "R. Rodriguez",
-    "N. Fortini",
-    "E. Ilkhan"
-   ],
-   "away": [
-    "T. Chalobah",
-    "A. Diao",
-    "M. Kean",
-    "M. Liberali",
-    "J. Rodriguez"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-5-2",
-    "xi": [
-     "Lucas Perri",
-     "Saúl Coco",
-     "A. Ismajli",
-     "P. Comuzzo",
-     "R. Belghali",
-     "K. Fitz-Jim",
-     "Daniel Bragança",
-     "N. Vlašić",
-     "A. Cacciamani",
-     "G. Simeone",
-     "C. Adams"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Robert Sánchez",
-     "Yan Couto",
-     "Jacobo Ramón Naveros",
-     "M. Kempf",
-     "Álex Valle",
-     "M. Perrone",
-     "Luis Milla",
-     "L. da Cunha",
-     "N. Paz",
-     "M. Caqueret",
-     "T. Douvikas"
-    ]
-   }
-  },
-  "ou": [
-   0.5793450881612091,
-   0.420654911838791
-  ],
-  "btts": [
-   0.5859309032887607,
-   0.4140690967112392
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 4.78,
-    "edge": 0.0031971213122139464
-   },
-   {
-    "book": "Betano",
-    "odd": 3.95,
-    "edge": -0.002167539872687474
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.82,
-    "edge": -0.021731231144381802
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.015920332957438943,
-    -0.01454836178080976,
-    -0.0013719711766292386
-   ],
-   "since": "24/10 13:20"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -279,9 +83,9 @@
   "home": "Al Shabab",
   "away": "Al Qadsia",
   "p": [
-   0.15821095812082228,
-   0.21393143220585373,
-   0.6278576096733239
+   0.1385920586498441,
+   0.20600626689945054,
+   0.6554016744507053
   ],
   "source": "متوسط 7 شركات",
   "out": {
@@ -290,36 +94,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5651685811302569,
-   0.4348314188697431
+   0.5661456400899948,
+   0.43385435991000526
   ],
   "btts": [
-   0.5222686892786242,
-   0.4777313107213758
+   0.49763975865747717,
+   0.5023602413425229
   ],
   "best": [
    {
-    "book": "Betfair",
-    "odd": 6.0,
-    "edge": -0.05073425127506637
+    "book": "Marathonbet",
+    "odd": 8.8,
+    "edge": 0.21961011611862835
    },
    {
-    "book": "Bet365",
-    "odd": 4.5,
-    "edge": -0.03730855507365827
+    "book": "Marathonbet",
+    "odd": 4.95,
+    "edge": 0.019731021152280093
    },
    {
-    "book": "Betano",
-    "odd": 1.5,
-    "edge": -0.0582135854900141
+    "book": "Dafabet",
+    "odd": 1.48,
+    "edge": -0.030005521812956126
    }
   ],
   "nbooks": 7,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    -0.01961889947097817,
+    -0.007925165306403192,
+    0.02754406477738136
    ],
    "since": "27/10 20:01"
   }
@@ -808,7 +612,14 @@
    }
   ],
   "nbooks": 8,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "27/10 22:45"
+  }
  },
  {
   "league": "الدوري العراقي",
