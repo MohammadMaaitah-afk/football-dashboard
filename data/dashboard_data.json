@@ -1691,6 +1691,27 @@
   "move": null
  },
  {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597950,
+  "kickoff": "2026-10-30T17:15:00+03:00",
+  "home": "Al Shahaniya",
+  "away": "Al Ahli Doha",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -1869,6 +1890,48 @@
   "kickoff": "2026-10-30T18:35:00+03:00",
   "home": "Shabab Al Ahli Dubai",
   "away": "Al-Ittihad Kalba",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597953,
+  "kickoff": "2026-10-30T19:30:00+03:00",
+  "home": "Al Sadd",
+  "away": "Al Shamal",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597955,
+  "kickoff": "2026-10-30T19:30:00+03:00",
+  "home": "Al-Gharafa",
+  "away": "Qatar SC",
   "p": null,
   "source": null,
   "out": {
