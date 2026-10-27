@@ -27,7 +27,40 @@
     "H. Winks"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "P. Gollini",
+     "G. Mancini",
+     "E. Ndicka",
+     "K. Koulierakis",
+     "E. Lulli",
+     "B. Cristante",
+     "M. de Roon",
+     "N. Pisilli",
+     "N. Molina",
+     "M. Soulé",
+     "S. Castro"
+    ]
+   },
+   "away": {
+    "formation": "3-5-1-1",
+    "xi": [
+     "E. Caprile",
+     "Zé Pedro",
+     "Y. Mina",
+     "J. Rodríguez",
+     "Y. Sugawara",
+     "A. Romano",
+     "A. Deiola",
+     "M. Adopo",
+     "A. Obert",
+     "A. Fadera",
+     "M&apos;Bala Nzola"
+    ]
+   }
+  },
   "ou": [
    0.5244215938303342,
    0.47557840616966585
@@ -93,7 +126,40 @@
     "J. Rodriguez"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "Lucas Perri",
+     "Saúl Coco",
+     "A. Ismajli",
+     "P. Comuzzo",
+     "R. Belghali",
+     "K. Fitz-Jim",
+     "Daniel Bragança",
+     "N. Vlašić",
+     "A. Cacciamani",
+     "G. Simeone",
+     "C. Adams"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Robert Sánchez",
+     "Yan Couto",
+     "Jacobo Ramón Naveros",
+     "M. Kempf",
+     "Álex Valle",
+     "M. Perrone",
+     "Luis Milla",
+     "L. da Cunha",
+     "N. Paz",
+     "M. Caqueret",
+     "T. Douvikas"
+    ]
+   }
+  },
   "ou": [
    0.5793450881612091,
    0.420654911838791
@@ -553,7 +619,14 @@
    }
   ],
   "nbooks": 8,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "27/10 22:01"
+  }
  },
  {
   "league": "الدوري الإيطالي",
