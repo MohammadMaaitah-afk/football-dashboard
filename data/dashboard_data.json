@@ -516,17 +516,43 @@
   "kickoff": "2026-10-28T21:00:00+03:00",
   "home": "Raja Casablanca",
   "away": "Hassania Agadir",
-  "p": null,
-  "source": null,
+  "p": [
+   0.5826067670753872,
+   0.25550073304702736,
+   0.16189249987758547
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.4345549738219895,
+   0.5654450261780105
+  ],
+  "btts": [
+   0.43934172106926467,
+   0.5606582789307354
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.62,
+    "edge": -0.056177037337872715
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.6,
+    "edge": -0.08019736103070152
+   },
+   {
+    "book": "1xBet",
+    "odd": 5.99,
+    "edge": -0.030263925733262975
+   }
+  ],
+  "nbooks": 8,
   "move": null
  },
  {
