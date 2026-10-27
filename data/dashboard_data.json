@@ -13,7 +13,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-5-1",
+    "xi": [
+     "D. Léon",
+     "Mohammed Al Dossary",
+     "J. Gaari",
+     "Abdullah Al Fahad",
+     "K. Al Shamrani",
+     "A. Gory",
+     "Nasser Al-Daajani",
+     "N. Fekir",
+     "Firas Al-Ghamdi",
+     "G. Nkoudou",
+     "Abdulkarim Darisi"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Fernando Pacheco",
+     "A. Ba",
+     "A. Seck",
+     "Andrei Girotto",
+     "Yaseen Barnawi",
+     "Flávio",
+     "Abdullah Almuqrin",
+     "Mohammed Ali Al Shanqiti",
+     "T. Bongonda",
+     "Alexandre Mendy",
+     "Abdulaziz Al Bishi"
+    ]
+   }
+  },
   "ou": null,
   "btts": null,
   "best": null,
