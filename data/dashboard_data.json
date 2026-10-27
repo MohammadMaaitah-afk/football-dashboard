@@ -1933,6 +1933,27 @@
   "move": null
  },
  {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611438,
+  "kickoff": "2026-10-30T19:45:00+03:00",
+  "home": "JS Kabylie",
+  "away": "JS El Biar",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
