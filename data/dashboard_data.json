@@ -1,146 +1,5 @@
 [
  {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622657,
-  "kickoff": "2026-10-28T19:50:00+03:00",
-  "home": "Al Shabab",
-  "away": "Al Qadsia",
-  "p": [
-   0.08598926356056684,
-   0.16782291215352266,
-   0.7461878242859106
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.582010582010582,
-   0.417989417989418
-  ],
-  "btts": [
-   0.43656854843359927,
-   0.5634314515664007
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 11.5,
-    "edge": -0.011123469053481383
-   },
-   {
-    "book": "Dafabet",
-    "odd": 5.6,
-    "edge": -0.060191691940273184
-   },
-   {
-    "book": "Betano",
-    "odd": 1.27,
-    "edge": -0.052341463156893586
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.07222169456025544,
-    -0.04610852005233107,
-    0.11833021461258664
-   ],
-   "since": "27/10 20:01"
-  }
- },
- {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612270,
-  "kickoff": "2026-10-28T20:00:00+03:00",
-  "home": "Zamalek SC",
-  "away": "El Mokawloon",
-  "p": [
-   0.46242209415186175,
-   0.31859181068656695,
-   0.21898609516157133
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Al Mahdi Soliman",
-     "Omar Gaber",
-     "Mohamed Ismail",
-     "Mahmoud Hamdi El Wensh",
-     "Ahmed Abou El Fotouh",
-     "Mohamed Shehata",
-     "Ahmed Esho",
-     "Oday Dabbagh",
-     "Abdalla El Said",
-     "Ahmed Sherif",
-     "Chico Banza"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Mohamed Fawzi",
-     "Khaled Abdel Fattah",
-     "Hassan Hussein",
-     "Mohamed Ammar",
-     "J. Ochaya",
-     "D. Dokou",
-     "Omar El Wahsh",
-     "Mido Gaber",
-     "Mohamed Abdelnasser",
-     "Joackiam Ojera",
-     "Idrissa Thiam"
-    ]
-   }
-  },
-  "ou": [
-   0.3707317073170731,
-   0.6292682926829268
-  ],
-  "btts": [
-   0.437874581338792,
-   0.562125418661208
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 2.22,
-    "edge": 0.026577049017133092
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.99,
-    "edge": -0.0474104860471648
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.35,
-    "edge": -0.0474104860471648
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.02568703767149788,
-    0.011323111309238909,
-    0.014363926362259
-   ],
-   "since": "25/10 03:16"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -171,7 +30,40 @@
     "J. Enem"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Maignan",
+     "F. Tomori",
+     "K. De Winter",
+     "S. Pavlović",
+     "P. Estupiñán",
+     "Y. Musah",
+     "A. Jashari",
+     "O. Hutchinson",
+     "A. Cissè",
+     "D. Bartesaghi",
+     "Gonçalo Ramos"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Ł. Skorupski",
+     "M. Darmian",
+     "N. Casale",
+     "A. Theate",
+     "N. Zortea",
+     "T. Pobega",
+     "L. Ferguson",
+     "R. Alhassane",
+     "F. Bernardeschi",
+     "J. Odgaard",
+     "S. Mbangula"
+    ]
+   }
+  },
   "ou": [
    0.45780051150895135,
    0.5421994884910486
@@ -234,7 +126,40 @@
     "A. Zanoli"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "G. Daffara",
+     "E. Del Prato",
+     "M. Troilo",
+     "D. Drobnic",
+     "S. Britschgi",
+     "Adrián Bernabé",
+     "V. Sierro",
+     "M. Keita",
+     "F. Carboni",
+     "D. Romero",
+     "E. Touré"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Okoye",
+     "J. Abankwah",
+     "C. Kabasele",
+     "N. Bertola",
+     "M. Palma",
+     "J. Karlström",
+     "G. Chakvetadze",
+     "H. Kamara",
+     "N. Zaniolo",
+     "J. Ekkelenkamp",
+     "K. Davis"
+    ]
+   }
+  },
   "ou": [
    0.44529262086514,
    0.5547073791348601
@@ -299,7 +224,40 @@
     "J. Stones"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "F. Stanković",
+     "R. Halhal",
+     "M. Moreno",
+     "Juan Jesus",
+     "A. Hainaut",
+     "Kike Pérez",
+     "Þ. Helgason",
+     "S. Sohm",
+     "P. Mazzocchi",
+     "L. Lauberbach",
+     "A. Adams"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "I. Provedel",
+     "Y. Bisseck",
+     "A. Bastoni",
+     "Carlos Augusto",
+     "A. Diouf",
+     "P. Sučić",
+     "A. Stanković",
+     "P. Zieliński",
+     "F. Dimarco",
+     "M. Thuram",
+     "A. Bonny"
+    ]
+   }
+  },
   "ou": [
    0.688195991091314,
    0.311804008908686
@@ -855,47 +813,47 @@
   "home": "Al Salt",
   "away": "Al Jazeera",
   "p": [
-   0.3177959144779009,
-   0.2902196297869454,
-   0.39198445573515367
+   0.40259660860033797,
+   0.28396312518832617,
+   0.3134402662113358
   ],
-  "source": "متوسط 7 شركات",
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.44601312286363554,
-   0.5539868771363644
+   0.4611260053619303,
+   0.5388739946380697
   ],
   "btts": [
-   0.5108080496546502,
-   0.48919195034534974
+   0.5115363813585997,
+   0.48846361864140037
   ],
   "best": [
    {
-    "book": "Dafabet",
-    "odd": 3.0,
-    "edge": -0.046612256566297305
+    "book": "BetVictor",
+    "odd": 2.9,
+    "edge": 0.16753016494098016
    },
    {
-    "book": "Betfair",
+    "book": "BetVictor",
     "odd": 3.2,
-    "edge": -0.0712971846817747
+    "edge": -0.09131799939735619
    },
    {
-    "book": "Bet365",
-    "odd": 2.4,
-    "edge": -0.05923730623563128
+    "book": "Pinnacle",
+    "odd": 2.89,
+    "edge": -0.09415763064923943
    }
   ],
-  "nbooks": 7,
+  "nbooks": 8,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.08480069412243707,
+    -0.006256504598619206,
+    -0.07854418952381786
    ],
    "since": "28/10 18:01"
   }
@@ -978,14 +936,14 @@
    0.4921052631578948
   ],
   "btts": [
-   0.45136681266666134,
-   0.5486331873333387
+   0.4508445392411621,
+   0.5491554607588379
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.44,
-    "edge": -0.047809534813764154
+    "odd": 1.42,
+    "edge": -0.06103440238579527
    },
    {
     "book": "Betfair",
