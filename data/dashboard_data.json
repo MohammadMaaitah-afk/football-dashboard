@@ -1360,53 +1360,11 @@
   "move": null
  },
  {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643049,
-  "kickoff": "2026-10-30T15:55:00+03:00",
-  "home": "Al-Wasl FC",
-  "away": "Al-Dhafra",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643050,
-  "kickoff": "2026-10-30T15:55:00+03:00",
-  "home": "Dubai United",
-  "away": "Khorfakkan",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
   "id": 1603071,
-  "kickoff": "2026-10-30T16:45:00+03:00",
+  "kickoff": "2026-10-30T15:30:00+03:00",
   "home": "Abha",
   "away": "Al-Ittihad FC",
   "p": [
@@ -1454,6 +1412,48 @@
    ],
    "since": "28/10 06:45"
   }
+ },
+ {
+  "league": "الدوري الإماراتي",
+  "type": "arab",
+  "en": "United-Arab-Emirates Pro League",
+  "id": 1643049,
+  "kickoff": "2026-10-30T15:55:00+03:00",
+  "home": "Al-Wasl FC",
+  "away": "Al-Dhafra",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الإماراتي",
+  "type": "arab",
+  "en": "United-Arab-Emirates Pro League",
+  "id": 1643050,
+  "kickoff": "2026-10-30T15:55:00+03:00",
+  "home": "Dubai United",
+  "away": "Khorfakkan",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري العراقي",
@@ -1954,6 +1954,69 @@
     -0.004373082192140609
    ],
    "since": "27/10 00:01"
+  }
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552806,
+  "kickoff": "2026-10-30T21:00:00+03:00",
+  "home": "Nice",
+  "away": "Rennes",
+  "p": [
+   0.34797929166729014,
+   0.25061721006089804,
+   0.40140349827181177
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "L. Abergel",
+    "M. Bombito",
+    "A. Mendy",
+    "A. Seidu",
+    "A. Abdi",
+    "J. Clauss"
+   ],
+   "away": [
+    "E. Lepaul"
+   ]
+  },
+  "lineups": null,
+  "ou": [
+   0.6185819070904646,
+   0.38141809290953554
+  ],
+  "btts": [
+   0.6385168635143439,
+   0.36148313648565605
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.78,
+    "edge": -0.032617569164933524
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.9,
+    "edge": -0.022592880762497658
+   },
+   {
+    "book": "1xBet",
+    "odd": 2.53,
+    "edge": 0.015550850627683577
+   }
+  ],
+  "nbooks": 10,
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "28/10 00:01"
   }
  },
  {
@@ -2630,6 +2693,27 @@
   "kickoff": "2026-10-31T17:00:00+03:00",
   "home": "Doqarah",
   "away": "Shabab Al Ordon",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597954,
+  "kickoff": "2026-10-31T17:15:00+03:00",
+  "home": "Al-Sailiya",
+  "away": "Lusail City",
   "p": null,
   "source": null,
   "out": {
@@ -3504,70 +3588,56 @@
    }
   ],
   "nbooks": 1,
-  "move": null
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552806,
-  "kickoff": "2026-10-31T19:15:00+03:00",
-  "home": "Nice",
-  "away": "Rennes",
-  "p": [
-   0.34797929166729014,
-   0.25061721006089804,
-   0.40140349827181177
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "L. Abergel",
-    "M. Bombito",
-    "A. Mendy",
-    "A. Seidu",
-    "A. Abdi",
-    "J. Clauss"
-   ],
-   "away": [
-    "E. Lepaul"
-   ]
-  },
-  "lineups": null,
-  "ou": [
-   0.6185819070904646,
-   0.38141809290953554
-  ],
-  "btts": [
-   0.6385168635143439,
-   0.36148313648565605
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.78,
-    "edge": -0.032617569164933524
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.9,
-    "edge": -0.022592880762497658
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.53,
-    "edge": 0.015550850627683577
-   }
-  ],
-  "nbooks": 10,
   "move": {
    "diff": [
     0.0,
     0.0,
     0.0
    ],
-   "since": "28/10 00:01"
+   "since": "28/10 12:01"
   }
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597951,
+  "kickoff": "2026-10-31T19:30:00+03:00",
+  "home": "Al-Arabi SC",
+  "away": "Al-Rayyan SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597952,
+  "kickoff": "2026-10-31T19:30:00+03:00",
+  "home": "Al-Duhail SC",
+  "away": "Al Wakrah",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري العراقي",
@@ -4076,7 +4146,14 @@
    }
   ],
   "nbooks": 1,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "28/10 12:01"
+  }
  },
  {
   "league": "الدوري الإيطالي",
@@ -4447,6 +4524,13 @@
    }
   ],
   "nbooks": 1,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "28/10 12:01"
+  }
  }
 ]
