@@ -17,14 +17,47 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Abdel Aziz El Balouti",
+     "Mostafa Adel",
+     "Mahmoud El Gazzar",
+     "Amir Medhat",
+     "Ahmed Meteb",
+     "K. Hamed",
+     "Anderson Ceará",
+     "Ali Hamdy",
+     "Mohamed Ashraf",
+     "Mostafa Shalaby",
+     "Ahmed Yasser Rayan"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed El Sayed",
+     "Karim El Eraki",
+     "B. El Mohamady",
+     "Mostafa Al Aash",
+     "Mohamed Shokry",
+     "Yassin El Mallah",
+     "Mohamed Makhlouf",
+     "A. Deghmoum",
+     "A. Ziani",
+     "Mohamed El Shamy",
+     "Salah Mohsen"
+    ]
+   }
+  },
   "ou": [
    0.441860465116279,
    0.5581395348837209
   ],
   "btts": [
-   0.5141681324715479,
-   0.485831867528452
+   0.5142697378363111,
+   0.48573026216368875
   ],
   "best": [
    {
