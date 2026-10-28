@@ -1,92 +1,5 @@
 [
  {
-  "league": "الدوري المغربي",
-  "type": "arab",
-  "en": "Morocco Botola Pro",
-  "id": 1646858,
-  "kickoff": "2026-10-28T23:00:00+03:00",
-  "home": "FAR Rabat",
-  "away": "Ittihad Tanger",
-  "p": [
-   0.6157801522659722,
-   0.23647227496811818,
-   0.14774757276590958
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "A. Tagnaouti",
-     "Fallou Formose Mendy",
-     "N. Lougmani",
-     "M. Louadni",
-     "J. Kitambala",
-     "A. Hammoudan",
-     "Y. Elfahli",
-     "J. Ech-Chammakh",
-     "A. Bach",
-     "M. Ndockyt",
-     "K. Aït Ouarkhane"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "B. Sarr",
-     "Soufyan Ahannach",
-     "ibrahim dieng",
-     "B. Elouadghiri",
-     "Akram El Wahabi",
-     "S. Khorsa",
-     "Z. Kiani",
-     "A. Laaziri",
-     "G. Mohutsiwa",
-     "Y. Najari",
-     "B. Abyir"
-    ]
-   }
-  },
-  "ou": [
-   0.462962962962963,
-   0.537037037037037
-  ],
-  "btts": [
-   0.446603670007452,
-   0.5533963299925481
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 1.5,
-    "edge": -0.07632977160104182
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.95,
-    "edge": -0.06593451387593319
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.41,
-    "edge": -0.052938058570519586
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "27/10 22:45"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -569,9 +482,9 @@
   "home": "Pyramids FC",
   "away": "Wadi Degla",
   "p": [
-   0.6612433786015527,
-   0.2193772150183975,
-   0.11937940638004985
+   0.6634668810813784,
+   0.21911261892525888,
+   0.11742049999336275
   ],
   "source": "Pinnacle",
   "out": {
@@ -580,8 +493,8 @@
   },
   "lineups": null,
   "ou": [
-   0.5078947368421052,
-   0.4921052631578948
+   0.5065616797900262,
+   0.4934383202099738
   ],
   "btts": [
    0.4508445392411621,
@@ -589,27 +502,27 @@
   ],
   "best": [
    {
-    "book": "Betano",
-    "odd": 1.42,
-    "edge": -0.06103440238579527
+    "book": "Pinnacle",
+    "odd": 1.43,
+    "edge": -0.05124236005362892
    },
    {
     "book": "Betfair",
-    "odd": 4.5,
-    "edge": -0.012802532417211299
+    "odd": 4.4,
+    "edge": -0.03590447672886088
    },
    {
     "book": "Pinnacle",
-    "odd": 7.81,
-    "edge": -0.06764683617181078
+    "odd": 8.08,
+    "edge": -0.05124236005362892
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.011371171703255745,
-    -0.002906865250853735,
-    -0.008464306452401982
+    0.013594674183081468,
+    -0.003171461343992349,
+    -0.010423212839089077
    ],
    "since": "26/10 00:01"
   }
