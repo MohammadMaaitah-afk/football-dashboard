@@ -33,7 +33,40 @@
     "K. Yildiz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Bijlow",
+     "A. Marcandalli",
+     "L. Østigård",
+     "J. Vásquez",
+     "M. Ellertsson",
+     "Alexsandro Amorim",
+     "T. Baldanzi",
+     "K. Ehizibue",
+     "M. Frendrup",
+     "M. Osmajić",
+     "Vítinha"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "G. Vicario",
+     "J. Lucumí",
+     "F. Gatti",
+     "Bremer",
+     "P. Kalulu",
+     "Douglas Luiz",
+     "P. Sarr",
+     "A. Cambiaso",
+     "W. McKennie",
+     "Kerim-Sam Alajbegović",
+     "R. Kolo Muani"
+    ]
+   }
+  },
   "ou": [
    0.39702233250620345,
    0.6029776674937966
@@ -99,7 +132,40 @@
     "L. Spinazzola"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "N. Törnqvist",
+     "Gustavo Varela",
+     "Jay Robinson",
+     "M. Ondoa",
+     "C. Ngonge",
+     "Ricardo Mangas",
+     "L. Lucchesi",
+     "S. Goglichidze",
+     "L. Colombo",
+     "S. Birindelli",
+     "A. Bakoune"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "V. Milinković-Savić",
+     "A. Zambo Anguissa",
+     "G. Di Lorenzo",
+     "R. Højlund",
+     "N. Lang",
+     "S. Lobotka",
+     "Rafa Marín",
+     "S. McTominay",
+     "M. Olivera",
+     "M. Politano",
+     "Amir Rrahmani"
+    ]
+   }
+  },
   "ou": [
    0.5670886075949367,
    0.43291139240506327
@@ -390,9 +456,9 @@
   "home": "Future FC",
   "away": "Al Ahly",
   "p": [
-   0.14341006975358056,
-   0.25241718476843156,
-   0.6041727454779878
+   0.1418524788391778,
+   0.25163724304715845,
+   0.6065102781136639
   ],
   "source": "Pinnacle",
   "out": {
@@ -401,36 +467,36 @@
   },
   "lineups": null,
   "ou": [
-   0.44386422976501305,
-   0.556135770234987
+   0.44415584415584414,
+   0.5558441558441558
   ],
   "btts": [
-   0.4354971895549214,
-   0.5645028104450786
+   0.43672595331173303,
+   0.563274046688267
   ],
   "best": [
    {
-    "book": "Bet365",
-    "odd": 7.0,
-    "edge": 0.003870488275063977
+    "book": "Pinnacle",
+    "odd": 6.67,
+    "edge": -0.05384396614268416
    },
    {
-    "book": "Bet365",
+    "book": "Dafabet",
     "odd": 3.9,
-    "edge": -0.015572979403116971
+    "edge": -0.0186147521160821
    },
    {
     "book": "Betano",
     "odd": 1.57,
-    "edge": -0.05144878959955912
+    "edge": -0.047778863361547685
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.0004593216919883403,
-    0.002444486286395986,
-    -0.0029038079783842985
+    -0.001098269222414433,
+    0.001664544565122883,
+    -0.0005662753427082556
    ],
    "since": "26/10 00:01"
   }
