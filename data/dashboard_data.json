@@ -359,17 +359,43 @@
   "kickoff": "2026-10-29T16:30:00+03:00",
   "home": "CS Sfaxien",
   "away": "ES Tunis",
-  "p": null,
-  "source": null,
+  "p": [
+   0.26410785170808426,
+   0.3193220367341646,
+   0.4165701115577511
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.3215962441314554,
+   0.6784037558685446
+  ],
+  "btts": [
+   0.40709967175379613,
+   0.5929003282462038
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.47,
+    "edge": -0.08354575457294755
+   },
+   {
+    "book": "Betfair",
+    "odd": 2.88,
+    "edge": -0.08035253420560595
+   },
+   {
+    "book": "Betano",
+    "odd": 2.32,
+    "edge": -0.0335573411860175
+   }
+  ],
+  "nbooks": 8,
   "move": null
  },
  {
@@ -380,17 +406,43 @@
   "kickoff": "2026-10-29T16:30:00+03:00",
   "home": "Stade Tunisien",
   "away": "ES Zarzis",
-  "p": null,
-  "source": null,
+  "p": [
+   0.5245199644671207,
+   0.3029405735371159,
+   0.17253946199576337
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.32235294117647056,
+   0.6776470588235294
+  ],
+  "btts": [
+   0.3735418262827134,
+   0.6264581737172866
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.78,
+    "edge": -0.06635446324852512
+   },
+   {
+    "book": "Betano",
+    "odd": 3.1,
+    "edge": -0.060884222034940705
+   },
+   {
+    "book": "Dafabet",
+    "odd": 5.4,
+    "edge": -0.06828690522287773
+   }
+  ],
+  "nbooks": 9,
   "move": null
  },
  {
