@@ -511,9 +511,9 @@
   "home": "Monza",
   "away": "Napoli",
   "p": [
-   0.21967644042359297,
-   0.23238062011074045,
-   0.5479429394656665
+   0.21955320392679148,
+   0.23281124764217745,
+   0.547635548431031
   ],
   "source": "Pinnacle",
   "out": {
@@ -544,25 +544,25 @@
    {
     "book": "1xBet",
     "odd": 4.53,
-    "edge": -0.004865724881123801
+    "edge": -0.005423986211634535
    },
    {
     "book": "Pinnacle",
-    "odd": 4.15,
-    "edge": -0.035620426540427075
+    "odd": 4.14,
+    "edge": -0.03616143476138545
    },
    {
-    "book": "Betano",
-    "odd": 1.83,
-    "edge": 0.002735579222169715
+    "book": "1xBet",
+    "odd": 1.82,
+    "edge": -0.0033033018555235216
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.030968557526880824,
-    -0.014358222027518158,
-    0.0453267795543989
+    -0.031091794023682312,
+    -0.013927594496081164,
+    0.04501938851976339
    ],
    "since": "25/10 03:16"
   }
@@ -1255,6 +1255,111 @@
   "move": null
  },
  {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645685,
+  "kickoff": "2026-10-30T15:00:00+03:00",
+  "home": "Al Karama",
+  "away": "Al Wahda",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645686,
+  "kickoff": "2026-10-30T15:00:00+03:00",
+  "home": "Shorta",
+  "away": "Wathba",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645687,
+  "kickoff": "2026-10-30T15:00:00+03:00",
+  "home": "Al Taliya",
+  "away": "Tishreen",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645688,
+  "kickoff": "2026-10-30T15:00:00+03:00",
+  "home": "Foutoua",
+  "away": "Jaish",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645689,
+  "kickoff": "2026-10-30T15:00:00+03:00",
+  "home": "Hottin",
+  "away": "Al Nawaeir",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري الإماراتي",
   "type": "arab",
   "en": "United-Arab-Emirates Pro League",
@@ -1283,111 +1388,6 @@
   "kickoff": "2026-10-30T15:55:00+03:00",
   "home": "Dubai United",
   "away": "Khorfakkan",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645685,
-  "kickoff": "2026-10-30T16:00:00+03:00",
-  "home": "Al Karama",
-  "away": "Al Wahda",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645686,
-  "kickoff": "2026-10-30T16:00:00+03:00",
-  "home": "Shorta",
-  "away": "Wathba",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645687,
-  "kickoff": "2026-10-30T16:00:00+03:00",
-  "home": "Al Taliya",
-  "away": "Tishreen",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645688,
-  "kickoff": "2026-10-30T16:00:00+03:00",
-  "home": "Foutoua",
-  "away": "Jaish",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645689,
-  "kickoff": "2026-10-30T16:00:00+03:00",
-  "home": "Hottin",
-  "away": "Al Nawaeir",
   "p": null,
   "source": null,
   "out": {
@@ -2224,6 +2224,27 @@
   }
  },
  {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645690,
+  "kickoff": "2026-10-31T15:00:00+03:00",
+  "home": "Damascus Al-Ahli",
+  "away": "Horriya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري اللبناني",
   "type": "arab",
   "en": "Lebanon Premier League",
@@ -2351,27 +2372,6 @@
    ],
    "since": "28/10 00:01"
   }
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645690,
-  "kickoff": "2026-10-31T16:00:00+03:00",
-  "home": "Damascus Al-Ahli",
-  "away": "Horriya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري السعودي",
@@ -2510,27 +2510,6 @@
   "kickoff": "2026-10-31T17:00:00+03:00",
   "home": "Diyala",
   "away": "Al Zawra'a",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642059,
-  "kickoff": "2026-10-31T17:00:00+03:00",
-  "home": "Al Hikma",
-  "away": "Tripoli SC",
   "p": null,
   "source": null,
   "out": {
@@ -2843,6 +2822,27 @@
   "kickoff": "2026-10-31T17:30:00+03:00",
   "home": "Al Tadhamon",
   "away": "Al Sahel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642059,
+  "kickoff": "2026-10-31T17:30:00+03:00",
+  "home": "Al Hikma",
+  "away": "Tripoli SC",
   "p": null,
   "source": null,
   "out": {
