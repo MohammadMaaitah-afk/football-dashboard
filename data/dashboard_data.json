@@ -1,59 +1,5 @@
 [
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628023,
-  "kickoff": "2026-10-29T18:30:00+03:00",
-  "home": "Al Quwa Al Jawiya",
-  "away": "Al Minaa Basra",
-  "p": [
-   0.4703150803642963,
-   0.29202570349417095,
-   0.2376592161415327
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.432,
-   0.568
-  ],
-  "btts": [
-   0.4899592121513661,
-   0.5100407878486338
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.0,
-    "edge": -0.059369839271407376
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.15,
-    "edge": -0.08011903399336151
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.8,
-    "edge": -0.09689497866217578
-   }
-  ],
-  "nbooks": 7,
-  "move": {
-   "diff": [
-    -0.02995793529505314,
-    0.01336250362748631,
-    0.016595431667566746
-   ],
-   "since": "28/10 13:01"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -306,8 +252,7 @@
     "S. Kolasinac",
     "O. Kossounou",
     "G. Raspadori",
-    "G. Scamacca",
-    "K. Sulemana"
+    "G. Scamacca"
    ]
   },
   "lineups": null,
