@@ -1,100 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550170,
-  "kickoff": "2026-10-29T20:30:00+03:00",
-  "home": "Frosinone",
-  "away": "Lecce",
-  "p": [
-   0.5583094663201388,
-   0.2291175640087362,
-   0.21257296967112507
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Grillitsch"
-   ],
-   "away": [
-    "M. Berisha",
-    "L. Coulibaly",
-    "K. Gaspar",
-    "I. Ilic",
-    "S. Pierotti"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "L. Palmisani",
-     "A. Oyono",
-     "G. Calvani",
-     "I. Monterisi",
-     "A. Terzić",
-     "G. Calò",
-     "Matteo Cichella",
-     "F. Ghedjemis",
-     "R. Schmid",
-     "G. Kvernadze",
-     "A. Raimondo"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "W. Falcone",
-     "J. Siebert",
-     "Tiago Gabriel",
-     "C. Ndaba",
-     "Danilo Veiga",
-     "Y. Maleh",
-     "O. Ngom",
-     "O. Gandelman",
-     "A. Gallo",
-     "Joël Monteiro",
-     "W. Geubbels"
-    ]
-   }
-  },
-  "ou": [
-   0.6852678571428571,
-   0.31473214285714285
-  ],
-  "btts": [
-   0.6663664832905953,
-   0.3336335167094046
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.78,
-    "edge": -0.006209149950152981
-   },
-   {
-    "book": "Betano",
-    "odd": 4.35,
-    "edge": -0.003338596561997642
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.58,
-    "edge": -0.026415798906247123
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.039323512636096125,
-    -0.020815145265421192,
-    -0.01850836737067496
-   ],
-   "since": "26/10 00:01"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -1068,7 +973,14 @@
    }
   ],
   "nbooks": 7,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "29/10 20:31"
+  }
  },
  {
   "league": "الدوري العراقي",
