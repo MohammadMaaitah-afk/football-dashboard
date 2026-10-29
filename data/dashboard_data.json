@@ -31,7 +31,40 @@
     "G. Scamacca"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "David de Gea",
+     "Álex Jiménez",
+     "R. Drăgușin",
+     "Viery",
+     "João Mário",
+     "C. Ndour",
+     "N. Fagioli",
+     "M. Brescianini",
+     "Franco Mastantuono",
+     "Mateo Pellegrino",
+     "A. Njie"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. De Ketelaere",
+     "Éderson",
+     "E. Elmas",
+     "M. Carnesecchi",
+     "D. Zappacosta",
+     "T. Kristensen",
+     "R. ObriÄ",
+     "L. Bernasconi",
+     "G. Gaetano",
+     "N. Zalewski",
+     "N. Krstović"
+    ]
+   }
+  },
   "ou": [
    0.6435406698564593,
    0.3564593301435407
@@ -430,9 +463,9 @@
   "home": "Al Shahaniya",
   "away": "Al Ahli Doha",
   "p": [
-   0.29992258759382046,
-   0.23452593315607015,
-   0.4655514792501095
+   0.2975598539936194,
+   0.2333802776420544,
+   0.46905986836432617
   ],
   "source": "Pinnacle",
   "out": {
@@ -441,36 +474,36 @@
   },
   "lineups": null,
   "ou": [
-   0.657074340527578,
-   0.34292565947242204
+   0.6571428571428571,
+   0.3428571428571429
   ],
   "btts": [
-   0.6505092226205785,
-   0.34949077737942147
+   0.6571962182019206,
+   0.3428037817980793
   ],
   "best": [
    {
-    "book": "Dafabet",
+    "book": "Pinnacle",
     "odd": 3.2,
-    "edge": -0.040247719699774476
+    "edge": -0.04780846722041787
    },
    {
     "book": "Pinnacle",
-    "odd": 3.99,
-    "edge": -0.06424152670728
+    "odd": 4.08,
+    "edge": -0.04780846722041798
    },
    {
-    "book": "Dafabet",
-    "odd": 2.02,
-    "edge": -0.05958601191477886
+    "book": "Pinnacle",
+    "odd": 2.03,
+    "edge": -0.04780846722041798
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.01428113134719422,
-    -0.011380622352836434,
-    -0.0029005089943575646
+    0.011918397746993159,
+    -0.012526277866852176,
+    0.0006078801198591277
    ],
    "since": "28/10 07:15"
   }
