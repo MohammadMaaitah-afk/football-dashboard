@@ -21,27 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645684,
-  "kickoff": "2026-10-29T16:00:00+03:00",
-  "home": "Al Ittihad",
-  "away": "Qamishli",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري التونسي",
   "type": "arab",
   "en": "Tunisia Ligue 1",
@@ -949,27 +928,6 @@
   "move": null
  },
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645689,
-  "kickoff": "2026-10-30T15:00:00+03:00",
-  "home": "Hottin",
-  "away": "Al Nawaeir",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -1373,6 +1331,27 @@
   "kickoff": "2026-10-30T18:35:00+03:00",
   "home": "Shabab Al Ahli Dubai",
   "away": "Al-Ittihad Kalba",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645689,
+  "kickoff": "2026-10-30T19:00:00+03:00",
+  "home": "Hottin",
+  "away": "Al Nawaeir",
   "p": null,
   "source": null,
   "out": {
@@ -2389,27 +2368,6 @@
   "kickoff": "2026-10-31T17:00:00+03:00",
   "home": "Diyala",
   "away": "Al Zawra'a",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الأردني",
-  "type": "arab",
-  "en": "Jordan League",
-  "id": 1643374,
-  "kickoff": "2026-10-31T17:00:00+03:00",
-  "home": "Doqarah",
-  "away": "Shabab Al Ordon",
   "p": null,
   "source": null,
   "out": {
@@ -4634,6 +4592,27 @@
   "kickoff": "2026-11-01T17:30:00+03:00",
   "home": "Al Jahra",
   "away": "Al Fahaheel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643374,
+  "kickoff": "2026-11-01T18:00:00+03:00",
+  "home": "Doqarah",
+  "away": "Shabab Al Ordon",
   "p": null,
   "source": null,
   "out": {
