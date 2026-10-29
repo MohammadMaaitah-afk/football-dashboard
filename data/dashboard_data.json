@@ -1,92 +1,5 @@
 [
  {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612271,
-  "kickoff": "2026-10-29T17:00:00+03:00",
-  "home": "Future FC",
-  "away": "Al Ahly",
-  "p": [
-   0.12961222322298963,
-   0.2436444605342644,
-   0.6267433162427459
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Mostafa Makhlouf",
-     "Ali Fawzi",
-     "Tarek Taha",
-     "Khaled Reda",
-     "Walid Mostafa",
-     "Abdel Rahman Rizk",
-     "Ghanam Mohamed",
-     "Mohamed Mossad",
-     "K. A. Kaboria",
-     "Ahmed Youssef",
-     "Mahmoud Mamdouh"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Mostafa Shobeir",
-     "Ahmed Eid",
-     "Hady Reyad",
-     "Yassin Marei",
-     "Tawfik Mohamed",
-     "Marwan Attia",
-     "Akram Tawfik",
-     "Zizo",
-     "Omar El Saeey",
-     "A. Bencharki",
-     "M. Bakrar"
-    ]
-   }
-  },
-  "ou": [
-   0.43076923076923074,
-   0.5692307692307692
-  ],
-  "btts": [
-   0.41884858298556443,
-   0.5811514170144355
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 7.35,
-    "edge": -0.04735015931102626
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.91,
-    "edge": -0.04735015931102615
-   },
-   {
-    "book": "Betano",
-    "odd": 1.53,
-    "edge": -0.04108272614859876
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.013338524838602595,
-    -0.006328237947771181,
-    0.019666762786373804
-   ],
-   "since": "26/10 00:01"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -104,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Moris",
+     "Fawaz Al Saqour",
+     "K. Kouyaté",
+     "Mohammed Al Khabrani",
+     "Pedro Rebocho",
+     "Nawaf Al Saadi",
+     "Miguel Crespo",
+     "Omar Mascarell",
+     "A. Fulgini",
+     "J. King",
+     "M. Barrow"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "J. Staněk",
+     "Mohammed Issa",
+     "Sultan Tanker",
+     "A. Ben Hmida",
+     "Ahmed Al Nakhli",
+     "A. Bah",
+     "Bonheur Mugisha",
+     "S. Bendebka",
+     "M. Al Hamdani",
+     "Afimico Pululu",
+     "Ahmed Al Shamrani"
+    ]
+   }
+  },
   "ou": [
    0.5364583333333334,
    0.46354166666666663
@@ -149,9 +95,9 @@
   "home": "Al Salt",
   "away": "Al Jazeera",
   "p": [
-   0.39582483044886546,
-   0.283612806863673,
-   0.32056236268746147
+   0.39218526961672034,
+   0.2953959562818246,
+   0.31241877410145513
   ],
   "source": "Pinnacle",
   "out": {
@@ -160,36 +106,36 @@
   },
   "lineups": null,
   "ou": [
-   0.4613333333333334,
-   0.5386666666666667
+   0.4511873350923483,
+   0.5488126649076518
   ],
   "btts": [
-   0.5162427041396173,
-   0.4837572958603827
+   0.5170601447757559,
+   0.48293985522424404
   ],
   "best": [
    {
     "book": "Dafabet",
-    "odd": 2.46,
-    "edge": -0.02627091709579099
+    "odd": 2.48,
+    "edge": -0.027380531350533532
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.25,
+    "edge": -0.03996314208407015
    },
    {
     "book": "Pinnacle",
-    "odd": 3.21,
-    "edge": -0.08960288996760968
-   },
-   {
-    "book": "William Hill",
-    "odd": 2.88,
-    "edge": -0.07678039546011106
+    "odd": 2.95,
+    "edge": -0.07836461640070735
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.07802891597096456,
-    -0.00660682292327236,
-    -0.0714220930476922
+    0.07438935513881945,
+    0.005176326494879202,
+    -0.07956568163369854
    ],
    "since": "28/10 18:01"
   }
@@ -257,9 +203,9 @@
   "home": "Pyramids FC",
   "away": "Wadi Degla",
   "p": [
-   0.6855696236645169,
-   0.20626445387309056,
-   0.10816592246239255
+   0.6844206188920667,
+   0.20771717472925166,
+   0.1078622063786817
   ],
   "source": "Pinnacle",
   "out": {
@@ -272,32 +218,32 @@
    0.4908616187989557
   ],
   "btts": [
-   0.4453311773380361,
-   0.5546688226619639
+   0.4446793997203762,
+   0.5553206002796238
   ],
   "best": [
    {
-    "book": "Betano",
-    "odd": 1.42,
-    "edge": -0.026491134396386062
+    "book": "William Hill",
+    "odd": 1.4,
+    "edge": -0.04181113355110666
    },
    {
     "book": "Pinnacle",
-    "odd": 4.62,
-    "edge": -0.04705822310632157
+    "odd": 4.58,
+    "edge": -0.04865533974002734
    },
    {
     "book": "Pinnacle",
-    "odd": 8.81,
-    "edge": -0.04705822310632157
+    "odd": 8.82,
+    "edge": -0.04865533974002734
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.03569741676621996,
-    -0.01601962639616067,
-    -0.019677790370059275
+    0.03454841199376979,
+    -0.014566905539999564,
+    -0.01998150645377013
    ],
    "since": "26/10 00:01"
   }
@@ -809,48 +755,6 @@
   }
  },
  {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643049,
-  "kickoff": "2026-10-30T15:55:00+03:00",
-  "home": "Al-Wasl FC",
-  "away": "Al-Dhafra",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643050,
-  "kickoff": "2026-10-30T15:55:00+03:00",
-  "home": "Dubai United",
-  "away": "Khorfakkan",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -1217,27 +1121,6 @@
   }
  },
  {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643051,
-  "kickoff": "2026-10-30T18:35:00+03:00",
-  "home": "Shabab Al Ahli Dubai",
-  "away": "Al-Ittihad Kalba",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
@@ -1474,7 +1357,14 @@
    }
   ],
   "nbooks": 8,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "29/10 17:01"
+  }
  },
  {
   "league": "الدوري الفرنسي",
