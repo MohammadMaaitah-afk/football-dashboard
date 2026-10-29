@@ -112,7 +112,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Bento",
+     "Nawaf Boushal",
+     "M. Simakan",
+     "Íñigo Martínez",
+     "Ayman Yahya",
+     "Abdullah Al Hamdan",
+     "Abdullah Al Khaibari",
+     "Ângelo",
+     "S. Mané",
+     "João Félix",
+     "Cristiano Ronaldo"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Hamed Abdullah Yousef",
+     "Ramzi Solan",
+     "S. Pinas",
+     "Mansour Camara",
+     "Sultan Al Shehri",
+     "Abdulrahman Al Dosari",
+     "J. Buckley",
+     "Iker Kortajarena",
+     "A. Essomba",
+     "J. Domingues",
+     "Coba"
+    ]
+   }
+  },
   "ou": [
    0.6539379474940334,
    0.34606205250596656
@@ -166,7 +199,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Borjan",
+     "Awad Dahal",
+     "Hossam Majrashi",
+     "R. Abascal",
+     "Hussain Qasim",
+     "F. Al Jayzani",
+     "K. Keita",
+     "V. Lekhal",
+     "B. Mensah",
+     "T. Okou",
+     "Trézéguet"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "K. Casteels",
+     "Yasir Al Shahrani",
+     "Jehad Abdullatif Ahm",
+     "G. Álvarez",
+     "Mohammed Abu Al Shamat",
+     "Musab Al Juwayr",
+     "J. Weigl",
+     "T. Reijnders",
+     "C. Bonsu Baah",
+     "Abdullah Al Salem",
+     "J. Quiñones"
+    ]
+   }
+  },
   "ou": [
    0.6751740139211136,
    0.3248259860788863
@@ -965,17 +1031,43 @@
   "kickoff": "2026-10-30T19:30:00+03:00",
   "home": "Al-Gharafa",
   "away": "Qatar SC",
-  "p": null,
-  "source": null,
+  "p": [
+   0.49030088800758687,
+   0.25933270109492196,
+   0.2503664108974912
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.6783216783216783,
+   0.3216783216783216
+  ],
+  "btts": [
+   0.6941798877123784,
+   0.3058201122876216
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 1.92,
+    "edge": -0.05862229502543326
+   },
+   {
+    "book": "William Hill",
+    "odd": 4.0,
+    "edge": 0.03733080437968783
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.76,
+    "edge": -0.05862229502543326
+   }
+  ],
+  "nbooks": 7,
   "move": null
  },
  {
