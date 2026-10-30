@@ -117,105 +117,6 @@
   }
  },
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552802,
-  "kickoff": "2026-10-30T23:05:00+03:00",
-  "home": "Lille",
-  "away": "Lens",
-  "p": [
-   0.3598663650761234,
-   0.2955266210170589,
-   0.3446070139068178
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "H. Igamane",
-    "T. Nianzou",
-    "T. Santos",
-    "A. Ueda"
-   ],
-   "away": [
-    "N. Celik",
-    "J. Chavez",
-    "O. Edouard",
-    "I. Ganiou",
-    "M. Nawrocki",
-    "A. Sima"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "B. Özer",
-     "N. Ngoy",
-     "M. Goffi",
-     "Alexsandro Ribeiro",
-     "R. Perraud",
-     "N. Mukau",
-     "N. Bentaleb",
-     "B. André",
-     "E. Mbappé",
-     "H. Haraldsson",
-     "S. Diaoune"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "R. Risser",
-     "R. Aguilar",
-     "S. Baidoo",
-     "J. Todibo",
-     "Saud Abdulhamid",
-     "A. Haidara",
-     "M. Cuisance",
-     "M. Udol",
-     "F. Thauvin",
-     "F. Sotoca",
-     "T. Hazard"
-    ]
-   }
-  },
-  "ou": [
-   0.46803069053708446,
-   0.5319693094629157
-  ],
-  "btts": [
-   0.5350566266274261,
-   0.4649433733725738
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.76,
-    "edge": -0.0067688323898994485
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.37,
-    "edge": -0.004075287172511488
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.83,
-    "edge": -0.02476215064370557
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.03710240872433357,
-    0.024209027719267584,
-    0.012893381005066096
-   ],
-   "since": "27/10 00:01"
-  }
- },
- {
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
@@ -604,7 +505,14 @@
    }
   ],
   "nbooks": 9,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "30/10 23:01"
+  }
  },
  {
   "league": "الدوري العراقي",
@@ -2015,7 +1923,14 @@
    }
   ],
   "nbooks": 9,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "30/10 23:01"
+  }
  },
  {
   "league": "الدوري الإيطالي",
