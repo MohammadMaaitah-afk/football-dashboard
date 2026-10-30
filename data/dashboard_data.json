@@ -96,93 +96,6 @@
   "move": null
  },
  {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612273,
-  "kickoff": "2026-10-30T18:00:00+03:00",
-  "home": "Asyut Petrol",
-  "away": "El Gouna FC",
-  "p": [
-   0.2911167794166574,
-   0.3257735388710214,
-   0.3831096817123212
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "Amgad Youssef",
-     "Abdelrahman Medhat",
-     "A. Shokry",
-     "Mahmoud Alaa",
-     "Ahmed Younes",
-     "I. Abbas",
-     "Mohamed Hesha",
-     "Zeyad Tarek",
-     "Mostafa Sadafa",
-     "Fathy Gamal",
-     "Joshua Egagy"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Eslam Risha",
-     "Ahmed Belya",
-     "Alpha Turay",
-     "Islam Abou Slemma",
-     "Ali El Zahdi",
-     "Omar El Gazar",
-     "Nour El Sayed",
-     "T. Ojo",
-     "M. Egbemba",
-     "Ahmed Gamal",
-     "Marwan Mohsen"
-    ]
-   }
-  },
-  "ou": [
-   0.34117647058823525,
-   0.6588235294117647
-  ],
-  "btts": [
-   0.4375306789262187,
-   0.5624693210737813
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.29,
-    "edge": -0.042225795719197046
-   },
-   {
-    "book": "Dafabet",
-    "odd": 2.95,
-    "edge": -0.03896806033048683
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.5,
-    "edge": -0.042225795719197046
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.024254140825099135,
-    -0.0013185146804371994,
-    -0.022935626144661936
-   ],
-   "since": "27/10 00:01"
-  }
- },
- {
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
@@ -2357,14 +2270,14 @@
    0.5623409669211196
   ],
   "btts": [
-   0.5164559225711176,
-   0.48354407742888245
+   0.513204550172292,
+   0.4867954498277079
   ],
   "best": [
    {
-    "book": "Betfair",
-    "odd": 2.45,
-    "edge": -0.0319389291808051
+    "book": "Dafabet",
+    "odd": 2.47,
+    "edge": -0.02403638982717904
    },
    {
     "book": "1xBet",
