@@ -93,7 +93,40 @@
     "N. Mendes"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "A. Bodart",
+     "D. Ouziad",
+     "A. Seko",
+     "A. Touba",
+     "Lamine N'Diaye",
+     "S. Ebonog",
+     "J. Mwanga",
+     "A. Richardson",
+     "S. Nakamura",
+     "J. Maja",
+     "R. Fofana"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "M. Safonov",
+     "A. Hakimi",
+     "I. Zabarnyi",
+     "L. Hernández",
+     "L. Digne",
+     "W. Zaïre-Emery",
+     "Pedro Fernández",
+     "Senny Mayulu",
+     "M. Akliouche",
+     "Ferran Torres",
+     "M. Godts"
+    ]
+   }
+  },
   "ou": [
    0.6870748299319728,
    0.31292517006802717
@@ -156,7 +189,40 @@
     "B. Samba"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Y. Diouf",
+     "X. Mandza Tsiendi",
+     "Y. Ndayishimiye",
+     "Mohamed Abdelmonem",
+     "J. Clauss",
+     "D. Coulibaly",
+     "H. Boudaoui",
+     "N. Nkounkou",
+     "S. Diop",
+     "M. Amoura",
+     "E. Wahi"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "N. Lemaître",
+     "A. Ait Boudlal",
+     "C. Cresswell",
+     "A. Rouault",
+     "P. Frankowski",
+     "S. Szymański",
+     "V. Rongier",
+     "A. Thomasson",
+     "M. Nagida",
+     "Mousa Tamari",
+     "B. Dia"
+    ]
+   }
+  },
   "ou": [
    0.5843828715365239,
    0.4156171284634761
@@ -210,7 +276,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Diaw",
+     "Mohammed Fuad Ibrahim Al Thani",
+     "T. Jedvaj",
+     "Ali Al Bulayhi",
+     "Dhari Al Anazi",
+     "Daniel Podence",
+     "J. Brownhill",
+     "Y. Adli",
+     "Y. Carrasco",
+     "Roger Martínez",
+     "Ricardo Mathias"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Abdulrahman Al Sanbi",
+     "Mohammed Yousef",
+     "Rayane Hamidou",
+     "Ibañez",
+     "Saad Yaslam",
+     "V. Atangana Edoa",
+     "Ziyad Al Johani",
+     "A. Bondarenko",
+     "Trincão",
+     "Feras Al Brikan",
+     "Matheus Gonçalves"
+    ]
+   }
+  },
   "ou": [
    0.637469586374696,
    0.36253041362530414
@@ -264,7 +363,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Sobhi Soliman",
+     "Momen Awad",
+     "Mohamed Mostafa Mido",
+     "Mostafa Ibrahim",
+     "K. Mosaad",
+     "Youssry Wahid",
+     "Mohamed Fakhry",
+     "Pascal Phiri",
+     "I. Saviour",
+     "Mahmoud Emad",
+     "Hossam Hassan"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Omar Radwan",
+     "Ahmed Abdel Rahman Zola",
+     "Mostafa Khawaga",
+     "Mohamed Fathallah",
+     "Khaled Abo Ziada",
+     "Khaled Stouhi",
+     "I. Ouro-Agoro",
+     "Ahmed Tarek",
+     "Islam Mohareb",
+     "Karim Tarek",
+     "Mohamed Atef"
+    ]
+   }
+  },
   "ou": [
    0.33255813953488367,
    0.6674418604651163
@@ -318,7 +450,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Shaaban",
+     "Ossama Fathy",
+     "Ibrahim Samy",
+     "Mohamed El Shebini",
+     "Mohab Samy",
+     "H. Ibrahim",
+     "Momen Rady",
+     "M. Wayo",
+     "Mohamed Sadek",
+     "M. Hany",
+     "Hazem Abou Sena"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Abdel Rahman Samir",
+     "Sayed Said",
+     "M. Sharkia",
+     "Ahmed Khalil Kalousha",
+     "Mohamed Hamdy",
+     "Emad Mayhoub",
+     "Zeyad Kamal",
+     "Mohamed Sherif",
+     "Hossam Gahnem",
+     "Seif Elkhashab",
+     "Mohamed El Nahass"
+    ]
+   }
+  },
   "ou": [
    0.34597156398104273,
    0.6540284360189573
@@ -2141,8 +2306,8 @@
    0.3127853881278539
   ],
   "btts": [
-   0.6879844441567301,
-   0.3120155558432699
+   0.6762437618416896,
+   0.32375623815831045
   ],
   "best": [
    {
