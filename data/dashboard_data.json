@@ -96,93 +96,6 @@
   "move": null
  },
  {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597950,
-  "kickoff": "2026-10-30T17:15:00+03:00",
-  "home": "Al Shahaniya",
-  "away": "Al Ahli Doha",
-  "p": [
-   0.2828753386580346,
-   0.23666303085746457,
-   0.4804616304845009
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Shehab Ellethy",
-     "Yousef Hani Ballan",
-     "S. van Beek",
-     "Z. Šarlija",
-     "Abdulla Al Sulaiti",
-     "Moameen Mutasem",
-     "Álvaro Sanz",
-     "Mohamed Surag",
-     "F. Antonucci",
-     "Jawad El Jemili",
-     "A. Traoré"
-    ]
-   },
-   "away": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Mohamed Lingliz",
-     "Ahmed Reyed",
-     "R. Tihi",
-     "A. Amraoui",
-     "Ghanem Al Minhali",
-     "D. Fettouhi",
-     "Luiz Ceará",
-     "B. Bourigeaud",
-     "J. Draxler",
-     "N. Sliti",
-     "Erik Expósito"
-    ]
-   }
-  },
-  "ou": [
-   0.637469586374696,
-   0.36253041362530414
-  ],
-  "btts": [
-   0.6488503870055048,
-   0.35114961299449515
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.68,
-    "edge": 0.040981246261567295
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.04,
-    "edge": -0.04388135533584314
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 1.99,
-    "edge": -0.04388135533584314
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.0027661175885916323,
-    -0.009243524651442014,
-    0.012009642240033869
-   ],
-   "since": "28/10 07:15"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -221,7 +134,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Amin Al Bukhari",
+     "T. Wadi",
+     "B. Djimsiti",
+     "C. Mbemba",
+     "Hussain Al Sibyani",
+     "Óscar Rodríguez",
+     "I. Gueye",
+     "E. Millot",
+     "C. Diandy",
+     "D. Núñez",
+     "A. Boulbina"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Luís Maximiano",
+     "Khalifah Al Dawsari",
+     "M. Sarr",
+     "N. Zézé",
+     "Islam Hawsawi",
+     "Khalil Al Absi",
+     "Abdulmalik Al Oyayari",
+     "A. Al Hassan",
+     "Mohannad Abu Taha",
+     "S. Benrahma",
+     "G. Masouras"
+    ]
+   }
+  },
   "ou": [
    0.5026041666666667,
    0.4973958333333334
@@ -431,8 +377,8 @@
    0.2763713080168776
   ],
   "btts": [
-   0.6735433030044545,
-   0.32645669699554547
+   0.6760501164282557,
+   0.3239498835717442
   ],
   "best": [
    {
@@ -485,8 +431,8 @@
    0.36341463414634145
   ],
   "btts": [
-   0.6668791201774082,
-   0.33312087982259186
+   0.6696675839052425,
+   0.33033241609475755
   ],
   "best": [
    {
@@ -495,14 +441,14 @@
     "edge": -0.044345052893590475
    },
    {
-    "book": "Betano",
-    "odd": 3.85,
-    "edge": 0.008019601742377036
+    "book": "BetVictor",
+    "odd": 4.0,
+    "edge": 0.04729309271935267
    },
    {
-    "book": "Pinnacle",
-    "odd": 3.74,
-    "edge": -0.04434505289359081
+    "book": "1xBet",
+    "odd": 3.98,
+    "edge": 0.016980398257622653
    }
   ],
   "nbooks": 9,
@@ -1047,8 +993,8 @@
    0.35071090047393366
   ],
   "btts": [
-   0.6582300972050431,
-   0.34176990279495684
+   0.6525518576519392,
+   0.3474481423480609
   ],
   "best": [
    {
@@ -1058,8 +1004,8 @@
    },
    {
     "book": "1xBet",
-    "odd": 4.16,
-    "edge": 0.016838586808659572
+    "odd": 4.12,
+    "edge": 0.007061292704729993
    },
    {
     "book": "Dafabet",
