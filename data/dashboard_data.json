@@ -221,7 +221,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "Amgad Youssef",
+     "Abdelrahman Medhat",
+     "A. Shokry",
+     "Mahmoud Alaa",
+     "Ahmed Younes",
+     "I. Abbas",
+     "Mohamed Hesha",
+     "Zeyad Tarek",
+     "Mostafa Sadafa",
+     "Fathy Gamal",
+     "Joshua Egagy"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Eslam Risha",
+     "Ahmed Belya",
+     "Alpha Turay",
+     "Islam Abou Slemma",
+     "Ali El Zahdi",
+     "Omar El Gazar",
+     "Nour El Sayed",
+     "T. Ojo",
+     "M. Egbemba",
+     "Ahmed Gamal",
+     "Marwan Mohsen"
+    ]
+   }
+  },
   "ou": [
    0.34117647058823525,
    0.6588235294117647

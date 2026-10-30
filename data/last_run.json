@@ -1,8 +1,8 @@
 {
- "time": "2026-10-30 17:31",
+ "time": "2026-10-30 17:45",
  "ok": true,
  "error": "",
- "calls": 31,
+ "calls": 25,
  "api_status": {
   "http": 200,
   "errors": [],
@@ -12,7 +12,7 @@
    "active": true
   },
   "requests": {
-   "current": 1789,
+   "current": 1820,
    "limit_day": 7500
   }
  }
