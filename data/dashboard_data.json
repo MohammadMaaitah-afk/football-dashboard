@@ -59,7 +59,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Meshaal Barsham",
+     "Pedro Miguel",
+     "Y. El Hannach",
+     "Boualem Khoukhi",
+     "Paulo Otávio",
+     "M. Camara",
+     "Claudinho",
+     "Giovani",
+     "Roberto Firmino",
+     "Akram Afif",
+     "Y. Abdurisag"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Seck",
+     "Moufak Awad",
+     "Ahmed Suhail",
+     "Pablo Marí",
+     "Abdelkarim Hassan",
+     "Tiago Silva",
+     "Ali Asad",
+     "N. Benaïssa",
+     "M. Ben Romdhane",
+     "R. Mahrez",
+     "B. Bounedjah"
+    ]
+   }
+  },
   "ou": [
    0.7236286919831223,
    0.2763713080168776
@@ -898,8 +931,8 @@
    0.5103092783505154
   ],
   "btts": [
-   0.5432632560721944,
-   0.45673674392780567
+   0.5426421830650624,
+   0.4573578169349376
   ],
   "best": [
    {
@@ -908,14 +941,14 @@
     "edge": -0.03203238355588256
    },
    {
-    "book": "BetVictor",
-    "odd": 3.4,
-    "edge": -0.011684715942943291
+    "book": "1xBet",
+    "odd": 3.39,
+    "edge": -0.014591525601934552
    },
    {
-    "book": "1xBet",
-    "odd": 2.69,
-    "edge": -0.0023628780710054365
+    "book": "Betfair",
+    "odd": 2.7,
+    "edge": 0.0013458101146042178
    }
   ],
   "nbooks": 10,
@@ -2507,7 +2540,14 @@
    }
   ],
   "nbooks": 5,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "30/10 19:01"
+  }
  },
  {
   "league": "الدوري الأردني",
