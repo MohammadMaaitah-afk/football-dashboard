@@ -1793,6 +1793,27 @@
   }
  },
  {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611439,
+  "kickoff": "2026-10-31T17:00:00+03:00",
+  "home": "MC Alger",
+  "away": "Khenchela",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -2594,27 +2615,6 @@
    ],
    "since": "28/10 00:01"
   }
- },
- {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611439,
-  "kickoff": "2026-10-31T18:00:00+03:00",
-  "home": "MC Alger",
-  "away": "Khenchela",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري المصري",
@@ -4441,27 +4441,6 @@
   "league": "الدوري البحريني",
   "type": "arab",
   "en": "Bahrain Premier League",
-  "id": 1647317,
-  "kickoff": "2026-11-01T18:00:00+03:00",
-  "home": "A'Ali",
-  "away": "Al-Hidd",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري البحريني",
-  "type": "arab",
-  "en": "Bahrain Premier League",
   "id": 1647318,
   "kickoff": "2026-11-01T18:00:00+03:00",
   "home": "Muharraq",
@@ -4628,6 +4607,27 @@
    ],
    "since": "29/10 00:01"
   }
+ },
+ {
+  "league": "الدوري البحريني",
+  "type": "arab",
+  "en": "Bahrain Premier League",
+  "id": 1647317,
+  "kickoff": "2026-11-01T19:00:00+03:00",
+  "home": "A'Ali",
+  "away": "Al-Hidd",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الفرنسي",
