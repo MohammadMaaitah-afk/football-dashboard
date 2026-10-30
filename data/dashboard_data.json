@@ -45,93 +45,6 @@
   "league": "الدوري القطري",
   "type": "arab",
   "en": "Qatar Stars League",
-  "id": 1597953,
-  "kickoff": "2026-10-30T19:30:00+03:00",
-  "home": "Al Sadd",
-  "away": "Al Shamal",
-  "p": [
-   0.6090064257939414,
-   0.19710581415737524,
-   0.19388776004868338
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Meshaal Barsham",
-     "Pedro Miguel",
-     "Y. El Hannach",
-     "Boualem Khoukhi",
-     "Paulo Otávio",
-     "M. Camara",
-     "Claudinho",
-     "Giovani",
-     "Roberto Firmino",
-     "Akram Afif",
-     "Y. Abdurisag"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "B. Seck",
-     "Moufak Awad",
-     "Ahmed Suhail",
-     "Pablo Marí",
-     "Abdelkarim Hassan",
-     "Tiago Silva",
-     "Ali Asad",
-     "N. Benaïssa",
-     "M. Ben Romdhane",
-     "R. Mahrez",
-     "B. Bounedjah"
-    ]
-   }
-  },
-  "ou": [
-   0.7236286919831223,
-   0.2763713080168776
-  ],
-  "btts": [
-   0.6760501164282557,
-   0.3239498835717442
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.57,
-    "edge": -0.043859911503511984
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.82,
-    "edge": -0.049949975761451326
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.9,
-    "edge": -0.049949975761451326
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.016997402144982687,
-    0.00636027149295873,
-    0.010637130652023874
-   ],
-   "since": "28/10 07:15"
-  }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
   "id": 1597955,
   "kickoff": "2026-10-30T19:30:00+03:00",
   "home": "Al-Gharafa",
@@ -223,27 +136,6 @@
   "kickoff": "2026-10-30T19:30:00+03:00",
   "home": "Al Shorta",
   "away": "Newroz",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الأردني",
-  "type": "arab",
-  "en": "Jordan League",
-  "id": 1643373,
-  "kickoff": "2026-10-30T19:30:00+03:00",
-  "home": "Al Wihdat",
-  "away": "Al Arabi",
   "p": null,
   "source": null,
   "out": {
@@ -1172,8 +1064,8 @@
    },
    {
     "book": "Betano",
-    "odd": 3.0,
-    "edge": -0.006899530831903422
+    "odd": 2.95,
+    "edge": -0.02345120531803835
    }
   ],
   "nbooks": 10,
