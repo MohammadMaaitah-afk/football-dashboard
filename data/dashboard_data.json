@@ -243,7 +243,40 @@
     "A. Sima"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "B. Özer",
+     "N. Ngoy",
+     "M. Goffi",
+     "Alexsandro Ribeiro",
+     "R. Perraud",
+     "N. Mukau",
+     "N. Bentaleb",
+     "B. André",
+     "E. Mbappé",
+     "H. Haraldsson",
+     "S. Diaoune"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "R. Risser",
+     "R. Aguilar",
+     "S. Baidoo",
+     "J. Todibo",
+     "Saud Abdulhamid",
+     "A. Haidara",
+     "M. Cuisance",
+     "M. Udol",
+     "F. Thauvin",
+     "F. Sotoca",
+     "T. Hazard"
+    ]
+   }
+  },
   "ou": [
    0.46803069053708446,
    0.5319693094629157
