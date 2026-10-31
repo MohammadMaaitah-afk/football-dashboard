@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645690,
-  "kickoff": "2026-10-31T15:00:00+03:00",
-  "home": "Damascus Al-Ahli",
-  "away": "Horriya",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -40,189 +19,6 @@
   "best": null,
   "nbooks": 0,
   "move": null
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597951,
-  "kickoff": "2026-10-31T19:30:00+03:00",
-  "home": "Al-Arabi SC",
-  "away": "Al-Rayyan SC",
-  "p": [
-   0.23689443153618786,
-   0.2267659285251395,
-   0.5363396399386726
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Jasem Al Hail",
-     "K. Bauobida",
-     "Simo",
-     "Gueye Laye",
-     "Mohammed Al Naimi",
-     "Ahmed Fathi",
-     "J. Veretout",
-     "Pablo Sarabia",
-     "O. Tannane",
-     "I. Lihadji",
-     "M. Olunga"
-    ]
-   },
-   "away": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Mahmud Abunada",
-     "Jassem Gaber",
-     "André Amaro",
-     "David García",
-     "D. Diakite",
-     "J. De Sart",
-     "Gabriel Pereira",
-     "Gregore",
-     "Ahmed Al Ganehi",
-     "Róger Guedes",
-     "Ahmed Alaa Eldin"
-    ]
-   }
-  },
-  "ou": [
-   0.6635294117647058,
-   0.3364705882352941
-  ],
-  "btts": [
-   0.6541358898753354,
-   0.3458641101246645
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 4.03,
-    "edge": -0.04531544090916284
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.21,
-    "edge": -0.04531544090916273
-   },
-   {
-    "book": "Betano",
-    "odd": 1.85,
-    "edge": -0.007771666113455589
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.05289126166747196,
-    0.0005236041926436619,
-    0.052367657474828355
-   ],
-   "since": "30/10 01:01"
-  }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597952,
-  "kickoff": "2026-10-31T19:30:00+03:00",
-  "home": "Al-Duhail SC",
-  "away": "Al Wakrah",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628024,
-  "kickoff": "2026-10-31T19:30:00+03:00",
-  "home": "Al Shorta",
-  "away": "Newroz",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الأردني",
-  "type": "arab",
-  "en": "Jordan League",
-  "id": 1643375,
-  "kickoff": "2026-10-31T19:30:00+03:00",
-  "home": "Al Faisaly",
-  "away": "Al Hussein",
-  "p": [
-   0.3528064146620848,
-   0.302405498281787,
-   0.34478808705612835
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4721485411140583,
-   0.5278514588859416
-  ],
-  "btts": [
-   0.5353523902633319,
-   0.4646476097366681
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.6,
-    "edge": -0.08270332187857954
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.3,
-    "edge": -0.0020618556701029744
-   },
-   {
-    "book": "Dafabet",
-    "odd": 2.65,
-    "edge": -0.08631156930125994
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.017137884583012908,
-    0.021616077918737042,
-    -0.004478193335724079
-   ],
-   "since": "29/10 06:16"
-  }
  },
  {
   "league": "الدوري الجزائري",
@@ -360,7 +156,40 @@
     "M. Svilar"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Okoye",
+     "J. Abankwah",
+     "C. Kabasele",
+     "M. Palma",
+     "M. Vojvoda",
+     "J. Karlström",
+     "L. Miller",
+     "H. Kamara",
+     "N. Zaniolo",
+     "J. Ekkelenkamp",
+     "K. Davis"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "P. Gollini",
+     "D. Ghilardi",
+     "E. Ndicka",
+     "Hermoso",
+     "N. Molina",
+     "M. de Roon",
+     "B. Cristante",
+     "Wesley",
+     "M. Soulé",
+     "Rodrigo Mora",
+     "D. Malen"
+    ]
+   }
+  },
   "ou": [
    0.6093366093366094,
    0.39066339066339073
@@ -2675,7 +2504,14 @@
    }
   ],
   "nbooks": 7,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "31/10 19:15"
+  }
  },
  {
   "league": "الدوري الجزائري",
