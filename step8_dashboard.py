@@ -335,7 +335,18 @@ def collect(key):
             continue
         if st in LIVE:
             if fid in cache:
-                new_cache[fid] = cache[fid]           # keep last pre-match price until it finishes
+                new_cache[fid] = c = cache[fid]       # keep last pre-match price until it finishes
+                lid = f["league"]["id"]
+                if c.get("p"):
+                    matches.append({"league": COMPS[lid][0], "type": COMPS[lid][2], "en": COMPS[lid][1],
+                                    "id": int(fid), "kickoff": f["fixture"]["date"],
+                                    "home": f["teams"]["home"]["name"], "away": f["teams"]["away"]["name"],
+                                    "p": c["p"], "source": c["source"], "out": c["out"],
+                                    "lineups": c.get("lineups"), "ou": c.get("ou"), "btts": c.get("btts"),
+                                    "best": c.get("best"), "nbooks": c.get("nbooks", 0),
+                                    "live": {"st": st, "min": f["fixture"]["status"].get("elapsed") or 0,
+                                             "gh": f["goals"]["home"] or 0, "ga": f["goals"]["away"] or 0,
+                                             "at": now.isoformat()}})
             continue
         if st not in ("NS", "TBD"):
             continue
@@ -450,12 +461,13 @@ def track_prices(matches):
 def fmt_time(iso):
     dt = datetime.fromisoformat(iso.replace("Z", "+00:00")).astimezone(AMMAN)
     days = ["الاثنين", "الثلاثاء", "الأربعاء", "الخميس", "الجمعة", "السبت", "الأحد"]
-    return dt, f"{days[dt.weekday()]} {dt.day}/{dt.month}", dt.strftime("%H:%M")
+    h12 = dt.hour % 12 or 12
+    return dt, f"{days[dt.weekday()]} {dt.day}/{dt.month}", f"{h12}:{dt.minute:02d} {'ص' if dt.hour < 12 else 'م'}"
 
 
 def card(m):
     e = safe_escape
-    _, _, t = fmt_time(m["kickoff"])
+    _, day, t = fmt_time(m["kickoff"])
     conf_cls, big_flag = "none", 0
     if m["p"]:
         h, d, a = (round(x * 100) for x in m["p"])
@@ -464,7 +476,11 @@ def card(m):
         conf_cls = cls
         fair_h, fair_d, fair_a = (f"{1 / x:.2f}" for x in m["p"])
         amer_h, amer_d, amer_a = (american(x) for x in m["p"])
-        body = f"""<div class="bar"><span class="w" style="flex:{h}">{h}%</span><span class="d" style="flex:{d}">{d}%</span><span class="l" style="flex:{a}">{a}%</span></div>
+        k = 0 if m["p"][0] >= m["p"][2] else 2
+        fav = m["home"] if k == 0 else m["away"]
+        where = "🏠 على أرضه" if k == 0 else "✈️ خارج أرضه"
+        body = f"""<div class="fav">الأقرب للفوز: <b>{e(fav)}</b> <span class="where">{where}</span> <small dir="ltr">{round(m['p'][k] * 100)}%</small></div>
+<div class="bar"><span class="w" style="flex:{h}">{h}%</span><span class="d" style="flex:{d}">{d}%</span><span class="l" style="flex:{a}">{a}%</span></div>
 <div class="legend"><span>فوز {e(m['home'])}</span><span>تعادل</span><span>فوز {e(m['away'])}</span></div>
 <div class="meta"><span class="chip {cls}">{label}</span><span>المصدر: {e(m['source'])}</span></div>
 <div class="fair"><span class="fl">السعر العادل</span>
@@ -501,7 +517,12 @@ def card(m):
             team = m["home"] if side == "home" else m["away"]
             names = "، ".join(e(n) for n in list(dict.fromkeys(x for x in m["out"][side] if x))[:8])
             outs += f'<div class="out"><b>غيابات {e(team)}:</b> {names}</div>'
-    return f"""<article data-conf="{conf_cls}" data-move="{big_flag}" data-value="{1 if has_value(m) else 0}"><div class="top"><span class="teams">{e(m['home'])} <small>ضد</small> {e(m['away'])}</span><span class="time">{t}</span></div>{body}{move}{lu}{outs}</article>"""
+    lv = m.get("live")
+    live_attr = (f' data-st="{lv["st"]}" data-min="{lv["min"]}" data-gh="{lv["gh"]}" data-ga="{lv["ga"]}" data-at="{lv["at"]}"'
+                 if lv else "")
+    when = (f'<div class="when"><span class="lg">{e(m["league"])}</span><span class="dt">{day}، {t}</span>'
+            f'<span class="cd" data-ko="{e(m["kickoff"])}"{live_attr}></span></div>')
+    return f"""<article data-conf="{conf_cls}" data-move="{big_flag}" data-value="{1 if has_value(m) else 0}" data-day="{e(day)}" data-comp="{e(m['league'])}"{' class="islive"' if lv else ''}>{when}<div class="top"><span class="teams">{e(m['home'])} <small>ضد</small> {e(m['away'])}</span></div>{body}{move}{lu}{outs}</article>"""
 
 
 def _soon(m):
@@ -567,7 +588,7 @@ def results_html(log):
 def highlights(matches):
     e = safe_escape
     now = datetime.now(timezone.utc)
-    soon = [m for m in matches if m["p"] and
+    soon = [m for m in matches if m["p"] and not m.get("live") and
             datetime.fromisoformat(m["kickoff"].replace("Z", "+00:00")) - now <= timedelta(hours=24)]
     moves = [m for m in soon if m.get("move") and max(abs(m["move"]["diff"][0]), abs(m["move"]["diff"][2])) >= BIG_MOVE]
     clear = [m for m in soon if confidence(m["p"], m["source"], m.get("type", ""))[1] == "hi"]
@@ -575,12 +596,12 @@ def highlights(matches):
     rows = ""
     for m in moves[:5]:
         _, _, t = fmt_time(m["kickoff"])
-        rows += f'<li>⚠️ <b>{e(m["home"])} ضد {e(m["away"])}</b> <small>{t}، حركة سعر كبيرة</small></li>'
+        rows += f'<li>⚠️ <b>{e(m["home"])} ضد {e(m["away"])}</b> <small><bdi>{t}</bdi>، حركة سعر كبيرة</small></li>'
     for m in clear[:6]:
         _, _, t = fmt_time(m["kickoff"])
         k = max(range(3), key=lambda i: m["p"][i])
         pick = PICK_TXT[k].format(h=m["home"], a=m["away"])
-        rows += f'<li>🟢 <b>{e(m["home"])} ضد {e(m["away"])}</b> <small>{t}، الأرجح {e(pick)} {round(m["p"][k] * 100)}%</small></li>'
+        rows += f'<li>🟢 <b>{e(m["home"])} ضد {e(m["away"])}</b> <small><bdi>{t}</bdi>، الأرجح {e(pick)} {round(m["p"][k] * 100)}%</small></li>'
     vals = [m for m in soon if has_value(m)]
     vals.sort(key=lambda m: -max(b["edge"] for b in m["best"] if b["edge"] <= MAX_EDGE))
     for m in vals[:5]:
@@ -588,7 +609,7 @@ def highlights(matches):
         k = max((i for i in range(3) if m["best"][i]["edge"] <= MAX_EDGE), key=lambda i: m["best"][i]["edge"])
         b = m["best"][k]
         pick = PICK_TXT[k].format(h=m["home"], a=m["away"])
-        rows += (f'<li>💰 <b>{e(m["home"])} ضد {e(m["away"])}</b> <small>{t}، {e(pick)}: '
+        rows += (f'<li>💰 <b>{e(m["home"])} ضد {e(m["away"])}</b> <small><bdi>{t}</bdi>، {e(pick)}: '
                  f'{e(b["book"])} عارضة {b["odd"]:.2f}، يعني {b["edge"]:.0%} فوق العادل</small></li>')
     if not rows:
         return ""
@@ -599,19 +620,15 @@ def build_html(matches, log=None, pf=None):
     log = log or {}
     e = safe_escape
     now = datetime.now(AMMAN).strftime("%d/%m/%Y %H:%M")
-    groups = {}
-    for m in sorted(matches, key=lambda m: m["kickoff"]):
+    groups, comps = [], []
+    ordered = sorted(matches, key=lambda m: (not m.get("live"), m["kickoff"]))
+    for m in ordered:
         _, day, _ = fmt_time(m["kickoff"])
-        groups.setdefault(day, {}).setdefault(m["league"], []).append(m)
-    sections = ""
-    comps = []
-    for day, leagues in groups.items():
-        sections += f'<div class="day" data-day="{e(day)}"><h2>{day}</h2>'
-        for lname, ms in sorted(leagues.items(), key=lambda kv: ORDER.index(kv[1][0].get("type", "other"))):
-            if lname not in comps:
-                comps.append(lname)
-            sections += f'<div class="grp" data-comp="{e(lname)}"><h3>{lname}</h3>' + "".join(card(m) for m in ms) + "</div>"
-        sections += "</div>"
+        if day not in groups:
+            groups.append(day)
+        if m["league"] not in comps:
+            comps.append(m["league"])
+    sections = "".join(card(m) for m in ordered)
     if not sections:
         sections = "<p class='empty'>لا توجد مباريات خلال الأيام القادمة.</p>"
     comp_opts = "".join(f'<option value="{e(c)}">{e(c)}</option>' for c in comps)
@@ -628,6 +645,13 @@ header{{background:#1E5A3A;color:#fff;padding:18px 16px 0}} header h1{{margin:0;
 main{{max-width:760px;margin:0 auto;padding:8px 14px 40px}}
 h2{{font-size:1.1rem;margin:22px 0 4px}} h3{{font-size:.9rem;color:var(--muted);margin:14px 0 6px}}
 article{{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:10px}}
+.when{{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;font-size:.78rem;color:var(--muted);margin-bottom:6px}}
+.when .lg{{font-weight:bold}} .when .dt{{color:var(--ink)}}
+.cd{{margin-right:auto;padding:2px 10px;border-radius:99px;background:rgba(127,127,127,.12);font-weight:bold;direction:rtl}}
+.cd.soon{{background:rgba(201,142,43,.2);color:var(--ink)}} .cd.on{{background:rgba(185,71,61,.15);color:var(--ink)}}
+.cd .sc{{direction:ltr;unicode-bidi:isolate;margin-right:6px;font-size:.95rem}}
+article.islive{{border-color:var(--l)}}
+.fav{{font-size:.85rem;margin-top:8px}} .fav .where{{padding:1px 8px;border-radius:99px;background:rgba(47,122,80,.12);font-size:.78rem}} .fav small{{color:var(--muted)}}
 .top{{display:flex;justify-content:space-between;gap:8px;font-weight:bold}} .top small{{color:var(--muted);font-weight:normal}} .time{{color:var(--muted)}}
 .bar{{display:flex;height:30px;border-radius:8px;overflow:hidden;margin-top:10px}}
 .bar span{{display:flex;align-items:center;justify-content:center;color:#fff;font-size:.85rem;font-weight:bold;min-width:30px}}
@@ -681,23 +705,38 @@ th,td{{padding:7px 8px;text-align:right;border-bottom:1px solid var(--line)}} th
 var f="all";
 function apply(){{
   var c=document.getElementById("comp").value, d=document.getElementById("dayf").value, any=false;
-  document.querySelectorAll(".day").forEach(function(day){{
-    var dayOk=!d||day.dataset.day===d, dayAny=false;
-    day.querySelectorAll(".grp").forEach(function(g){{
-      var gAny=false;
-      g.querySelectorAll("article").forEach(function(a){{
-        var ok=dayOk&&(!c||g.dataset.comp===c)&&(f==="all"||(f==="hi"&&a.dataset.conf==="hi")||(f==="move"&&a.dataset.move==="1")||(f==="value"&&a.dataset.value==="1"));
-        a.hidden=!ok; if(ok)gAny=true;
-      }});
-      g.hidden=!gAny; if(gAny)dayAny=true;
-    }});
-    day.hidden=!dayAny; if(dayAny)any=true;
+  document.querySelectorAll("#up article").forEach(function(a){{
+    var ok=(!d||a.dataset.day===d)&&(!c||a.dataset.comp===c)&&(f==="all"||(f==="hi"&&a.dataset.conf==="hi")||(f==="move"&&a.dataset.move==="1")||(f==="value"&&a.dataset.value==="1"));
+    a.hidden=!ok; if(ok)any=true;
   }});
   document.getElementById("none").hidden=any;
 }}
 document.querySelectorAll(".filters button").forEach(function(b){{b.onclick=function(){{
   document.querySelectorAll(".filters button").forEach(function(x){{x.classList.remove("on")}});b.classList.add("on");f=b.dataset.f;apply();}}}});
 document.getElementById("comp").onchange=apply;document.getElementById("dayf").onchange=apply;
+function tick(){{
+  var now=Date.now();
+  document.querySelectorAll(".cd").forEach(function(el){{
+    var st=el.dataset.st;
+    if(st){{
+      var score=el.dataset.gh+" : "+el.dataset.ga, txt;
+      if(st==="HT"){{txt="استراحة بين الشوطين";}}
+      else if(st==="1H"||st==="2H"||st==="ET"){{
+        var m=+el.dataset.min+Math.floor((now-Date.parse(el.dataset.at))/60000);
+        var cap=st==="1H"?45:(st==="2H"?90:120);
+        txt=(m>cap?cap+"+":m)+"'";
+      }} else {{txt="جارية";}}
+      el.innerHTML='<b class="lv">🔴 مباشر</b> '+txt+' <b class="sc">'+score+'</b>';
+      el.className="cd on"; return;
+    }}
+    var s=Math.floor((Date.parse(el.dataset.ko)-now)/1000);
+    if(s<=0){{el.textContent="بدأت";el.className="cd on";return;}}
+    var d=Math.floor(s/86400),h=Math.floor(s%86400/3600),mi=Math.floor(s%3600/60),sec=s%60;
+    el.textContent="بعد "+(d?d+" يوم ":"")+(d||h?h+" س ":"")+mi+" د"+(d||h?"":" "+sec+" ث");
+    el.className="cd"+(s<3600?" soon":"");
+  }});
+}}
+tick();setInterval(tick,1000);
 document.querySelectorAll(".tabs button").forEach(function(b){{b.onclick=function(){{
   document.querySelectorAll(".tabs button").forEach(function(x){{x.classList.remove("on")}});b.classList.add("on");
   ["up","rec","pf"].forEach(function(id){{document.getElementById(id).hidden=b.dataset.tab!==id;}});}}}});
@@ -1191,10 +1230,11 @@ def main():
     print(f"Following {len(COMPS)} competitions.")
     print(f"Collecting matches for the next {DAYS_AHEAD} days...")
     matches, log = collect(key)
-    track_prices(matches)
+    upcoming = [m for m in matches if not m.get("live")]
+    track_prices(upcoming)
     pf = None
     try:
-        pf = send_alerts(matches, log)
+        pf = send_alerts(upcoming, log)
     except Exception as e:                      # alerts must never stop the dashboard
         print(f"   Phone alerts skipped: {e}")
     pf = pf or load_portfolio()
