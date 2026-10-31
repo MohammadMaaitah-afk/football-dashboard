@@ -167,7 +167,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "Ayoub Adila",
+     "A. Ouaarab",
+     "J. Assouab",
+     "Tarik Asstati",
+     "A. El Malki",
+     "Z. Essalhi",
+     "O. Houssni",
+     "S. P. Sodiq",
+     "M. Tounkara",
+     "Y. Faqir",
+     "Y. Zraa"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "Jawad rhabra",
+     "H. Smaali",
+     "Y. Raiani",
+     "O. Mahrous",
+     "A. Maamouri",
+     "N. Khali",
+     "haimoud abdallah",
+     "S. Essallami",
+     "I. Al Alami",
+     "Abdellah Bouallali",
+     "A. El Ouaad"
+    ]
+   }
+  },
   "ou": [
    0.34466019417475724,
    0.6553398058252428
