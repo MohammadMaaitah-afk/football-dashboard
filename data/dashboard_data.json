@@ -21,157 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550179,
-  "kickoff": "2026-10-31T17:00:00+03:00",
-  "home": "Bologna",
-  "away": "Monza",
-  "p": [
-   0.5781468753977345,
-   0.2458953799159984,
-   0.17595774468626704
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "L. De Silvestri",
-    "J. Enem",
-    "E. Holm",
-    "R. Piccoli"
-   ],
-   "away": [
-    "M. Folorunsho",
-    "Y. Maye",
-    "M. Pessina",
-    "J. Ziolkowski"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "F. Bernardeschi",
-     "N. Cambiaghi",
-     "N. Casale",
-     "L. Ferguson",
-     "Juan Miranda",
-     "J. Odgaard",
-     "T. Pobega",
-     "A. Theate",
-     "M. Vitík",
-     "N. Zortea",
-     "Ł. Skorupski"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "E. Zeballos",
-     "Gustavo Varela",
-     "M. Ondoa",
-     "Dany Mota",
-     "Ricardo Mangas",
-     "L. Lucchesi",
-     "E. Kouadio",
-     "S. Goglichidze",
-     "L. Colombo",
-     "S. Birindelli",
-     "N. Törnqvist"
-    ]
-   }
-  },
-  "ou": [
-   0.5128205128205129,
-   0.4871794871794872
-  ],
-  "btts": [
-   0.524786351903411,
-   0.47521364809658895
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.74,
-    "edge": 0.005975563192057942
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.01,
-    "edge": -0.0139595265368464
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.52,
-    "edge": -0.028713249331805968
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.03926035966371766,
-    -0.0030390735464345398,
-    -0.0362212861172832
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611439,
-  "kickoff": "2026-10-31T17:00:00+03:00",
-  "home": "MC Alger",
-  "away": "Khenchela",
-  "p": [
-   0.6760540748244663,
-   0.2231948859468334,
-   0.10075103922870016
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4348958333333333,
-   0.5651041666666667
-  ],
-  "btts": [
-   0.37778649465644815,
-   0.6222135053435519
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 1.4,
-    "edge": -0.0535242952457472
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.18,
-    "edge": -0.06704537674223643
-   },
-   {
-    "book": "1xBet",
-    "odd": 9.3,
-    "edge": -0.06301533517308844
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "30/10 23:01"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -312,7 +161,40 @@
     "D. Zagadou"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Flekken",
+     "J. Quansah",
+     "E. Tapsoba",
+     "F. Medina",
+     "Miguel Gutiérrez",
+     "E. Fernández",
+     "Aleix García",
+     "Lucas Vázquez",
+     "I. Maza",
+     "Afonso Moreira",
+     "P. Schick"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Seimen",
+     "L. Jaquez",
+     "J. Chabot",
+     "R. Hendriks",
+     "J. Leweling",
+     "G. Prömel",
+     "A. Karazor",
+     "C. Führich",
+     "B. El Khannouss",
+     "D. Undav",
+     "E. Demirović"
+    ]
+   }
+  },
   "ou": [
    0.7325102880658436,
    0.2674897119341564
@@ -374,7 +256,40 @@
     "B. Yilmaz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "F. Dahmen",
+     "Y. Keitel",
+     "J. Gouweleeuw",
+     "C. Matsima",
+     "R. Fellhauer",
+     "H. Massengo",
+     "F. Rieder",
+     "Hennes Behrens",
+     "A. Kade",
+     "A. Ibrahimović",
+     "M. Gregoritsch"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Backhaus",
+     "L. Kübler",
+     "M. Ginter",
+     "P. Lienhart",
+     "J. Makengo",
+     "Y. Engelhardt",
+     "M. Eggestein",
+     "J. Beste",
+     "Y. Suzuki",
+     "D. Scherhant",
+     "L. Höler"
+    ]
+   }
+  },
   "ou": [
    0.6361445783132531,
    0.363855421686747
@@ -444,7 +359,40 @@
     "G. Vidovic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Batz",
+     "D. Hashioka",
+     "P. Sander",
+     "F. Chiarodia",
+     "J. Scally",
+     "Z. Uno",
+     "F. Neuhaus",
+     "L. Ullrich",
+     "W. Mohya",
+     "R. Hack",
+     "S. Machino"
+    ]
+   },
+   "away": {
+    "formation": "3-1-4-2",
+    "xi": [
+     "N. Noll",
+     "J. ter Horst",
+     "T. Scheller",
+     "M. Hansen",
+     "S. Castañeda",
+     "L. Curda",
+     "T. Baack",
+     "G. Vidović",
+     "R. Obermair",
+     "M. Pieringer",
+     "S. Marino"
+    ]
+   }
+  },
   "ou": [
    0.625,
    0.375
@@ -514,7 +462,40 @@
     "P. Wimmer"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "K. Hein",
+     "Arthur",
+     "A. Pieper",
+     "M. Friedl",
+     "O. Deman",
+     "L. Reis",
+     "Y. Regeer",
+     "M. Weiser",
+     "Chuky San José",
+     "M. Grüll",
+     "N. Füllkrug"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "O. Baumann",
+     "O. Kabak",
+     "K. Machida",
+     "M. Rots",
+     "Natnael Abraha",
+     "A. Kramarić",
+     "L. Avdullahu",
+     "W. Burger",
+     "A. Daghim",
+     "A. Hložek",
+     "F. Asllani"
+    ]
+   }
+  },
   "ou": [
    0.6795454545454547,
    0.3204545454545455
@@ -580,7 +561,40 @@
     "A. Ouedraogo"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "L. Karius",
+     "M. Ayhan",
+     "N. Katić",
+     "H. Kuruçay",
+     "T. Becker",
+     "K. Karaman",
+     "S. Tanaka",
+     "A. Aouchiche",
+     "Vitalie  Becker",
+     "J. Adamu",
+     "Hwang Hee-Chan"
+    ]
+   },
+   "away": {
+    "formation": "4-5-1",
+    "xi": [
+     "M. Vandevoordt",
+     "B. Henrichs",
+     "W. Orbán",
+     "C. Lukeba",
+     "D. Raum",
+     "B. Gruda",
+     "R. Reitz",
+     "N. El Aynaoui",
+     "E. Banzuzi",
+     "A. Nusa",
+     "Rômulo"
+    ]
+   }
+  },
   "ou": [
    0.6098765432098766,
    0.3901234567901235
@@ -1060,8 +1074,8 @@
    0.6891891891891893
   ],
   "btts": [
-   0.40680864238596937,
-   0.5931913576140307
+   0.40951710320961343,
+   0.5904828967903867
   ],
   "best": [
    {
@@ -1922,9 +1936,9 @@
   "home": "Al-Hilal Saudi FC",
   "away": "Al-Fateh",
   "p": [
-   0.8801357001060673,
-   0.06775100186133663,
-   0.0521132980325961
+   0.8792241831207408,
+   0.06831382142233094,
+   0.05246199545692819
   ],
   "source": "Pinnacle",
   "out": {
@@ -1933,36 +1947,36 @@
   },
   "lineups": null,
   "ou": [
-   0.805324459234609,
-   0.194675540765391
+   0.8036912751677852,
+   0.19630872483221473
   ],
   "btts": [
-   0.5008315123369103,
-   0.4991684876630897
+   0.5045250705605608,
+   0.4954749294394391
   ],
   "best": [
    {
     "book": "Betano",
     "odd": 1.13,
-    "edge": -0.005446658880143951
+    "edge": -0.006476673073563033
    },
    {
     "book": "1xBet",
-    "odd": 15.5,
-    "edge": 0.050140528850717736
+    "odd": 14.7,
+    "edge": 0.004213174908264783
    },
    {
     "book": "1xBet",
-    "odd": 26.0,
-    "edge": 0.35494574884749874
+    "odd": 23.0,
+    "edge": 0.2066258955093483
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.00744934180343837,
-    -0.0029359325356211885,
-    -0.004513409267817063
+    0.006537824818111826,
+    -0.002373112974626876,
+    -0.004164711843484978
    ],
    "since": "28/10 00:01"
   }
@@ -2739,9 +2753,9 @@
   "home": "Strasbourg",
   "away": "Auxerre",
   "p": [
-   0.5219393629269541,
-   0.2366636817193297,
-   0.2413969553537163
+   0.5216360403082395,
+   0.23710729104919978,
+   0.2412566686425608
   ],
   "source": "Pinnacle",
   "out": {
@@ -2763,32 +2777,32 @@
    0.39259259259259255
   ],
   "btts": [
-   0.6048022227017535,
-   0.3951977772982465
+   0.6071314152483375,
+   0.39286858475166264
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.87,
-    "edge": -0.023973391326595817
+    "edge": -0.02454060462359209
    },
    {
     "book": "1xBet",
     "odd": 4.16,
-    "edge": -0.015479084047588465
+    "edge": -0.013633669235328827
    },
    {
     "book": "Bet365",
     "odd": 4.33,
-    "edge": 0.04524881668159164
+    "edge": 0.04464137522228828
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.00511903583406359,
-    0.004249978169290569,
-    0.0008690576647730208
+    -0.005422358452778164,
+    0.004693587499160656,
+    0.000728770953617508
    ],
    "since": "29/10 00:01"
   }

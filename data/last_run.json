@@ -1,8 +1,8 @@
 {
- "time": "2026-10-31 17:01",
- "ok": false,
- "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1236, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1193, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 319, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 151, in api\n    raise RuntimeError(f\"Server said {r.status_code} on /{endpoint}: {r.text[:300]}\")\nRuntimeError: Server said 500 on /fixtures: {\"get\": \"\",\"parameters\": [],\"errors\": {\"bug\": \"This is on our side, please report us this bug on https://dashboard.api-football.com\",\"error\": \"5xEr\"},\"results\": 0,\"paging\": {\"current\": 1,\"total\": 1},\"response\": []}\n\n",
- "calls": 4,
+ "time": "2026-10-31 17:15",
+ "ok": true,
+ "error": "",
+ "calls": 93,
  "api_status": {
   "http": 200,
   "errors": [],
@@ -12,7 +12,7 @@
    "active": true
   },
   "requests": {
-   "current": 2139,
+   "current": 2142,
    "limit_day": 7500
   }
  }
