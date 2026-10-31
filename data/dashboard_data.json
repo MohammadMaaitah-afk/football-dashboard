@@ -335,7 +335,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Y. Bounou",
+     "Mohammed Mater Mohsin Mahzari",
+     "K. Koulibaly",
+     "Hassan Tambakti",
+     "T. Hernández",
+     "S. Milinković-Savić",
+     "Rúben Neves",
+     "Nasser Al Dawsari",
+     "C. Summerville",
+     "Sultan Mandash",
+     "O. Watkins"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Šemper",
+     "K. Boateng",
+     "M. Saâdane",
+     "Abdulaziz Al Suwailem",
+     "Abdulelah Al Khaibari",
+     "M. Lixandru",
+     "Ali Al Hassan",
+     "Z. Youssouf",
+     "L. Haraslín",
+     "M. Batna",
+     "W. Kanga"
+    ]
+   }
+  },
   "ou": [
    0.797945205479452,
    0.20205479452054795
@@ -389,7 +422,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Alaa",
+     "Ahmed Hany",
+     "Ahmed Ramadan",
+     "Mohamed El Maghraby",
+     "F. El Henawy",
+     "Amr Kalawa",
+     "Ahmed Belhadji",
+     "P. Gwargis",
+     "Amr Al Sulaya",
+     "S. Ougola",
+     "N. Gradišar"
+    ]
+   },
+   "away": {
+    "formation": "5-4-1",
+    "xi": [
+     "Aly Lotfy",
+     "T. Alaa",
+     "Mohamed Hussein",
+     "Abdallah Bakri",
+     "M. Mohamed",
+     "Sameh Ibrahim",
+     "Abdelrahman El Banouby",
+     "Mohamed Ibrahim",
+     "Mahmoud Sayed okaa",
+     "M. Magassa",
+     "Rafaat Khalil"
+    ]
+   }
+  },
   "ou": [
    0.3959899749373434,
    0.6040100250626567
@@ -443,7 +509,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Omar Salah",
+     "Mahmoud Shedid Kenawi",
+     "Barakat Haggag",
+     "Islam Abdallah",
+     "Ahmed Bahbah",
+     "A. Hamawy",
+     "Youssef Abdel-Tawab",
+     "Adham Hamed",
+     "Gamal Fawzi",
+     "A. Liadi",
+     "Mohamed Ibrahim Dodo"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Ahmed Mayhoub",
+     "Mohamed Desouki",
+     "Ali Gamal",
+     "Abdel Ghani Mohamed",
+     "Mohamed Ragab",
+     "K. Mohamed",
+     "Mohamed Saeed",
+     "Khaled El Ghandour",
+     "Samir Fekri",
+     "S. Attidjikou",
+     "P. Badji"
+    ]
+   }
+  },
   "ou": [
    0.358173076923077,
    0.6418269230769231
@@ -1234,8 +1333,8 @@
    0.420654911838791
   ],
   "btts": [
-   0.6139900037658486,
-   0.3860099962341515
+   0.6137084030590859,
+   0.38629159694091403
   ],
   "best": [
    {
