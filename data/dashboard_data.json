@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645688,
-  "kickoff": "2026-10-30T15:00:00+03:00",
-  "home": "Foutoua",
-  "away": "Jaish",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -2733,6 +2712,27 @@
    ],
    "since": "29/10 00:01"
   }
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645688,
+  "kickoff": "2026-11-01T15:00:00+03:00",
+  "home": "Foutoua",
+  "away": "Jaish",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الإماراتي",
