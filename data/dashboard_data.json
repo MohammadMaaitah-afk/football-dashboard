@@ -21,211 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611441,
-  "kickoff": "2026-10-31T19:45:00+03:00",
-  "home": "MB Rouisset",
-  "away": "Ben Aknoun",
-  "p": [
-   0.4476626493354315,
-   0.3138100299328108,
-   0.2385273207317577
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.35766423357664234,
-   0.6423357664233577
-  ],
-  "btts": [
-   0.43268470932446174,
-   0.5673152906755382
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 2.12,
-    "edge": -0.05095518340888516
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.01,
-    "edge": -0.055431809902239504
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.96,
-    "edge": -0.055431809902239504
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.023220580006862557,
-    -0.0037996818096557305,
-    -0.01942089819720688
-   ],
-   "since": "31/10 01:01"
-  }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1634791,
-  "kickoff": "2026-10-31T19:45:00+03:00",
-  "home": "Al Sulaibikhat",
-  "away": "Al Salmiyah",
-  "p": [
-   0.16667659599819568,
-   0.23742733857034648,
-   0.5958960654314578
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.5066666666666666,
-   0.49333333333333335
-  ],
-  "btts": [
-   0.4890127730882925,
-   0.5109872269117074
-  ],
-  "best": [
-   {
-    "book": "Betfair",
-    "odd": 6.0,
-    "edge": 5.9575989173943356e-05
-   },
-   {
-    "book": "Betfair",
-    "odd": 4.0,
-    "edge": -0.05029064571861408
-   },
-   {
-    "book": "Betano",
-    "odd": 1.55,
-    "edge": -0.0763610985812404
-   }
-  ],
-  "nbooks": 9,
-  "move": {
-   "diff": [
-    0.007711846281161894,
-    0.006646026798409171,
-    -0.014357873079571148
-   ],
-   "since": "30/10 23:01"
-  }
- },
- {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550186,
-  "kickoff": "2026-10-31T20:00:00+03:00",
-  "home": "Udinese",
-  "away": "AS Roma",
-  "p": [
-   0.1761729987104454,
-   0.21823231822239855,
-   0.605594683067156
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Alaba",
-    "V. Bayo",
-    "I. Gueye",
-    "A. Zanoli"
-   ],
-   "away": [
-    "P. Dybala",
-    "M. Kone",
-    "L. Pellegrini",
-    "M. Svilar"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "M. Okoye",
-     "J. Abankwah",
-     "C. Kabasele",
-     "M. Palma",
-     "M. Vojvoda",
-     "J. Karlström",
-     "L. Miller",
-     "H. Kamara",
-     "N. Zaniolo",
-     "J. Ekkelenkamp",
-     "K. Davis"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "P. Gollini",
-     "D. Ghilardi",
-     "E. Ndicka",
-     "Hermoso",
-     "N. Molina",
-     "M. de Roon",
-     "B. Cristante",
-     "Wesley",
-     "M. Soulé",
-     "Rodrigo Mora",
-     "D. Malen"
-    ]
-   }
-  },
-  "ou": [
-   0.6093366093366094,
-   0.39066339066339073
-  ],
-  "btts": [
-   0.5761222437190091,
-   0.4238777562809909
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 5.61,
-    "edge": -0.01166947723440126
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.58,
-    "edge": -0.0004959825414145858
-   },
-   {
-    "book": "Betano",
-    "odd": 1.65,
-    "edge": -0.0007687729391926412
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.0001991608994589278,
-    0.0010902889969152674,
-    -0.0012894498963741396
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
   "league": "الدوري الإنجليزي",
   "type": "top",
   "en": "Premier League",
@@ -256,7 +51,40 @@
     "Q. Timber"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "A. Kinský",
+     "A. Gray",
+     "J. van Hecke",
+     "M. van de Ven",
+     "A. Robertson",
+     "Mateus Fernandes",
+     "S. Tonali",
+     "M. Kudus",
+     "Omar Marmoush",
+     "M. Tel",
+     "D. Solanke"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Henderson",
+     "C. Richards",
+     "A. Disasi",
+     "J. Canvot",
+     "Óscar Mingueza",
+     "A. Wharton",
+     "D. Kamada",
+     "T. Mitchell",
+     "D. McNeil",
+     "Yeremy Pino",
+     "J. Mateta"
+    ]
+   }
+  },
   "ou": [
    0.5634517766497462,
    0.4365482233502538
@@ -323,7 +151,40 @@
     "A. Recio"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Álvaro Vallés",
+     "Héctor Bellerín",
+     "Marc Bartra",
+     "Natan",
+     "Fran García",
+     "Pablo Fornals",
+     "Marc Roca",
+     "Isco",
+     "Rodrigo Riquelme",
+     "T. Parrott",
+     "A. Ezzalzouli"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Alfonso Herrero",
+     "Puga",
+     "Fernando Calero",
+     "Einar Galilea",
+     "Rafita",
+     "David Larrubia",
+     "Ramón Enríquez",
+     "Dani Lorenzo",
+     "Adam Aznou Ben Cheikh",
+     "Carlos Dotor",
+     "Adrián Niño Heredia"
+    ]
+   }
+  },
   "ou": [
    0.6469194312796209,
    0.35308056872037913
@@ -387,7 +248,40 @@
     "K. Karetsas"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Urbig",
+     "K. Laimer",
+     "D. Upamecano",
+     "Kim Min-Jae",
+     "A. Davies",
+     "J. Kimmich",
+     "A. Pavlović",
+     "M. Olise",
+     "I. Saibari",
+     "S. Gnabry",
+     "H. Kane"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "G. Kobel",
+     "Kouakou Joane Gadou",
+     "W. Anton",
+     "N. Schlotterbeck",
+     "M. Beier",
+     "J. Veerman",
+     "F. Nmecha",
+     "D. Svensson",
+     "J. Bellingham",
+     "C. Chukwuemeka",
+     "S. Guirassy"
+    ]
+   }
+  },
   "ou": [
    0.7402572571827234,
    0.2597427428172766
