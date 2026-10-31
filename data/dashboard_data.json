@@ -42,496 +42,6 @@
   "move": null
  },
  {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597954,
-  "kickoff": "2026-10-31T17:15:00+03:00",
-  "home": "Al-Sailiya",
-  "away": "Lusail City",
-  "p": [
-   0.24739576194522878,
-   0.25263165108692676,
-   0.4999725869678445
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Youssef Sayed",
-     "Andri Syahputra",
-     "K. van der Kaap",
-     "M. Nani",
-     "A. Mitwali",
-     "Abdulrahman Mohamed",
-     "R. Danzabe",
-     "Ali Olwan",
-     "Y. Belhanda",
-     "M. Taabouni",
-     "Joselu"
-    ]
-   },
-   "away": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "A. Shakouri",
-     "A. Pilali",
-     "F. Russo",
-     "M. Aiash",
-     "A. Nemati",
-     "O. Ebrahimi",
-     "K. Mansour",
-     "Naif Al Hadhrami",
-     "Khaled Mohammed",
-     "H. Firouzi",
-     "Rodrigo"
-    ]
-   }
-  },
-  "ou": [
-   0.578005115089514,
-   0.42199488491048587
-  ],
-  "btts": [
-   0.5970424014525549,
-   0.40295759854744506
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.86,
-    "edge": -0.04505235889141701
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.78,
-    "edge": -0.0450523588914169
-   },
-   {
-    "book": "Betano",
-    "odd": 1.95,
-    "edge": -0.025053455412703207
-   }
-  ],
-  "nbooks": 8,
-  "move": {
-   "diff": [
-    -0.011522378025065616,
-    -0.0041525481693266975,
-    0.015674926194392313
-   ],
-   "since": "30/10 01:01"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575204,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "Bayer Leverkusen",
-  "away": "VfB Stuttgart",
-  "p": [
-   0.5715111464348638,
-   0.2130633659954536,
-   0.21542548756968258
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "L. Bade",
-    "E. Ben Seghir",
-    "M. Diaby",
-    "G. Doue",
-    "K. Eichhorn",
-    "C. Kofane",
-    "M. Terrier"
-   ],
-   "away": [
-    "J. Diehl",
-    "L. Sauer",
-    "A. Stiller",
-    "T. Tomas",
-    "J. Vagnoman",
-    "D. Zagadou"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Flekken",
-     "J. Quansah",
-     "E. Tapsoba",
-     "F. Medina",
-     "Miguel Gutiérrez",
-     "E. Fernández",
-     "Aleix García",
-     "Lucas Vázquez",
-     "I. Maza",
-     "Afonso Moreira",
-     "P. Schick"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "D. Seimen",
-     "L. Jaquez",
-     "J. Chabot",
-     "R. Hendriks",
-     "J. Leweling",
-     "G. Prömel",
-     "A. Karazor",
-     "C. Führich",
-     "B. El Khannouss",
-     "D. Undav",
-     "E. Demirović"
-    ]
-   }
-  },
-  "ou": [
-   0.7325102880658436,
-   0.2674897119341564
-  ],
-  "btts": [
-   0.7038287579156316,
-   0.29617124208436835
-  ],
-  "best": [
-   {
-    "book": "SBO",
-    "odd": 1.79,
-    "edge": 0.02300495211840614
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.72,
-    "edge": 0.005659087498540938
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.51,
-    "edge": -0.028431051060731627
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.04106270811694368,
-    -0.0024313120712014247,
-    -0.03863139604574231
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575206,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "FC Augsburg",
-  "away": "SC Freiburg",
-  "p": [
-   0.33058589289374285,
-   0.2526498404239745,
-   0.41676426668228267
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Bah",
-    "N. Banks",
-    "C. Brackelmann",
-    "S. Mounie"
-   ],
-   "away": [
-    "P. Treu",
-    "B. Yilmaz"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "F. Dahmen",
-     "Y. Keitel",
-     "J. Gouweleeuw",
-     "C. Matsima",
-     "R. Fellhauer",
-     "H. Massengo",
-     "F. Rieder",
-     "Hennes Behrens",
-     "A. Kade",
-     "A. Ibrahimović",
-     "M. Gregoritsch"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Backhaus",
-     "L. Kübler",
-     "M. Ginter",
-     "P. Lienhart",
-     "J. Makengo",
-     "Y. Engelhardt",
-     "M. Eggestein",
-     "J. Beste",
-     "Y. Suzuki",
-     "D. Scherhant",
-     "L. Höler"
-    ]
-   }
-  },
-  "ou": [
-   0.6361445783132531,
-   0.363855421686747
-  ],
-  "btts": [
-   0.6591301501250548,
-   0.34086984987494523
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.07,
-    "edge": 0.014898691183790502
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.07,
-    "edge": 0.028284850525576166
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.34,
-    "edge": -0.02477161596345856
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.020249088752040845,
-    0.003100657712090338,
-    -0.023349746464131127
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575208,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "Borussia Mönchengladbach",
-  "away": "SC Paderborn 07",
-  "p": [
-   0.4411474179145758,
-   0.25323007625745775,
-   0.30562250582796635
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "H. Bolin",
-    "K. Diks",
-    "F. Fleck",
-    "F. Honorat",
-    "T. Kleindienst",
-    "E. Leopold",
-    "J. Leszczynski"
-   ],
-   "away": [
-    "N. Awortwie-Grant",
-    "O. Batista Meier",
-    "T. Gayret",
-    "M. Hoffmeier",
-    "S. Klaas",
-    "S. Michel",
-    "G. Vidovic"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "D. Batz",
-     "D. Hashioka",
-     "P. Sander",
-     "F. Chiarodia",
-     "J. Scally",
-     "Z. Uno",
-     "F. Neuhaus",
-     "L. Ullrich",
-     "W. Mohya",
-     "R. Hack",
-     "S. Machino"
-    ]
-   },
-   "away": {
-    "formation": "3-1-4-2",
-    "xi": [
-     "N. Noll",
-     "J. ter Horst",
-     "T. Scheller",
-     "M. Hansen",
-     "S. Castañeda",
-     "L. Curda",
-     "T. Baack",
-     "G. Vidović",
-     "R. Obermair",
-     "M. Pieringer",
-     "S. Marino"
-    ]
-   }
-  },
-  "ou": [
-   0.625,
-   0.375
-  ],
-  "btts": [
-   0.6484419288290043,
-   0.3515580711709956
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 2.22,
-    "edge": -0.0206527322296417
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.05,
-    "edge": 0.02558180884270378
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.2,
-    "edge": -0.022007981350507633
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.03998469007132116,
-    0.011461191994544567,
-    0.028523498076776455
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575209,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "Werder Bremen",
-  "away": "1899 Hoffenheim",
-  "p": [
-   0.3890836603658604,
-   0.24786801713662676,
-   0.36304832249751284
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Agu",
-    "S. Alvero",
-    "P. Erevbenagie",
-    "S. Musah",
-    "M. N'Diaye",
-    "J. Stage",
-    "N. Stark",
-    "K. Topp"
-   ],
-   "away": [
-    "B. Conte",
-    "N. De Cat",
-    "V. Gendrey",
-    "A. Hajdari",
-    "A. Prass",
-    "P. Wimmer"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "K. Hein",
-     "Arthur",
-     "A. Pieper",
-     "M. Friedl",
-     "O. Deman",
-     "L. Reis",
-     "Y. Regeer",
-     "M. Weiser",
-     "Chuky San José",
-     "M. Grüll",
-     "N. Füllkrug"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "O. Baumann",
-     "O. Kabak",
-     "K. Machida",
-     "M. Rots",
-     "Natnael Abraha",
-     "A. Kramarić",
-     "L. Avdullahu",
-     "W. Burger",
-     "A. Daghim",
-     "A. Hložek",
-     "F. Asllani"
-    ]
-   }
-  },
-  "ou": [
-   0.6795454545454547,
-   0.3204545454545455
-  ],
-  "btts": [
-   0.6955357604684493,
-   0.3044642395315506
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.55,
-    "edge": -0.00783666606705602
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.21,
-    "edge": 0.043524352145198675
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.69,
-    "edge": -0.023400012481690435
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.05563095924331596,
-    0.007317561102950426,
-    -0.06294852034626636
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
   "league": "الدوري الألماني",
   "type": "top",
   "en": "Bundesliga",
@@ -631,27 +141,6 @@
   }
  },
  {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1634792,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "Al Tadhamon",
-  "away": "Al Sahel",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري اللبناني",
   "type": "arab",
   "en": "Lebanon Premier League",
@@ -719,7 +208,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "O. Mosquera",
+     "Mohammed Al Baqawi",
+     "Ziyad Al Sahafi",
+     "O. Colley",
+     "Turki Al Jaadi",
+     "Yago Santana",
+     "Ali Al Hussain",
+     "Alfa Semedo",
+     "Hugo Moura",
+     "Jason",
+     "F. Sakala"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Fernando Pacheco",
+     "A. Ba",
+     "A. Seck",
+     "Andrei Girotto",
+     "Yaseen Barnawi",
+     "Flávio",
+     "Abdullah Almuqrin",
+     "Abdulrahman Al Safari",
+     "T. Bongonda",
+     "Alexandre Mendy",
+     "Abdulaziz Al Bishi"
+    ]
+   }
+  },
   "ou": null,
   "btts": null,
   "best": null,
@@ -753,7 +275,40 @@
     "A. Stach"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Đ. Petrović",
+     "A. Smith",
+     "J. Hill",
+     "António Silva",
+     "A. Truffert",
+     "T. Adams",
+     "R. Christie",
+     "Rayan",
+     "J. Kluivert",
+     "M. Tavernier",
+     "Evanilson"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Trafford",
+     "J. Justin",
+     "N. Elvedi",
+     "T. Muharemović",
+     "J. Bogle",
+     "E. Ampadu",
+     "A. Tanaka",
+     "G. Gudmundsson",
+     "H. Wilson",
+     "D. James",
+     "D. Calvert-Lewin"
+    ]
+   }
+  },
   "ou": [
    0.5,
    0.5
@@ -819,7 +374,40 @@
     "N. Dominguez"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Kelleher",
+     "M. Kayode",
+     "S. van den Berg",
+     "K. Ajer",
+     "K. Lewis-Potter",
+     "M. Sangaré",
+     "V. Janelt",
+     "D. Ouattara",
+     "M. Jensen",
+     "K. Schade",
+     "Thiago"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Sels",
+     "Jair",
+     "N. Milenković",
+     "Murillo",
+     "O. Aina",
+     "J. McAtee",
+     "X. Schlager",
+     "N. Williams",
+     "M. Gibbs-White",
+     "D. Ndoye",
+     "L. Delap"
+    ]
+   }
+  },
   "ou": [
    0.5656565656565657,
    0.43434343434343436
@@ -884,7 +472,40 @@
     "J. Ta Bi"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Rushworth",
+     "M. van Ewijk",
+     "S. Mfuni",
+     "E. Pinnock",
+     "J. Dasilva",
+     "V. Torp",
+     "Caleb Marfo Yirenkyi",
+     "T. Sakamoto",
+     "J. Rudoni",
+     "Y. Gboho",
+     "T. Awoniyi"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "R. Roefs",
+     "T. Hume",
+     "L. O&apos;Nien",
+     "O. Alderete",
+     "Reinildo",
+     "G. Xhaka",
+     "N. Sadiki",
+     "C. Rigg",
+     "E. Le Fée",
+     "N. Angulo",
+     "B. Brobbey"
+    ]
+   }
+  },
   "ou": [
    0.46938775510204084,
    0.5306122448979592
@@ -949,7 +570,40 @@
     "S. Lukic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-4-1",
+    "xi": [
+     "K. Tzolakis",
+     "L. Coyle",
+     "S. Ajayi",
+     "J. Egan",
+     "N. Mendy",
+     "R. Giles",
+     "M. Belloumi",
+     "T. Iroegbunam",
+     "R. Slater",
+     "E. Stroud",
+     "O. McBurnie"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Walton",
+     "A. Ouattara",
+     "I. Diop",
+     "D. O&apos;Shea",
+     "L. Davis",
+     "E. Palacios",
+     "Florentino",
+     "A. Fatawu",
+     "J. Enciso",
+     "J. Philogene",
+     "Emersonn"
+    ]
+   }
+  },
   "ou": [
    0.5089514066496164,
    0.49104859335038353
@@ -1014,7 +668,40 @@
     "F. Kadioglu"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "G. Donnarumma",
+     "Matheus Nunes",
+     "A. Khusanov",
+     "Rúben Dias",
+     "J. Gvardiol",
+     "E. Anderson",
+     "A. Bouaddi",
+     "I. Ndiaye",
+     "E. Fernández",
+     "J. Doku",
+     "E. Haaland"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Verbruggen",
+     "Costinha",
+     "L. Vušković",
+     "L. Dunk",
+     "O. Boscagli",
+     "P. Groß",
+     "José María Andrés Baixauli",
+     "D. Gómez",
+     "Y. Ayari",
+     "M. De Cuyper",
+     "C. Kostoulas"
+    ]
+   }
+  },
   "ou": [
    0.6484560570071258,
    0.35154394299287406
@@ -1416,9 +1103,9 @@
   "home": "Al-Arabi SC",
   "away": "Al-Rayyan SC",
   "p": [
-   0.2603312170599472,
-   0.22322793612383324,
-   0.5164408468162195
+   0.23689443153618786,
+   0.2267659285251395,
+   0.5363396399386726
   ],
   "source": "Pinnacle",
   "out": {
@@ -1427,36 +1114,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6595744680851063,
-   0.3404255319148936
+   0.6635294117647058,
+   0.3364705882352941
   ],
   "btts": [
-   0.6586083826983484,
-   0.34139161730165163
+   0.6541358898753354,
+   0.3458641101246645
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.67,
-    "edge": -0.04458443338999374
+    "odd": 4.03,
+    "edge": -0.04531544090916284
    },
    {
     "book": "Pinnacle",
-    "odd": 4.28,
-    "edge": -0.04458443338999374
+    "odd": 4.21,
+    "edge": -0.04531544090916273
    },
    {
-    "book": "Pinnacle",
+    "book": "Betano",
     "odd": 1.85,
-    "edge": -0.04458443338999385
+    "edge": -0.007771666113455589
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.029454476143712605,
-    -0.003014388208662594,
-    0.032468864352375226
+    -0.05289126166747196,
+    0.0005236041926436619,
+    0.052367657474828355
    ],
    "since": "30/10 01:01"
   }
@@ -2844,8 +2531,8 @@
    0.420654911838791
   ],
   "btts": [
-   0.614212142354626,
-   0.38578785764537404
+   0.6139900037658486,
+   0.3860099962341515
   ],
   "best": [
    {
