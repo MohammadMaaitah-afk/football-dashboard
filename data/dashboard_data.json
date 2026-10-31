@@ -21,300 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557456,
-  "kickoff": "2026-10-31T20:30:00+03:00",
-  "home": "Tottenham",
-  "away": "Crystal Palace",
-  "p": [
-   0.5770438796561916,
-   0.23136842907455896,
-   0.19158769126924943
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. Adarabioyo",
-    "R. Bentancur",
-    "L. Bergvall",
-    "M. Mudryk",
-    "W. Odobert",
-    "X. Simons"
-   ],
-   "away": [
-    "C. Riad",
-    "I. Sarr",
-    "T. Tomiyasu",
-    "J. Larsen",
-    "Q. Timber"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "A. Kinský",
-     "A. Gray",
-     "J. van Hecke",
-     "M. van de Ven",
-     "A. Robertson",
-     "Mateus Fernandes",
-     "S. Tonali",
-     "M. Kudus",
-     "Omar Marmoush",
-     "M. Tel",
-     "D. Solanke"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "D. Henderson",
-     "C. Richards",
-     "A. Disasi",
-     "J. Canvot",
-     "Óscar Mingueza",
-     "A. Wharton",
-     "D. Kamada",
-     "T. Mitchell",
-     "D. McNeil",
-     "Yeremy Pino",
-     "J. Mateta"
-    ]
-   }
-  },
-  "ou": [
-   0.5634517766497462,
-   0.4365482233502538
-  ],
-  "btts": [
-   0.5594571896367596,
-   0.4405428103632404
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.7,
-    "edge": -0.019025404584474215
-   },
-   {
-    "book": "Dafabet",
-    "odd": 4.5,
-    "edge": 0.04115793083551522
-   },
-   {
-    "book": "Dafabet",
-    "odd": 5.6,
-    "edge": 0.0728910711077968
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-10-31T19:15:40.807880+00:00"
-  }
- },
- {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570435,
-  "kickoff": "2026-10-31T20:30:00+03:00",
-  "home": "Real Betis",
-  "away": "Malaga",
-  "p": [
-   0.7384150082502696,
-   0.16257540517779046,
-   0.09900958657193996
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Bernal",
-    "J. Firpo",
-    "C. Hernandez",
-    "I. Losada"
-   ],
-   "away": [
-    "J. Cruz",
-    "J. Lobete",
-    "P. Martinez",
-    "J. Munoz",
-    "D. Murillo",
-    "A. Ochoa",
-    "A. Recio"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Álvaro Vallés",
-     "Héctor Bellerín",
-     "Marc Bartra",
-     "Natan",
-     "Fran García",
-     "Pablo Fornals",
-     "Marc Roca",
-     "Isco",
-     "Rodrigo Riquelme",
-     "T. Parrott",
-     "A. Ezzalzouli"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Alfonso Herrero",
-     "Puga",
-     "Fernando Calero",
-     "Einar Galilea",
-     "Rafita",
-     "David Larrubia",
-     "Ramón Enríquez",
-     "Dani Lorenzo",
-     "Adam Aznou Ben Cheikh",
-     "Carlos Dotor",
-     "Adrián Niño Heredia"
-    ]
-   }
-  },
-  "ou": [
-   0.6469194312796209,
-   0.35308056872037913
-  ],
-  "btts": [
-   0.5212289563506114,
-   0.47877104364938855
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.35,
-    "edge": -0.0031397388621359212
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.95,
-    "edge": -0.03267633919214674
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 9.77,
-    "edge": -0.03267633919214663
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 81,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-10-31T19:15:40.807880+00:00"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575203,
-  "kickoff": "2026-10-31T20:30:00+03:00",
-  "home": "Bayern München",
-  "away": "Borussia Dortmund",
-  "p": [
-   0.7357272022733143,
-   0.15588441524892052,
-   0.10838838247776506
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. Buchmann",
-    "L. Diaz",
-    "J. Musiala",
-    "M. Neuer"
-   ],
-   "away": [
-    "E. Can",
-    "G. Konstantelias",
-    "J. Lerma",
-    "K. Karetsas"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Urbig",
-     "K. Laimer",
-     "D. Upamecano",
-     "Kim Min-Jae",
-     "A. Davies",
-     "J. Kimmich",
-     "A. Pavlović",
-     "M. Olise",
-     "I. Saibari",
-     "S. Gnabry",
-     "H. Kane"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "G. Kobel",
-     "Kouakou Joane Gadou",
-     "W. Anton",
-     "N. Schlotterbeck",
-     "M. Beier",
-     "J. Veerman",
-     "F. Nmecha",
-     "D. Svensson",
-     "J. Bellingham",
-     "C. Chukwuemeka",
-     "S. Guirassy"
-    ]
-   }
-  },
-  "ou": [
-   0.7402572571827234,
-   0.2597427428172766
-  ],
-  "btts": [
-   0.6252926070066646,
-   0.37470739299333544
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.35,
-    "edge": -0.006768276931025552
-   },
-   {
-    "book": "Dafabet",
-    "odd": 6.4,
-    "edge": -0.002339742406908596
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 8.96,
-    "edge": -0.028840092999224964
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 82,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-10-31T19:15:40.807880+00:00"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -394,10 +100,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 53,
+   "min": 69,
    "gh": 1,
    "ga": 0,
-   "at": "2026-10-31T19:15:40.807880+00:00"
+   "at": "2026-10-31T19:30:56.639479+00:00"
   }
  },
  {
@@ -480,10 +186,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 55,
+   "min": 70,
    "gh": 0,
    "ga": 1,
-   "at": "2026-10-31T19:15:40.807880+00:00"
+   "at": "2026-10-31T19:30:56.639479+00:00"
   }
  },
  {
@@ -566,10 +272,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 48,
+   "min": 64,
    "gh": 0,
    "ga": 0,
-   "at": "2026-10-31T19:15:40.807880+00:00"
+   "at": "2026-10-31T19:30:56.639479+00:00"
   }
  },
  {
@@ -619,10 +325,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 50,
+   "min": 66,
    "gh": 1,
    "ga": 0,
-   "at": "2026-10-31T19:15:40.807880+00:00"
+   "at": "2026-10-31T19:30:56.639479+00:00"
   }
  },
  {
@@ -842,7 +548,40 @@
     "R. Sessegnon"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Z. Suzuki",
+     "M. Cash",
+     "V. Lindelöf",
+     "Pau Torres",
+     "I. Maatsen",
+     "B. Kamara",
+     "L. Goretzka",
+     "Alysson Edward",
+     "J.  McGinn",
+     "J. Manzambi",
+     "N. Jackson"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Leno",
+     "T. Castagne",
+     "D. Affengruber",
+     "C. Bassey",
+     "A. Robinson",
+     "S. Berge",
+     "S. Charles",
+     "Oscar Bobb",
+     "Joshua King",
+     "A. Iwobi",
+     "Gonzalo García"
+    ]
+   }
+  },
   "ou": [
    0.5421994884910486,
    0.45780051150895135
@@ -906,7 +645,40 @@
     "M. Rodriguez"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Joan García",
+     "B. Farinas",
+     "Pau Cubarsí Paredes",
+     "F. de Jong",
+     "João Cancelo",
+     "Pedri",
+     "Rodri",
+     "Fermín",
+     "Lamine Yamal",
+     "Raphinha",
+     "K. Adeyemi"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Sivera",
+     "Jonny",
+     "N. Tenaglia",
+     "V. Koski",
+     "Yusi",
+     "Angel Pérez",
+     "Guevara",
+     "C. Benavídez",
+     "Denis Suárez",
+     "L. Boyé",
+     "A. Rebbach"
+    ]
+   }
+  },
   "ou": [
    0.7785223510781538,
    0.2214776489218461
@@ -960,7 +732,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "M. Bakhkhach",
+     "A. Lakred",
+     "A. Serrhat",
+     "Issam Naji",
+     "A. Maher",
+     "A. Lemsen",
+     "M. Lahtimi",
+     "F. Karmoune",
+     "Emanuel anderson",
+     "Fernando Data Chamboco",
+     "A. Souane"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "G. Merbah",
+     "A. Ait Brayim",
+     "A. Bennadi",
+     "Salaheddine Benyachou",
+     "A. Boucheta",
+     "Euclides da Silva Cabral",
+     "M. Doumbia",
+     "S. El Amrani",
+     "A. Qasmi",
+     "J. Tachtach",
+     "M. Sahd"
+    ]
+   }
+  },
   "ou": [
    0.37878787878787873,
    0.6212121212121211
