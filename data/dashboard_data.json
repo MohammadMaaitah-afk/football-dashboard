@@ -42,159 +42,6 @@
   "move": null
  },
  {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575210,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "FC Schalke 04",
-  "away": "RB Leipzig",
-  "p": [
-   0.2307009760425909,
-   0.2502218278615794,
-   0.5190771960958296
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Bachmann",
-    "S. El-Faouzi",
-    "A. Gantenbein",
-    "R. Gosens",
-    "M. Sylla",
-    "L. Vozar",
-    "M. Wober"
-   ],
-   "away": [
-    "M. Esteve",
-    "M. Guiu",
-    "A. Ouedraogo"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-5-2",
-    "xi": [
-     "L. Karius",
-     "M. Ayhan",
-     "N. Katić",
-     "H. Kuruçay",
-     "T. Becker",
-     "K. Karaman",
-     "S. Tanaka",
-     "A. Aouchiche",
-     "Vitalie  Becker",
-     "J. Adamu",
-     "Hwang Hee-Chan"
-    ]
-   },
-   "away": {
-    "formation": "4-5-1",
-    "xi": [
-     "M. Vandevoordt",
-     "B. Henrichs",
-     "W. Orbán",
-     "C. Lukeba",
-     "D. Raum",
-     "B. Gruda",
-     "R. Reitz",
-     "N. El Aynaoui",
-     "E. Banzuzi",
-     "A. Nusa",
-     "Rômulo"
-    ]
-   }
-  },
-  "ou": [
-   0.6098765432098766,
-   0.3901234567901235
-  ],
-  "btts": [
-   0.6300796306323945,
-   0.36992036936760553
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 4.23,
-    "edge": -0.02413487133984038
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.26,
-    "edge": 0.06594498669032833
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 1.88,
-    "edge": -0.02413487133984038
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.001010898699241175,
-    -0.009519709147409738,
-    0.01053060784665083
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642059,
-  "kickoff": "2026-10-31T17:30:00+03:00",
-  "home": "Al Hikma",
-  "away": "Tripoli SC",
-  "p": [
-   0.3412184721178719,
-   0.28353950268771555,
-   0.3752420251944126
-  ],
-  "source": "متوسط 7 شركات",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4559807577353417,
-   0.5440192422646584
-  ],
-  "btts": [
-   0.5159551152820501,
-   0.4840448847179499
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.7,
-    "edge": -0.07871012528174592
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.25,
-    "edge": -0.07849661626492443
-   },
-   {
-    "book": "Dafabet",
-    "odd": 2.44,
-    "edge": -0.08440945852563331
-   }
-  ],
-  "nbooks": 7,
-  "move": {
-   "diff": [
-    0.0,
-    0.0,
-    0.0
-   ],
-   "since": "30/10 21:31"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -755,7 +602,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-5-1",
+    "xi": [
+     "M. Genesh",
+     "M. Alaa",
+     "Ahmed Awad",
+     "M. Dabash",
+     "Ahmed Dahesh",
+     "Mostafa Rahim",
+     "R. Milad",
+     "Y. Hamdi",
+     "O. Ibrahim",
+     "Ahmed Khaled",
+     "Ali Hussein"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Koko",
+     "F. Nechat Djabri",
+     "Ahmed El Aash",
+     "Abdel Fattah Sheta",
+     "Yehia Zakaria",
+     "M. Touré",
+     "Abdel Rahman Osama",
+     "Ahmed Etman",
+     "A. Yasser",
+     "Amr Gomaa",
+     "Mohamed Salem Ekbad"
+    ]
+   }
+  },
   "ou": [
    0.3108108108108108,
    0.6891891891891893
@@ -896,7 +776,40 @@
     "C. Starfelt"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "E. Audero",
+     "A. Rațiu",
+     "F. Lejeune",
+     "Mujaid Sadick",
+     "Adrià Pedrosa",
+     "Pedro Díaz",
+     "Óscar Valentín",
+     "Unai López",
+     "Jorge de Frutos",
+     "Sergio Camello",
+     "Álvaro García"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "I. Radu",
+     "Javi Rodríguez",
+     "Yoel Lago",
+     "S. Cáceres",
+     "Javi Rueda",
+     "I. Moriba",
+     "Aleix Febas",
+     "Javi Galán",
+     "Hugo Álvarez",
+     "Ferran Jutglà",
+     "Hugo González"
+    ]
+   }
+  },
   "ou": [
    0.434010152284264,
    0.565989847715736
