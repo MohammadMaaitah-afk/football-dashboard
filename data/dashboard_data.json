@@ -21,178 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603074,
-  "kickoff": "2026-10-31T21:00:00+03:00",
-  "home": "Al-Hilal Saudi FC",
-  "away": "Al-Fateh",
-  "p": [
-   0.8801781737193763,
-   0.06770601336302896,
-   0.052115812917594664
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "Y. Bounou",
-     "Mohammed Mater Mohsin Mahzari",
-     "K. Koulibaly",
-     "Hassan Tambakti",
-     "T. Hernández",
-     "S. Milinković-Savić",
-     "Rúben Neves",
-     "Nasser Al Dawsari",
-     "C. Summerville",
-     "Sultan Mandash",
-     "O. Watkins"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "A. Šemper",
-     "K. Boateng",
-     "M. Saâdane",
-     "Abdulaziz Al Suwailem",
-     "Abdulelah Al Khaibari",
-     "M. Lixandru",
-     "Ali Al Hassan",
-     "Z. Youssouf",
-     "L. Haraslín",
-     "M. Batna",
-     "W. Kanga"
-    ]
-   }
-  },
-  "ou": [
-   0.797945205479452,
-   0.20205479452054795
-  ],
-  "btts": [
-   0.4990035722740341,
-   0.5009964277259659
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.12,
-    "edge": -0.014200445434298437
-   },
-   {
-    "book": "1xBet",
-    "odd": 14.7,
-    "edge": -0.004721603563474286
-   },
-   {
-    "book": "1xBet",
-    "odd": 23.0,
-    "edge": 0.19866369710467735
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 83,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-10-31T19:45:37.989391+00:00"
-  }
- },
- {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612277,
-  "kickoff": "2026-10-31T21:00:00+03:00",
-  "home": "Ceramica Cleopatra",
-  "away": "Masr",
-  "p": [
-   0.4119286079162861,
-   0.3196235352393925,
-   0.26844785684432126
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Alaa",
-     "Ahmed Hany",
-     "Ahmed Ramadan",
-     "Mohamed El Maghraby",
-     "F. El Henawy",
-     "Amr Kalawa",
-     "Ahmed Belhadji",
-     "P. Gwargis",
-     "Amr Al Sulaya",
-     "S. Ougola",
-     "N. Gradišar"
-    ]
-   },
-   "away": {
-    "formation": "5-4-1",
-    "xi": [
-     "Aly Lotfy",
-     "T. Alaa",
-     "Mohamed Hussein",
-     "Abdallah Bakri",
-     "M. Mohamed",
-     "Sameh Ibrahim",
-     "Abdelrahman El Banouby",
-     "Mohamed Ibrahim",
-     "Mahmoud Sayed okaa",
-     "M. Magassa",
-     "Rafaat Khalil"
-    ]
-   }
-  },
-  "ou": [
-   0.3959899749373434,
-   0.6040100250626567
-  ],
-  "btts": [
-   0.47333288417294833,
-   0.5266671158270516
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.32,
-    "edge": -0.04432562963421627
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.1,
-    "edge": -0.009167040757883105
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.56,
-    "edge": -0.04432562963421627
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-10-31T19:45:37.989391+00:00"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -272,10 +100,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 79,
-   "gh": 0,
+   "min": 90,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-10-31T19:45:37.989391+00:00"
+   "at": "2026-10-31T20:01:03.496715+00:00"
   }
  },
  {
@@ -325,10 +153,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 80,
+   "min": 90,
    "gh": 1,
    "ga": 0,
-   "at": "2026-10-31T19:45:37.989391+00:00"
+   "at": "2026-10-31T20:01:03.496715+00:00"
   }
  },
  {
@@ -421,13 +249,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.011842746508465785,
-    0.013293572566826062,
-    -0.0014508260583603882
-   ],
-   "since": "28/10 00:01"
+  "live": {
+   "st": "1H",
+   "min": 12,
+   "gh": 2,
+   "ga": 0,
+   "at": "2026-10-31T20:01:03.496715+00:00"
   }
  },
  {
@@ -517,10 +344,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 1,
+   "min": 16,
    "gh": 0,
    "ga": 0,
-   "at": "2026-10-31T19:45:37.989391+00:00"
+   "at": "2026-10-31T20:01:03.496715+00:00"
   }
  },
  {
@@ -791,13 +618,12 @@
    }
   ],
   "nbooks": 8,
-  "move": {
-   "diff": [
-    0.013031332608243795,
-    -0.005332430802466703,
-    -0.0076989018057771474
-   ],
-   "since": "28/10 12:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-10-31T20:01:03.496715+00:00"
   }
  },
  {
@@ -1942,8 +1768,8 @@
    0.6086956521739131
   ],
   "btts": [
-   0.4507833584184656,
-   0.5492166415815344
+   0.45882972096365754,
+   0.5411702790363424
   ],
   "best": [
    {
@@ -1952,9 +1778,9 @@
     "edge": -0.053766067750870006
    },
    {
-    "book": "Betano",
-    "odd": 3.1,
-    "edge": -0.05685675733257589
+    "book": "Dafabet",
+    "odd": 3.15,
+    "edge": -0.04164476954761753
    },
    {
     "book": "Pinnacle",
@@ -1962,7 +1788,7 @@
     "edge": -0.07815354023151777
    }
   ],
-  "nbooks": 8,
+  "nbooks": 9,
   "move": {
    "diff": [
     0.03901708899634501,
@@ -2189,8 +2015,8 @@
    0.43147208121827413
   ],
   "btts": [
-   0.59806524719702,
-   0.40193475280298
+   0.601758603033918,
+   0.3982413969660819
   ],
   "best": [
    {
