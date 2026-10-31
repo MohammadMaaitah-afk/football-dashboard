@@ -21,6 +21,813 @@
   "move": null
  },
  {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611441,
+  "kickoff": "2026-10-31T19:45:00+03:00",
+  "home": "MB Rouisset",
+  "away": "Ben Aknoun",
+  "p": [
+   0.4476626493354315,
+   0.3138100299328108,
+   0.2385273207317577
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.35766423357664234,
+   0.6423357664233577
+  ],
+  "btts": [
+   0.43268470932446174,
+   0.5673152906755382
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 2.12,
+    "edge": -0.05095518340888516
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.01,
+    "edge": -0.055431809902239504
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.96,
+    "edge": -0.055431809902239504
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "2H",
+   "min": 90,
+   "gh": 1,
+   "ga": 1,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1634791,
+  "kickoff": "2026-10-31T19:45:00+03:00",
+  "home": "Al Sulaibikhat",
+  "away": "Al Salmiyah",
+  "p": [
+   0.16667659599819568,
+   0.23742733857034648,
+   0.5958960654314578
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5066666666666666,
+   0.49333333333333335
+  ],
+  "btts": [
+   0.4890127730882925,
+   0.5109872269117074
+  ],
+  "best": [
+   {
+    "book": "Betfair",
+    "odd": 6.0,
+    "edge": 5.9575989173943356e-05
+   },
+   {
+    "book": "Betfair",
+    "odd": 4.0,
+    "edge": -0.05029064571861408
+   },
+   {
+    "book": "Betano",
+    "odd": 1.55,
+    "edge": -0.0763610985812404
+   }
+  ],
+  "nbooks": 9,
+  "live": {
+   "st": "2H",
+   "min": 89,
+   "gh": 1,
+   "ga": 1,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550186,
+  "kickoff": "2026-10-31T20:00:00+03:00",
+  "home": "Udinese",
+  "away": "AS Roma",
+  "p": [
+   0.1761729987104454,
+   0.21823231822239855,
+   0.605594683067156
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "D. Alaba",
+    "V. Bayo",
+    "I. Gueye",
+    "A. Zanoli"
+   ],
+   "away": [
+    "P. Dybala",
+    "M. Kone",
+    "L. Pellegrini",
+    "M. Svilar"
+   ]
+  },
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Okoye",
+     "J. Abankwah",
+     "C. Kabasele",
+     "M. Palma",
+     "M. Vojvoda",
+     "J. Karlström",
+     "L. Miller",
+     "H. Kamara",
+     "N. Zaniolo",
+     "J. Ekkelenkamp",
+     "K. Davis"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "P. Gollini",
+     "D. Ghilardi",
+     "E. Ndicka",
+     "Hermoso",
+     "N. Molina",
+     "M. de Roon",
+     "B. Cristante",
+     "Wesley",
+     "M. Soulé",
+     "Rodrigo Mora",
+     "D. Malen"
+    ]
+   }
+  },
+  "ou": [
+   0.6093366093366094,
+   0.39066339066339073
+  ],
+  "btts": [
+   0.5761222437190091,
+   0.4238777562809909
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 5.61,
+    "edge": -0.01166947723440126
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.58,
+    "edge": -0.0004959825414145858
+   },
+   {
+    "book": "Betano",
+    "odd": 1.65,
+    "edge": -0.0007687729391926412
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "2H",
+   "min": 82,
+   "gh": 2,
+   "ga": 4,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557456,
+  "kickoff": "2026-10-31T20:30:00+03:00",
+  "home": "Tottenham",
+  "away": "Crystal Palace",
+  "p": [
+   0.5770438796561916,
+   0.23136842907455896,
+   0.19158769126924943
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "T. Adarabioyo",
+    "R. Bentancur",
+    "L. Bergvall",
+    "M. Mudryk",
+    "W. Odobert",
+    "X. Simons"
+   ],
+   "away": [
+    "C. Riad",
+    "I. Sarr",
+    "T. Tomiyasu",
+    "J. Larsen",
+    "Q. Timber"
+   ]
+  },
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "A. Kinský",
+     "A. Gray",
+     "J. van Hecke",
+     "M. van de Ven",
+     "A. Robertson",
+     "Mateus Fernandes",
+     "S. Tonali",
+     "M. Kudus",
+     "Omar Marmoush",
+     "M. Tel",
+     "D. Solanke"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Henderson",
+     "C. Richards",
+     "A. Disasi",
+     "J. Canvot",
+     "Óscar Mingueza",
+     "A. Wharton",
+     "D. Kamada",
+     "T. Mitchell",
+     "D. McNeil",
+     "Yeremy Pino",
+     "J. Mateta"
+    ]
+   }
+  },
+  "ou": [
+   0.5634517766497462,
+   0.4365482233502538
+  ],
+  "btts": [
+   0.5594571896367596,
+   0.4405428103632404
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.7,
+    "edge": -0.019025404584474215
+   },
+   {
+    "book": "Dafabet",
+    "odd": 4.5,
+    "edge": 0.04115793083551522
+   },
+   {
+    "book": "Dafabet",
+    "odd": 5.6,
+    "edge": 0.0728910711077968
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "2H",
+   "min": 50,
+   "gh": 1,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570435,
+  "kickoff": "2026-10-31T20:30:00+03:00",
+  "home": "Real Betis",
+  "away": "Malaga",
+  "p": [
+   0.7384150082502696,
+   0.16257540517779046,
+   0.09900958657193996
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "F. Bernal",
+    "J. Firpo",
+    "C. Hernandez",
+    "I. Losada"
+   ],
+   "away": [
+    "J. Cruz",
+    "J. Lobete",
+    "P. Martinez",
+    "J. Munoz",
+    "D. Murillo",
+    "A. Ochoa",
+    "A. Recio"
+   ]
+  },
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Álvaro Vallés",
+     "Héctor Bellerín",
+     "Marc Bartra",
+     "Natan",
+     "Fran García",
+     "Pablo Fornals",
+     "Marc Roca",
+     "Isco",
+     "Rodrigo Riquelme",
+     "T. Parrott",
+     "A. Ezzalzouli"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Alfonso Herrero",
+     "Puga",
+     "Fernando Calero",
+     "Einar Galilea",
+     "Rafita",
+     "David Larrubia",
+     "Ramón Enríquez",
+     "Dani Lorenzo",
+     "Adam Aznou Ben Cheikh",
+     "Carlos Dotor",
+     "Adrián Niño Heredia"
+    ]
+   }
+  },
+  "ou": [
+   0.6469194312796209,
+   0.35308056872037913
+  ],
+  "btts": [
+   0.5212289563506114,
+   0.47877104364938855
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.35,
+    "edge": -0.0031397388621359212
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 5.95,
+    "edge": -0.03267633919214674
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 9.77,
+    "edge": -0.03267633919214663
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "HT",
+   "min": 45,
+   "gh": 2,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575203,
+  "kickoff": "2026-10-31T20:30:00+03:00",
+  "home": "Bayern München",
+  "away": "Borussia Dortmund",
+  "p": [
+   0.7357272022733143,
+   0.15588441524892052,
+   0.10838838247776506
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "T. Buchmann",
+    "L. Diaz",
+    "J. Musiala",
+    "M. Neuer"
+   ],
+   "away": [
+    "E. Can",
+    "G. Konstantelias",
+    "J. Lerma",
+    "K. Karetsas"
+   ]
+  },
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Urbig",
+     "K. Laimer",
+     "D. Upamecano",
+     "Kim Min-Jae",
+     "A. Davies",
+     "J. Kimmich",
+     "A. Pavlović",
+     "M. Olise",
+     "I. Saibari",
+     "S. Gnabry",
+     "H. Kane"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "G. Kobel",
+     "Kouakou Joane Gadou",
+     "W. Anton",
+     "N. Schlotterbeck",
+     "M. Beier",
+     "J. Veerman",
+     "F. Nmecha",
+     "D. Svensson",
+     "J. Bellingham",
+     "C. Chukwuemeka",
+     "S. Guirassy"
+    ]
+   }
+  },
+  "ou": [
+   0.7402572571827234,
+   0.2597427428172766
+  ],
+  "btts": [
+   0.6252926070066646,
+   0.37470739299333544
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.35,
+    "edge": -0.006768276931025552
+   },
+   {
+    "book": "Dafabet",
+    "odd": 6.4,
+    "edge": -0.002339742406908596
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 8.96,
+    "edge": -0.028840092999224964
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "HT",
+   "min": 45,
+   "gh": 1,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603074,
+  "kickoff": "2026-10-31T21:00:00+03:00",
+  "home": "Al-Hilal Saudi FC",
+  "away": "Al-Fateh",
+  "p": [
+   0.8801781737193763,
+   0.06770601336302896,
+   0.052115812917594664
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Y. Bounou",
+     "Mohammed Mater Mohsin Mahzari",
+     "K. Koulibaly",
+     "Hassan Tambakti",
+     "T. Hernández",
+     "S. Milinković-Savić",
+     "Rúben Neves",
+     "Nasser Al Dawsari",
+     "C. Summerville",
+     "Sultan Mandash",
+     "O. Watkins"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Šemper",
+     "K. Boateng",
+     "M. Saâdane",
+     "Abdulaziz Al Suwailem",
+     "Abdulelah Al Khaibari",
+     "M. Lixandru",
+     "Ali Al Hassan",
+     "Z. Youssouf",
+     "L. Haraslín",
+     "M. Batna",
+     "W. Kanga"
+    ]
+   }
+  },
+  "ou": [
+   0.797945205479452,
+   0.20205479452054795
+  ],
+  "btts": [
+   0.4990035722740341,
+   0.5009964277259659
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.12,
+    "edge": -0.014200445434298437
+   },
+   {
+    "book": "1xBet",
+    "odd": 14.7,
+    "edge": -0.004721603563474286
+   },
+   {
+    "book": "1xBet",
+    "odd": 23.0,
+    "edge": 0.19866369710467735
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "1H",
+   "min": 38,
+   "gh": 1,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612277,
+  "kickoff": "2026-10-31T21:00:00+03:00",
+  "home": "Ceramica Cleopatra",
+  "away": "Masr",
+  "p": [
+   0.4119286079162861,
+   0.3196235352393925,
+   0.26844785684432126
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Alaa",
+     "Ahmed Hany",
+     "Ahmed Ramadan",
+     "Mohamed El Maghraby",
+     "F. El Henawy",
+     "Amr Kalawa",
+     "Ahmed Belhadji",
+     "P. Gwargis",
+     "Amr Al Sulaya",
+     "S. Ougola",
+     "N. Gradišar"
+    ]
+   },
+   "away": {
+    "formation": "5-4-1",
+    "xi": [
+     "Aly Lotfy",
+     "T. Alaa",
+     "Mohamed Hussein",
+     "Abdallah Bakri",
+     "M. Mohamed",
+     "Sameh Ibrahim",
+     "Abdelrahman El Banouby",
+     "Mohamed Ibrahim",
+     "Mahmoud Sayed okaa",
+     "M. Magassa",
+     "Rafaat Khalil"
+    ]
+   }
+  },
+  "ou": [
+   0.3959899749373434,
+   0.6040100250626567
+  ],
+  "btts": [
+   0.47333288417294833,
+   0.5266671158270516
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.32,
+    "edge": -0.04432562963421627
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.1,
+    "edge": -0.009167040757883105
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.56,
+    "edge": -0.04432562963421627
+   }
+  ],
+  "nbooks": 10,
+  "live": {
+   "st": "1H",
+   "min": 39,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612278,
+  "kickoff": "2026-10-31T21:00:00+03:00",
+  "home": "Petrojet",
+  "away": "Smouha SC",
+  "p": [
+   0.3470031545741325,
+   0.34204596665164483,
+   0.31095087877422256
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Omar Salah",
+     "Mahmoud Shedid Kenawi",
+     "Barakat Haggag",
+     "Islam Abdallah",
+     "Ahmed Bahbah",
+     "A. Hamawy",
+     "Youssef Abdel-Tawab",
+     "Adham Hamed",
+     "Gamal Fawzi",
+     "A. Liadi",
+     "Mohamed Ibrahim Dodo"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Ahmed Mayhoub",
+     "Mohamed Desouki",
+     "Ali Gamal",
+     "Abdel Ghani Mohamed",
+     "Mohamed Ragab",
+     "K. Mohamed",
+     "Mohamed Saeed",
+     "Khaled El Ghandour",
+     "Samir Fekri",
+     "S. Attidjikou",
+     "P. Badji"
+    ]
+   }
+  },
+  "ou": [
+   0.358173076923077,
+   0.6418269230769231
+  ],
+  "btts": [
+   0.45209292158528086,
+   0.5479070784147192
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.76,
+    "edge": -0.04227129337539437
+   },
+   {
+    "book": "Betfair",
+    "odd": 2.88,
+    "edge": -0.014907616043262961
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.08,
+    "edge": -0.04227129337539448
+   }
+  ],
+  "nbooks": 9,
+  "live": {
+   "st": "1H",
+   "min": 38,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1646862,
+  "kickoff": "2026-10-31T21:00:00+03:00",
+  "home": "Wydad AC",
+  "away": "Moghreb Tetouan",
+  "p": [
+   0.6650278465097161,
+   0.21397886727974658,
+   0.12099328621053734
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.47631578947368425,
+   0.5236842105263159
+  ],
+  "btts": [
+   0.41224876000928107,
+   0.5877512399907189
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.4,
+    "edge": -0.0689610148863975
+   },
+   {
+    "book": "Dafabet",
+    "odd": 4.5,
+    "edge": -0.03709509724114035
+   },
+   {
+    "book": "1xBet",
+    "odd": 9.35,
+    "edge": 0.13128722606852405
+   }
+  ],
+  "nbooks": 8,
+  "live": {
+   "st": "1H",
+   "min": 38,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-10-31T18:38:07.773719+00:00"
+  }
+ },
+ {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
