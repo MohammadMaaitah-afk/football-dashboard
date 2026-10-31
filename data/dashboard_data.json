@@ -21,93 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603079,
-  "kickoff": "2026-10-31T16:30:00+03:00",
-  "home": "Al Taawon",
-  "away": "Al-Ettifaq",
-  "p": [
-   0.4207331072561735,
-   0.24178839328392754,
-   0.33747849945989894
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "5-4-1",
-    "xi": [
-     "Mailson",
-     "Mohammed Al Saedi",
-     "Nasser Al Haleel",
-     "Z. Belaïd",
-     "Ibrahim Mahnashi",
-     "M. Petkov",
-     "N. Bajrami",
-     "Faris Al Ghamdi",
-     "A. El Mahdioui",
-     "P. Guiagon",
-     "A. Hamed Allah"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "M. Rodák",
-     "Abdullah Khateeb",
-     "Pedro Henrique",
-     "J. Hendry",
-     "Madallah Al Olayan",
-     "O. Duda",
-     "A. Kanté",
-     "B. Celina",
-     "Khalid Al Ghannam",
-     "J. Larsson",
-     "Sultan Ali Huran"
-    ]
-   }
-  },
-  "ou": [
-   0.578005115089514,
-   0.42199488491048587
-  ],
-  "btts": [
-   0.5946465257110002,
-   0.4053534742889998
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 2.37,
-    "edge": -0.00286253580286866
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.95,
-    "edge": -0.044935846528486145
-   },
-   {
-    "book": "Betano",
-    "odd": 2.85,
-    "edge": -0.03818627653928797
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.005331986741213435,
-    -0.016835995797011782,
-    0.011504009055798348
-   ],
-   "since": "28/10 00:01"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -156,7 +69,40 @@
     "J. Ziolkowski"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "",
+    "xi": [
+     "F. Bernardeschi",
+     "N. Cambiaghi",
+     "N. Casale",
+     "L. Ferguson",
+     "Juan Miranda",
+     "J. Odgaard",
+     "T. Pobega",
+     "A. Theate",
+     "M. Vitík",
+     "N. Zortea",
+     "Ł. Skorupski"
+    ]
+   },
+   "away": {
+    "formation": "",
+    "xi": [
+     "E. Zeballos",
+     "Gustavo Varela",
+     "M. Ondoa",
+     "Dany Mota",
+     "Ricardo Mangas",
+     "L. Lucchesi",
+     "E. Kouadio",
+     "S. Goglichidze",
+     "L. Colombo",
+     "S. Birindelli",
+     "N. Törnqvist"
+    ]
+   }
+  },
   "ou": [
    0.5128205128205129,
    0.4871794871794872
