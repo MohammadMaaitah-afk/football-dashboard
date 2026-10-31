@@ -113,10 +113,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 86,
+   "min": 87,
    "gh": 2,
    "ga": 0,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -212,10 +212,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 80,
+   "min": 81,
    "gh": 2,
    "ga": 1,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -308,10 +308,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 81,
+   "min": 82,
    "gh": 2,
    "ga": 1,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -394,10 +394,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 52,
+   "min": 53,
    "gh": 1,
    "ga": 0,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -480,10 +480,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 54,
+   "min": 55,
    "gh": 0,
    "ga": 1,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -569,7 +569,7 @@
    "min": 48,
    "gh": 0,
    "ga": 0,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -619,10 +619,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 49,
-   "gh": 2,
+   "min": 50,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-10-31T19:14:26.562074+00:00"
+   "at": "2026-10-31T19:15:40.807880+00:00"
   }
  },
  {
@@ -655,7 +655,40 @@
     "J. Stones"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-1-1",
+    "xi": [
+     "M. Maignan",
+     "Mario Gila",
+     "K. De Winter",
+     "S. Pavlović",
+     "S. Bocoum",
+     "Diego Moreira",
+     "Y. Musah",
+     "L. Modrić",
+     "C. Pulišić",
+     "A. Rabiot",
+     "Gonçalo Ramos"
+    ]
+   },
+   "away": {
+    "formation": "3-5-1-1",
+    "xi": [
+     "Josep Martínez",
+     "Y. Bisseck",
+     "M. Akanji",
+     "A. Bastoni",
+     "D. Spence",
+     "N. Barella",
+     "H. Çalhanoğlu",
+     "P. Sučić",
+     "Carlos Augusto",
+     "A. Diouf",
+     "M. Thuram"
+    ]
+   }
+  },
   "ou": [
    0.5510204081632654,
    0.44897959183673464
@@ -716,7 +749,40 @@
     "D. Sidibe"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "H. Konaté",
+     "L. Maronnier",
+     "A. Monfray",
+     "M. Diaz",
+     "P. Gozzi",
+     "A. Mille",
+     "D. Karim",
+     "M. Diop",
+     "M. Ifnaoui",
+     "R. Ripart",
+     "T. Nkada"
+    ]
+   },
+   "away": {
+    "formation": "3-1-4-2",
+    "xi": [
+     "N. Kocik",
+     "N. Boissé",
+     "S. Yohou",
+     "Raúl Torrente",
+     "A. Lauray",
+     "L. Buadés",
+     "A. Rabillard",
+     "L. Bretelle",
+     "L. Calodat",
+     "L. Mafouta",
+     "H. Diallo"
+    ]
+   }
+  },
   "ou": [
    0.4668367346938776,
    0.5331632653061223
