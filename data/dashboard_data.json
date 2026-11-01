@@ -21,103 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550180,
-  "kickoff": "2026-11-01T14:30:00+03:00",
-  "home": "Como",
-  "away": "Venezia",
-  "p": [
-   0.7281075103053051,
-   0.15823251449445358,
-   0.1136599752002413
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Addai",
-    "T. Chalobah",
-    "A. Diao",
-    "M. Kean",
-    "J. Rodriguez"
-   ],
-   "away": [
-    "A. Adorante",
-    "T. Correia",
-    "B. Franjic",
-    "M. Sverko"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Butez",
-     "Yan Couto",
-     "Jacobo Ramón Naveros",
-     "M. Kempf",
-     "Kaiki",
-     "Luis Milla",
-     "S. Ricci",
-     "L. da Cunha",
-     "N. Paz",
-     "M. Baturina",
-     "T. Douvikas"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "F. Stanković",
-     "R. Halhal",
-     "Juan Jesus",
-     "M. Moreno",
-     "A. Hainaut",
-     "S. Sohm",
-     "G. Busio",
-     "Þ. Helgason",
-     "P. Mazzocchi",
-     "L. Lauberbach",
-     "A. Adams"
-    ]
-   }
-  },
-  "ou": [
-   0.6905829596412556,
-   0.30941704035874434
-  ],
-  "btts": [
-   0.5607835716336748,
-   0.4392164283663252
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.35,
-    "edge": -0.017054861087838047
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 6.12,
-    "edge": -0.03161701129394412
-   },
-   {
-    "book": "Betfair",
-    "odd": 9.5,
-    "edge": 0.07976976440229233
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-01T13:15:38.246459+00:00"
-  }
- },
- {
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
@@ -227,10 +130,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 11,
+   "min": 26,
    "gh": 0,
-   "ga": 0,
-   "at": "2026-11-01T13:15:38.246459+00:00"
+   "ga": 1,
+   "at": "2026-11-01T13:30:54.295855+00:00"
   }
  },
  {
@@ -259,7 +162,40 @@
     "A. Cacciamani"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Palmisani",
+     "E. Tchato",
+     "G. Calvani",
+     "I. Monterisi",
+     "G. Bracaglia",
+     "G. Calò",
+     "P. Masini",
+     "F. Ghedjemis",
+     "R. Schmid",
+     "G. Kvernadze",
+     "A. Raimondo"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "Lucas Perri",
+     "Saúl Coco",
+     "A. Ismajli",
+     "P. Comuzzo",
+     "R. Belghali",
+     "N. Vlašić",
+     "Daniel Bragança",
+     "G. Gineitis",
+     "Z. Aboukhlal",
+     "G. Simeone",
+     "C. Adams"
+    ]
+   }
+  },
   "ou": [
    0.6853932584269663,
    0.3146067415730337
@@ -321,7 +257,40 @@
     "R. Idrissi"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "R. Belahyane",
+     "C. Mandas",
+     "M. Zaccagni",
+     "K. Taylor",
+     "Nuno Tavares",
+     "R. Floriani Mussolini",
+     "D. Frattesi",
+     "G. Isaksen",
+     "T. Noslin",
+     "O. Provstgaard",
+     "J. Šutalo"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Adopo",
+     "A. Deiola",
+     "A. Fadera",
+     "J. Fazzini",
+     "D. Maldini",
+     "M&apos;Bala Nzola",
+     "A. Obert",
+     "Zé Pedro",
+     "J. Rodríguez",
+     "A. Romano",
+     "E. Caprile"
+    ]
+   }
+  },
   "ou": [
    0.5307692307692307,
    0.46923076923076923
@@ -384,7 +353,40 @@
     "B. Okoh"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "F. Jörgensen",
+     "I. Doukouré",
+     "L. Høgsberg",
+     "Abdoul Karim Coulibaly",
+     "Oso",
+     "Dário Essugo",
+     "S. El Mourabet",
+     "G. Reyna",
+     "Gessime Yassine",
+     "C. Harder",
+     "M. Godo"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "P. Nardi",
+     "L. Sy",
+     "C. Makosso",
+     "A. Tuanzebe",
+     "C. Akpa",
+     "F. Oppegård",
+     "K. Danois",
+     "R. Faivre",
+     "N. Ahamada",
+     "D. Namaso",
+     "C. Archer"
+    ]
+   }
+  },
   "ou": [
    0.6059113300492611,
    0.39408866995073893
