@@ -211,11 +211,11 @@
     "F. Grillitsch"
    ],
    "away": [
+    "N. Fortini",
     "F. Israel",
     "R. Mandragora",
     "R. Rodriguez",
-    "A. Cacciamani",
-    "N. Fortini"
+    "A. Cacciamani"
    ]
   },
   "lineups": null,
@@ -263,9 +263,9 @@
   "home": "Lazio",
   "away": "Cagliari",
   "p": [
-   0.6658941749693694,
-   0.20327295867486012,
-   0.13083286635577043
+   0.6676152297842567,
+   0.202096468306299,
+   0.13028830190944443
   ],
   "source": "Pinnacle",
   "out": {
@@ -277,42 +277,41 @@
    ],
    "away": [
     "M. Felici",
-    "R. Idrissi",
-    "H. Winks"
+    "R. Idrissi"
    ]
   },
   "lineups": null,
   "ou": [
-   0.5358974358974359,
-   0.46410256410256406
+   0.5370843989769821,
+   0.4629156010230179
   ],
   "btts": [
-   0.47475543092678146,
-   0.5252445690732185
+   0.4757179435914218,
+   0.5242820564085782
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 1.49,
-    "edge": -0.00781767929563959
+    "book": "Betano",
+    "odd": 1.5,
+    "edge": 0.0014228446763850933
    },
    {
-    "book": "Dafabet",
-    "odd": 4.8,
-    "edge": -0.024289798360671466
+    "book": "Pinnacle",
+    "odd": 4.79,
+    "edge": -0.03195791681282789
    },
    {
     "book": "BetVictor",
     "odd": 8.0,
-    "edge": 0.046662930846163464
+    "edge": 0.04230641527555545
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0036279439762918475,
-    -0.005786800777700746,
-    0.002158856801408926
+    0.005348998791179116,
+    -0.006963291146261874,
+    0.0016142923550829247
    ],
    "since": "29/10 00:01"
   }
@@ -580,11 +579,12 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "J. Salinas",
-    "A. Martin"
+    "A. Martin",
+    "J. Salinas"
    ],
    "away": [
     "R. Asencio",
+    "F. Mendy",
     "Rodrygo",
     "F. Valverde",
     "Vinicius Junior"
@@ -788,7 +788,8 @@
    ],
    "away": [
     "A. Fati",
-    "S. Idumbo"
+    "S. Idumbo",
+    "M. Salisu"
    ]
   },
   "lineups": null,
