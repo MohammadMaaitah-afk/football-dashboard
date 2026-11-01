@@ -1,200 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550182,
-  "kickoff": "2026-11-01T22:45:00+03:00",
-  "home": "Juventus",
-  "away": "Napoli",
-  "p": [
-   0.42068975737345377,
-   0.2862170783303263,
-   0.29309316429622
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "Z. Celik",
-    "F. Conceicao",
-    "N. Gonzalez",
-    "K. Grabara",
-    "M. Locatelli",
-    "A. Milik",
-    "K. Thuram",
-    "K. Yildiz",
-    "J. Ekhator"
-   ],
-   "away": [
-    "Alisson Santos",
-    "B. Badiashile",
-    "A. Buongiorno",
-    "David Neres",
-    "C. Favasuli",
-    "S. Lobotka",
-    "L. Spinazzola"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-1-2",
-    "xi": [
-     "G. Vicario",
-     "P. Kalulu",
-     "Bremer",
-     "J. Lucumí",
-     "J. Cabal",
-     "T. Koopmeiners",
-     "Douglas Luiz",
-     "W. McKennie",
-     "Kerim-Sam Alajbegović",
-     "R. Kolo Muani",
-     "N. Woltemade"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "A. Meret",
-     "G. Di Lorenzo",
-     "Luca Marianucci",
-     "Rafa Marín",
-     "M. Olivera",
-     "K. De Bruyne",
-     "A. Zambo Anguissa",
-     "S. McTominay",
-     "M. Politano",
-     "L. Lucca",
-     "N. Lang"
-    ]
-   }
-  },
-  "ou": [
-   0.5102564102564103,
-   0.4897435897435898
-  ],
-  "btts": [
-   0.5563379757759527,
-   0.4436620242240473
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.34,
-    "edge": -0.015585967746118201
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.5,
-    "edge": 0.0017597741561419245
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.46,
-    "edge": 0.0141023484649212
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-01T21:30:55.295062+00:00"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552805,
-  "kickoff": "2026-11-01T22:45:00+03:00",
-  "home": "Marseille",
-  "away": "Toulouse",
-  "p": [
-   0.5038787866880172,
-   0.23952858579011654,
-   0.25659262752186623
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Cornelius"
-   ],
-   "away": [
-    "R. Messali",
-    "M. Niflore"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. de Lange",
-     "T. Weah",
-     "C. Egan-Riley",
-     "N. Aguerd",
-     "Emerson",
-     "T. Nnadi",
-     "P. Højbjerg",
-     "A. Harit",
-     "H. Abdelli",
-     "Igor Paixão",
-     "A. Gouiri"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "G. Restes",
-     "I. Diallo",
-     "M. McKenzie",
-     "R. Nicolaisen",
-     "C. Tapé",
-     "A. Dønnum",
-     "C. Cásseres",
-     "N. Sigur",
-     "T. Jørgensen",
-     "J. Russell-Rowe",
-     "C. Tengstedt"
-    ]
-   }
-  },
-  "ou": [
-   0.6396181384248211,
-   0.360381861575179
-  ],
-  "btts": [
-   0.6452544331943892,
-   0.3547455668056108
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 1.96,
-    "edge": -0.012397578091486228
-   },
-   {
-    "book": "Betano",
-    "odd": 4.3,
-    "edge": 0.02997291889750109
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.9,
-    "edge": 0.0007112473352783866
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-01T21:30:55.295062+00:00"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -282,10 +87,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 66,
+   "min": 81,
    "gh": 2,
    "ga": 1,
-   "at": "2026-11-01T21:30:55.295062+00:00"
+   "at": "2026-11-01T21:45:38.711714+00:00"
   }
  },
  {
@@ -368,10 +173,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 70,
+   "min": 85,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-01T21:30:55.295062+00:00"
+   "at": "2026-11-01T21:45:38.711714+00:00"
   }
  },
  {
@@ -680,8 +485,8 @@
    0.405
   ],
   "btts": [
-   0.5448624847535611,
-   0.4551375152464389
+   0.546767246658323,
+   0.453232753341677
   ],
   "best": [
    {
@@ -719,9 +524,9 @@
   "home": "Lorient",
   "away": "Stade Brestois 29",
   "p": [
-   0.384900588589702,
-   0.2939240858321361,
-   0.321175325578162
+   0.38537059013917363,
+   0.2951774732980904,
+   0.31945193656273607
   ],
   "source": "Pinnacle",
   "out": {
@@ -741,32 +546,32 @@
    0.5470737913486006
   ],
   "btts": [
-   0.5202489394164672,
-   0.4797510605835328
+   0.5223646862761494,
+   0.47763531372385065
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 2.56,
-    "edge": -0.014654493210362829
+    "edge": -0.013451289243715525
    },
    {
     "book": "1xBet",
     "odd": 3.39,
-    "edge": -0.0035973490290586163
+    "edge": 0.0006516344805265195
    },
    {
-    "book": "BetVictor",
-    "odd": 3.4,
-    "edge": 0.09199610696575067
+    "book": "Bet365",
+    "odd": 3.1,
+    "edge": -0.0096989966555181
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.0005566671421659564,
-    0.011854782074996628,
-    -0.011298114932830616
+    -8.666559269432383e-05,
+    0.013108169540950954,
+    -0.013021503948256519
    ],
    "since": "28/10 00:01"
   }
