@@ -109,10 +109,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 86,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-01T19:01:09.549872+00:00"
+   "at": "2026-11-01T19:15:38.138371+00:00"
   }
  },
  {
@@ -161,11 +161,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 55,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T19:01:09.549872+00:00"
+   "at": "2026-11-01T19:15:38.138371+00:00"
   }
  },
  {
@@ -214,11 +214,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 52,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T19:01:09.549872+00:00"
+   "at": "2026-11-01T19:15:38.138371+00:00"
   }
  },
  {
@@ -257,7 +257,40 @@
     "L. Spinazzola"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-1-2",
+    "xi": [
+     "G. Vicario",
+     "P. Kalulu",
+     "Bremer",
+     "J. Lucumí",
+     "J. Cabal",
+     "T. Koopmeiners",
+     "Douglas Luiz",
+     "W. McKennie",
+     "Kerim-Sam Alajbegović",
+     "R. Kolo Muani",
+     "N. Woltemade"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "A. Meret",
+     "G. Di Lorenzo",
+     "Luca Marianucci",
+     "Rafa Marín",
+     "M. Olivera",
+     "K. De Bruyne",
+     "A. Zambo Anguissa",
+     "S. McTominay",
+     "M. Politano",
+     "L. Lucca",
+     "N. Lang"
+    ]
+   }
+  },
   "ou": [
    0.5102564102564103,
    0.4897435897435898
@@ -316,7 +349,40 @@
     "M. Niflore"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. de Lange",
+     "T. Weah",
+     "C. Egan-Riley",
+     "N. Aguerd",
+     "Emerson",
+     "T. Nnadi",
+     "P. Højbjerg",
+     "A. Harit",
+     "H. Abdelli",
+     "Igor Paixão",
+     "A. Gouiri"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "G. Restes",
+     "I. Diallo",
+     "M. McKenzie",
+     "R. Nicolaisen",
+     "C. Tapé",
+     "A. Dønnum",
+     "C. Cásseres",
+     "N. Sigur",
+     "T. Jørgensen",
+     "J. Russell-Rowe",
+     "C. Tengstedt"
+    ]
+   }
+  },
   "ou": [
    0.6396181384248211,
    0.360381861575179
