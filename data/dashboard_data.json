@@ -21,158 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575207,
-  "kickoff": "2026-11-01T17:30:00+03:00",
-  "home": "Union Berlin",
-  "away": "1. FC Köln",
-  "p": [
-   0.343181783658155,
-   0.2761009250960793,
-   0.38071729124576564
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Ilic",
-    "A. Markgraf",
-    "S. Nsoki",
-    "R. Skov",
-    "F. Uduokhai"
-   ],
-   "away": [
-    "R. Ache",
-    "T. Dallinga",
-    "T. Hubers",
-    "I. Rondic",
-    "E. Skhiri",
-    "R. van den Berg"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "F. Rønnow",
-     "J. Haberer",
-     "Z. Van Den Bosch",
-     "M. Friedrich",
-     "D. Köhn",
-     "A. Schäfer",
-     "R. Khedira",
-     "Livan Burcu",
-     "M. Aebischer",
-     "K. Imeri",
-     "T. Skarke"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "M. Schwäbe",
-     "S. Sebulonsen",
-     "J. Schmied",
-     "Jahmai Simpson-Pusey",
-     "B. Sosa",
-     "L. Maina",
-     "Paul Michael Junior Okon-Engstler",
-     "T. Krauß",
-     "Í. Bergmann Jóhannesson",
-     "M. Bülter",
-     "S. El Mala"
-    ]
-   }
-  },
-  "ou": [
-   0.5547073791348601,
-   0.44529262086514
-  ],
-  "btts": [
-   0.5958323047897255,
-   0.40416769521027446
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.84,
-    "edge": -0.025363734410839833
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.78,
-    "edge": 0.04366149686317966
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.61,
-    "edge": -0.006327869848551715
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-01T16:15:38.192690+00:00"
-  }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622659,
-  "kickoff": "2026-11-01T17:30:00+03:00",
-  "home": "Al Jahra",
-  "away": "Al Fahaheel",
-  "p": [
-   0.18070525371932586,
-   0.24286786099877397,
-   0.5764268852819001
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.5212765957446808,
-   0.4787234042553191
-  ],
-  "btts": [
-   0.5172318447376537,
-   0.4827681552623463
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 5.2,
-    "edge": -0.06033268065950548
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.95,
-    "edge": -0.040671949054842726
-   },
-   {
-    "book": "Bet365",
-    "odd": 1.65,
-    "edge": -0.048895639284864845
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 3,
-   "ga": 0,
-   "at": "2026-11-01T16:15:38.192690+00:00"
-  }
- },
- {
   "league": "الدوري الأردني",
   "type": "arab",
   "en": "Jordan League",
@@ -219,10 +67,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 54,
+   "min": 69,
    "gh": 0,
-   "ga": 1,
-   "at": "2026-11-01T16:15:38.192690+00:00"
+   "ga": 2,
+   "at": "2026-11-01T16:30:55.274763+00:00"
   }
  },
  {
@@ -313,11 +161,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 52,
    "gh": 0,
    "ga": 3,
-   "at": "2026-11-01T16:15:38.192690+00:00"
+   "at": "2026-11-01T16:30:55.274763+00:00"
   }
  },
  {
@@ -400,10 +248,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 15,
+   "min": 29,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-01T16:15:38.192690+00:00"
+   "at": "2026-11-01T16:30:55.274763+00:00"
   }
  },
  {
@@ -494,10 +342,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 1,
+   "min": 16,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T16:15:38.192690+00:00"
+   "at": "2026-11-01T16:30:55.274763+00:00"
   }
  },
  {
@@ -591,10 +439,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 1,
+   "min": 16,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T16:15:38.192690+00:00"
+   "at": "2026-11-01T16:30:55.274763+00:00"
   }
  },
  {
@@ -823,7 +671,40 @@
     "M. E. Ellertsson"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "W. Falcone",
+     "Danilo Veiga",
+     "J. Siebert",
+     "Tiago Gabriel",
+     "A. Gallo",
+     "Olaf Gorter",
+     "O. Ngom",
+     "Y. Maleh",
+     "K. N’Dri",
+     "N. Štulić",
+     "Joël Monteiro"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Bijlow",
+     "A. Marcandalli",
+     "L. Østigård",
+     "J. Vásquez",
+     "M. Ellertsson",
+     "M. Frendrup",
+     "S. Wiafe",
+     "H. Traorè",
+     "Junior Messias",
+     "S. El Shaarawy",
+     "M. Osmajić"
+    ]
+   }
+  },
   "ou": [
    0.39259259259259255,
    0.6074074074074073
