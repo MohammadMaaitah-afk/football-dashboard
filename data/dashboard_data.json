@@ -21,156 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550184,
-  "kickoff": "2026-11-01T20:00:00+03:00",
-  "home": "Lecce",
-  "away": "Genoa",
-  "p": [
-   0.3020566195157774,
-   0.3241338475202528,
-   0.37380953296396974
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Berisha",
-    "L. Coulibaly",
-    "K. Gaspar",
-    "W. Geubbels",
-    "I. Ilic",
-    "S. Pierotti"
-   ],
-   "away": [
-    "E. Havel",
-    "L. Venturino",
-    "M. E. Ellertsson"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "W. Falcone",
-     "Danilo Veiga",
-     "J. Siebert",
-     "Tiago Gabriel",
-     "A. Gallo",
-     "Olaf Gorter",
-     "O. Ngom",
-     "Y. Maleh",
-     "K. N’Dri",
-     "N. Štulić",
-     "Joël Monteiro"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "J. Bijlow",
-     "A. Marcandalli",
-     "L. Østigård",
-     "J. Vásquez",
-     "M. Ellertsson",
-     "M. Frendrup",
-     "S. Wiafe",
-     "H. Traorè",
-     "Junior Messias",
-     "S. El Shaarawy",
-     "M. Osmajić"
-    ]
-   }
-  },
-  "ou": [
-   0.39259259259259255,
-   0.6074074074074073
-  ],
-  "btts": [
-   0.48121524715913433,
-   0.5187847528408656
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 3.25,
-    "edge": -0.018315986573723464
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.13,
-    "edge": 0.014538942738391292
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.61,
-    "edge": -0.024357118964039026
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 83,
-   "gh": 1,
-   "ga": 2,
-   "at": "2026-11-01T18:45:38.434469+00:00"
-  }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622662,
-  "kickoff": "2026-11-01T20:00:00+03:00",
-  "home": "Al Qadsia",
-  "away": "Al Arabi",
-  "p": [
-   0.49466208303426396,
-   0.2766499187790412,
-   0.22868799818669489
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4986666666666667,
-   0.5013333333333333
-  ],
-  "btts": [
-   0.5331322327418981,
-   0.4668677672581019
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.91,
-    "edge": -0.05519542140455591
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.5,
-    "edge": -0.03172528427335575
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.98,
-    "edge": -0.08982176721695434
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 0,
-   "ga": 3,
-   "at": "2026-11-01T18:45:38.434469+00:00"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -259,10 +109,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 56,
+   "min": 72,
    "gh": 0,
-   "ga": 0,
-   "at": "2026-11-01T18:45:38.434469+00:00"
+   "ga": 1,
+   "at": "2026-11-01T19:01:09.549872+00:00"
   }
  },
  {
@@ -311,11 +161,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T18:45:38.434469+00:00"
+   "at": "2026-11-01T19:01:09.549872+00:00"
   }
  },
  {
@@ -364,11 +214,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
-   "min": 41,
+   "st": "HT",
+   "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T18:45:38.434469+00:00"
+   "at": "2026-11-01T19:01:09.549872+00:00"
   }
  },
  {
