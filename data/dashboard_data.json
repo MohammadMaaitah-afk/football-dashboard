@@ -21,101 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570437,
-  "kickoff": "2026-11-01T20:30:00+03:00",
-  "home": "Elche",
-  "away": "Valencia",
-  "p": [
-   0.4035057350152031,
-   0.2932384020230605,
-   0.30325586296173646
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Aguado"
-   ],
-   "away": [
-    "S. Canos",
-    "J. Copete",
-    "H. Elliott",
-    "D. Lopez",
-    "D. Otorbi",
-    "K. van Oevelen"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "M. Dituro",
-     "Buba Sangaré",
-     "Víctor Chust",
-     "F. Redondo",
-     "R. Revivo",
-     "J. Morcillo",
-     "T. Lemar",
-     "Gonzalo Villar",
-     "L. Cepeda",
-     "Fer Niño",
-     "Germán Valera"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "S. Dimitrievski",
-     "Arnau Martínez",
-     "Pepelu",
-     "César Tárrega",
-     "José Gayà",
-     "Pablo Maffeo",
-     "Aaron Mayol",
-     "G. Rodríguez",
-     "Luis Rioja",
-     "Javi Guerra",
-     "A. Danjuma"
-    ]
-   }
-  },
-  "ou": [
-   0.48593350383631717,
-   0.5140664961636828
-  ],
-  "btts": [
-   0.5440500970525237,
-   0.4559499029474763
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.48,
-    "edge": 0.0006942228377035953
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.5,
-    "edge": 0.026334407080711664
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.22,
-    "edge": -0.023516121263208567
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-01T19:15:38.138371+00:00"
-  }
- },
- {
   "league": "الدوري المغربي",
   "type": "arab",
   "en": "Morocco Botola Pro",
@@ -162,10 +67,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 55,
+   "min": 71,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T19:15:38.138371+00:00"
+   "at": "2026-11-01T19:30:55.853706+00:00"
   }
  },
  {
@@ -215,10 +120,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 52,
+   "min": 68,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T19:15:38.138371+00:00"
+   "at": "2026-11-01T19:30:55.853706+00:00"
   }
  },
  {
@@ -444,7 +349,40 @@
     "A. Zakharyan"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Unai Simón",
+     "Hugo Rincón",
+     "Dani Vivian",
+     "Aymeric Laporte",
+     "Yuri",
+     "Beñat Gerenabarrena",
+     "Peio Canales",
+     "Álex Berenguer",
+     "I. Williams",
+     "Nico Williams",
+     "Maroan Sannadi"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Álex Remiro",
+     "J. Aramburu",
+     "Jon Martín",
+     "M. Sarr",
+     "Sergio Gómez",
+     "Barrenetxea",
+     "Carlos Soler",
+     "Jon Gorrotxategi",
+     "Gonçalo Guedes",
+     "Mikel Oyarzabal",
+     "L. Sučić"
+    ]
+   }
+  },
   "ou": [
    0.5282051282051282,
    0.4717948717948718
