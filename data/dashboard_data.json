@@ -21,201 +21,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557453,
-  "kickoff": "2026-11-01T19:30:00+03:00",
-  "home": "Liverpool",
-  "away": "Arsenal",
-  "p": [
-   0.3411994943726109,
-   0.2820319519958575,
-   0.37676855363153167
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "C. Bradley",
-    "H. Ekitike",
-    "J. Frimpong",
-    "G. Leoni",
-    "A. Nallo",
-    "D. Szoboszlai"
-   ],
-   "away": [
-    "M. Dowman",
-    "B. Saka",
-    "W. Saliba",
-    "R. Calafiori",
-    "C. Tzolis"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Alisson Becker",
-     "R. Araújo",
-     "J. Jacquet",
-     "V. van Dijk",
-     "M. Kerkez",
-     "A. Mac Allister",
-     "T. Nyoni",
-     "B. Barcola",
-     "F. Wirtz",
-     "C. Gakpo",
-     "A. Isak"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "David Raya",
-     "J. Timber",
-     "E. Konsa",
-     "Gabriel Magalhães",
-     "R. Calafiori",
-     "D. Rice",
-     "Bruno Guimarães",
-     "N. Madueke",
-     "M. Ødegaard",
-     "C. Tzolis",
-     "K. Havertz"
-    ]
-   }
-  },
-  "ou": [
-   0.5217391304347826,
-   0.4782608695652174
-  ],
-  "btts": [
-   0.5706361773869704,
-   0.42936382261302963
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.9,
-    "edge": -0.010521466319428519
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.48,
-    "edge": -0.01852880705441584
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.63,
-    "edge": -0.009098703949071751
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-01T18:15:39.597916+00:00"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575205,
-  "kickoff": "2026-11-01T19:30:00+03:00",
-  "home": "Eintracht Frankfurt",
-  "away": "Hamburger SV",
-  "p": [
-   0.6306628257738403,
-   0.19983966084191643,
-   0.16949751338424326
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Ngankam"
-   ],
-   "away": [
-    "N. Capaldo",
-    "B. Nadir",
-    "Y. Poulsen",
-    "N. Remberg",
-    "F. Vieira",
-    "M. Vuskovic",
-    "S. Bornauw"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "N. Atubolu",
-     "Elias Baum",
-     "R. Koch",
-     "L. Brassier",
-     "K. Kosugi",
-     "R. Onyedika",
-     "N. Aséko Nkili",
-     "R. Dōan",
-     "C. Uzun",
-     "F. Chaïbi",
-     "Y. Ebnoutalib"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Daniel Heuer Fernandes",
-     "S. Nandja",
-     "J. Torunarigha",
-     "W. Omari",
-     "L. Lemke",
-     "A. Sambi Lokonga",
-     "M. Muheim",
-     "D. Møller Wolfe",
-     "M. Adeline",
-     "A. Grønbæk",
-     "T. Moffi"
-    ]
-   }
-  },
-  "ou": [
-   0.6757990867579909,
-   0.3242009132420091
-  ],
-  "btts": [
-   0.6320136668919315,
-   0.3679863331080685
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.59,
-    "edge": 0.0027538929804060697
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.93,
-    "edge": -0.014790472049352021
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.73,
-    "edge": -0.028779248308286043
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 3,
-   "ga": 1,
-   "at": "2026-11-01T18:15:39.597916+00:00"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -306,10 +111,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 53,
+   "min": 71,
    "gh": 1,
    "ga": 2,
-   "at": "2026-11-01T18:15:39.597916+00:00"
+   "at": "2026-11-01T18:33:27.725617+00:00"
   }
  },
  {
@@ -359,10 +164,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 54,
+   "min": 72,
    "gh": 0,
-   "ga": 1,
-   "at": "2026-11-01T18:15:39.597916+00:00"
+   "ga": 3,
+   "at": "2026-11-01T18:33:27.725617+00:00"
   }
  },
  {
@@ -453,11 +258,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
-   "min": 43,
+   "st": "HT",
+   "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T18:15:39.597916+00:00"
+   "at": "2026-11-01T18:33:27.725617+00:00"
   }
  },
  {
@@ -507,10 +312,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 15,
+   "min": 33,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T18:15:39.597916+00:00"
+   "at": "2026-11-01T18:33:27.725617+00:00"
   }
  },
  {
@@ -560,10 +365,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 11,
+   "min": 29,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-01T18:15:39.597916+00:00"
+   "at": "2026-11-01T18:33:27.725617+00:00"
   }
  },
  {
