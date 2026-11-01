@@ -42,289 +42,6 @@
   "move": null
  },
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550181,
-  "kickoff": "2026-11-01T17:00:00+03:00",
-  "home": "Frosinone",
-  "away": "Torino",
-  "p": [
-   0.48244974870114243,
-   0.24302954922102438,
-   0.2745207020778332
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Grillitsch"
-   ],
-   "away": [
-    "N. Fortini",
-    "F. Israel",
-    "R. Mandragora",
-    "R. Rodriguez",
-    "A. Cacciamani"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "L. Palmisani",
-     "E. Tchato",
-     "G. Calvani",
-     "I. Monterisi",
-     "G. Bracaglia",
-     "G. Calò",
-     "P. Masini",
-     "F. Ghedjemis",
-     "R. Schmid",
-     "G. Kvernadze",
-     "A. Raimondo"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "Lucas Perri",
-     "Saúl Coco",
-     "A. Ismajli",
-     "P. Comuzzo",
-     "R. Belghali",
-     "N. Vlašić",
-     "Daniel Bragança",
-     "G. Gineitis",
-     "Z. Aboukhlal",
-     "G. Simeone",
-     "C. Adams"
-    ]
-   }
-  },
-  "ou": [
-   0.6853932584269663,
-   0.3146067415730337
-  ],
-  "btts": [
-   0.6872540615418814,
-   0.31274593845811866
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.05,
-    "edge": -0.010978015162658061
-   },
-   {
-    "book": "BetVictor",
-    "odd": 4.1,
-    "edge": -0.003578848193800166
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.58,
-    "edge": -0.017215886561357197
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-01T15:45:38.293404+00:00"
-  }
- },
- {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550183,
-  "kickoff": "2026-11-01T17:00:00+03:00",
-  "home": "Lazio",
-  "away": "Cagliari",
-  "p": [
-   0.6563480101017158,
-   0.20660205028897696,
-   0.13704993960930717
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Furlanetto",
-    "A. Gudmundsson",
-    "A. Marusic",
-    "N. Rovella"
-   ],
-   "away": [
-    "M. Felici",
-    "R. Idrissi"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "R. Belahyane",
-     "C. Mandas",
-     "M. Zaccagni",
-     "K. Taylor",
-     "Nuno Tavares",
-     "R. Floriani Mussolini",
-     "D. Frattesi",
-     "G. Isaksen",
-     "T. Noslin",
-     "O. Provstgaard",
-     "J. Šutalo"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Adopo",
-     "A. Deiola",
-     "A. Fadera",
-     "J. Fazzini",
-     "D. Maldini",
-     "M&apos;Bala Nzola",
-     "A. Obert",
-     "Zé Pedro",
-     "J. Rodríguez",
-     "A. Romano",
-     "E. Caprile"
-    ]
-   }
-  },
-  "ou": [
-   0.5307692307692307,
-   0.46923076923076923
-  ],
-  "btts": [
-   0.4812522966797119,
-   0.5187477033202881
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.52,
-    "edge": -0.0023510246453919414
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.68,
-    "edge": -0.033102404647587846
-   },
-   {
-    "book": "1xBet",
-    "odd": 7.7,
-    "edge": 0.0552845349916653
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-01T15:45:38.293404+00:00"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552808,
-  "kickoff": "2026-11-01T17:00:00+03:00",
-  "home": "Strasbourg",
-  "away": "Auxerre",
-  "p": [
-   0.5182266259518772,
-   0.24356651419738226,
-   0.2382068598507406
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Panichelli",
-    "S. Amo-Ameyaw",
-    "F. Balde"
-   ],
-   "away": [
-    "A. Diousse",
-    "S. Fofana",
-    "R. Labeau Lascary",
-    "B. Okoh"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "F. Jörgensen",
-     "I. Doukouré",
-     "L. Høgsberg",
-     "Abdoul Karim Coulibaly",
-     "Oso",
-     "Dário Essugo",
-     "S. El Mourabet",
-     "G. Reyna",
-     "Gessime Yassine",
-     "C. Harder",
-     "M. Godo"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "P. Nardi",
-     "L. Sy",
-     "C. Makosso",
-     "A. Tuanzebe",
-     "C. Akpa",
-     "F. Oppegård",
-     "K. Danois",
-     "R. Faivre",
-     "N. Ahamada",
-     "D. Namaso",
-     "C. Archer"
-    ]
-   }
-  },
-  "ou": [
-   0.6059113300492611,
-   0.39408866995073893
-  ],
-  "btts": [
-   0.6062606743674702,
-   0.3937393256325297
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 1.88,
-    "edge": -0.025733943210470955
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": 0.013236699061110135
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": -0.009059463020918979
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 5,
-   "ga": 1,
-   "at": "2026-11-01T15:45:38.293404+00:00"
-  }
- },
- {
   "league": "الدوري الألماني",
   "type": "top",
   "en": "Bundesliga",
@@ -417,10 +134,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 57,
+   "min": 73,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-01T15:45:38.293404+00:00"
+   "at": "2026-11-01T16:01:07.981598+00:00"
   }
  },
  {
@@ -470,10 +187,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 57,
-   "gh": 1,
+   "min": 72,
+   "gh": 2,
    "ga": 0,
-   "at": "2026-11-01T15:45:38.293404+00:00"
+   "at": "2026-11-01T16:01:07.981598+00:00"
   }
  },
  {
@@ -522,11 +239,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-01T15:45:38.293404+00:00"
+   "at": "2026-11-01T16:01:07.981598+00:00"
   }
  },
  {
@@ -618,10 +335,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 28,
+   "min": 44,
    "gh": 0,
-   "ga": 2,
-   "at": "2026-11-01T15:45:38.293404+00:00"
+   "ga": 3,
+   "at": "2026-11-01T16:01:07.981598+00:00"
   }
  },
  {
@@ -956,7 +673,40 @@
     "C. Tzolis"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Alisson Becker",
+     "R. Araújo",
+     "J. Jacquet",
+     "V. van Dijk",
+     "M. Kerkez",
+     "A. Mac Allister",
+     "T. Nyoni",
+     "B. Barcola",
+     "F. Wirtz",
+     "C. Gakpo",
+     "A. Isak"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "David Raya",
+     "J. Timber",
+     "E. Konsa",
+     "Gabriel Magalhães",
+     "R. Calafiori",
+     "D. Rice",
+     "Bruno Guimarães",
+     "N. Madueke",
+     "M. Ødegaard",
+     "C. Tzolis",
+     "K. Havertz"
+    ]
+   }
+  },
   "ou": [
    0.5204081632653061,
    0.47959183673469385
@@ -1020,7 +770,40 @@
     "S. Bornauw"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "N. Atubolu",
+     "Elias Baum",
+     "R. Koch",
+     "L. Brassier",
+     "K. Kosugi",
+     "R. Onyedika",
+     "N. Aséko Nkili",
+     "R. Dōan",
+     "C. Uzun",
+     "F. Chaïbi",
+     "Y. Ebnoutalib"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Daniel Heuer Fernandes",
+     "S. Nandja",
+     "J. Torunarigha",
+     "W. Omari",
+     "L. Lemke",
+     "A. Sambi Lokonga",
+     "M. Muheim",
+     "D. Møller Wolfe",
+     "M. Adeline",
+     "A. Grønbæk",
+     "T. Moffi"
+    ]
+   }
+  },
   "ou": [
    0.6765375854214124,
    0.32346241457858765
