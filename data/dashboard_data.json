@@ -111,10 +111,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 29,
-   "gh": 0,
+   "min": 44,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-11-01T12:01:08.955954+00:00"
+   "at": "2026-11-01T12:15:36.604216+00:00"
   }
  },
  {
@@ -125,27 +125,6 @@
   "kickoff": "2026-11-01T15:00:00+03:00",
   "home": "Foutoua",
   "away": "Jaish",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642060,
-  "kickoff": "2026-11-01T15:15:00+03:00",
-  "home": "Al Mabarrah",
-  "away": "Reyady Abaseya",
   "p": null,
   "source": null,
   "out": {
@@ -1111,8 +1090,8 @@
    0.5013333333333333
   ],
   "btts": [
-   0.5348721832408212,
-   0.4651278167591788
+   0.5331322327418981,
+   0.4668677672581019
   ],
   "best": [
    {
