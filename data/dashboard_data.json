@@ -91,10 +91,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 2,
-   "ga": 2,
-   "at": "2026-11-02T19:01:12.944774+00:00"
+   "ga": 3,
+   "at": "2026-11-02T19:15:41.498282+00:00"
   }
  },
  {
@@ -142,13 +142,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    0.053139154470122074,
-    -0.03146561481971977,
-    -0.02167353965040221
-   ],
-   "since": "01/11 13:45"
+  "live": {
+   "st": "1H",
+   "min": 15,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-02T19:15:41.498282+00:00"
   }
  },
  {
@@ -182,7 +181,40 @@
     "L. Valenti"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Carnesecchi",
+     "D. Zappacosta",
+     "G. Scalvini",
+     "R. ObriÄ",
+     "L. Bernasconi",
+     "Éderson",
+     "Mario Pasalic",
+     "N. Zalewski",
+     "C. De Ketelaere",
+     "J. Rowe",
+     "N. Krstović"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "G. Daffara",
+     "E. Del Prato",
+     "M. Troilo",
+     "D. Drobnic",
+     "S. Britschgi",
+     "G. Fabbian",
+     "V. Sierro",
+     "M. Keita",
+     "E. Valeri",
+     "S. Lontani",
+     "E. Touré"
+    ]
+   }
+  },
   "ou": [
    0.6557377049180328,
    0.34426229508196726
@@ -243,7 +275,40 @@
     "G. Versini"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Y. Mvogo",
+     "N. Adjei",
+     "M. Talbi",
+     "S. Touré",
+     "D. Sylla",
+     "N. Cadiou",
+     "A. Avom",
+     "K. Kouassi",
+     "J. Makengo",
+     "S. Faye",
+     "I. Baldé"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "E. Selvik",
+     "K. Lala",
+     "L. Tousart",
+     "G. Lloris",
+     "B. Locko",
+     "J. Chotard",
+     "H. Magnetti",
+     "Mama Baldé",
+     "K. Doumbia",
+     "P. Mboup",
+     "L. Ajorque"
+    ]
+   }
+  },
   "ou": [
    0.4318181818181818,
    0.5681818181818182
