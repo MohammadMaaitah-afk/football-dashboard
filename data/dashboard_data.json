@@ -1,103 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550185,
-  "kickoff": "2026-11-02T20:30:00+03:00",
-  "home": "Sassuolo",
-  "away": "Fiorentina",
-  "p": [
-   0.3344162932428482,
-   0.2603988203384312,
-   0.4051848864187207
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Boloca",
-    "I. Kone",
-    "F. Leysen",
-    "Y. Paz",
-    "K. Thorstvedt"
-   ],
-   "away": [
-    "A. Atta",
-    "F. Parisi",
-    "M. Pongracic",
-    "L. Ranieri",
-    "R. Sottil"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "S. Turati",
-     "S. Walukiewicz",
-     "Fali Candé",
-     "J. Idzes",
-     "J. Doig",
-     "I. Sulemana",
-     "N. Matić",
-     "Vasilije Adžić",
-     "D. Berardi",
-     "S. Esposito",
-     "A. Laurienté"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "David de Gea",
-     "Álex Jiménez",
-     "R. Drăgușin",
-     "Viery",
-     "João Mário",
-     "C. Ndour",
-     "N. Fagioli",
-     "M. Brescianini",
-     "Franco Mastantuono",
-     "Mateo Pellegrino",
-     "A. Njie"
-    ]
-   }
-  },
-  "ou": [
-   0.6170731707317073,
-   0.38292682926829275
-  ],
-  "btts": [
-   0.6400563879749425,
-   0.3599436120250575
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.94,
-    "edge": -0.016816097866026225
-   },
-   {
-    "book": "BetVictor",
-    "odd": 3.8,
-    "edge": -0.010484482713961518
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.43,
-    "edge": -0.015400726002508636
-   }
-  ],
-  "nbooks": 8,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 3,
-   "at": "2026-11-02T19:15:41.498282+00:00"
-  }
- },
- {
   "league": "الدوري الجزائري",
   "type": "arab",
   "en": "Algeria Ligue 1",
@@ -144,10 +46,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 15,
+   "min": 30,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-02T19:15:41.498282+00:00"
+   "at": "2026-11-02T19:31:00.058423+00:00"
   }
  },
  {
@@ -370,7 +272,40 @@
     "J. Grealish"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Horníček",
+     "A. Dedić",
+     "F. Schär",
+     "D. Burn",
+     "L. Hall",
+     "Nico González",
+     "Joelinton",
+     "A. Elanga",
+     "J. Willock",
+     "H. Barnes",
+     "W. Osula"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Pickford",
+     "J. O&apos;Brien",
+     "J. Tarkowski",
+     "J. Branthwaite",
+     "V. Mykolenko",
+     "H. Armstrong",
+     "J. Garner",
+     "M. Röhl",
+     "K. Dewsbury-Hall",
+     "Tyrique George",
+     "T. Barry"
+    ]
+   }
+  },
   "ou": [
    0.5717884130982368,
    0.4282115869017632
@@ -433,7 +368,40 @@
     "A. Oroz"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Leo Román",
+     "Adrià Alti",
+     "Miguel Loureiro",
+     "J. Giménez",
+     "G. Quagliata",
+     "David Mella",
+     "L. Amatucci",
+     "Mario Soriano",
+     "Peke",
+     "Luismi Cruz",
+     "B. Nsongo"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Sergio Herrera",
+     "V. Rosier",
+     "F. Boyomo",
+     "Catena",
+     "Abel Bretones",
+     "Moncayola",
+     "Iker Muñoz",
+     "Moi Gómez",
+     "Raul Moro",
+     "A. Budimir",
+     "Jonathan Dubasin"
+    ]
+   }
+  },
   "ou": [
    0.4282115869017632,
    0.5717884130982368
