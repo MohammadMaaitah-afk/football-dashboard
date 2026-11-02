@@ -1,58 +1,5 @@
 [
  {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622661,
-  "kickoff": "2026-11-02T18:45:00+03:00",
-  "home": "Al Nasar",
-  "away": "Al Shabab",
-  "p": [
-   0.5483931491061139,
-   0.24471307191294325,
-   0.20689377898094294
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.5555555555555556,
-   0.4444444444444444
-  ],
-  "btts": [
-   0.5523812101325561,
-   0.4476187898674439
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.75,
-    "edge": -0.04031198906430067
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.8,
-    "edge": -0.07009032673081572
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.5,
-    "edge": -0.06897799458575682
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-02T17:31:09.529366+00:00"
-  }
- },
- {
   "league": "الدوري الجزائري",
   "type": "arab",
   "en": "Algeria Ligue 1",
@@ -98,11 +45,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-02T17:31:09.529366+00:00"
+   "at": "2026-11-02T17:45:47.749406+00:00"
   }
  },
  {
@@ -197,10 +144,10 @@
   "nbooks": 8,
   "live": {
    "st": "1H",
-   "min": 1,
+   "min": 15,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-02T17:31:09.529366+00:00"
+   "at": "2026-11-02T17:45:47.749406+00:00"
   }
  },
  {
@@ -618,16 +565,17 @@
    "home": [
     "Eguinaldo",
     "V. Korniyenko",
+    "Marlon",
     "P. Obah",
     "Pedrinho",
     "T. Puzankov",
     "M. Shved",
-    "D. Tvardovskyi",
-    "Marlon"
+    "D. Tvardovskyi"
    ],
    "away": [
-    "Z. Debast",
+    "S. Alexandropoulos",
     "N. Santos",
+    "Z. Debast",
     "R. Zalazar"
    ]
   },
