@@ -1902,6 +1902,60 @@
   "move": null
  },
  {
+  "league": "الدوري السعودي",
+  "type": "arab",
+  "en": "Saudi-Arabia Pro League",
+  "id": 1603087,
+  "kickoff": "2026-11-05T16:25:00+03:00",
+  "home": "Al Kholood",
+  "away": "Al Khaleej Saihat",
+  "p": [
+   0.4307711755271661,
+   0.2729887100724483,
+   0.2962401144003855
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.4973544973544974,
+   0.5026455026455027
+  ],
+  "btts": [
+   0.5477950268501404,
+   0.4522049731498597
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 2.22,
+    "edge": -0.04368799032969117
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.47,
+    "edge": -0.05272917604860439
+   },
+   {
+    "book": "Betano",
+    "odd": 3.25,
+    "edge": -0.037219628198747134
+   }
+  ],
+  "nbooks": 7,
+  "move": {
+   "diff": [
+    -0.029184487358403066,
+    0.004132104832746009,
+    0.025052382525656836
+   ],
+   "since": "02/11 00:01"
+  }
+ },
+ {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -1923,53 +1977,11 @@
   "move": null
  },
  {
-  "league": "الدوري العُماني",
-  "type": "arab",
-  "en": "Oman Professional League",
-  "id": 1642129,
-  "kickoff": "2026-11-05T18:20:00+03:00",
-  "home": "Dhofar",
-  "away": "Saham",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628031,
-  "kickoff": "2026-11-05T18:30:00+03:00",
-  "home": "Mosul",
-  "away": "Duhok",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
   "id": 1603080,
-  "kickoff": "2026-11-05T20:00:00+03:00",
+  "kickoff": "2026-11-05T18:10:00+03:00",
   "home": "Abha",
   "away": "Al Shabab",
   "p": [
@@ -2017,6 +2029,48 @@
    ],
    "since": "02/11 00:01"
   }
+ },
+ {
+  "league": "الدوري العُماني",
+  "type": "arab",
+  "en": "Oman Professional League",
+  "id": 1642129,
+  "kickoff": "2026-11-05T18:20:00+03:00",
+  "home": "Dhofar",
+  "away": "Saham",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628031,
+  "kickoff": "2026-11-05T18:30:00+03:00",
+  "home": "Mosul",
+  "away": "Duhok",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري السعودي",
@@ -2214,62 +2268,8 @@
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
-  "id": 1603087,
-  "kickoff": "2026-11-05T20:00:00+03:00",
-  "home": "Al Kholood",
-  "away": "Al Khaleej Saihat",
-  "p": [
-   0.4307711755271661,
-   0.2729887100724483,
-   0.2962401144003855
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4973544973544974,
-   0.5026455026455027
-  ],
-  "btts": [
-   0.5477950268501404,
-   0.4522049731498597
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 2.22,
-    "edge": -0.04368799032969117
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.47,
-    "edge": -0.05272917604860439
-   },
-   {
-    "book": "Betano",
-    "odd": 3.25,
-    "edge": -0.037219628198747134
-   }
-  ],
-  "nbooks": 7,
-  "move": {
-   "diff": [
-    -0.029184487358403066,
-    0.004132104832746009,
-    0.025052382525656836
-   ],
-   "since": "02/11 00:01"
-  }
- },
- {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
   "id": 1603088,
-  "kickoff": "2026-11-05T20:00:00+03:00",
+  "kickoff": "2026-11-05T20:30:00+03:00",
   "home": "Al-Qadisiyah FC",
   "away": "Al-Fayha",
   "p": [
