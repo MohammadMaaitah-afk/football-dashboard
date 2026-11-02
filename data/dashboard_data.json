@@ -1,197 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550178,
-  "kickoff": "2026-11-02T22:45:00+03:00",
-  "home": "Atalanta",
-  "away": "Parma",
-  "p": [
-   0.6540065301959881,
-   0.19475445969618965,
-   0.15123901010782226
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "R. Bellanova",
-    "G. Gaetano",
-    "I. Hien",
-    "F. Kessie",
-    "S. Kolasinac",
-    "O. Kossounou",
-    "T. Kristensen",
-    "G. Raspadori",
-    "G. Scamacca"
-   ],
-   "away": [
-    "A. Bernabe",
-    "L. Valenti"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "M. Carnesecchi",
-     "D. Zappacosta",
-     "G. Scalvini",
-     "R. ObriÄ",
-     "L. Bernasconi",
-     "Éderson",
-     "Mario Pasalic",
-     "N. Zalewski",
-     "C. De Ketelaere",
-     "J. Rowe",
-     "N. Krstović"
-    ]
-   },
-   "away": {
-    "formation": "3-5-2",
-    "xi": [
-     "G. Daffara",
-     "E. Del Prato",
-     "M. Troilo",
-     "D. Drobnic",
-     "S. Britschgi",
-     "G. Fabbian",
-     "V. Sierro",
-     "M. Keita",
-     "E. Valeri",
-     "S. Lontani",
-     "E. Touré"
-    ]
-   }
-  },
-  "ou": [
-   0.6557377049180328,
-   0.34426229508196726
-  ],
-  "btts": [
-   0.5846148392831114,
-   0.4153851607168887
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.52,
-    "edge": -0.005910074102098095
-   },
-   {
-    "book": "1xBet",
-    "odd": 5.08,
-    "edge": -0.010647344743356602
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.7,
-    "edge": 0.013301367722409196
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 0,
-   "ga": 3,
-   "at": "2026-11-02T21:31:01.608746+00:00"
-  }
- },
- {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552803,
-  "kickoff": "2026-11-02T22:45:00+03:00",
-  "home": "Lorient",
-  "away": "Stade Brestois 29",
-  "p": [
-   0.38123984923237214,
-   0.30594796678209174,
-   0.31281218398553606
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "B. Fadiga",
-    "P. Katseris"
-   ],
-   "away": [
-    "B. Chardonnet",
-    "R. Le Guen",
-    "G. Versini"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Y. Mvogo",
-     "N. Adjei",
-     "M. Talbi",
-     "S. Touré",
-     "D. Sylla",
-     "N. Cadiou",
-     "A. Avom",
-     "K. Kouassi",
-     "J. Makengo",
-     "S. Faye",
-     "I. Baldé"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "E. Selvik",
-     "K. Lala",
-     "L. Tousart",
-     "G. Lloris",
-     "B. Locko",
-     "J. Chotard",
-     "H. Magnetti",
-     "Mama Baldé",
-     "K. Doumbia",
-     "P. Mboup",
-     "L. Ajorque"
-    ]
-   }
-  },
-  "ou": [
-   0.4318181818181818,
-   0.5681818181818182
-  ],
-  "btts": [
-   0.5120216436547641,
-   0.4879783563452359
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.56,
-    "edge": -0.024025985965127283
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.31,
-    "edge": 0.012687770048723568
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.21,
-    "edge": 0.0041271105935707375
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-02T21:31:01.608746+00:00"
-  }
- },
- {
   "league": "الدوري الإنجليزي",
   "type": "top",
   "en": "Premier League",
@@ -279,10 +87,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 73,
+   "min": 88,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-02T21:31:01.608746+00:00"
+   "at": "2026-11-02T21:45:40.548627+00:00"
   }
  },
  {
@@ -374,10 +182,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 70,
+   "min": 85,
    "gh": 1,
    "ga": 1,
-   "at": "2026-11-02T21:31:01.608746+00:00"
+   "at": "2026-11-02T21:45:40.548627+00:00"
   }
  },
  {
