@@ -45,11 +45,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 56,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-02T16:45:48.835520+00:00"
+   "at": "2026-11-02T17:01:15.991724+00:00"
   }
  },
  {
@@ -97,13 +97,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    0.030738549534617687,
-    -0.009148558315000221,
-    -0.02158999121961752
-   ],
-   "since": "01/11 13:45"
+  "live": {
+   "st": "1H",
+   "min": 16,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-02T17:01:15.991724+00:00"
   }
  },
  {
@@ -136,7 +135,40 @@
     "R. Sottil"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "S. Turati",
+     "S. Walukiewicz",
+     "Fali Candé",
+     "J. Idzes",
+     "J. Doig",
+     "I. Sulemana",
+     "N. Matić",
+     "Vasilije Adžić",
+     "D. Berardi",
+     "S. Esposito",
+     "A. Laurienté"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "David de Gea",
+     "Álex Jiménez",
+     "R. Drăgușin",
+     "Viery",
+     "João Mário",
+     "C. Ndour",
+     "N. Fagioli",
+     "M. Brescianini",
+     "Franco Mastantuono",
+     "Mateo Pellegrino",
+     "A. Njie"
+    ]
+   }
+  },
   "ou": [
    0.6170731707317073,
    0.38292682926829275
