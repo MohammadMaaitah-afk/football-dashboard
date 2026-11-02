@@ -1,194 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557455,
-  "kickoff": "2026-11-02T23:00:00+03:00",
-  "home": "Newcastle",
-  "away": "Everton",
-  "p": [
-   0.437377708562488,
-   0.26795392585009564,
-   0.2946683655874163
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "E. Jaouen",
-    "V. Livramento",
-    "M. Fernandez-Pardo",
-    "L. Miley",
-    "W. Osula"
-   ],
-   "away": [
-    "J. Grealish"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "L. Horníček",
-     "A. Dedić",
-     "F. Schär",
-     "D. Burn",
-     "L. Hall",
-     "Nico González",
-     "Joelinton",
-     "A. Elanga",
-     "J. Willock",
-     "H. Barnes",
-     "W. Osula"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Pickford",
-     "J. O&apos;Brien",
-     "J. Tarkowski",
-     "J. Branthwaite",
-     "V. Mykolenko",
-     "H. Armstrong",
-     "J. Garner",
-     "M. Röhl",
-     "K. Dewsbury-Hall",
-     "Tyrique George",
-     "T. Barry"
-    ]
-   }
-  },
-  "ou": [
-   0.5717884130982368,
-   0.4282115869017632
-  ],
-  "btts": [
-   0.5977672782256488,
-   0.4022327217743512
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.23,
-    "edge": -0.024647709905651793
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.7,
-    "edge": -0.008570474354646085
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.43,
-    "edge": 0.010712493964837977
-   }
-  ],
-  "nbooks": 8,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-02T21:45:40.548627+00:00"
-  }
- },
- {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570436,
-  "kickoff": "2026-11-02T23:00:00+03:00",
-  "home": "Deportivo La Coruna",
-  "away": "Osasuna",
-  "p": [
-   0.45390582399605983,
-   0.3002761604897011,
-   0.24581801551423896
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "P. Aubameyang",
-    "M. Casado",
-    "Z. Eddahchouri",
-    "B. Ede"
-   ],
-   "away": [
-    "R. Del Castillo",
-    "J. Herrando",
-    "A. Oroz"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "Leo Román",
-     "Adrià Alti",
-     "Miguel Loureiro",
-     "J. Giménez",
-     "G. Quagliata",
-     "David Mella",
-     "L. Amatucci",
-     "Mario Soriano",
-     "Peke",
-     "Luismi Cruz",
-     "B. Nsongo"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "Sergio Herrera",
-     "V. Rosier",
-     "F. Boyomo",
-     "Catena",
-     "Abel Bretones",
-     "Moncayola",
-     "Iker Muñoz",
-     "Moi Gómez",
-     "Raul Moro",
-     "A. Budimir",
-     "Jonathan Dubasin"
-    ]
-   }
-  },
-  "ou": [
-   0.4114713216957606,
-   0.5885286783042394
-  ],
-  "btts": [
-   0.47912615900730726,
-   0.5208738409926926
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.2,
-    "edge": -0.0014071872086682813
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.29,
-    "edge": -0.012091431988883294
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.97,
-    "edge": -0.02410247840847124
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-02T21:45:40.548627+00:00"
-  }
- },
- {
   "league": "الدوري التونسي",
   "type": "arab",
   "en": "Tunisia Ligue 1",
@@ -388,9 +199,9 @@
   "home": "Atletico Madrid",
   "away": "Bayern München",
   "p": [
-   0.35715655187670525,
-   0.24470171816237743,
-   0.3981417299609174
+   0.3499914870936938,
+   0.24606000488566795,
+   0.40394850802063825
   ],
   "source": "Pinnacle",
   "out": {
@@ -408,36 +219,36 @@
   },
   "lineups": null,
   "ou": [
-   0.671264367816092,
-   0.328735632183908
+   0.662004662004662,
+   0.33799533799533804
   ],
   "btts": [
-   0.6755525529893317,
-   0.3244474470106682
+   0.6719327593181662,
+   0.3280672406818338
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 2.78,
-    "edge": -0.007104785782759415
+    "book": "Betfair",
+    "odd": 2.8,
+    "edge": -0.020023836137657347
    },
    {
-    "book": "1xBet",
-    "odd": 4.01,
-    "edge": -0.018746110168866514
+    "book": "Betano",
+    "odd": 4.05,
+    "edge": -0.003456980213044858
    },
    {
     "book": "1xBet",
     "odd": 2.46,
-    "edge": -0.020571344296143157
+    "edge": -0.00628667026922991
    }
   ],
-  "nbooks": 8,
+  "nbooks": 9,
   "move": {
    "diff": [
-    0.06474934703971452,
-    0.019506595953794503,
-    -0.08425594299350891
+    0.05758428225670309,
+    0.020864882677085028,
+    -0.07844916493378806
    ],
    "since": "31/10 00:01"
   }
@@ -451,9 +262,9 @@
   "home": "Barcelona",
   "away": "Aston Villa",
   "p": [
-   0.7673749699347043,
-   0.1317608121453819,
-   0.1008642179199138
+   0.7665483807873928,
+   0.13216351392886083,
+   0.10128810528374639
   ],
   "source": "Pinnacle",
   "out": {
@@ -479,32 +290,32 @@
    0.21670343950746
   ],
   "btts": [
-   0.6337085799129625,
-   0.36629142008703747
+   0.6330429312640858,
+   0.3669570687359141
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.28,
-    "edge": -0.017760038483578433
+    "edge": -0.01881807259213708
    },
    {
     "book": "Bet365",
     "odd": 7.5,
-    "edge": -0.01179390890963572
+    "edge": -0.008773645533543761
    },
    {
     "book": "1xBet",
     "odd": 11.4,
-    "edge": 0.14985208428701746
+    "edge": 0.15468440023470897
    }
   ],
-  "nbooks": 9,
+  "nbooks": 10,
   "move": {
    "diff": [
-    -0.0030127695254974496,
-    0.0010605473817890398,
-    0.0019522221437083542
+    -0.0038393586728089346,
+    0.0014632491652679658,
+    0.002376109507540941
    ],
    "since": "31/10 00:01"
   }
