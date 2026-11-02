@@ -1,58 +1,5 @@
 [
  {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611437,
-  "kickoff": "2026-11-02T22:00:00+03:00",
-  "home": "CR Belouizdad",
-  "away": "JS Saoura",
-  "p": [
-   0.7155049141821029,
-   0.20028022170481943,
-   0.08421486411307771
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4360313315926892,
-   0.5639686684073107
-  ],
-  "btts": [
-   0.34454469807535687,
-   0.6554553019246432
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.33,
-    "edge": -0.048378464137803
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.68,
-    "edge": -0.06268856242144516
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 11.13,
-    "edge": -0.06268856242144494
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-02T20:45:40.840480+00:00"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -144,11 +91,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 58,
    "gh": 0,
-   "ga": 1,
-   "at": "2026-11-02T20:45:40.840480+00:00"
+   "ga": 2,
+   "at": "2026-11-02T21:01:13.124171+00:00"
   }
  },
  {
@@ -237,11 +184,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 60,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-02T20:45:40.840480+00:00"
+   "at": "2026-11-02T21:01:13.124171+00:00"
   }
  },
  {
@@ -331,11 +278,11 @@
   ],
   "nbooks": 8,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-02T20:45:40.840480+00:00"
+   "at": "2026-11-02T21:01:13.124171+00:00"
   }
  },
  {
@@ -426,11 +373,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "1H",
-   "min": 43,
+   "st": "HT",
+   "min": 45,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-02T20:45:40.840480+00:00"
+   "at": "2026-11-02T21:01:13.124171+00:00"
   }
  },
  {
@@ -4148,5 +4095,578 @@
    ],
    "since": "02/11 00:01"
   }
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642062,
+  "kickoff": "2026-11-06T14:15:00+03:00",
+  "home": "Reyady Abaseya",
+  "away": "Al Hikma",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642063,
+  "kickoff": "2026-11-06T14:15:00+03:00",
+  "home": "Safa",
+  "away": "Tripoli SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628038,
+  "kickoff": "2026-11-06T16:00:00+03:00",
+  "home": "Newroz",
+  "away": "Karbala",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645692,
+  "kickoff": "2026-11-06T16:00:00+03:00",
+  "home": "Al Nawaeir",
+  "away": "Al Taliya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645693,
+  "kickoff": "2026-11-06T16:00:00+03:00",
+  "home": "Al Wahda",
+  "away": "Al Ittihad",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645694,
+  "kickoff": "2026-11-06T16:00:00+03:00",
+  "home": "Horriya",
+  "away": "Shorta",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645695,
+  "kickoff": "2026-11-06T16:00:00+03:00",
+  "home": "Qamishli",
+  "away": "Hottin",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645696,
+  "kickoff": "2026-11-06T16:00:00+03:00",
+  "home": "Tishreen",
+  "away": "Damascus Al-Ahli",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628034,
+  "kickoff": "2026-11-06T16:45:00+03:00",
+  "home": "Al Talaba",
+  "away": "Ghaz Al Shamal",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643376,
+  "kickoff": "2026-11-06T17:00:00+03:00",
+  "home": "Al Jazeera",
+  "away": "Al Ramtha",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1634793,
+  "kickoff": "2026-11-06T17:25:00+03:00",
+  "home": "Al Fahaheel",
+  "away": "Al Sulaibikhat",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628030,
+  "kickoff": "2026-11-06T18:30:00+03:00",
+  "home": "Al-Karma",
+  "away": "Naft Maysan",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الأردني",
+  "type": "arab",
+  "en": "Jordan League",
+  "id": 1643377,
+  "kickoff": "2026-11-06T19:30:00+03:00",
+  "home": "Al Buqa'a",
+  "away": "Al Wihdat",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الكويتي",
+  "type": "arab",
+  "en": "Kuwait Premier League",
+  "id": 1622666,
+  "kickoff": "2026-11-06T19:40:00+03:00",
+  "home": "Al Shabab",
+  "away": "Al Tadhamon",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1646868,
+  "kickoff": "2026-11-06T21:00:00+03:00",
+  "home": "Hassania Agadir",
+  "away": "Renaissance Berkane",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الألماني",
+  "type": "top",
+  "en": "Bundesliga",
+  "id": 1575218,
+  "kickoff": "2026-11-06T22:30:00+03:00",
+  "home": "Hamburger SV",
+  "away": "Borussia Mönchengladbach",
+  "p": [
+   0.39561422267151386,
+   0.2576838585509049,
+   0.3467019187775813
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.595959595959596,
+   0.4040404040404041
+  ],
+  "btts": [
+   0.6358894035133881,
+   0.3641105964866118
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.53,
+    "edge": 0.0009039833589299384
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.92,
+    "edge": 0.010120725519547236
+   },
+   {
+    "book": "Bet365",
+    "odd": 2.8,
+    "edge": -0.029234627422772497
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550196,
+  "kickoff": "2026-11-06T22:45:00+03:00",
+  "home": "Venezia",
+  "away": "Udinese",
+  "p": [
+   0.4451116042292129,
+   0.26084497237088283,
+   0.2940434233999043
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "M. Šverko"
+   ],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5623409669211196,
+   0.4376590330788804
+  ],
+  "btts": [
+   0.5896539901358047,
+   0.41034600986419534
+  ],
+  "best": [
+   {
+    "book": "Dafabet",
+    "odd": 2.23,
+    "edge": -0.007401122568855167
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.78,
+    "edge": -0.014006004438062991
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.32,
+    "edge": -0.02377583431231778
+   }
+  ],
+  "nbooks": 9,
+  "move": null
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552817,
+  "kickoff": "2026-11-06T22:45:00+03:00",
+  "home": "Toulouse",
+  "away": "Strasbourg",
+  "p": [
+   0.4595902105862265,
+   0.2551935116676152,
+   0.2852162777461582
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5960099750623441,
+   0.40399002493765584
+  ],
+  "btts": [
+   0.6174226418958212,
+   0.38257735810417887
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.11,
+    "edge": -0.030264655663062134
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.98,
+    "edge": 0.01567017643710855
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.51,
+    "edge": 0.0011091348890153174
+   }
+  ],
+  "nbooks": 9,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557460,
+  "kickoff": "2026-11-06T23:00:00+03:00",
+  "home": "Everton",
+  "away": "Coventry",
+  "p": [
+   0.5623999014414193,
+   0.23309104348897375,
+   0.20450905506960698
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5572519083969466,
+   0.4427480916030535
+  ],
+  "btts": [
+   0.5494926445640368,
+   0.45050735543596326
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.75,
+    "edge": -0.015800172477516305
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.16,
+    "edge": -0.030341259085869154
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.93,
+    "edge": 0.00822964149316241
+   }
+  ],
+  "nbooks": 9,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570450,
+  "kickoff": "2026-11-06T23:00:00+03:00",
+  "home": "Sevilla",
+  "away": "Alaves",
+  "p": [
+   0.4985100579385043,
+   0.2755297756127345,
+   0.22596016644876124
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.43511450381679384,
+   0.564885496183206
+  ],
+  "btts": [
+   0.4852482089760705,
+   0.5147517910239295
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.05,
+    "edge": 0.02194561877393375
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.51,
+    "edge": -0.03289048759930191
+   },
+   {
+    "book": "Betfair",
+    "odd": 4.4,
+    "edge": -0.005775267625450442
+   }
+  ],
+  "nbooks": 9,
+  "move": null
+ },
+ {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1646869,
+  "kickoff": "2026-11-06T23:00:00+03:00",
+  "home": "UTS Rabat",
+  "away": "Amal Tiznit",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  }
 ]
