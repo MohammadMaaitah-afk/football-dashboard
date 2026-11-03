@@ -197,9 +197,9 @@
   "home": "Atletico Madrid",
   "away": "Bayern München",
   "p": [
-   0.3530859134713964,
-   0.25220422390814023,
-   0.3947098626204634
+   0.3418527512882782,
+   0.25022211692234797,
+   0.40792513178937395
   ],
   "source": "Pinnacle",
   "out": {
@@ -216,36 +216,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6508313539192399,
-   0.34916864608076004
+   0.6516587677725119,
+   0.34834123222748814
   ],
   "btts": [
-   0.6746106030718045,
-   0.32538939692819546
+   0.6746211585205062,
+   0.3253788414794938
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 2.78,
-    "edge": -0.018421160549518145
-   },
-   {
-    "book": "Betano",
-    "odd": 4.05,
-    "edge": 0.02142710682796789
-   },
-   {
     "book": "Pinnacle",
+    "odd": 2.84,
+    "edge": -0.02913818634128995
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.01,
+    "edge": 0.003390688858615265
+   },
+   {
+    "book": "1xBet",
     "odd": 2.46,
-    "edge": -0.029013737953660024
+    "edge": 0.0034958242018598984
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    0.060678708634405665,
-    0.02700910169955731,
-    -0.08768781033396289
+    0.04944554645128746,
+    0.025026994713765044,
+    -0.07447254116505236
    ],
    "since": "31/10 00:01"
   }
@@ -259,9 +259,9 @@
   "home": "Barcelona",
   "away": "Aston Villa",
   "p": [
-   0.7557535640931609,
-   0.1348043576402127,
-   0.1094420782666265
+   0.743683394997312,
+   0.1390364608038453,
+   0.11728014419884263
   ],
   "source": "Pinnacle",
   "out": {
@@ -283,36 +283,36 @@
   },
   "lineups": null,
   "ou": [
-   0.7999053117807416,
-   0.20009468821925833
+   0.8007682886351767,
+   0.19923171136482334
   ],
   "btts": [
-   0.6591473598648042,
-   0.34085264013519584
+   0.6630459519326843,
+   0.3369540480673157
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.3,
-    "edge": -0.017520366678890897
-   },
-   {
-    "book": "Betfair",
-    "odd": 7.5,
-    "edge": 0.011032682301595376
+    "odd": 1.33,
+    "edge": -0.010901084653575088
    },
    {
     "book": "1xBet",
-    "odd": 10.1,
-    "edge": 0.10536499049292747
+    "odd": 7.01,
+    "edge": -0.02535440976504455
+   },
+   {
+    "book": "1xBet",
+    "odd": 9.65,
+    "edge": 0.13175339151883136
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.014634175367040925,
-    0.004104092876619836,
-    0.010530082490421047
+    -0.02670434446288983,
+    0.00833619604025243,
+    0.018368148422637176
    ],
    "since": "31/10 00:01"
   }
@@ -1814,8 +1814,22 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "W. Bondo",
+    "S. Chukwueze",
+    "M. Gabbia",
+    "R. Loftus-Cheek",
+    "M. Maignan",
+    "A. Saelemaekers",
+    "F. Tomori"
+   ],
+   "away": [
+    "E. Botka",
+    "B. Nagy",
+    "B. Otvos",
+    "G. Szecsi",
+    "F. Kovacevic"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1868,8 +1882,26 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "I. Camara",
+    "L. Hey",
+    "I. Koutsoupias",
+    "K. Sardella",
+    "M. Winkler"
+   ],
+   "away": [
+    "E. Aguilar",
+    "A. Chase",
+    "S. Kitano",
+    "F. Matijasevic",
+    "J. Mellberg",
+    "J. Moser",
+    "J. Omoregie",
+    "D. Redzic",
+    "D. Schmid",
+    "N. Veratschnig",
+    "J. Lindstrom"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1922,8 +1954,27 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "C. Doucoure",
+    "Z. Gozo",
+    "E. Guessand",
+    "J. Lerma",
+    "C. Riad",
+    "T. Tomiyasu",
+    "J. Larsen",
+    "I. Sarr",
+    "Q. Timber"
+   ],
+   "away": [
+    "B. Conte",
+    "N. De Cat",
+    "L. Engelns",
+    "V. Gendrey",
+    "A. Hajdari",
+    "R. Hranac",
+    "P. Wimmer",
+    "V. Coufal"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1976,8 +2027,19 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "P. Hristov",
+    "O. Kamdem",
+    "R. Kirilov",
+    "A. Mitkov",
+    "M. Sangare"
+   ],
+   "away": [
+    "D. Drachal",
+    "C. Polak",
+    "N. Wojtuszek",
+    "Z. Zalewski"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2030,8 +2092,14 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "E. B. Garnas",
+    "C. Jebara"
+   ],
+   "away": [
+    "V. Jemelka",
+    "M. Tvrdon"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2084,8 +2152,21 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "M. Bakker",
+    "D. Geiger",
+    "I. Hansen-Aaroen",
+    "E. Mor",
+    "B. Nuytinck",
+    "P. Sandler",
+    "D. Tadic",
+    "A. Tahaui"
+   ],
+   "away": [
+    "C. Eiting",
+    "F. Kitsos",
+    "L. Nego"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2138,8 +2219,18 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "L. Beitia",
+    "A. Odriozola",
+    "A. Zakharyan"
+   ],
+   "away": [
+    "S. Kango",
+    "T. Morton",
+    "L. Openda",
+    "M. Ouedraogo",
+    "P. Sulc"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2192,8 +2283,25 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "M. Andersen",
+    "A. Karabec",
+    "J. Mercado",
+    "O. Penxa",
+    "M. Rynes",
+    "A. Sevinsky",
+    "E. Uchenna"
+   ],
+   "away": [
+    "M. Aarons",
+    "J. Araujo",
+    "F. Forster",
+    "D. Jebbison",
+    "V. Milosavljevic",
+    "J. Sanchez",
+    "A. Scott",
+    "A. Toth"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2525,8 +2633,8 @@
    0.36790123456790125
   ],
   "btts": [
-   0.6577655464038351,
-   0.34223445359616494
+   0.6552897742087918,
+   0.3447102257912083
   ],
   "best": [
    {
@@ -2540,7 +2648,7 @@
     "edge": -0.048749318073659564
    },
    {
-    "book": "Betano",
+    "book": "Bet365",
     "odd": 2.4,
     "edge": -0.04476918969739874
    }
@@ -2649,8 +2757,8 @@
    },
    {
     "book": "Bet365",
-    "odd": 2.88,
-    "edge": -0.03324698483838262
+    "odd": 2.9,
+    "edge": -0.02653342223309363
    }
   ],
   "nbooks": 10,
@@ -2732,8 +2840,26 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "J. Hornkamp",
+    "S. Resink",
+    "K. Smit",
+    "H. Verhulst",
+    "J. Zoet"
+   ],
+   "away": [
+    "Z. Celik",
+    "F. Conceicao",
+    "N. Gonzalez",
+    "K. Grabara",
+    "M. Locatelli",
+    "A. Milik",
+    "D. Rugani",
+    "K. Thuram",
+    "K. Yildiz",
+    "E. Zhegrova",
+    "W. McKennie"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2786,8 +2912,24 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "E. Ben Seghir",
+    "V. Boniface",
+    "M. Diaby",
+    "K. Eichhorn",
+    "J. Hofmann",
+    "C. Kofane",
+    "T. Oermann",
+    "M. Terrier",
+    "L. Bade",
+    "G. Doue",
+    "N. Tella"
+   ],
+   "away": [
+    "D. Cornelius",
+    "Emerson",
+    "A. Harit"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2795,8 +2937,8 @@
    0.3427895981087471
   ],
   "btts": [
-   0.5728202766233955,
-   0.4271797233766045
+   0.5701221262451586,
+   0.4298778737548415
   ],
   "best": [
    {
@@ -2840,8 +2982,19 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "L. Barreiro",
+    "E. Barrenechea",
+    "D. Lukebakio"
+   ],
+   "away": [
+    "A. Douglas",
+    "A. Gholizadeh",
+    "M. Ishak",
+    "W. Monka",
+    "J. Moutinho",
+    "A. Sayyadmanesh"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2894,8 +3047,24 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "H. F. Cuenca Martinez",
+    "J. El Abdellaoui",
+    "B. Iglesias",
+    "A. Nunez",
+    "M. Roman",
+    "C. Starfelt",
+    "H. Gonzalez"
+   ],
+   "away": [
+    "A. Ait El Hadj",
+    "M. Biondic",
+    "I. Hurtevent",
+    "O. Kricfalusi",
+    "K. Mac Allister",
+    "I. Pavlic",
+    "R. Schoofs"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2948,8 +3117,21 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "L. Emenalo",
+    "A. Johnston",
+    "Jota",
+    "S. Mheuka",
+    "A. Trusty",
+    "Yang Hyun-Jun",
+    "J. van den Berg"
+   ],
+   "away": [
+    "U. Akdag",
+    "C. Keles",
+    "O. Kokcu",
+    "F. Miretti"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2996,14 +3178,25 @@
   "home": "Hapoel Beer Sheva",
   "away": "OFI",
   "p": [
-   0.44336831791373815,
-   0.2633264871587119,
-   0.29330519492754986
+   0.44979274804884417,
+   0.2612494865379588,
+   0.2889577654131969
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "D. Biton",
+    "Lucas Ventura",
+    "E. Peretz",
+    "Y. Stoyanov"
+   ],
+   "away": [
+    "A. Chatzigiovanis",
+    "E. Chnaris",
+    "N. Christogeorgos",
+    "A. Leya Iseka",
+    "N. Marinakis"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3011,32 +3204,32 @@
    0.43041237113402064
   ],
   "btts": [
-   0.5991826411986373,
-   0.40081735880136266
+   0.6010524990894376,
+   0.39894750091056236
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 2.18,
-    "edge": -0.03345706694805073
+    "edge": -0.019451809253519636
    },
    {
     "book": "Bet365",
     "odd": 3.75,
-    "edge": -0.012525673154830441
+    "edge": -0.020314425482654386
    },
    {
     "book": "Bet365",
     "odd": 3.5,
-    "edge": 0.026568182246424543
+    "edge": 0.011352178946189229
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0007235909809235608,
-    -0.0002984887154021121,
-    -0.0004251022655215597
+    0.007148021116029579,
+    -0.0023754893361551677,
+    -0.004772531779874523
    ],
    "since": "02/11 00:01"
   }
@@ -3056,7 +3249,18 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
+   "home": [
+    "N. Geyrhofer",
+    "L. Grgic",
+    "S. Jatta",
+    "D. Khudyakov",
+    "O. Kiteishvili",
+    "G. Mamageishvili",
+    "F. Rozga",
+    "E. Soglo",
+    "N. Weiper",
+    "S. Wlodarczyk"
+   ],
    "away": []
   },
   "lineups": null,
@@ -3110,8 +3314,25 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "J. Angulo",
+    "D. Ballard",
+    "A. Browne",
+    "M. Ellborg",
+    "R. Mundle",
+    "J. Ta Bi",
+    "C. Talbi",
+    "N. Mukiele"
+   ],
+   "away": [
+    "S. McKenna",
+    "R. Mudrazija",
+    "I. Nevistic",
+    "N. Nsoki",
+    "P. Tabinas",
+    "F. Topic",
+    "S. Radeljic"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3164,8 +3385,12 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "A. Baradji"
+   ],
+   "away": [
+    "P. Ayongo"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3561,7 +3786,7 @@
     "edge": -0.025445663665196405
    },
    {
-    "book": "Dafabet",
+    "book": "Bet365",
     "odd": 4.2,
     "edge": -0.01090007655572156
    },
@@ -3615,7 +3840,7 @@
     "edge": -0.058299571283350726
    },
    {
-    "book": "Dafabet",
+    "book": "Bet365",
     "odd": 6.0,
     "edge": 0.04633380968516576
    },
