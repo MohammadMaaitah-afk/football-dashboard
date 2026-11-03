@@ -32,7 +32,40 @@
     "D. Zagadou"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "U. Çakır",
+     "R. Sallai",
+     "D. Sánchez",
+     "A. Bardakcı",
+     "I. Jakobs",
+     "L. Torreira",
+     "M. Lemina",
+     "Y. Akgün",
+     "A. Batrakov",
+     "B. Yılmaz",
+     "V. Osimhen"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "F. Bredlow",
+     "R. Hendriks",
+     "J. Chabot",
+     "M. Mittelstädt",
+     "J. Leweling",
+     "G. Prömel",
+     "A. Karazor",
+     "C. Führich",
+     "E. Demirović",
+     "B. El Khannouss",
+     "D. Undav"
+    ]
+   }
+  },
   "ou": [
    0.7223382045929019,
    0.2776617954070982
@@ -98,7 +131,40 @@
     "N. Santos"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "D. Riznyk",
+     "Vinícius Tobias",
+     "V. Bondar",
+     "M. Matvienko",
+     "Pedrinho",
+     "E. Nazaryna",
+     "Alisson Santana",
+     "O. Ocheretko",
+     "Marlon Gomes",
+     "G. Mendoza",
+     "Kauã Elias"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "Rui Silva",
+     "Eduardo Quaresma",
+     "Eduardo Felicíssimo",
+     "Gonçalo Inácio",
+     "Geny Catamo",
+     "S. Andersen",
+     "Sergi Altimira",
+     "I. Doumbia",
+     "M. Araújo",
+     "L. Suárez",
+     "F. Ioannidis"
+    ]
+   }
+  },
   "ou": [
    0.564885496183206,
    0.43511450381679384
