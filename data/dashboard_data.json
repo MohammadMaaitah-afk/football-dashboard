@@ -181,9 +181,9 @@
   "home": "Fenerbahçe",
   "away": "Liverpool",
   "p": [
-   0.16747063618263694,
-   0.19370097678955595,
-   0.6388283870278072
+   0.15990542374101177,
+   0.19081416442467872,
+   0.6492804118343096
   ],
   "source": "Pinnacle",
   "out": {
@@ -209,36 +209,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6832579185520362,
-   0.3167420814479638
+   0.6946902654867257,
+   0.3053097345132743
   ],
   "btts": [
-   0.6200214953628667,
-   0.37997850463713345
+   0.6262538739413017,
+   0.37374612605869834
   ],
   "best": [
    {
-    "book": "BetVictor",
-    "odd": 6.0,
-    "edge": 0.004823817095821692
+    "book": "Pinnacle",
+    "odd": 6.05,
+    "edge": -0.032572186366878864
    },
    {
-    "book": "Bet365",
-    "odd": 5.0,
-    "edge": -0.03149511605222033
+    "book": "Betano",
+    "odd": 5.2,
+    "edge": -0.007766344991670615
    },
    {
-    "book": "1xBet",
-    "odd": 1.56,
-    "edge": -0.003427716236620748
+    "book": "Dafabet",
+    "odd": 1.55,
+    "edge": 0.006384638343180038
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.027287811684856972,
-    -0.01996178994543743,
-    0.04724960163029435
+    -0.03485302412648214,
+    -0.02284860231031466,
+    0.05770162643679677
    ],
    "since": "01/11 00:01"
   }
@@ -841,27 +841,6 @@
   "kickoff": "2026-11-05T16:00:00+03:00",
   "home": "Al Kahrabaa",
   "away": "Zakho",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645691,
-  "kickoff": "2026-11-05T16:00:00+03:00",
-  "home": "Jaish",
-  "away": "Al Karama",
   "p": null,
   "source": null,
   "out": {
@@ -3680,6 +3659,27 @@
   "kickoff": "2026-11-07T14:15:00+03:00",
   "home": "Al Mabarrah",
   "away": "Shabab Al Sahel",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645691,
+  "kickoff": "2026-11-07T15:00:00+03:00",
+  "home": "Jaish",
+  "away": "Al Karama",
   "p": null,
   "source": null,
   "out": {
