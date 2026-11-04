@@ -318,6 +318,7 @@
     "J. Lerma"
    ],
    "away": [
+    "A. Fidalgo",
     "J. Firpo",
     "C. Hernandez",
     "I. Losada"
@@ -387,15 +388,14 @@
     "B. Badiashile",
     "A. Buongiorno",
     "David Neres",
+    "G. Di Lorenzo",
     "C. Favasuli",
     "S. Lobotka",
     "L. Marianucci",
+    "M. Olivera",
     "L. Spinazzola",
     "K. De Bruyne",
-    "G. Di Lorenzo",
-    "R. Hojlund",
-    "V. Milinkovic-Savic",
-    "M. Olivera"
+    "V. Milinkovic-Savic"
    ]
   },
   "lineups": null,
@@ -459,13 +459,13 @@
    ],
    "away": [
     "J. Addai",
+    "T. Chalobah",
     "A. Diao",
     "E. Goldaniga",
     "W. Kambwala",
     "M. Kean",
     "A. Lahdo",
-    "J. Rodriguez",
-    "T. Chalobah"
+    "J. Rodriguez"
    ]
   },
   "lineups": null,
@@ -576,13 +576,14 @@
   "home": "RB Leipzig",
   "away": "Manchester City",
   "p": [
-   0.17886429151157257,
-   0.19394923175953652,
-   0.6271864767288908
+   0.18487450838827352,
+   0.1941367583075257,
+   0.6209887333042008
   ],
   "source": "Pinnacle",
   "out": {
    "home": [
+    "M. Finkgrafe",
     "M. Guiu",
     "A. Ouedraogo",
     "L. Zingerle",
@@ -594,36 +595,36 @@
   },
   "lineups": null,
   "ou": [
-   0.7133620689655172,
-   0.28663793103448276
+   0.7253668763102725,
+   0.27463312368972753
   ],
   "btts": [
-   0.6587449354261105,
-   0.3412550645738895
+   0.6672441514134138,
+   0.33275584858658613
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 5.63,
-    "edge": 0.007005961210153622
+    "edge": 0.04084348222597978
    },
    {
     "book": "1xBet",
     "odd": 5.03,
-    "edge": -0.0244353642495313
+    "edge": -0.02349210571314575
    },
    {
     "book": "Dafabet",
     "odd": 1.57,
-    "edge": -0.015317231535641351
+    "edge": -0.025047688712404703
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.011297193766386188,
-    0.0023472573680708986,
-    -0.013644451134457003
+    0.017307410643087134,
+    0.002534783916060074,
+    -0.01984219455914704
    ],
    "since": "01/11 00:01"
   }
@@ -655,8 +656,7 @@
     "I. Schranz"
    ],
    "away": [
-    "B. Saka",
-    "W. Saliba"
+    "B. Saka"
    ]
   },
   "lineups": null,
@@ -782,14 +782,14 @@
    0.5461741424802111
   ],
   "btts": [
-   0.4674953999910466,
-   0.5325046000089534
+   0.4678464962862581,
+   0.5321535037137418
   ],
   "best": [
    {
-    "book": "Bet365",
-    "odd": 1.8,
-    "edge": -0.02352295792418657
+    "book": "Betano",
+    "odd": 1.75,
+    "edge": -0.050647320204070256
    },
    {
     "book": "Pinnacle",
