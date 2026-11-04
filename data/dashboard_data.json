@@ -91,10 +91,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 73,
+   "min": 87,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-04T17:01:15.806383+00:00"
+   "at": "2026-11-04T17:15:46.295057+00:00"
   }
  },
  {
@@ -115,7 +115,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Brignoli",
+     "L. Rota",
+     "H. Moukoudi",
+     "Filipe Relvas",
+     "S. Pilios",
+     "L. Majer",
+     "K. Arriaga",
+     "K. Kairinen",
+     "A. Koita",
+     "M. Gaćinović",
+     "L. Jović"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "T. Courtois",
+     "D. Dumfries",
+     "Éder Militão",
+     "A. Rüdiger",
+     "Marc Cucurella",
+     "Bernardo Silva",
+     "E. Camavinga",
+     "Y. Diomande",
+     "J. Bellingham",
+     "Vinícius Júnior",
+     "Kylian Mbappé"
+    ]
+   }
+  },
   "ou": [
    0.7434869739478958,
    0.2565130260521042
@@ -186,7 +219,40 @@
     "A. Nallo"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Ederson",
+     "Nélson Semedo",
+     "M. Škriniar",
+     "K. Peprah Oppong",
+     "A. Brown",
+     "M. Guendouzi",
+     "N. Kanté",
+     "İ. Yüksek",
+     "M. Greenwood",
+     "R. Lukaku",
+     "İ. Kahveci"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Alisson Becker",
+     "J. Gomez",
+     "J. Jacquet",
+     "V. van Dijk",
+     "K. Tsimikas",
+     "A. Mac Allister",
+     "T. Nyoni",
+     "Víctor Muñoz",
+     "D. Szoboszlai",
+     "R. Ngumoha",
+     "B. Barcola"
+    ]
+   }
+  },
   "ou": [
    0.7139830508474576,
    0.28601694915254233
