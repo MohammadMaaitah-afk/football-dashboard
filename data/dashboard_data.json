@@ -2812,7 +2812,7 @@
   "type": "arab",
   "en": "Morocco Botola Pro",
   "id": 1646868,
-  "kickoff": "2026-11-06T21:00:00+03:00",
+  "kickoff": "2026-11-06T20:00:00+03:00",
   "home": "Hassania Agadir",
   "away": "Renaissance Berkane",
   "p": null,
@@ -3488,27 +3488,6 @@
   "kickoff": "2026-11-07T16:30:00+03:00",
   "home": "ES Sahel",
   "away": "CS Sfaxien",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607465,
-  "kickoff": "2026-11-07T16:30:00+03:00",
-  "home": "ES Metlaoui",
-  "away": "ES Zarzis",
   "p": null,
   "source": null,
   "out": {
@@ -4268,60 +4247,6 @@
   "move": null
  },
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552811,
-  "kickoff": "2026-11-07T19:15:00+03:00",
-  "home": "Auxerre",
-  "away": "Paris FC",
-  "p": [
-   0.22358747747227534,
-   0.2355556636143436,
-   0.5408568589133811
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.5623409669211196,
-   0.4376590330788804
-  ],
-  "btts": [
-   0.5660273573173186,
-   0.43397264268268154
-  ],
-  "best": [
-   {
-    "book": "Betfair",
-    "odd": 4.5,
-    "edge": 0.006143648625239084
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.11,
-    "edge": -0.03186622254504767
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.87,
-    "edge": 0.011402326168022725
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.0007989643945904845,
-    -0.00024239767225708864,
-    -0.0005565667223333959
-   ],
-   "since": "04/11 00:01"
-  }
- },
- {
   "league": "الدوري القطري",
   "type": "arab",
   "en": "Qatar Stars League",
@@ -4622,6 +4547,60 @@
   }
  },
  {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552811,
+  "kickoff": "2026-11-07T21:00:00+03:00",
+  "home": "Auxerre",
+  "away": "Paris FC",
+  "p": [
+   0.22358747747227534,
+   0.2355556636143436,
+   0.5408568589133811
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5623409669211196,
+   0.4376590330788804
+  ],
+  "btts": [
+   0.5660273573173186,
+   0.43397264268268154
+  ],
+  "best": [
+   {
+    "book": "Betfair",
+    "odd": 4.5,
+    "edge": 0.006143648625239084
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.11,
+    "edge": -0.03186622254504767
+   },
+   {
+    "book": "1xBet",
+    "odd": 1.87,
+    "edge": 0.011402326168022725
+   }
+  ],
+  "nbooks": 10,
+  "move": {
+   "diff": [
+    0.0007989643945904845,
+    -0.00024239767225708864,
+    -0.0005565667223333959
+   ],
+   "since": "04/11 00:01"
+  }
+ },
+ {
   "league": "الدوري المغربي",
   "type": "arab",
   "en": "Morocco Botola Pro",
@@ -4703,60 +4682,6 @@
   }
  },
  {
-  "league": "الدوري الفرنسي",
-  "type": "top",
-  "en": "Ligue 1",
-  "id": 1552815,
-  "kickoff": "2026-11-07T22:45:00+03:00",
-  "home": "Paris Saint Germain",
-  "away": "Estac Troyes",
-  "p": [
-   0.8528800353323848,
-   0.08729659781934736,
-   0.05982336684826783
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.7412198177624264,
-   0.25878018223757354
-  ],
-  "btts": [
-   0.4903283748367116,
-   0.5096716251632885
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.16,
-    "edge": -0.010659159014433706
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 11.04,
-    "edge": -0.03624556007440527
-   },
-   {
-    "book": "Bet365",
-    "odd": 21.0,
-    "edge": 0.2562907038136244
-   }
-  ],
-  "nbooks": 10,
-  "move": {
-   "diff": [
-    0.006789734849906415,
-    -0.0036122563323986723,
-    -0.0031774785175078327
-   ],
-   "since": "04/11 00:01"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -4830,6 +4755,60 @@
   "best": null,
   "nbooks": 0,
   "move": null
+ },
+ {
+  "league": "الدوري الفرنسي",
+  "type": "top",
+  "en": "Ligue 1",
+  "id": 1552815,
+  "kickoff": "2026-11-07T23:05:00+03:00",
+  "home": "Paris Saint Germain",
+  "away": "Estac Troyes",
+  "p": [
+   0.8528800353323848,
+   0.08729659781934736,
+   0.05982336684826783
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.7412198177624264,
+   0.25878018223757354
+  ],
+  "btts": [
+   0.4903283748367116,
+   0.5096716251632885
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 1.16,
+    "edge": -0.010659159014433706
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 11.04,
+    "edge": -0.03624556007440527
+   },
+   {
+    "book": "Bet365",
+    "odd": 21.0,
+    "edge": 0.2562907038136244
+   }
+  ],
+  "nbooks": 10,
+  "move": {
+   "diff": [
+    0.006789734849906415,
+    -0.0036122563323986723,
+    -0.0031774785175078327
+   ],
+   "since": "04/11 00:01"
+  }
  },
  {
   "league": "الدوري اللبناني",
@@ -5122,6 +5101,27 @@
   "kickoff": "2026-11-08T16:00:00+03:00",
   "home": "Khenchela",
   "away": "Témouchent",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607465,
+  "kickoff": "2026-11-08T16:30:00+03:00",
+  "home": "ES Metlaoui",
+  "away": "ES Zarzis",
   "p": null,
   "source": null,
   "out": {
@@ -5537,6 +5537,27 @@
    ],
    "since": "05/11 00:01"
   }
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597960,
+  "kickoff": "2026-11-08T17:15:00+03:00",
+  "home": "Lusail City",
+  "away": "Qatar SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الكويتي",
@@ -6182,6 +6203,27 @@
    ],
    "since": "05/11 00:01"
   }
+ },
+ {
+  "league": "الدوري القطري",
+  "type": "arab",
+  "en": "Qatar Stars League",
+  "id": 1597958,
+  "kickoff": "2026-11-08T19:30:00+03:00",
+  "home": "Al Sadd",
+  "away": "Al-Rayyan SC",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الكويتي",
