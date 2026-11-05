@@ -1,58 +1,5 @@
 [
  {
-  "league": "الدوري العُماني",
-  "type": "arab",
-  "en": "Oman Professional League",
-  "id": 1642129,
-  "kickoff": "2026-11-05T18:20:00+03:00",
-  "home": "Dhofar",
-  "away": "Saham",
-  "p": [
-   0.32601201393363954,
-   0.34200505612661053,
-   0.3319829299397501
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.3901808785529716,
-   0.6098191214470284
-  ],
-  "btts": [
-   0.47968609176219884,
-   0.5203139082378011
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.78,
-    "edge": -0.09368660126448214
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.0,
-    "edge": 0.026015168379831533
-   },
-   {
-    "book": "Betano",
-    "odd": 2.75,
-    "edge": -0.08704694266568724
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 0,
-   "ga": 0,
-   "at": "2026-11-05T17:15:42.746574+00:00"
-  }
- },
- {
   "league": "الدوري الأوروبي",
   "type": "euro",
   "en": "Europa League",
@@ -875,7 +822,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Mads Hedenstad",
+     "Tobias Mølgaard",
+     "Colin Rösler",
+     "Luka Callø",
+     "Rasmus Carstensen",
+     "Kristian Arnstad",
+     "Magnus Knudsen",
+     "Gift Links",
+     "Sebastian Jørgensen",
+     "Callum McCowatt",
+     "Stefen Tchamche"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Bernardo Fontes",
+     "Victor Gómez",
+     "Gustaf Lagerbielke",
+     "Adrian Leon Barišić",
+     "Diogo Travassos",
+     "Jean-Baptiste Gorby",
+     "Mario Dorgeles",
+     "João Moutinho",
+     "Gabriel Martínez",
+     "Pau Víctor",
+     "Ricardo Horta"
+    ]
+   }
+  },
   "ou": [
    0.5038759689922481,
    0.49612403100775193
@@ -929,7 +909,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Marco Carnesecchi",
+     "Javison Idele",
+     "Giorgio Scalvini",
+     "Relja Obrić",
+     "Lorenzo Bernasconi",
+     "Eljif Elmas",
+     "Mario Pašalić",
+     "Kamaldeen Sulemana",
+     "Lazar Samardžić",
+     "Jonathan Rowe",
+     "Gianluca Scamacca"
+    ]
+   },
+   "away": {
+    "formation": "5-3-2",
+    "xi": [
+     "Temirlan Anarbekov",
+     "Aleksandr Mrynskiy",
+     "Aleksandr Shirobokov",
+     "Aleksandr Martynovich",
+     "Damir Kasabulat",
+     "Luís Mata",
+     "Azamat Tuyakbayev",
+     "Gustavo Mendonca",
+     "Jaakko Oksanen",
+     "Marc Gual",
+     "Edmilson"
+    ]
+   }
+  },
   "ou": [
    0.7365145228215767,
    0.26348547717842324
@@ -983,7 +996,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-1-2",
+    "xi": [
+     "Matheus",
+     "Matej Gaštarov",
+     "Miloš Veljković",
+     "Yuta Nakayama",
+     "Loizos Loizou",
+     "Tomás Händel",
+     "Rade Krunić",
+     "Ye-geon Kim",
+     "Timi Max Elšnik",
+     "Vasilije Kostov",
+     "Aleksandar Katai"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Javier Díaz",
+     "Maurizio Pochettino",
+     "Álex Sánchez",
+     "Anwar Hernandez",
+     "Jilmar Torres",
+     "David López",
+     "Víctor Alonso",
+     "Pablo Molina",
+     "Domi Berlanga",
+     "Faysal Chouaib",
+     "Soule Sidibe"
+    ]
+   }
+  },
   "ou": [
    0.757455268389662,
    0.24254473161033796
@@ -1037,7 +1083,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Johannes Kreidl",
+     "Saku Savolainen",
+     "Taneli Hämäläinen",
+     "Arttu Lötjönen",
+     "Niilo Kujasalo",
+     "Valentín Gasc",
+     "Samuel Pasanen",
+     "Ayman Aiki",
+     "Petteri Pennanen",
+     "Bob Nii Armah",
+     "Piotr Parzyszek"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Davy Roef",
+     "Matties Volckaert",
+     "Maksim Paskotsi",
+     "Siebe Van der Heyden",
+     "Tiago Araújo",
+     "Abdelkahar Kadri",
+     "Tibe De Vlieger",
+     "Mathias Delorge",
+     "Hyllarion Goore",
+     "Josué Vergara",
+     "Momodou Sonko"
+    ]
+   }
+  },
   "ou": [
    0.5038759689922481,
    0.49612403100775193
@@ -1091,7 +1170,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-5-1",
+    "xi": [
+     "Jaylan Hankins",
+     "Julliani Eersteling",
+     "Gabri Garcia",
+     "Christian Rutjens",
+     "Nano",
+     "Manuel Toledano",
+     "Graeme Torrilla",
+     "Bernardo Lopes",
+     "Mandi",
+     "Toni García",
+     "Kike Gómez"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Toni Silić",
+     "Mathieu Acapandié",
+     "Dennis Hadžikadunić",
+     "Alec Van Hoorenbeeck",
+     "Šimun Hrgović",
+     "Khalil Fayad",
+     "Alberto del Moral",
+     "Abdoulie Sanyang Bamba",
+     "Dalisson de Almeida",
+     "Marin Šotiček",
+     "Michele Šego"
+    ]
+   }
+  },
   "ou": [
    0.5666666666666667,
    0.4333333333333333
@@ -1145,7 +1257,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Nordin Bakker",
+     "Rasmus Kristensen",
+     "Ousmane Diao",
+     "Mads Bech Sørensen",
+     "Victor Bak Jensen",
+     "Kjell Wätjen",
+     "Denil Castillo",
+     "Philip Billing",
+     "Sofus Johannesen",
+     "Friday Etim",
+     "Gue-sung Cho"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Marc-André ter Stegen",
+     "Lucas Rosa",
+     "Thilo Kehrer",
+     "Dies Janse",
+     "Owen Wijndal",
+     "Davy Klaassen",
+     "Youri Baas",
+     "Jorthy Mokio",
+     "Abdellah Ouazane",
+     "Tolu Arokodare",
+     "Oscar Gloukh"
+    ]
+   }
+  },
   "ou": [
    0.6674418604651163,
    0.33255813953488367
@@ -1199,7 +1344,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "Alexander Lundin",
+     "Villiam Granath",
+     "Tony Miettinen",
+     "Axel Norén",
+     "Abdullah Iqbal",
+     "Max Nielsen",
+     "Jesper Gustavsson",
+     "Romeo Leandersson",
+     "Viktor Gustafson",
+     "Jeppe Kjaer",
+     "Jacob Bergström"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Mladen Jurkas",
+     "Branimir Cipetić",
+     "Bart Meijers",
+     "Siniša Saničanin",
+     "Sebastian Herrera",
+     "Amer Hiroš",
+     "Matej Deket",
+     "Miloš Jojić",
+     "Ante Roguljić",
+     "Luka Juričić",
+     "Stefan Savić"
+    ]
+   }
+  },
   "ou": [
    0.48062015503875977,
    0.5193798449612403
@@ -1253,7 +1431,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "Niklas Steffen",
+     "Lucien Dähler",
+     "Jan Bamert",
+     "Marco Bürki",
+     "Olivier Mambwa",
+     "Nils Reichmuth",
+     "Mattias Käit",
+     "Justin Roth",
+     "Nico Maier",
+     "Furkan Dursun",
+     "Brighton Labeau"
+    ]
+   },
+   "away": {
+    "formation": "5-4-1",
+    "xi": [
+     "Beau Reus",
+     "Jordi Altena",
+     "Malachi Fagan-Walcott",
+     "Stuart Findlay",
+     "Jamie McCart",
+     "Stephen Kingsley",
+     "Sabah Kerjota",
+     "Laurent Mendy",
+     "Josh McPake",
+     "Severin Sabri Guendouz",
+     "Cláudio Braga"
+    ]
+   }
+  },
   "ou": [
    0.625916870415648,
    0.37408312958435214
@@ -1307,7 +1518,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "André Onana",
+     "Wagner Pina",
+     "Chibuike Nwaiwu",
+     "Cenk Özkaçar",
+     "Mustafa Eskihellaç",
+     "Batista Mendy",
+     "Fabinho",
+     "Ernest Muçi",
+     "Mohamed Salah",
+     "Paul Onuachu",
+     "Noah Saviolo"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mio Backhaus",
+     "Lukas Kübler",
+     "Matthias Ginter",
+     "Philipp Lienhart",
+     "Jordy Makengo",
+     "Maximilian Eggestein",
+     "Yannick Engelhardt",
+     "Cyriaque Irié",
+     "Keisuke Goto",
+     "Vincenzo Grifo",
+     "Igor Matanović"
+    ]
+   }
+  },
   "ou": [
    0.6034912718204488,
    0.39650872817955113
@@ -2746,47 +2990,47 @@
   "home": "Al-Karma",
   "away": "Naft Maysan",
   "p": [
-   0.5314082963868985,
-   0.271954848107613,
-   0.19663685550548848
+   0.5062973218374437,
+   0.2805039661824892,
+   0.21319871198006712
   ],
-  "source": "متوسط 4 شركات",
+  "source": "متوسط 5 شركات",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.4432561944834035,
-   0.5567438055165965
+   0.4322098502937458,
+   0.5677901497062542
   ],
   "btts": [
-   0.46937891510062646,
-   0.5306210848993735
+   0.4666577813319117,
+   0.5333422186680883
   ],
   "best": [
    {
     "book": "Bet365",
     "odd": 1.95,
-    "edge": 0.036246177954452063
+    "edge": -0.012720222416984783
    },
    {
     "book": "Betano",
     "odd": 3.7,
-    "edge": 0.006232937998168042
+    "edge": 0.03786467487521006
    },
    {
     "book": "Betano",
     "odd": 5.9,
-    "edge": 0.16015744748238214
+    "edge": 0.25787240068239603
    }
   ],
-  "nbooks": 4,
+  "nbooks": 5,
   "move": {
    "diff": [
-    -0.02570973806557153,
-    0.009289169795592411,
-    0.016420568269979147
+    -0.0508207126150263,
+    0.017838287870468594,
+    0.03298242474455779
    ],
    "since": "05/11 13:01"
   }
