@@ -2536,17 +2536,43 @@
   "kickoff": "2026-11-06T17:15:00+03:00",
   "home": "Al-Arabi SC",
   "away": "Al Ahli Doha",
-  "p": null,
-  "source": null,
+  "p": [
+   0.4799362325501236,
+   0.22238180042511632,
+   0.29768196702476013
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.6586538461538461,
+   0.3413461538461538
+  ],
+  "btts": [
+   0.6613366206450573,
+   0.33866337935494284
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 1.96,
+    "edge": -0.0593249842017578
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.23,
+    "edge": -0.05932498420175791
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.24,
+    "edge": -0.03551042683977712
+   }
+  ],
+  "nbooks": 9,
   "move": null
  },
  {
@@ -3585,17 +3611,43 @@
   "kickoff": "2026-11-07T17:15:00+03:00",
   "home": "Al Shamal",
   "away": "Al-Sailiya",
-  "p": null,
-  "source": null,
+  "p": [
+   0.6631002473939062,
+   0.19081047935212397,
+   0.14608927325396995
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.6454767726161369,
+   0.35452322738386305
+  ],
+  "btts": [
+   0.5784153847671365,
+   0.42158461523286345
+  ],
+  "best": [
+   {
+    "book": "Betano",
+    "odd": 1.45,
+    "edge": -0.03850464127883613
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 4.9,
+    "edge": -0.06502865117459244
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 6.4,
+    "edge": -0.06502865117459233
+   }
+  ],
+  "nbooks": 8,
   "move": null
  },
  {
