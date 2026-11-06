@@ -24,10 +24,10 @@
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
-  "id": 1645693,
+  "id": 1645694,
   "kickoff": "2026-11-06T15:00:00+03:00",
-  "home": "Al Wahda",
-  "away": "Al Ittihad",
+  "home": "Horriya",
+  "away": "Shorta",
   "p": null,
   "source": null,
   "out": {
@@ -49,27 +49,6 @@
   "kickoff": "2026-11-06T15:00:00+03:00",
   "home": "Qamishli",
   "away": "Hottin",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري السوري",
-  "type": "arab",
-  "en": "Syria Premier League",
-  "id": 1645696,
-  "kickoff": "2026-11-06T15:00:00+03:00",
-  "home": "Tishreen",
-  "away": "Damascus Al-Ahli",
   "p": null,
   "source": null,
   "out": {
@@ -312,10 +291,10 @@
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
-  "id": 1645694,
+  "id": 1645696,
   "kickoff": "2026-11-06T18:00:00+03:00",
-  "home": "Horriya",
-  "away": "Shorta",
+  "home": "Tishreen",
+  "away": "Damascus Al-Ahli",
   "p": null,
   "source": null,
   "out": {
@@ -382,6 +361,27 @@
    ],
    "since": "05/11 13:01"
   }
+ },
+ {
+  "league": "الدوري السوري",
+  "type": "arab",
+  "en": "Syria Premier League",
+  "id": 1645693,
+  "kickoff": "2026-11-06T19:00:00+03:00",
+  "home": "Al Wahda",
+  "away": "Al Ittihad",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري القطري",
