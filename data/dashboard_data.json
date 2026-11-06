@@ -174,7 +174,40 @@
     "A. Zanoli"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "F. Stanković",
+     "R. Halhal",
+     "M. Moreno",
+     "Juan Jesus",
+     "A. Hainaut",
+     "Kike Pérez",
+     "S. Sohm",
+     "T. Bašić",
+     "P. Mazzocchi",
+     "J. Yeboah",
+     "A. Adams"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Okoye",
+     "J. Abankwah",
+     "M. Palma",
+     "O. Solet",
+     "M. Vojvoda",
+     "J. Piotrowski",
+     "J. Karlström",
+     "H. Kamara",
+     "N. Zaniolo",
+     "J. Ekkelenkamp",
+     "K. Davis"
+    ]
+   }
+  },
   "ou": [
    0.5115681233933163,
    0.48843187660668386
@@ -235,7 +268,40 @@
     "F. Balde"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "G. Restes",
+     "I. Diallo",
+     "M. McKenzie",
+     "R. Nicolaisen",
+     "C. Tapé",
+     "T. Jørgensen",
+     "N. Sigur",
+     "C. Cásseres",
+     "S. Oppong",
+     "S. Hidalgo",
+     "C. Tengstedt"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "F. Jörgensen",
+     "L. Høgsberg",
+     "I. Doukouré",
+     "Abdoul Karim Coulibaly",
+     "Oso",
+     "Dário Essugo",
+     "S. El Mourabet",
+     "G. Reyna",
+     "Gessime Yassine",
+     "C. Harder",
+     "M. Godo"
+    ]
+   }
+  },
   "ou": [
    0.599009900990099,
    0.400990099009901
