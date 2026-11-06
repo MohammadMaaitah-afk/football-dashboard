@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642062,
-  "kickoff": "2026-11-06T14:15:00+03:00",
-  "home": "Reyady Abaseya",
-  "away": "Al Hikma",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري السوري",
   "type": "arab",
   "en": "Syria Premier League",
@@ -91,6 +70,27 @@
   "kickoff": "2026-11-06T15:00:00+03:00",
   "home": "Tishreen",
   "away": "Damascus Al-Ahli",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642062,
+  "kickoff": "2026-11-06T15:15:00+03:00",
+  "home": "Reyady Abaseya",
+  "away": "Al Hikma",
   "p": null,
   "source": null,
   "out": {
