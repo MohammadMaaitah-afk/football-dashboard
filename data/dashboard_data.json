@@ -1,280 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557460,
-  "kickoff": "2026-11-06T23:00:00+03:00",
-  "home": "Everton",
-  "away": "Coventry",
-  "p": [
-   0.5883295652920469,
-   0.23223535472054488,
-   0.17943507998740804
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. George",
-    "J. Grealish"
-   ],
-   "away": [
-    "A. Amenda",
-    "H. Wright",
-    "J. Eccles",
-    "B. Thomas",
-    "L. Woolfenden"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Pickford",
-     "M. Röhl",
-     "J. Tarkowski",
-     "J. Branthwaite",
-     "V. Mykolenko",
-     "H. Armstrong",
-     "J. Garner",
-     "T. Dibling",
-     "K. Dewsbury-Hall",
-     "Tyrique George",
-     "T. Barry"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "C. Rushworth",
-     "M. van Ewijk",
-     "S. Mfuni",
-     "E. Pinnock",
-     "J. Dasilva",
-     "Caleb Marfo Yirenkyi",
-     "V. Torp",
-     "T. Sakamoto",
-     "J. Rudoni",
-     "Y. Gboho",
-     "T. Awoniyi"
-    ]
-   }
-  },
-  "ou": [
-   0.5547073791348601,
-   0.44529262086514
-  ],
-  "btts": [
-   0.5404808923553522,
-   0.4595191076446477
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.7,
-    "edge": 0.0001602609964796997
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.32,
-    "edge": 0.003256732392753925
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.41,
-    "edge": -0.029256217268122442
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 3,
-   "ga": 1,
-   "at": "2026-11-06T21:45:40.826231+00:00"
-  }
- },
- {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570450,
-  "kickoff": "2026-11-06T23:00:00+03:00",
-  "home": "Sevilla",
-  "away": "Alaves",
-  "p": [
-   0.4989908697741471,
-   0.2948582412301778,
-   0.20615088899567519
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Bueno",
-    "Marcao",
-    "Peque",
-    "I. Romero",
-    "M. Sierra"
-   ],
-   "away": [
-    "M. Rodriguez"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "O. Vlachodimos",
-     "Juan Iglesias",
-     "A. Sangante",
-     "Kike Salas",
-     "G. Suazo",
-     "L. Agoumé",
-     "Y. Fofana",
-     "R. Vargas",
-     "Isaac",
-     "Félix Correia",
-     "L. Stassin"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Sivera",
-     "N. Tenaglia",
-     "V. Koski",
-     "N. Valentini",
-     "Yusi",
-     "Angel Pérez",
-     "Antonio Blanco",
-     "Guevara",
-     "Pablo Ibáñez",
-     "Toni Martínez",
-     "L. Boyé"
-    ]
-   }
-  },
-  "ou": [
-   0.39999999999999997,
-   0.6
-  ],
-  "btts": [
-   0.4614462318491162,
-   0.5385537681508837
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 1.95,
-    "edge": -0.026967803940413204
-   },
-   {
-    "book": "Betano",
-    "odd": 3.5,
-    "edge": 0.03200384430562231
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.72,
-    "edge": -0.026967803940413204
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 83,
-   "gh": 0,
-   "ga": 0,
-   "at": "2026-11-06T21:45:40.826231+00:00"
-  }
- },
- {
-  "league": "الدوري المغربي",
-  "type": "arab",
-  "en": "Morocco Botola Pro",
-  "id": 1646869,
-  "kickoff": "2026-11-06T23:00:00+03:00",
-  "home": "UTS Rabat",
-  "away": "Amal Tiznit",
-  "p": [
-   0.4931381181803877,
-   0.3258849801961303,
-   0.18097690162348207
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "",
-    "xi": [
-     "M. Asmama",
-     "R. Ait Lemkadem",
-     "A. Chakir",
-     "M. Dahak",
-     "danny",
-     "A. Nanah",
-     "N. Moustaghfir",
-     "Y. Kajai",
-     "Z. Housni",
-     "I. Douieb",
-     "W. Rhailouf"
-    ]
-   },
-   "away": {
-    "formation": "",
-    "xi": [
-     "Y. Faqir",
-     "Ayoub Adila",
-     "A. Ouaarab",
-     "J. Assouab",
-     "Tarik Asstati",
-     "A. El Kouhil",
-     "Z. Essalhi",
-     "O. Houssni",
-     "K. Noureddine",
-     "Y. Zraa",
-     "S. P. Sodiq"
-    ]
-   }
-  },
-  "ou": [
-   0.3620689655172414,
-   0.6379310344827586
-  ],
-  "btts": [
-   0.4291497680163784,
-   0.5708502319836216
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.9,
-    "edge": -0.0630375754572634
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.1,
-    "edge": 0.01024343860800414
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.15,
-    "edge": -0.06796895663906732
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 2,
-   "at": "2026-11-06T21:45:40.826231+00:00"
-  }
- },
- {
   "league": "الدوري اللبناني",
   "type": "arab",
   "en": "Lebanon Premier League",
@@ -789,9 +514,9 @@
   "home": "Torino",
   "away": "Lecce",
   "p": [
-   0.5300202072395435,
-   0.260036723659079,
-   0.2099430691013776
+   0.5299049472990371,
+   0.259285041058085,
+   0.21081001164287785
   ],
   "source": "Pinnacle",
   "out": {
@@ -802,36 +527,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5038560411311055,
-   0.4961439588688946
+   0.5064267352185091,
+   0.493573264781491
   ],
   "btts": [
-   0.5240713427878675,
-   0.47592865721213246
+   0.5250443990169884,
+   0.4749556009830115
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.87,
-    "edge": -0.008862212462053654
+    "edge": -0.009077748550800457
    },
    {
     "book": "1xBet",
     "odd": 3.84,
-    "edge": -0.0014589811491367843
+    "edge": -0.004345442336953775
    },
    {
     "book": "Bet365",
     "odd": 4.75,
-    "edge": -0.0027704217684563215
+    "edge": 0.0013475553036697008
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0009700472863681808,
-    0.0004759213228025527,
-    -0.0014459686091706503
+    0.0008547873458618627,
+    -0.00027576127819145535,
+    -0.0005790260676704073
    ],
    "since": "04/11 00:01"
   }
@@ -1244,9 +969,9 @@
   "home": "Arsenal",
   "away": "Hull City",
   "p": [
-   0.8306808732384996,
-   0.11581608328806002,
-   0.05350304347344027
+   0.8297349655456332,
+   0.11652452300640852,
+   0.05374051144795837
   ],
   "source": "Pinnacle",
   "out": {
@@ -1255,8 +980,8 @@
   },
   "lineups": null,
   "ou": [
-   0.6262376237623761,
-   0.37376237623762376
+   0.6218905472636816,
+   0.37810945273631846
   ],
   "btts": [
    0.3985837885323078,
@@ -1266,25 +991,25 @@
    {
     "book": "1xBet",
     "odd": 1.2,
-    "edge": -0.0031829521138004857
+    "edge": -0.0043180413452401645
    },
    {
     "book": "Betfair",
     "odd": 8.5,
-    "edge": -0.015563292051489874
+    "edge": -0.009541554445527622
    },
    {
-    "book": "1xBet",
-    "odd": 18.5,
-    "edge": -0.01019369574135498
+    "book": "Betano",
+    "odd": 20.0,
+    "edge": 0.07481022895916745
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.0017614739482312292,
-    0.000996449193338536,
-    0.0007650247548926029
+    -0.002707381641097628,
+    0.001704888911687033,
+    0.0010024927294106992
    ],
    "since": "04/11 00:01"
   }
@@ -1517,8 +1242,8 @@
    0.6634615384615385
   ],
   "btts": [
-   0.4238253872758655,
-   0.5761746127241346
+   0.42423128433169416,
+   0.5757687156683059
   ],
   "best": [
    {
@@ -1527,9 +1252,9 @@
     "edge": -0.07799356142846448
    },
    {
-    "book": "Bet365",
-    "odd": 2.75,
-    "edge": 0.043422924309350686
+    "book": "BetVictor",
+    "odd": 2.88,
+    "edge": 0.09274837164033811
    },
    {
     "book": "Pinnacle",
@@ -1537,7 +1262,7 @@
     "edge": -0.07799356142846459
    }
   ],
-  "nbooks": 8,
+  "nbooks": 9,
   "move": {
    "diff": [
     0.019727711674048576,
