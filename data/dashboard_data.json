@@ -2122,27 +2122,6 @@
   }
  },
  {
-  "league": "الدوري اللبناني",
-  "type": "arab",
-  "en": "Lebanon Premier League",
-  "id": 1642066,
-  "kickoff": "2026-11-08T14:15:00+03:00",
-  "home": "Tadamon Sour",
-  "away": "Al Ansar",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -2199,6 +2178,27 @@
    ],
    "since": "05/11 00:01"
   }
+ },
+ {
+  "league": "الدوري اللبناني",
+  "type": "arab",
+  "en": "Lebanon Premier League",
+  "id": 1642066,
+  "kickoff": "2026-11-08T15:15:00+03:00",
+  "home": "Tadamon Sour",
+  "away": "Al Ansar",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الإماراتي",
