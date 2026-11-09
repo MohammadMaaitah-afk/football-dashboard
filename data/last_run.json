@@ -1,5 +1,5 @@
 {
- "time": "2026-11-09 08:01",
+ "time": "2026-11-09 08:15",
  "ok": false,
  "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1276, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1232, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 319, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 154, in api\n    raise RuntimeError(f\"API error on /{endpoint}: {data['errors']}\")\nRuntimeError: API error on /fixtures: {'plan': 'Free plans do not have access to this date, try from 2026-11-08 to 2026-11-10.'}\n",
  "calls": 4,
@@ -12,7 +12,7 @@
    "active": true
   },
   "requests": {
-   "current": 63,
+   "current": 66,
    "limit_day": 100
   }
  }
