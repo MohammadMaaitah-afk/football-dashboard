@@ -1,19 +1,14 @@
 {
- "time": "2026-11-09 09:15",
+ "time": "2026-11-09 09:31",
  "ok": false,
- "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1276, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1232, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 319, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 154, in api\n    raise RuntimeError(f\"API error on /{endpoint}: {data['errors']}\")\nRuntimeError: API error on /fixtures: {'plan': 'Free plans do not have access to this date, try from 2026-11-08 to 2026-11-10.'}\n",
- "calls": 4,
+ "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1276, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1232, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 319, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 154, in api\n    raise RuntimeError(f\"API error on /{endpoint}: {data['errors']}\")\nRuntimeError: API error on /fixtures: {'access': 'Your account is suspended, check on https://dashboard.api-football.com.'}\n",
+ "calls": 1,
  "api_status": {
   "http": 200,
-  "errors": [],
-  "subscription": {
-   "plan": "Free",
-   "end": "2026-12-08T07:30:03+00:00",
-   "active": true
+  "errors": {
+   "access": "Your account is suspended, check on https://dashboard.api-football.com."
   },
-  "requests": {
-   "current": 78,
-   "limit_day": 100
-  }
+  "subscription": null,
+  "requests": null
  }
 }
