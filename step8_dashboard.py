@@ -143,6 +143,31 @@ def get_key():
     return key
 
 
+BLOCK_FILE = os.path.join("data", "api_block.json")
+BLOCK_HOURS = 6     # after a suspension, limit or plan error: wait this long before trying again
+
+
+class ApiBlocked(RuntimeError):
+    pass
+
+
+def api_blocked():
+    """Returns the saved block (reason, until) if the API should not be called yet."""
+    try:
+        b = json.load(open(BLOCK_FILE, encoding="utf-8"))
+        if datetime.now(timezone.utc) < datetime.fromisoformat(b["until"]):
+            return b
+    except (OSError, ValueError, KeyError):
+        pass
+    return None
+
+
+def block_api(reason):
+    until = datetime.now(timezone.utc) + timedelta(hours=BLOCK_HOURS)
+    os.makedirs("data", exist_ok=True)
+    json.dump({"reason": reason, "until": until.isoformat()}, open(BLOCK_FILE, "w", encoding="utf-8"), ensure_ascii=False)
+
+
 def api(endpoint, params, key):
     global calls
     r = requests.get(f"{BASE_URL}/{endpoint}", headers={"x-apisports-key": key}, params=params, timeout=30)
@@ -151,7 +176,16 @@ def api(endpoint, params, key):
         raise RuntimeError(f"Server said {r.status_code} on /{endpoint}: {r.text[:300]}")
     data = r.json()
     if data.get("errors"):
+        err = str(data["errors"])
+        if any(w in err for w in ("suspended", "request limit", "Free plans", "access")):
+            block_api(err)      # stop calling the API for a while instead of retrying every 15 minutes
+            raise ApiBlocked(f"API blocked on /{endpoint}: {err}")
         raise RuntimeError(f"API error on /{endpoint}: {data['errors']}")
+    else:
+        try:
+            os.remove(BLOCK_FILE)
+        except OSError:
+            pass
     return data["response"]
 
 
@@ -1224,6 +1258,9 @@ def send_dashboard_file():
 
 
 def main():
+    b = api_blocked()
+    if b:
+        raise ApiBlocked(f"Paused until {b['until']}: {b['reason']}")
     key = get_key()
     COMPS.clear()
     COMPS.update(build_comps(key, load_agent_cfg()))
@@ -1257,7 +1294,7 @@ def save_run_status(ok, err=""):
     info = {"time": datetime.now(AMMAN).strftime("%Y-%m-%d %H:%M"), "ok": ok, "error": err[-1500:], "calls": calls}
     try:
         key = os.environ.get("API_FOOTBALL_KEY", "").strip()
-        if key:
+        if key and not api_blocked():
             r = requests.get(f"{BASE_URL}/status", headers={"x-apisports-key": key}, timeout=30)
             j = r.json()
             resp = j.get("response") or {}
