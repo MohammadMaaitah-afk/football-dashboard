@@ -1,6 +1,14 @@
 {
- "time": "2026-11-11 18:45",
+ "time": "2026-11-11 19:01",
  "ok": false,
- "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1313, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1263, in main\n    raise ApiBlocked(f\"Paused until {b['until']}: {b['reason']}\")\nApiBlocked: Paused until 2026-11-11T15:45:40.154167+00:00: {'plan': 'Free plans do not have access to this date, try from 2026-11-10 to 2026-11-12.'}\n",
- "calls": 0
+ "error": "Traceback (most recent call last):\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1313, in <module>\n    main()\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 1269, in main\n    matches, log = collect(key)\n                   ^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 353, in collect\n    fixtures += [f for f in api(\"fixtures\", {\"date\": day, \"timezone\": \"Asia/Amman\"}, key)\n                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/football-dashboard/football-dashboard/step8_dashboard.py\", line 183, in api\n    raise RuntimeError(f\"API error on /{endpoint}: {data['errors']}\")\nRuntimeError: API error on /fixtures: {'rateLimit': 'Too many requests. Your rate limit is 10 requests per minute.'}\n",
+ "calls": 16,
+ "api_status": {
+  "http": 429,
+  "errors": {
+   "rateLimit": "Too many requests. You have reached your per-minute request limit. Please wait a few seconds before retrying or upgrade your plan for higher limits."
+  },
+  "subscription": null,
+  "requests": null
+ }
 }
