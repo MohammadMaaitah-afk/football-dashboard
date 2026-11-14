@@ -1,1 +1,44 @@
-[]
+[
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611452,
+  "kickoff": "2026-11-18T19:45:00+03:00",
+  "home": "CS Constantine",
+  "away": "Ben Aknoun",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611458,
+  "kickoff": "2026-11-18T19:45:00+03:00",
+  "home": "Témouchent",
+  "away": "JS El Biar",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ }
+]
