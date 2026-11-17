@@ -199,17 +199,43 @@
   "kickoff": "2026-11-19T18:30:00+03:00",
   "home": "Al Ahli Doha",
   "away": "Al Shamal",
-  "p": null,
-  "source": null,
+  "p": [
+   0.31299259932138185,
+   0.24470330492398942,
+   0.4423040957546288
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.6454767726161369,
+   0.35452322738386305
+  ],
+  "btts": [
+   0.6649538375858928,
+   0.33504616241410723
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.01,
+    "edge": -0.05789227604264069
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.85,
+    "edge": -0.05789227604264069
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 2.13,
+    "edge": -0.05789227604264069
+   }
+  ],
+  "nbooks": 7,
   "move": null
  },
  {
