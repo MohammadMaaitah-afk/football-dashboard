@@ -165,27 +165,6 @@
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
-  "id": 1628044,
-  "kickoff": "2026-11-19T16:00:00+03:00",
-  "home": "Duhok",
-  "away": "Erbil",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
   "id": 1628041,
   "kickoff": "2026-11-19T16:45:00+03:00",
   "home": "Al Kahrabaa",
@@ -895,6 +874,27 @@
   "kickoff": "2026-11-20T19:15:00+03:00",
   "home": "Al-Jolan SC",
   "away": "Naft",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628044,
+  "kickoff": "2026-11-20T19:15:00+03:00",
+  "home": "Duhok",
+  "away": "Erbil",
   "p": null,
   "source": null,
   "out": {
