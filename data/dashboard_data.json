@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "D. Horkaš",
+     "Pedro Malheiro",
+     "S. Bouftini",
+     "Gabriel Vareta",
+     "Hugo",
+     "Cameron Puertas",
+     "Yahia Nader",
+     "B. Palacios",
+     "M. Taremi",
+     "Serginho",
+     "Renato Júnior"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Ibrahim Essa Al Balooshi",
+     "Saeed Sulaiman",
+     "Bruno Leonardo",
+     "Atiq Walid",
+     "Abdulla Al Baloosh",
+     "G. Ouahabi",
+     "Anass Taouil",
+     "J. Pedroza",
+     "F. Ben Arbi",
+     "D. Coulibaly",
+     "S. Jaziri"
+    ]
+   }
+  },
   "ou": [
    0.7807971014492754,
    0.21920289855072467
