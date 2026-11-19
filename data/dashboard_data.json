@@ -45,11 +45,11 @@
   ],
   "nbooks": 8,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 54,
    "gh": 1,
-   "ga": 0,
-   "at": "2026-11-19T14:45:41.859334+00:00"
+   "ga": 1,
+   "at": "2026-11-19T15:01:24.667125+00:00"
   }
  },
  {
@@ -70,7 +70,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "Khalid Eisa",
+     "V. Lazaro",
+     "Y. Ben Khaleq",
+     "Marcos Maia",
+     "Đ. Skoko",
+     "Erik",
+     "A. Romero",
+     "Abdoul Karim Traoré",
+     "M. Palacios",
+     "H. Rahimi",
+     "G. Giakoumakis"
+    ]
+   },
+   "away": {
+    "formation": "5-4-1",
+    "xi": [
+     "A. Al Sayed",
+     "Abdullah Al Karbi",
+     "L. Amesimeku",
+     "Serafim",
+     "Samir",
+     "Y. Almarzooqi",
+     "M. Alhammadi",
+     "Mansor Al Harbi",
+     "R. Djooh",
+     "M. El Khaloui",
+     "S. Kaba"
+    ]
+   }
+  },
   "ou": [
    0.7544204322200393,
    0.2455795677799607
@@ -124,7 +157,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Lingliz",
+     "Ahmed Reyed",
+     "R. Tihi",
+     "A. Amraoui",
+     "Ghanem Al Minhali",
+     "Luiz Ceará",
+     "D. Fettouhi",
+     "Suhaib Gannan",
+     "Younis Abdelrahman",
+     "J. Draxler",
+     "Erik Expósito"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Seck",
+     "Moufak Awad",
+     "Ahmed Suhail",
+     "Pablo Marí",
+     "Abdelkarim Hassan",
+     "N. Benaïssa",
+     "Tiago Silva",
+     "R. Mahrez",
+     "Álex Collado",
+     "W. Saïd",
+     "Omar Ali"
+    ]
+   }
+  },
   "ou": [
    0.6619385342789598,
    0.3380614657210402
