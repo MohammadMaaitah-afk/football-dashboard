@@ -46,10 +46,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 51,
-   "gh": 1,
+   "min": 66,
+   "gh": 2,
    "ga": 0,
-   "at": "2026-11-19T20:15:48.468889+00:00"
+   "at": "2026-11-19T20:31:03.330216+00:00"
   }
  },
  {
@@ -940,8 +940,20 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "A. Davies",
+    "L. Diaz",
+    "S. Gnabry",
+    "M. Neuer",
+    "I. Saibari"
+   ],
+   "away": [
+    "T. Dallinga",
+    "T. Hubers",
+    "I. Rondic",
+    "E. Skhiri",
+    "R. van den Berg"
+   ]
   },
   "lineups": null,
   "ou": [
