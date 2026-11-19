@@ -1,91 +1,5 @@
 [
  {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643062,
-  "kickoff": "2026-11-19T15:45:00+03:00",
-  "home": "Al-Wasl FC",
-  "away": "Hatta SC",
-  "p": [
-   0.8671643150030632,
-   0.08547318517055283,
-   0.04736249982638379
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "D. Horkaš",
-     "Pedro Malheiro",
-     "S. Bouftini",
-     "Gabriel Vareta",
-     "Hugo",
-     "Cameron Puertas",
-     "Yahia Nader",
-     "B. Palacios",
-     "M. Taremi",
-     "Serginho",
-     "Renato Júnior"
-    ]
-   },
-   "away": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Ibrahim Essa Al Balooshi",
-     "Saeed Sulaiman",
-     "Bruno Leonardo",
-     "Atiq Walid",
-     "Abdulla Al Baloosh",
-     "G. Ouahabi",
-     "Anass Taouil",
-     "J. Pedroza",
-     "F. Ben Arbi",
-     "D. Coulibaly",
-     "S. Jaziri"
-    ]
-   }
-  },
-  "ou": [
-   0.7807971014492754,
-   0.21920289855072467
-  ],
-  "btts": [
-   0.5037699124561801,
-   0.4962300875438199
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.12,
-    "edge": -0.028775967196569052
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 11.16,
-    "edge": -0.046119253496630375
-   },
-   {
-    "book": "William Hill",
-    "odd": 21.0,
-    "edge": -0.005387503645940428
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-19T14:31:13.777098+00:00"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -131,11 +45,11 @@
   ],
   "nbooks": 8,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-19T14:31:13.777098+00:00"
+   "at": "2026-11-19T14:45:41.859334+00:00"
   }
  },
  {
@@ -599,9 +513,9 @@
   ],
   "best": [
    {
-    "book": "Betfair",
-    "odd": 3.4,
-    "edge": -0.033306463156467236
+    "book": "Betano",
+    "odd": 3.35,
+    "edge": -0.04752254458063687
    },
    {
     "book": "Pinnacle",
