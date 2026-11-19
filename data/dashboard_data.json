@@ -1,58 +1,5 @@
 [
  {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611454,
-  "kickoff": "2026-11-19T22:00:00+03:00",
-  "home": "JS Kabylie",
-  "away": "USM Alger",
-  "p": [
-   0.4244377551181226,
-   0.33112165292903184,
-   0.24444059195284548
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.35452322738386305,
-   0.6454767726161369
-  ],
-  "btts": [
-   0.43910085998888065,
-   0.5608991400111194
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.22,
-    "edge": -0.05774818363776779
-   },
-   {
-    "book": "Betfair",
-    "odd": 3.0,
-    "edge": -0.00663504121290448
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.82,
-    "edge": -0.06623693874013026
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 81,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-19T20:45:40.592551+00:00"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -4071,5 +4018,289 @@
    ],
    "since": "19/11 00:01"
   }
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612279,
+  "kickoff": "2026-11-23T18:00:00+03:00",
+  "home": "El Gouna FC",
+  "away": "Zamalek SC",
+  "p": [
+   0.20240049516940717,
+   0.28719825614252265,
+   0.5104012486880701
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.3790523690773067,
+   0.6209476309226933
+  ],
+  "btts": [
+   0.43324357550207293,
+   0.5667564244979271
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 4.64,
+    "edge": -0.060861702413950836
+   },
+   {
+    "book": "Betfair",
+    "odd": 3.3,
+    "edge": -0.0522457547296753
+   },
+   {
+    "book": "William Hill",
+    "odd": 1.85,
+    "edge": -0.0557576899270702
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611419,
+  "kickoff": "2026-11-23T19:45:00+03:00",
+  "home": "Ben Aknoun",
+  "away": "USM Alger",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري الجزائري",
+  "type": "arab",
+  "en": "Algeria Ligue 1",
+  "id": 1611390,
+  "kickoff": "2026-11-23T21:00:00+03:00",
+  "home": "JS Kabylie",
+  "away": "MC Alger",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري المصري",
+  "type": "arab",
+  "en": "Egypt Premier League",
+  "id": 1612280,
+  "kickoff": "2026-11-23T21:00:00+03:00",
+  "home": "Al Ahly",
+  "away": "Pyramids FC",
+  "p": [
+   0.37530117771223565,
+   0.30410256200476976,
+   0.32059626028299454
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.4424083769633508,
+   0.5575916230366492
+  ],
+  "btts": [
+   0.516491850764887,
+   0.48350814923511304
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.52,
+    "edge": -0.05424103216516618
+   },
+   {
+    "book": "Marathonbet",
+    "odd": 3.12,
+    "edge": -0.05120000654511836
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 2.95,
+    "edge": -0.05424103216516607
+   }
+  ],
+  "nbooks": 6,
+  "move": null
+ },
+ {
+  "league": "الدوري الإيطالي",
+  "type": "top",
+  "en": "Serie A",
+  "id": 1550203,
+  "kickoff": "2026-11-23T22:45:00+03:00",
+  "home": "Monza",
+  "away": "Fiorentina",
+  "p": [
+   0.2557265826511393,
+   0.2472458541448515,
+   0.4970275632040092
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": [
+    "R. Sottil"
+   ]
+  },
+  "lineups": null,
+  "ou": [
+   0.6049382716049383,
+   0.3950617283950617
+  ],
+  "btts": [
+   0.6075909613915937,
+   0.3924090386084063
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 3.92,
+    "edge": 0.002448203992466036
+   },
+   {
+    "book": "1xBet",
+    "odd": 4.06,
+    "edge": 0.0038181678280970743
+   },
+   {
+    "book": "Dafabet",
+    "odd": 1.97,
+    "edge": -0.020855700488101925
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإنجليزي",
+  "type": "top",
+  "en": "Premier League",
+  "id": 1557469,
+  "kickoff": "2026-11-23T23:00:00+03:00",
+  "home": "Brentford",
+  "away": "Everton",
+  "p": [
+   0.4512913865508354,
+   0.2658291728998071,
+   0.28287944054935743
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [
+    "R. Henry",
+    "Kaye Iyowuna Furo",
+    "A. Milambo",
+    "J. Dasilva"
+   ],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5398457583547558,
+   0.4601542416452442
+  ],
+  "btts": [
+   0.5786956821340729,
+   0.4213043178659271
+  ],
+  "best": [
+   {
+    "book": "Dafabet",
+    "odd": 2.16,
+    "edge": -0.025210605050195456
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.84,
+    "edge": 0.020784023935259244
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.57,
+    "edge": 0.00987960276120603
+   }
+  ],
+  "nbooks": 10,
+  "move": null
+ },
+ {
+  "league": "الدوري الإسباني",
+  "type": "top",
+  "en": "La Liga",
+  "id": 1570457,
+  "kickoff": "2026-11-23T23:00:00+03:00",
+  "home": "Levante",
+  "away": "Elche",
+  "p": [
+   0.4405133147424082,
+   0.2684568677100549,
+   0.291029817547537
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.5586734693877551,
+   0.44132653061224486
+  ],
+  "btts": [
+   0.5951178090162681,
+   0.40488219098373185
+  ],
+  "best": [
+   {
+    "book": "1xBet",
+    "odd": 2.26,
+    "edge": -0.004439908682157601
+   },
+   {
+    "book": "1xBet",
+    "odd": 3.82,
+    "edge": 0.025505234652409614
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.33,
+    "edge": -0.03087070756670185
+   }
+  ],
+  "nbooks": 10,
+  "move": null
  }
 ]
