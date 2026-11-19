@@ -59,8 +59,8 @@
   "en": "Iraq Iraqi League",
   "id": 1628041,
   "kickoff": "2026-11-19T16:45:00+03:00",
-  "home": "Al Kahrabaa",
-  "away": "Diyala",
+  "home": "Diyala",
+  "away": "Al Kahrabaa",
   "p": [
    0.39643677222641993,
    0.30291976861107894,
@@ -170,9 +170,9 @@
   "home": "Al Ahli Doha",
   "away": "Al Shamal",
   "p": [
-   0.2991022312194693,
-   0.2414073845883026,
-   0.4594903841922282
+   0.29934009264924394,
+   0.2385718031640591,
+   0.462088104186697
   ],
   "source": "Pinnacle",
   "out": {
@@ -181,36 +181,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6473429951690821,
-   0.35265700483091783
+   0.6571428571428571,
+   0.3428571428571429
   ],
   "btts": [
-   0.6612688009804073,
-   0.33873119901959264
+   0.6623937216629238,
+   0.3376062783370764
   ],
   "best": [
    {
     "book": "Pinnacle",
     "odd": 3.18,
-    "edge": -0.048854904722087644
+    "edge": -0.04809850537540428
    },
    {
     "book": "Pinnacle",
-    "odd": 3.94,
-    "edge": -0.048854904722087755
+    "odd": 3.99,
+    "edge": -0.048098505375404166
    },
    {
     "book": "Pinnacle",
-    "odd": 2.07,
-    "edge": -0.048854904722087644
+    "odd": 2.06,
+    "edge": -0.048098505375404166
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.013890368101912576,
-    -0.0032959203356868194,
-    0.017186288437599395
+    -0.01365250667213791,
+    -0.0061315017599303245,
+    0.01978400843206818
    ],
    "since": "17/11 05:01"
   }
@@ -484,6 +484,27 @@
    ],
    "since": "17/11 18:45"
   }
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628043,
+  "kickoff": "2026-11-20T14:15:00+03:00",
+  "home": "Al Zawra'a",
+  "away": "Al Talaba",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الإماراتي",
@@ -814,27 +835,6 @@
   "kickoff": "2026-11-20T18:30:00+03:00",
   "home": "Al-Gharafa",
   "away": "Al-Arabi SC",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628043,
-  "kickoff": "2026-11-20T18:30:00+03:00",
-  "home": "Al Zawra'a",
-  "away": "Al Talaba",
   "p": null,
   "source": null,
   "out": {
@@ -1589,27 +1589,6 @@
    ],
    "since": "18/11 00:01"
   }
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628047,
-  "kickoff": "2026-11-21T16:00:00+03:00",
-  "home": "Newroz",
-  "away": "Al-Karma",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري التونسي",
@@ -2600,6 +2579,27 @@
    ],
    "since": "18/11 00:01"
   }
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628047,
+  "kickoff": "2026-11-21T19:30:00+03:00",
+  "home": "Newroz",
+  "away": "Al-Karma",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
  },
  {
   "league": "الدوري الإيطالي",
