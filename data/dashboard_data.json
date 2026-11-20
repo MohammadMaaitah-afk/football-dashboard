@@ -1,59 +1,5 @@
 [
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628043,
-  "kickoff": "2026-11-20T14:15:00+03:00",
-  "home": "Al Zawra'a",
-  "away": "Al Talaba",
-  "p": [
-   0.4553306545495513,
-   0.30668319000588334,
-   0.23798615544456544
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4293333333333334,
-   0.5706666666666667
-  ],
-  "btts": [
-   0.4907869267421084,
-   0.5092130732578917
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 2.0,
-    "edge": -0.08933869090089741
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.1,
-    "edge": -0.04928211098176161
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.9,
-    "edge": -0.07185399376619483
-   }
-  ],
-  "nbooks": 8,
-  "move": {
-   "diff": [
-    0.001632864947248014,
-    0.018286941391726264,
-    -0.019919806338974194
-   ],
-   "since": "19/11 13:31"
-  }
- },
- {
   "league": "الدوري الإماراتي",
   "type": "arab",
   "en": "United-Arab-Emirates Pro League",
@@ -71,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Sultan Al Mantheri",
+     "R. Alivoda",
+     "I. Cissé",
+     "K. Günter",
+     "Bader Nasser",
+     "Neto",
+     "A. Noorollahi",
+     "Mamadou Abdoulaye Ndoye",
+     "S. Ghoddos",
+     "Carlos Alberto",
+     "B. Tetteh"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Adel Al Hosani",
+     "JoÃ£o Pedro Chermont",
+     "M. Katinić",
+     "C. Nsiala-Makengo",
+     "Leandrinho",
+     "Majed Hassan",
+     "C. Pickel",
+     "Yahya Al Ghassani",
+     "Lorran",
+     "O. Camara",
+     "C. Doumbia"
+    ]
+   }
+  },
   "ou": [
    0.5169712793733681,
    0.4830287206266319
@@ -585,6 +564,60 @@
     0.006015985828994264
    ],
    "since": "19/11 07:31"
+  }
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628043,
+  "kickoff": "2026-11-20T18:30:00+03:00",
+  "home": "Al Zawra'a",
+  "away": "Al Talaba",
+  "p": [
+   0.4553306545495513,
+   0.30668319000588334,
+   0.23798615544456544
+  ],
+  "source": "Pinnacle",
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": [
+   0.4293333333333334,
+   0.5706666666666667
+  ],
+  "btts": [
+   0.4907869267421084,
+   0.5092130732578917
+  ],
+  "best": [
+   {
+    "book": "Bet365",
+    "odd": 2.0,
+    "edge": -0.08933869090089741
+   },
+   {
+    "book": "Bet365",
+    "odd": 3.1,
+    "edge": -0.04928211098176161
+   },
+   {
+    "book": "Dafabet",
+    "odd": 3.9,
+    "edge": -0.07185399376619483
+   }
+  ],
+  "nbooks": 8,
+  "move": {
+   "diff": [
+    0.001632864947248014,
+    0.018286941391726264,
+    -0.019919806338974194
+   ],
+   "since": "19/11 13:31"
   }
  },
  {
