@@ -672,6 +672,27 @@
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
+  "id": 1628040,
+  "kickoff": "2026-11-20T19:15:00+03:00",
+  "home": "Al-Jolan SC",
+  "away": "Naft",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
   "id": 1628044,
   "kickoff": "2026-11-20T19:15:00+03:00",
   "home": "Duhok",
@@ -775,48 +796,6 @@
    ],
    "since": "12/10 15:58"
   }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622667,
-  "kickoff": "2026-11-20T21:45:00+03:00",
-  "home": "Al Kuwait",
-  "away": "Al Salmiyah",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622670,
-  "kickoff": "2026-11-20T21:45:00+03:00",
-  "home": "Kazma",
-  "away": "Al Fahaheel",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الجزائري",
@@ -947,9 +926,9 @@
   "home": "Estac Troyes",
   "away": "Le Havre",
   "p": [
-   0.43689256052306064,
-   0.2795105142251281,
-   0.2835969252518113
+   0.4369008526115832,
+   0.28032366843864587,
+   0.282775478949771
   ],
   "source": "Pinnacle",
   "out": {
@@ -969,36 +948,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5089974293059126,
-   0.4910025706940874
+   0.5064267352185091,
+   0.493573264781491
   ],
   "btts": [
-   0.5561809228310469,
-   0.4438190771689531
+   0.554193570176286,
+   0.445806429823714
   ],
   "best": [
    {
     "book": "Dafabet",
     "odd": 2.25,
-    "edge": -0.016991738823113556
+    "edge": -0.016973081623937847
    },
    {
     "book": "1xBet",
     "odd": 3.7,
-    "edge": 0.03418890263297403
+    "edge": 0.037197573222989666
    },
    {
     "book": "1xBet",
     "odd": 3.46,
-    "edge": -0.018754638628732945
+    "edge": -0.021596842833792373
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.03131131527382486,
-    0.01251822141533393,
-    0.018793093858490872
+    -0.031303023185302314,
+    0.013331375628851672,
+    0.017971647556450587
    ],
    "since": "17/11 00:01"
   }
@@ -1349,6 +1328,27 @@
   }
  },
  {
+  "league": "الدوري العراقي",
+  "type": "arab",
+  "en": "Iraq Iraqi League",
+  "id": 1628047,
+  "kickoff": "2026-11-21T16:00:00+03:00",
+  "home": "Newroz",
+  "away": "Al-Karma",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري التونسي",
   "type": "arab",
   "en": "Tunisia Ligue 1",
@@ -1575,27 +1575,6 @@
    ],
    "since": "18/11 00:01"
   }
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628040,
-  "kickoff": "2026-11-21T17:00:00+03:00",
-  "home": "Al-Jolan SC",
-  "away": "Naft",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الألماني",
@@ -2499,27 +2478,6 @@
   }
  },
  {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628047,
-  "kickoff": "2026-11-21T19:30:00+03:00",
-  "home": "Newroz",
-  "away": "Al-Karma",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -2775,48 +2733,6 @@
    ],
    "since": "18/11 00:01"
   }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622669,
-  "kickoff": "2026-11-21T21:45:00+03:00",
-  "home": "Al Tadhamon",
-  "away": "Al Arabi",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1634796,
-  "kickoff": "2026-11-21T21:45:00+03:00",
-  "home": "Al Sulaibikhat",
-  "away": "Al Qadsia",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الإيطالي",
@@ -4118,27 +4034,6 @@
    ],
    "since": "19/11 00:01"
   }
- },
- {
-  "league": "الدوري الكويتي",
-  "type": "arab",
-  "en": "Kuwait Premier League",
-  "id": 1622668,
-  "kickoff": "2026-11-22T21:45:00+03:00",
-  "home": "Al Nasar",
-  "away": "Al Jahra",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الإيطالي",
