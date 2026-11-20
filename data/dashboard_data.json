@@ -79,10 +79,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
-   "gh": 1,
+   "min": 85,
+   "gh": 3,
    "ga": 1,
-   "at": "2026-11-20T19:01:14.387304+00:00"
+   "at": "2026-11-20T19:15:43.516503+00:00"
   }
  },
  {
@@ -130,13 +130,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    0.04539314277061446,
-    -0.015911774372343646,
-    -0.02948136839827062
-   ],
-   "since": "18/11 07:01"
+  "live": {
+   "st": "1H",
+   "min": 13,
+   "gh": 1,
+   "ga": 1,
+   "at": "2026-11-20T19:15:43.516503+00:00"
   }
  },
  {
@@ -268,7 +267,40 @@
     "S. Zagadou"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "H. Konaté",
+     "Y. Titi",
+     "A. Monfray",
+     "A. Ouzenadji",
+     "I. Boura",
+     "A. Mille",
+     "D. Karim",
+     "M. Diop",
+     "M. Ifnaoui",
+     "J. Le Douaron",
+     "K. Diawara"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "A. Bodart",
+     "V. Sasso",
+     "A. Seko",
+     "A. Touba",
+     "E. Koffi Vinette",
+     "S. Ebonog",
+     "A. Richardson",
+     "J. Mwanga",
+     "R. Fofana",
+     "K. Mizuta",
+     "J. Maja"
+    ]
+   }
+  },
   "ou": [
    0.5051282051282052,
    0.49487179487179483
