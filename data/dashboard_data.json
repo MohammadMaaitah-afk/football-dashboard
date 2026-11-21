@@ -1,230 +1,5 @@
 [
  {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643068,
-  "kickoff": "2026-11-21T18:25:00+03:00",
-  "home": "Dubai United",
-  "away": "Al Wahda FC",
-  "p": [
-   0.16427492717421643,
-   0.2099672910239985,
-   0.625757781801785
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "S. Leković",
-     "Hamid Yahya",
-     "A. Puric",
-     "O. Jamal",
-     "B. Nagoro",
-     "M. Name",
-     "Adeel Al Chadli",
-     "A. Karimi",
-     "Baidi Diakite",
-     "Willy Semedo",
-     "D. Ndembo-Michel"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "F. Lirussi",
-     "Mansour Saleh Barghash Jaralla Al Menhali",
-     "A. Zouhir",
-     "M. Diarra",
-     "M. Ghorbani",
-     "Jadsom Silva",
-     "Abdulla Hamad",
-     "A. Čerin",
-     "Sam Mark Koffie",
-     "F. Kruspzky",
-     "Omar Khribin"
-    ]
-   }
-  },
-  "ou": [
-   0.5924050632911392,
-   0.40759493670886077
-  ],
-  "btts": [
-   0.5548496381329543,
-   0.44515036186704576
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 5.79,
-    "edge": -0.048848171661286854
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.53,
-    "edge": -0.04884817166128674
-   },
-   {
-    "book": "Betano",
-    "odd": 1.55,
-    "edge": -0.03007543820723324
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-21T17:15:45.980794+00:00"
-  }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597966,
-  "kickoff": "2026-11-21T18:30:00+03:00",
-  "home": "Al Shahaniya",
-  "away": "Al-Rayyan SC",
-  "p": [
-   0.12481397797894801,
-   0.16975590944373856,
-   0.7054301125773135
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Shehab Ellethy",
-     "A. Mohamed",
-     "S. van Beek",
-     "Z. Šarlija",
-     "Abdulla Al Sulaiti",
-     "Moameen Mutasem",
-     "Álvaro Sanz",
-     "Mohamed Surag",
-     "F. Antonucci",
-     "A. Traoré",
-     "Lucas Gabriel Ribeiro Firmo"
-    ]
-   },
-   "away": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "Mahmud Abunada",
-     "Jassem Gaber",
-     "Youssef Ayman",
-     "David García",
-     "Ahmed Al Minhali",
-     "D. Amaro",
-     "Gabriel Pereira",
-     "Gregore",
-     "Otávio",
-     "Róger Guedes",
-     "A. Mitrović"
-    ]
-   }
-  },
-  "ou": [
-   0.690744920993228,
-   0.309255079006772
-  ],
-  "btts": [
-   0.5946312570872446,
-   0.4053687429127554
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 7.63,
-    "edge": -0.04766934802062672
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.61,
-    "edge": -0.04766934802062661
-   },
-   {
-    "book": "Betano",
-    "odd": 1.39,
-    "edge": -0.019452143517534326
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 1,
-   "ga": 5,
-   "at": "2026-11-21T17:15:45.980794+00:00"
-  }
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628046,
-  "kickoff": "2026-11-21T18:30:00+03:00",
-  "home": "Naft Maysan",
-  "away": "Mosul",
-  "p": [
-   0.4495205770046669,
-   0.29043699618158675,
-   0.2600424268137463
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": [
-   0.4462365591397849,
-   0.553763440860215
-  ],
-  "btts": [
-   0.4995383816909702,
-   0.5004616183090298
-  ],
-  "best": [
-   {
-    "book": "William Hill",
-    "odd": 2.1,
-    "edge": -0.05600678829019945
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.15,
-    "edge": -0.0851234620280018
-   },
-   {
-    "book": "Dafabet",
-    "odd": 3.5,
-    "edge": -0.08985150615188797
-   }
-  ],
-  "nbooks": 8,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 1,
-   "ga": 2,
-   "at": "2026-11-21T17:15:45.980794+00:00"
-  }
- },
- {
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
@@ -311,11 +86,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 50,
    "gh": 1,
    "ga": 2,
-   "at": "2026-11-21T17:15:45.980794+00:00"
+   "at": "2026-11-21T17:31:06.194244+00:00"
   }
  },
  {
@@ -364,11 +139,11 @@
   ],
   "nbooks": 8,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 1,
-   "at": "2026-11-21T17:15:45.980794+00:00"
+   "at": "2026-11-21T17:31:06.194244+00:00"
   }
  },
  {
@@ -460,10 +235,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-21T17:15:45.980794+00:00"
+   "at": "2026-11-21T17:31:06.194244+00:00"
   }
  },
  {
@@ -551,13 +326,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.01302115524461378,
-    0.0093488753133181,
-    0.0036722799312958188
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 2,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T17:31:06.194244+00:00"
   }
  },
  {
@@ -745,13 +519,12 @@
    }
   ],
   "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.005195827397633357,
-    0.006863801667884278,
-    -0.0016679742702507827
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T17:31:06.194244+00:00"
   }
  },
  {
@@ -1291,8 +1064,8 @@
    0.7046979865771812
   ],
   "btts": [
-   0.4254343402822105,
-   0.5745656597177895
+   0.41142002445918135,
+   0.5885799755408186
   ],
   "best": [
    {
@@ -1311,7 +1084,7 @@
     "edge": -0.07758764935249274
    }
   ],
-  "nbooks": 6,
+  "nbooks": 8,
   "move": {
    "diff": [
     -0.027853491894878346,
