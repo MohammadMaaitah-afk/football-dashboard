@@ -1,484 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557467,
-  "kickoff": "2026-11-21T18:00:00+03:00",
-  "home": "Aston Villa",
-  "away": "Sunderland",
-  "p": [
-   0.5444703697391079,
-   0.2524875548790164,
-   0.2030420753818757
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Cash",
-    "A. Onana",
-    "M. Ruggeri"
-   ],
-   "away": [
-    "D. Ballard",
-    "B. Brobbey",
-    "H. Diarra",
-    "R. Mundle",
-    "G. Xhaka"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Z. Suzuki",
-     "A. Wan-Bissaka",
-     "T. Harwood-Bellis",
-     "Pau Torres",
-     "I. Maatsen",
-     "B. Kamara",
-     "L. Goretzka",
-     "Alysson Edward",
-     "J. Manzambi",
-     "E. Buendía",
-     "N. Jackson"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "R. Roefs",
-     "T. Hume",
-     "N. Mukiele",
-     "L. O&apos;Nien",
-     "Reinildo",
-     "Jules Ahoka",
-     "N. Sadiki",
-     "T. Meunier",
-     "E. Le Fée",
-     "C. Talbi",
-     "W. Isidor"
-    ]
-   }
-  },
-  "ou": [
-   0.5307692307692307,
-   0.46923076923076923
-  ],
-  "btts": [
-   0.5519868432767163,
-   0.4480131567232837
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.82,
-    "edge": -0.009063927074823619
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": 0.050348228296708264
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.8,
-    "edge": -0.025398038166996706
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 89,
-   "gh": 0,
-   "ga": 0,
-   "at": "2026-11-21T16:45:45.040296+00:00"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557468,
-  "kickoff": "2026-11-21T18:00:00+03:00",
-  "home": "Bournemouth",
-  "away": "Nottingham Forest",
-  "p": [
-   0.48941458672288163,
-   0.27590227410156787,
-   0.23468313917555048
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Araujo",
-    "A. Toth",
-    "J. Sanchez"
-   ],
-   "away": [
-    "N. Dominguez",
-    "C. Hudson-Odoi",
-    "N. Savona",
-    "X. Schlager",
-    "N. Williams"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Đ. Petrović",
-     "A. Smith",
-     "J. Hill",
-     "António Silva",
-     "A. Truffert",
-     "T. Adams",
-     "R. Christie",
-     "Rayan",
-     "J. Kluivert",
-     "M. Tavernier",
-     "Evanilson"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "M. Sels",
-     "Jair",
-     "N. Milenković",
-     "Murillo",
-     "D. Muñoz",
-     "J. McAtee",
-     "R. Yates",
-     "N. Williams",
-     "D. Ndoye",
-     "M. Gibbs-White",
-     "L. Delap"
-    ]
-   }
-  },
-  "ou": [
-   0.4668367346938776,
-   0.5331632653061223
-  ],
-  "btts": [
-   0.5186931653272006,
-   0.48130683467279933
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 1.99,
-    "edge": -0.02606497242146555
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.74,
-    "edge": 0.031874505139863896
-   },
-   {
-    "book": "Betano",
-    "odd": 4.3,
-    "edge": 0.00913749845486711
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-21T16:45:45.040296+00:00"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557470,
-  "kickoff": "2026-11-21T18:00:00+03:00",
-  "home": "Chelsea",
-  "away": "Leeds",
-  "p": [
-   0.46246841852592924,
-   0.27800808065233923,
-   0.2595235008217316
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Gittens",
-    "J. Hato",
-    "R. James",
-    "Joao Pedro",
-    "M. Lacroix"
-   ],
-   "away": [
-    "M. Joseph"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "E. Martínez",
-     "Joshua Kofi Acheampong",
-     "W. Fofana",
-     "L. Colwill",
-     "Pep Chavarría",
-     "R. Lavia",
-     "M. Caicedo",
-     "Estêvão",
-     "C. Palmer",
-     "M. Rogers",
-     "E. Emegha"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "J. Trafford",
-     "J. Justin",
-     "N. Elvedi",
-     "T. Muharemović",
-     "J. Bogle",
-     "E. Ampadu",
-     "A. Tanaka",
-     "G. Gudmundsson",
-     "S. Longstaff",
-     "N. Okafor",
-     "D. Calvert-Lewin"
-    ]
-   }
-  },
-  "ou": [
-   0.5025641025641026,
-   0.4974358974358974
-  ],
-  "btts": [
-   0.5410121359375684,
-   0.4589878640624315
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.11,
-    "edge": -0.02419163691028936
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.78,
-    "edge": 0.05087054486584219
-   },
-   {
-    "book": "Dafabet",
-    "odd": 4.0,
-    "edge": 0.03809400328692636
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 1,
-   "ga": 3,
-   "at": "2026-11-21T16:45:45.040296+00:00"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557471,
-  "kickoff": "2026-11-21T18:00:00+03:00",
-  "home": "Coventry",
-  "away": "Crystal Palace",
-  "p": [
-   0.38154855962076084,
-   0.2839431141363802,
-   0.3345083262428588
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Amenda",
-    "J. Eccles",
-    "E. Mason-Clark",
-    "L. Woolfenden",
-    "H. Wright",
-    "B. Thomas",
-    "C. Yirenkyi"
-   ],
-   "away": [
-    "J. Mateta",
-    "C. Riad",
-    "J. Larsen",
-    "I. Sarr",
-    "T. Tomiyasu"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "C. Rushworth",
-     "M. van Ewijk",
-     "B. Thomas",
-     "E. Pinnock",
-     "S. Mfuni",
-     "V. Torp",
-     "M. Grimes",
-     "T. Sakamoto",
-     "J. Rudoni",
-     "Y. Gboho",
-     "T. Awoniyi"
-    ]
-   },
-   "away": {
-    "formation": "4-3-2-1",
-    "xi": [
-     "D. Henderson",
-     "A. Khalaili",
-     "A. Disasi",
-     "C. Richards",
-     "T. Mitchell",
-     "Q. Timber",
-     "A. Wharton",
-     "D. Kamada",
-     "D. McNeil",
-     "Yeremy Pino",
-     "J. Strand Larsen"
-    ]
-   }
-  },
-  "ou": [
-   0.5307692307692307,
-   0.46923076923076923
-  ],
-  "btts": [
-   0.5871576230859608,
-   0.4128423769140392
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.56,
-    "edge": -0.023235687370852243
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.78,
-    "edge": 0.07330497143551695
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.92,
-    "edge": -0.023235687370852243
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 2,
-   "ga": 2,
-   "at": "2026-11-21T16:45:45.040296+00:00"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557476,
-  "kickoff": "2026-11-21T18:00:00+03:00",
-  "home": "Tottenham",
-  "away": "Ipswich",
-  "p": [
-   0.636201121196869,
-   0.20978183522224345,
-   0.15401704358088758
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. Adarabioyo",
-    "W. Odobert",
-    "X. Simons",
-    "M. Tel",
-    "M. Dubravka",
-    "M. Mudryk"
-   ],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "A. Kinský",
-     "Pedro Porro",
-     "J. van Hecke",
-     "M. Senesi",
-     "D. Udogie",
-     "C. Gallagher",
-     "Mateus Fernandes",
-     "M. Kudus",
-     "J. Maddison",
-     "L. Williams-Barnett",
-     "D. Solanke"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "C. Walton",
-     "D. Furlong",
-     "I. Diop",
-     "D. O&apos;Shea",
-     "L. Davis",
-     "S. Lukić",
-     "E. Palacios",
-     "A. Ouattara",
-     "J. Enciso",
-     "D. Maeda",
-     "Z. Flemming"
-    ]
-   }
-  },
-  "ou": [
-   0.598014888337469,
-   0.40198511166253104
-  ],
-  "btts": [
-   0.5562127253173327,
-   0.4437872746826673
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.6,
-    "edge": 0.01792179391499049
-   },
-   {
-    "book": "Dafabet",
-    "odd": 4.7,
-    "edge": -0.014025374455455819
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 6.32,
-    "edge": -0.0266122845687905
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-21T16:45:45.040296+00:00"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -570,10 +91,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 86,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-21T16:45:45.040296+00:00"
+   "at": "2026-11-21T17:01:15.555544+00:00"
   }
  },
  {
@@ -656,10 +177,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 61,
+   "min": 76,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T16:45:45.040296+00:00"
+   "at": "2026-11-21T17:01:15.555544+00:00"
   }
  },
  {
@@ -742,10 +263,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 55,
+   "min": 71,
    "gh": 1,
    "ga": 4,
-   "at": "2026-11-21T16:45:45.040296+00:00"
+   "at": "2026-11-21T17:01:15.555544+00:00"
   }
  },
  {
@@ -795,10 +316,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 58,
+   "min": 73,
    "gh": 0,
-   "ga": 1,
-   "at": "2026-11-21T16:45:45.040296+00:00"
+   "ga": 2,
+   "at": "2026-11-21T17:01:15.555544+00:00"
   }
  },
  {
@@ -889,10 +410,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 31,
+   "min": 45,
    "gh": 1,
-   "ga": 0,
-   "at": "2026-11-21T16:45:45.040296+00:00"
+   "ga": 2,
+   "at": "2026-11-21T17:01:15.555544+00:00"
   }
  },
  {
@@ -942,10 +463,10 @@
   "nbooks": 8,
   "live": {
    "st": "1H",
-   "min": 15,
+   "min": 30,
    "gh": 1,
    "ga": 1,
-   "at": "2026-11-21T16:45:45.040296+00:00"
+   "at": "2026-11-21T17:01:15.555544+00:00"
   }
  },
  {
@@ -1069,7 +590,40 @@
     "M. Zubimendi"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Horníček",
+     "A. Dedić",
+     "M. Thiaw",
+     "D. Burn",
+     "L. Hall",
+     "Sean Steur",
+     "L. Miley",
+     "J. Murphy",
+     "J. Willock",
+     "H. Barnes",
+     "W. Osula"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "David Raya",
+     "J. Timber",
+     "E. Konsa",
+     "Gabriel Magalhães",
+     "R. Calafiori",
+     "Bruno Guimarães",
+     "D. Rice",
+     "N. Madueke",
+     "M. Ødegaard",
+     "E. Eze",
+     "K. Havertz"
+    ]
+   }
+  },
   "ou": [
    0.5421994884910486,
    0.45780051150895135
@@ -1132,7 +686,40 @@
     "J. Morante"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "O. Vlachodimos",
+     "Juan Iglesias",
+     "Andrés Castrín",
+     "Kike Salas",
+     "G. Suazo",
+     "Y. Fofana",
+     "L. Agoumé",
+     "R. Vargas",
+     "Jon Guridi",
+     "Félix Correia",
+     "L. Stassin"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Álvaro Vallés",
+     "Héctor Bellerín",
+     "Marc Bartra",
+     "Natan",
+     "Fran García",
+     "Pablo Fornals",
+     "Marc Roca",
+     "Antony",
+     "Isco",
+     "A. Ezzalzouli",
+     "Aitor Ruibal"
+    ]
+   }
+  },
   "ou": [
    0.5166240409207161,
    0.48337595907928377
@@ -1197,7 +784,40 @@
     "D. Zagadou"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "L. Karius",
+     "N. Katić",
+     "H. Kuruçay",
+     "Vitalie  Becker",
+     "J. Dina Ebimbe",
+     "D. Ljubičić",
+     "S. El-Faouzi",
+     "K. Karaman",
+     "A. Aouchiche",
+     "Hwang Hee-Chan",
+     "J. Adamu"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Seimen",
+     "Finn Jeltsch",
+     "J. Chabot",
+     "R. Hendriks",
+     "J. Leweling",
+     "G. Prömel",
+     "Y. Spalt",
+     "M. Mittelstädt",
+     "D. Undav",
+     "C. Führich",
+     "E. Demirović"
+    ]
+   }
+  },
   "ou": [
    0.6301703163017031,
    0.3698296836982968
@@ -2442,9 +2062,9 @@
   "home": "AC Milan",
   "away": "Frosinone",
   "p": [
-   0.6316114070881248,
-   0.20090757855401892,
-   0.1674810143578563
+   0.62866304669217,
+   0.20296458949810103,
+   0.168372363809729
   ],
   "source": "Pinnacle",
   "out": {
@@ -2464,36 +2084,36 @@
   },
   "lineups": null,
   "ou": [
-   0.7170212765957447,
-   0.2829787234042553
+   0.7077922077922079,
+   0.29220779220779225
   ],
   "btts": [
-   0.6516671402578769,
-   0.34833285974212325
+   0.6508333267177927,
+   0.34916667328220735
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 1.58,
-    "edge": -0.0020539768007628023
+    "edge": -0.006712386226371381
    },
    {
     "book": "1xBet",
-    "odd": 5.05,
-    "edge": 0.014583271697795608
+    "odd": 5.08,
+    "edge": 0.0310601146503533
    },
    {
     "book": "Pinnacle",
-    "odd": 5.77,
-    "edge": -0.033634547155169114
+    "odd": 5.75,
+    "edge": -0.031858908094058225
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0015129542048618605,
-    -0.0016240670156013326,
-    0.00011111281073958312
+    -0.0014354061910929472,
+    0.00043294392848078345,
+    0.0010024622626122748
    ],
    "since": "19/11 00:01"
   }
@@ -2531,14 +2151,14 @@
    0.5307692307692307
   ],
   "btts": [
-   0.503992177983863,
-   0.49600782201613697
+   0.5047642816196454,
+   0.4952357183803546
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 1.85,
-    "edge": -0.03315632129651491
+    "book": "Betano",
+    "odd": 1.87,
+    "edge": -0.02270395720242313
    },
    {
     "book": "1xBet",
@@ -2605,14 +2225,14 @@
     "edge": -0.03391432346092926
    },
    {
-    "book": "Pinnacle",
-    "odd": 4.79,
-    "edge": -0.03391432346092926
+    "book": "1xBet",
+    "odd": 4.82,
+    "edge": -0.027863682480517515
    },
    {
     "book": "1xBet",
-    "odd": 1.65,
-    "edge": 0.015312972158895821
+    "odd": 1.64,
+    "edge": 0.009159560206417616
    }
   ],
   "nbooks": 10,
@@ -2661,19 +2281,19 @@
   ],
   "best": [
    {
-    "book": "1xBet",
+    "book": "Betano",
     "odd": 1.5,
     "edge": -0.025402814262051043
    },
    {
     "book": "1xBet",
-    "odd": 5.03,
-    "edge": -0.006215846537386938
+    "odd": 5.08,
+    "edge": 0.0036627235765556154
    },
    {
     "book": "1xBet",
-    "odd": 6.67,
-    "edge": 0.018489927551993413
+    "odd": 6.7,
+    "edge": 0.023070841768868977
    }
   ],
   "nbooks": 10,
@@ -2695,9 +2315,9 @@
   "home": "Getafe",
   "away": "Atletico Madrid",
   "p": [
-   0.1483294040017321,
-   0.23268058314488577,
-   0.6189900128533821
+   0.1484934957680392,
+   0.23577869693900858,
+   0.6157278072929523
   ],
   "source": "Pinnacle",
   "out": {
@@ -2714,36 +2334,36 @@
   },
   "lineups": null,
   "ou": [
-   0.4717948717948718,
-   0.5282051282051282
+   0.46035805626598464,
+   0.5396419437340153
   ],
   "btts": [
-   0.46313279150286013,
-   0.5368672084971399
+   0.4611677047751809,
+   0.5388322952248191
   ],
   "best": [
    {
     "book": "Pinnacle",
     "odd": 6.51,
-    "edge": -0.03437557994872398
+    "edge": -0.033307342550064845
    },
    {
-    "book": "Pinnacle",
-    "odd": 4.15,
-    "edge": -0.03437557994872398
+    "book": "Betfair",
+    "odd": 4.1,
+    "edge": -0.033307342550064956
    },
    {
     "book": "1xBet",
     "odd": 1.66,
-    "edge": 0.02752342133661423
+    "edge": 0.02210816010630068
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.022081130467671434,
-    -0.011316318481760262,
-    0.03339744894943164
+    -0.021917038701364355,
+    -0.008218204687637454,
+    0.030135243389001865
    ],
    "since": "19/11 00:01"
   }
