@@ -111,7 +111,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Fahad Al Dhanhani",
+     "S. Al Noobi",
+     "N. Đeković",
+     "Mahamadou Camara",
+     "Joao Victor Wesner",
+     "Fawaz Awana",
+     "J. Awoute",
+     "Alhassan Koroma",
+     "A. Gʻaniyev",
+     "S. Godwin",
+     "Y. Niakaté"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Ahmed Shambih",
+     "Zayed Sultan",
+     "Abdoulaye Sanogo",
+     "Gláuber",
+     "D. Petrović",
+     "L. Milivojević",
+     "K. Agudelo",
+     "A. Hrustić",
+     "M. Marin",
+     "M. Ghaedi",
+     "R. Mierez"
+    ]
+   }
+  },
   "ou": [
    0.5862944162436549,
    0.4137055837563452
@@ -165,7 +198,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Ahmed Al Hosani",
+     "A. Jashak",
+     "Kayque Soares",
+     "L. Haquín",
+     "Rafael Pereira",
+     "Abdalla Al Naqbi",
+     "A. Camara",
+     "Aylton Boa Morte",
+     "J. N&apos;Guessan",
+     "P. Pavlov",
+     "T. Tissoudali"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "E. Destanoğlu",
+     "Igor",
+     "Malcom",
+     "K. Asllani",
+     "Khalifa Al Hammadi",
+     "R. Tagir",
+     "M. Coulibaly",
+     "N. Mujkić",
+     "Vinicius Mello",
+     "Bruno",
+     "Milson"
+    ]
+   }
+  },
   "ou": [
    0.5877862595419847,
    0.41221374045801523
