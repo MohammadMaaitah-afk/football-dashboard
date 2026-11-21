@@ -1,98 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557474,
-  "kickoff": "2026-11-21T15:30:00+03:00",
-  "home": "Manchester City",
-  "away": "Fulham",
-  "p": [
-   0.700733736774518,
-   0.17871924662689537,
-   0.12054701659858662
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Semenyo",
-    "A. Khusanov",
-    "M. Nunes"
-   ],
-   "away": [
-    "B. Lecomte",
-    "E. Smith Rowe"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "G. Donnarumma",
-     "A. Khusanov",
-     "Rúben Dias",
-     "M. Guéhi",
-     "N. O&apos;Reilly",
-     "A. Bouaddi",
-     "E. Anderson",
-     "I. Ndiaye",
-     "P. Foden",
-     "J. Doku",
-     "E. Haaland"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "B. Leno",
-     "K. Tete",
-     "D. Affengruber",
-     "C. Bassey",
-     "R. Sessegnon",
-     "S. Berge",
-     "S. Charles",
-     "Oscar Bobb",
-     "Joshua King",
-     "A. Iwobi",
-     "Rodrigo Muniz"
-    ]
-   }
-  },
-  "ou": [
-   0.6750572082379863,
-   0.32494279176201374
-  ],
-  "btts": [
-   0.5948310480532573,
-   0.4051689519467428
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.44,
-    "edge": 0.009056580955305815
-   },
-   {
-    "book": "1xBet",
-    "odd": 5.63,
-    "edge": 0.006189358509420817
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 8.08,
-    "edge": -0.025980105883420146
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-21T14:15:41.842952+00:00"
-  }
- },
- {
   "league": "الدوري الإماراتي",
   "type": "arab",
   "en": "United-Arab-Emirates Pro League",
@@ -172,10 +79,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 86,
    "gh": 2,
    "ga": 1,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -258,10 +165,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 67,
+   "min": 82,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -351,10 +258,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 57,
-   "gh": 1,
+   "min": 72,
+   "gh": 2,
    "ga": 1,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -437,10 +344,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 55,
-   "gh": 0,
-   "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "min": 70,
+   "gh": 2,
+   "ga": 2,
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -489,11 +396,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "1H",
-   "min": 42,
+   "st": "HT",
+   "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -542,11 +449,11 @@
   ],
   "nbooks": 8,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
-   "gh": 1,
+   "gh": 2,
    "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -595,11 +502,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -692,10 +599,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 13,
-   "gh": 0,
+   "min": 28,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -787,10 +694,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 15,
-   "gh": 0,
+   "min": 30,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -840,10 +747,10 @@
   "nbooks": 7,
   "live": {
    "st": "1H",
-   "min": 17,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-21T14:15:41.842952+00:00"
+   "min": 32,
+   "gh": 1,
+   "ga": 2,
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -932,13 +839,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    0.005540242727529843,
-    0.0011774603850871201,
-    -0.006717703112617018
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -1028,13 +934,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.04139537823284983,
-    0.0006094003402556392,
-    0.04078597789259425
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -1125,13 +1030,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.03223308455735807,
-    -0.01549308012851594,
-    0.047726164685873984
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -1321,13 +1225,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.002911923573318209,
-    0.0027384816139456314,
-    0.00017344195937235574
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T14:31:04.030210+00:00"
   }
  },
  {
@@ -1358,7 +1261,40 @@
     "G. Xhaka"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Z. Suzuki",
+     "A. Wan-Bissaka",
+     "T. Harwood-Bellis",
+     "Pau Torres",
+     "I. Maatsen",
+     "B. Kamara",
+     "L. Goretzka",
+     "Alysson Edward",
+     "J. Manzambi",
+     "E. Buendía",
+     "N. Jackson"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "R. Roefs",
+     "T. Hume",
+     "N. Mukiele",
+     "L. O&apos;Nien",
+     "Reinildo",
+     "Jules Ahoka",
+     "N. Sadiki",
+     "T. Meunier",
+     "E. Le Fée",
+     "C. Talbi",
+     "W. Isidor"
+    ]
+   }
+  },
   "ou": [
    0.5307692307692307,
    0.46923076923076923
@@ -1422,7 +1358,40 @@
     "N. Williams"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Đ. Petrović",
+     "A. Smith",
+     "J. Hill",
+     "António Silva",
+     "A. Truffert",
+     "T. Adams",
+     "R. Christie",
+     "Rayan",
+     "J. Kluivert",
+     "M. Tavernier",
+     "Evanilson"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "M. Sels",
+     "Jair",
+     "N. Milenković",
+     "Murillo",
+     "D. Muñoz",
+     "J. McAtee",
+     "R. Yates",
+     "N. Williams",
+     "D. Ndoye",
+     "M. Gibbs-White",
+     "L. Delap"
+    ]
+   }
+  },
   "ou": [
    0.4668367346938776,
    0.5331632653061223
@@ -1484,7 +1453,40 @@
     "M. Joseph"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "E. Martínez",
+     "Joshua Kofi Acheampong",
+     "W. Fofana",
+     "L. Colwill",
+     "Pep Chavarría",
+     "R. Lavia",
+     "M. Caicedo",
+     "Estêvão",
+     "C. Palmer",
+     "M. Rogers",
+     "E. Emegha"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "J. Trafford",
+     "J. Justin",
+     "N. Elvedi",
+     "T. Muharemović",
+     "J. Bogle",
+     "E. Ampadu",
+     "A. Tanaka",
+     "G. Gudmundsson",
+     "S. Longstaff",
+     "N. Okafor",
+     "D. Calvert-Lewin"
+    ]
+   }
+  },
   "ou": [
    0.5025641025641026,
    0.4974358974358974
@@ -1552,7 +1554,40 @@
     "T. Tomiyasu"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Rushworth",
+     "M. van Ewijk",
+     "B. Thomas",
+     "E. Pinnock",
+     "S. Mfuni",
+     "V. Torp",
+     "M. Grimes",
+     "T. Sakamoto",
+     "J. Rudoni",
+     "Y. Gboho",
+     "T. Awoniyi"
+    ]
+   },
+   "away": {
+    "formation": "4-3-2-1",
+    "xi": [
+     "D. Henderson",
+     "A. Khalaili",
+     "A. Disasi",
+     "C. Richards",
+     "T. Mitchell",
+     "Q. Timber",
+     "A. Wharton",
+     "D. Kamada",
+     "D. McNeil",
+     "Yeremy Pino",
+     "J. Strand Larsen"
+    ]
+   }
+  },
   "ou": [
    0.5307692307692307,
    0.46923076923076923
@@ -1613,7 +1648,40 @@
    ],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "A. Kinský",
+     "Pedro Porro",
+     "J. van Hecke",
+     "M. Senesi",
+     "D. Udogie",
+     "C. Gallagher",
+     "Mateus Fernandes",
+     "M. Kudus",
+     "J. Maddison",
+     "L. Williams-Barnett",
+     "D. Solanke"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Walton",
+     "D. Furlong",
+     "I. Diop",
+     "D. O&apos;Shea",
+     "L. Davis",
+     "S. Lukić",
+     "E. Palacios",
+     "A. Ouattara",
+     "J. Enciso",
+     "D. Maeda",
+     "Z. Flemming"
+    ]
+   }
+  },
   "ou": [
    0.598014888337469,
    0.40198511166253104
@@ -1793,8 +1861,8 @@
    0.309255079006772
   ],
   "btts": [
-   0.5936756909142871,
-   0.4063243090857128
+   0.5946312570872446,
+   0.4053687429127554
   ],
   "best": [
    {
@@ -2126,9 +2194,9 @@
   "home": "Sevilla",
   "away": "Real Betis",
   "p": [
-   0.3140008702067687,
-   0.29063771022114604,
-   0.39536141957208526
+   0.32075557734179966,
+   0.2876392197991359,
+   0.3916052028590645
   ],
   "source": "Pinnacle",
   "out": {
@@ -2146,36 +2214,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5025641025641026,
-   0.4974358974358974
+   0.5166240409207161,
+   0.48337595907928377
   ],
   "btts": [
-   0.554708989028286,
-   0.445291010971714
+   0.555210791406652,
+   0.44478920859334803
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 3.13,
-    "edge": -0.017177276252813956
+    "edge": 0.003964957079832798
    },
    {
     "book": "1xBet",
     "odd": 3.48,
-    "edge": 0.01141923156958824
+    "edge": 0.0009844849009930101
    },
    {
-    "book": "Dafabet",
-    "odd": 2.48,
-    "edge": -0.01950367946122855
+    "book": "Betano",
+    "odd": 2.52,
+    "edge": -0.01315488879515736
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.0060941395306036705,
-    0.023450966556066655,
-    -0.01735682702546293
+    0.0006605676044272868,
+    0.02045247613405654,
+    -0.02111304373848366
    ],
    "since": "18/11 00:01"
   }
