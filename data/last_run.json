@@ -1,5 +1,5 @@
 {
- "time": "2026-11-21 18:01",
+ "time": "2026-11-21 18:15",
  "ok": true,
  "error": "",
  "calls": 37,
@@ -12,7 +12,7 @@
    "active": true
   },
   "requests": {
-   "current": 1763,
+   "current": 1800,
    "limit_day": 7500
   }
  }
