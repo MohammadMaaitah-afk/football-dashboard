@@ -24,7 +24,40 @@
     "E. Smith Rowe"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "G. Donnarumma",
+     "A. Khusanov",
+     "Rúben Dias",
+     "M. Guéhi",
+     "N. O&apos;Reilly",
+     "A. Bouaddi",
+     "E. Anderson",
+     "I. Ndiaye",
+     "P. Foden",
+     "J. Doku",
+     "E. Haaland"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "B. Leno",
+     "K. Tete",
+     "D. Affengruber",
+     "C. Bassey",
+     "R. Sessegnon",
+     "S. Berge",
+     "S. Charles",
+     "Oscar Bobb",
+     "Joshua King",
+     "A. Iwobi",
+     "Rodrigo Muniz"
+    ]
+   }
+  },
   "ou": [
    0.6750572082379863,
    0.32494279176201374
