@@ -1,270 +1,5 @@
 [
  {
-  "league": "الدوري الإماراتي",
-  "type": "arab",
-  "en": "United-Arab-Emirates Pro League",
-  "id": 1643067,
-  "kickoff": "2026-11-21T15:45:00+03:00",
-  "home": "Khorfakkan",
-  "away": "Al-Jazira",
-  "p": [
-   0.13382029725035735,
-   0.1923328158861411,
-   0.6738468868635015
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Ahmed Al Hosani",
-     "A. Jashak",
-     "Kayque Soares",
-     "L. Haquín",
-     "Rafael Pereira",
-     "Abdalla Al Naqbi",
-     "A. Camara",
-     "Aylton Boa Morte",
-     "J. N&apos;Guessan",
-     "P. Pavlov",
-     "T. Tissoudali"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "E. Destanoğlu",
-     "Igor",
-     "Malcom",
-     "K. Asllani",
-     "Khalifa Al Hammadi",
-     "R. Tagir",
-     "M. Coulibaly",
-     "N. Mujkić",
-     "Vinicius Mello",
-     "Bruno",
-     "Milson"
-    ]
-   }
-  },
-  "ou": [
-   0.6144278606965174,
-   0.3855721393034826
-  ],
-  "btts": [
-   0.5515175656194986,
-   0.44848243438050134
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 7.1,
-    "edge": -0.04987588952246291
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.94,
-    "edge": -0.04987588952246291
-   },
-   {
-    "book": "Betano",
-    "odd": 1.45,
-    "edge": -0.022922014047922934
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-21T14:45:52.660173+00:00"
-  }
- },
- {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570453,
-  "kickoff": "2026-11-21T16:00:00+03:00",
-  "home": "Alaves",
-  "away": "Deportivo La Coruna",
-  "p": [
-   0.4145679793823755,
-   0.2803725640909707,
-   0.30505945652665367
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Garces",
-    "M. Rodriguez"
-   ],
-   "away": [
-    "P. Aubameyang",
-    "Z. Eddahchouri",
-    "B. Ede"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "Sivera",
-     "Jonny",
-     "N. Tenaglia",
-     "V. Koski",
-     "A. Rebbach",
-     "Angel Pérez",
-     "Antonio Blanco",
-     "Pablo Ibáñez",
-     "Denis Suárez",
-     "L. Boyé",
-     "Toni Martínez"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Leo Román",
-     "Ximo Navarro",
-     "Miguel Loureiro",
-     "L. Noubi",
-     "G. Quagliata",
-     "Mario Soriano",
-     "Riki Rodríguez",
-     "Marc Casadó",
-     "Luismi Cruz",
-     "Peke",
-     "P. Aubameyang"
-    ]
-   }
-  },
-  "ou": [
-   0.43511450381679384,
-   0.564885496183206
-  ],
-  "btts": [
-   0.4997910259537179,
-   0.5002089740462822
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.37,
-    "edge": -0.017473888863769993
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.46,
-    "edge": -0.02991092824524133
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.36,
-    "edge": 0.024999773929556213
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-21T14:45:52.660173+00:00"
-  }
- },
- {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597967,
-  "kickoff": "2026-11-21T16:00:00+03:00",
-  "home": "Al Wakrah",
-  "away": "Al-Sailiya",
-  "p": [
-   0.6833855564103045,
-   0.17525939546315927,
-   0.14135504812653618
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Mohammed Al Bakri",
-     "Nabil Irfan",
-     "P. Calione",
-     "Lucas Mendes",
-     "Murad Naji Hussein",
-     "Omar Al Osad",
-     "A. Laïdouni",
-     "A. Assal",
-     "Luis Alberto",
-     "A. Zouhzouh",
-     "R. Berkane"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "B. Burke",
-     "Moataz Bostami",
-     "K. van der Kaap",
-     "M. Nani",
-     "Mouz Gadelseed Abdalla",
-     "Abdulrahman Mohamed",
-     "Andri Syahputra",
-     "M. Taabouni",
-     "Y. Belhanda",
-     "A. El Ghazi",
-     "Joselu"
-    ]
-   }
-  },
-  "ou": [
-   0.6728538283062646,
-   0.32714617169373555
-  ],
-  "btts": [
-   0.5874769707978383,
-   0.4125230292021616
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 1.4,
-    "edge": -0.0432602210255737
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.42,
-    "edge": -0.050094076589676795
-   },
-   {
-    "book": "BetVictor",
-    "odd": 7.0,
-    "edge": -0.010514663114246758
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 2,
-   "ga": 3,
-   "at": "2026-11-21T14:45:52.660173+00:00"
-  }
- },
- {
   "league": "الدوري التونسي",
   "type": "arab",
   "en": "Tunisia Ligue 1",
@@ -311,10 +46,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 50,
+   "min": 65,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -364,10 +99,10 @@
   "nbooks": 8,
   "live": {
    "st": "2H",
-   "min": 55,
+   "min": 70,
    "gh": 2,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -417,10 +152,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 53,
+   "min": 68,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -512,11 +247,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
-   "min": 43,
+   "st": "HT",
+   "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -607,11 +342,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -660,11 +395,11 @@
   ],
   "nbooks": 7,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 3,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -755,10 +490,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -850,10 +585,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
-   "gh": 0,
+   "min": 31,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -946,10 +681,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 0,
-   "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "ga": 1,
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -1048,10 +783,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -1140,10 +875,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-21T14:45:52.660173+00:00"
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -1527,13 +1262,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.012955399391814892,
-    0.016593323731163567,
-    -0.003637924339348897
-   ],
-   "since": "18/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-21T15:01:18.063458+00:00"
   }
  },
  {
@@ -1747,7 +1481,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "S. Leković",
+     "Hamid Yahya",
+     "A. Puric",
+     "O. Jamal",
+     "B. Nagoro",
+     "M. Name",
+     "Adeel Al Chadli",
+     "A. Karimi",
+     "Baidi Diakite",
+     "Willy Semedo",
+     "D. Ndembo-Michel"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "F. Lirussi",
+     "Mansour Saleh Barghash Jaralla Al Menhali",
+     "A. Zouhir",
+     "M. Diarra",
+     "M. Ghorbani",
+     "Jadsom Silva",
+     "Abdulla Hamad",
+     "A. Čerin",
+     "Sam Mark Koffie",
+     "F. Kruspzky",
+     "Omar Khribin"
+    ]
+   }
+  },
   "ou": [
    0.5924050632911392,
    0.40759493670886077
@@ -1801,7 +1568,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Shehab Ellethy",
+     "A. Mohamed",
+     "S. van Beek",
+     "Z. Šarlija",
+     "Abdulla Al Sulaiti",
+     "Moameen Mutasem",
+     "Álvaro Sanz",
+     "Mohamed Surag",
+     "F. Antonucci",
+     "A. Traoré",
+     "Lucas Gabriel Ribeiro Firmo"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Mahmud Abunada",
+     "Jassem Gaber",
+     "Youssef Ayman",
+     "David García",
+     "Ahmed Al Minhali",
+     "D. Amaro",
+     "Gabriel Pereira",
+     "Gregore",
+     "Otávio",
+     "Róger Guedes",
+     "A. Mitrović"
+    ]
+   }
+  },
   "ou": [
    0.690744920993228,
    0.309255079006772
@@ -2016,9 +1816,9 @@
   "home": "Parma",
   "away": "AS Roma",
   "p": [
-   0.08065868367341038,
-   0.14267624934229922,
-   0.7766650669842903
+   0.07940964025884087,
+   0.14058276429544794,
+   0.7800075954457112
   ],
   "source": "Pinnacle",
   "out": {
@@ -2036,36 +1836,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6604215456674473,
-   0.3395784543325527
+   0.6682027649769585,
+   0.3317972350230415
   ],
   "btts": [
-   0.4940499629062041,
-   0.5059500370937958
+   0.49423331510618035,
+   0.5057666848938196
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 13.6,
-    "edge": 0.09695809795838106
+    "edge": 0.07997110752023584
    },
    {
     "book": "1xBet",
     "odd": 7.29,
-    "edge": 0.04010985770536135
+    "edge": 0.02484835171381561
    },
    {
-    "book": "SBO",
+    "book": "Betano",
     "odd": 1.26,
-    "edge": -0.021402015599794266
+    "edge": -0.0171904297384039
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.01795009605624484,
-    -0.021783708673599328,
-    0.03973380472984411
+    -0.01919913947081435,
+    -0.023877193720450607,
+    0.043076333191265026
    ],
    "since": "18/11 00:01"
   }
