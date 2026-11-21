@@ -1,99 +1,5 @@
 [
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570461,
-  "kickoff": "2026-11-21T23:00:00+03:00",
-  "home": "Real Madrid",
-  "away": "Celta Vigo",
-  "p": [
-   0.8352527937085218,
-   0.10997653129419808,
-   0.05477067499728011
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "R. Asencio",
-    "F. Mendy",
-    "Rodrygo"
-   ],
-   "away": [
-    "B. Iglesias",
-    "M. Roman",
-    "C. Starfelt"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "T. Courtois",
-     "T. Alexander-Arnold",
-     "D. Huijsen",
-     "I. Konaté",
-     "Álvaro Fernández",
-     "A. Güler",
-     "E. Camavinga",
-     "Bernardo Silva",
-     "J. Bellingham",
-     "Kylian Mbappé",
-     "Y. Diomande"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "I. Radu",
-     "Javi Rodríguez",
-     "Yoel Lago",
-     "Marcos Alonso",
-     "Sergio Carreira",
-     "H. Burcio",
-     "I. Moriba",
-     "Javi Galán",
-     "Hugo Álvarez",
-     "Pablo Durán",
-     "W. Swedberg"
-    ]
-   }
-  },
-  "ou": [
-   0.7061403508771931,
-   0.29385964912280704
-  ],
-  "btts": [
-   0.47652950645018066,
-   0.5234704935498192
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.2,
-    "edge": 0.0023033524502260594
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 8.81,
-    "edge": -0.031106759298114794
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 17.69,
-    "edge": -0.031106759298114794
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-21T22:01:11.230705+00:00"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -682,8 +588,8 @@
    0.28118393234672306
   ],
   "btts": [
-   0.703112132199006,
-   0.2968878678009941
+   0.7058675096349296,
+   0.29413249036507044
   ],
   "best": [
    {
