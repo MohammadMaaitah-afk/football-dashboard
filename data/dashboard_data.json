@@ -1944,8 +1944,7 @@
     "T. Morton",
     "L. Openda",
     "M. Ouedraogo",
-    "P. Sulc",
-    "R. Himbert"
+    "P. Sulc"
    ]
   },
   "lineups": null,
@@ -2066,8 +2065,9 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "J. Panichelli",
     "F. Balde",
+    "Oso",
+    "J. Panichelli",
     "G. Reyna"
    ],
    "away": [
