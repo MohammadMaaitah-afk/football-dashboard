@@ -1,206 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557473,
-  "kickoff": "2026-11-22T19:30:00+03:00",
-  "home": "Liverpool",
-  "away": "Manchester United",
-  "p": [
-   0.5652595827268316,
-   0.22610383309073265,
-   0.20863658418243572
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "C. Bradley",
-    "H. Ekitike",
-    "G. Leoni",
-    "A. Nallo"
-   ],
-   "away": [
-    "C. Baleba",
-    "B. Sesko",
-    "M. Ugarte",
-    "K. Darlow",
-    "A. Heaven",
-    "S. Lacey",
-    "M. Rashford",
-    "L. Shaw"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Alisson Becker",
-     "R. Araújo",
-     "J. Jacquet",
-     "V. van Dijk",
-     "M. Kerkez",
-     "D. Szoboszlai",
-     "A. Mac Allister",
-     "R. Ngumoha",
-     "F. Wirtz",
-     "B. Barcola",
-     "A. Isak"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "S. Lammens",
-     "L. Yoro",
-     "M. de Ligt",
-     "Lisandro Martínez",
-     "Diogo Dalot",
-     "Y. Tielemans",
-     "K. Mainoo",
-     "P. Dorgu",
-     "Bruno Fernandes",
-     "Matheus Cunha",
-     "B. Mbeumo"
-    ]
-   }
-  },
-  "ou": [
-   0.6271186440677965,
-   0.37288135593220334
-  ],
-  "btts": [
-   0.6206923556799957,
-   0.37930764432000424
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.78,
-    "edge": 0.0061620572537604
-   },
-   {
-    "book": "Marathonbet",
-    "odd": 4.45,
-    "edge": 0.0061620572537604
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.67,
-    "edge": -0.02566715186802515
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 4,
-   "ga": 0,
-   "at": "2026-11-22T18:15:44.253934+00:00"
-  }
- },
- {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575227,
-  "kickoff": "2026-11-22T19:30:00+03:00",
-  "home": "Werder Bremen",
-  "away": "Hamburger SV",
-  "p": [
-   0.6013509578990276,
-   0.2156291853490945,
-   0.18301985675187796
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "F. Agu",
-    "S. Alvero",
-    "M. Grull",
-    "S. Musah",
-    "M. N'Diaye",
-    "J. Stage",
-    "K. Topp"
-   ],
-   "away": [
-    "A. S. Lokonga",
-    "B. Nadir",
-    "Y. Poulsen",
-    "N. Remberg",
-    "J. Torunarigha",
-    "M. Vuskovic"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "K. Hein",
-     "Arthur",
-     "A. Pieper",
-     "M. Friedl",
-     "O. Deman",
-     "Y. Regeer",
-     "L. Reis",
-     "E. Dinkçi",
-     "Chuky San José",
-     "J. Njinmah",
-     "N. Füllkrug"
-    ]
-   },
-   "away": {
-    "formation": "5-3-2",
-    "xi": [
-     "Daniel Heuer Fernandes",
-     "Z. El Ouahdi",
-     "N. Capaldo",
-     "S. Bornauw",
-     "W. Omari",
-     "D. Møller Wolfe",
-     "M. Adeline",
-     "M. Muheim",
-     "A. Grønbæk",
-     "P. Daka",
-     "Alexander Røssing-Lelesiit"
-    ]
-   }
-  },
-  "ou": [
-   0.6064356435643565,
-   0.3935643564356436
-  ],
-  "btts": [
-   0.5541771873158962,
-   0.44582281268410384
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.64,
-    "edge": -0.013784429045594848
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.51,
-    "edge": -0.027512374075583823
-   },
-   {
-    "book": "Betfair",
-    "odd": 5.5,
-    "edge": 0.006609212135328724
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 80,
-   "gh": 3,
-   "ga": 0,
-   "at": "2026-11-22T18:15:44.253934+00:00"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -290,10 +89,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 56,
-   "gh": 3,
+   "min": 71,
+   "gh": 5,
    "ga": 1,
-   "at": "2026-11-22T18:15:44.253934+00:00"
+   "at": "2026-11-22T18:31:00.611512+00:00"
   }
  },
  {
@@ -387,11 +186,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-22T18:15:44.253934+00:00"
+   "at": "2026-11-22T18:31:00.611512+00:00"
   }
  },
  {
