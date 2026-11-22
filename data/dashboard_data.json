@@ -24,10 +24,12 @@
     "K. Yildiz"
    ],
    "away": [
+    "P. Mazzocchi",
     "A. Adorante",
     "B. Franjic",
-    "P. Mazzocchi",
-    "M. Sverko"
+    "M. Sverko",
+    "T. Basic",
+    "T. Correia"
    ]
   },
   "lineups": null,
@@ -960,8 +962,7 @@
    "home": [
     "I. Hien",
     "G. Gaetano",
-    "O. Kossounou",
-    "T. Kristensen"
+    "O. Kossounou"
    ],
    "away": [
     "A. Bonny",
@@ -1036,8 +1037,8 @@
    0.37378640776699024
   ],
   "btts": [
-   0.567532057170431,
-   0.432467942829569
+   0.5687462506060156,
+   0.4312537493939845
   ],
   "best": [
    {
@@ -1051,9 +1052,9 @@
     "edge": -0.004664821278131948
    },
    {
-    "book": "1xBet",
-    "odd": 6.7,
-    "edge": 0.014394030569262473
+    "book": "Betfair",
+    "odd": 7.0,
+    "edge": 0.059814658803706955
    }
   ],
   "nbooks": 10,
