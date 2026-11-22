@@ -1,101 +1,5 @@
 [
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570459,
-  "kickoff": "2026-11-22T18:15:00+03:00",
-  "home": "Racing Santander",
-  "away": "Real Sociedad",
-  "p": [
-   0.2931536443598581,
-   0.23751864616017695,
-   0.46932770947996505
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Gueye",
-    "A. Mantilla",
-    "A. Martin"
-   ],
-   "away": [
-    "L. Astiazaran",
-    "A. Barrenetxea",
-    "T. Folgado",
-    "Y. Herrera",
-    "A. Odriozola"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Julen Agirrezabala",
-     "Pablo Ramón",
-     "Pedro Felipe",
-     "J. Belocian",
-     "Jorge Salinas",
-     "M. Prati",
-     "Iván Martín",
-     "Iker Luque",
-     "Sergio Canales",
-     "Iñigo Vicente",
-     "M. Zabiri"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Álex Remiro",
-     "Héctor Fort",
-     "Zubeldia",
-     "M. Sarr",
-     "Sergio Gómez",
-     "L. Sučić",
-     "Jon Gorrotxategi",
-     "Carlos Soler",
-     "Gonçalo Guedes",
-     "Mikel Oyarzabal",
-     "O. Óskarsson"
-    ]
-   }
-  },
-  "ou": [
-   0.6860986547085202,
-   0.3139013452914798
-  ],
-  "btts": [
-   0.6955821097660742,
-   0.3044178902339259
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.33,
-    "edge": -0.02379836428167259
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.21,
-    "edge": -4.649966565506425e-05
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.1,
-    "edge": -0.014411810092073374
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 3,
-   "ga": 2,
-   "at": "2026-11-22T17:01:18.671895+00:00"
-  }
- },
- {
   "league": "الدوري الفرنسي",
   "type": "top",
   "en": "Ligue 1",
@@ -180,11 +84,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 1,
-   "at": "2026-11-22T17:01:18.671895+00:00"
+   "at": "2026-11-22T17:15:50.760184+00:00"
   }
  },
  {
@@ -281,10 +185,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 32,
+   "min": 45,
    "gh": 2,
    "ga": 0,
-   "at": "2026-11-22T17:01:18.671895+00:00"
+   "at": "2026-11-22T17:15:50.760184+00:00"
   }
  },
  {
@@ -382,10 +286,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 30,
+   "min": 44,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-22T17:01:18.671895+00:00"
+   "at": "2026-11-22T17:15:50.760184+00:00"
   }
  },
  {
@@ -476,13 +380,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.044595764654094094,
-    0.014418011229580668,
-    0.030177753424513398
-   ],
-   "since": "19/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 15,
+   "gh": 1,
+   "ga": 0,
+   "at": "2026-11-22T17:15:50.760184+00:00"
   }
  },
  {
