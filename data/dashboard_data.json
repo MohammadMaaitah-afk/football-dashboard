@@ -214,7 +214,40 @@
     "C. Romero"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "David Soria",
+     "D. Dakonam",
+     "Z. Romero",
+     "J. Valou",
+     "J. Mojica",
+     "Andrés García",
+     "O. Mangala",
+     "Francho Serrano",
+     "Ramón Terrats",
+     "Iván Azón",
+     "E. Ünal"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Oblak",
+     "Marcos Llorente",
+     "Robin Le Normand",
+     "D. Hancko",
+     "Álex Grimaldo",
+     "Koke",
+     "Pablo Barrios",
+     "G. Simeone",
+     "Álex Baena",
+     "J. Cardoso",
+     "J. Álvarez"
+    ]
+   }
+  },
   "ou": [
    0.44529262086514,
    0.5547073791348601
