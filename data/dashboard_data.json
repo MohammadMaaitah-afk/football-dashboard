@@ -89,10 +89,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 87,
    "gh": 3,
    "ga": 2,
-   "at": "2026-11-22T16:45:41.024881+00:00"
+   "at": "2026-11-22T17:01:18.671895+00:00"
   }
  },
  {
@@ -181,10 +181,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 30,
-   "gh": 0,
+   "min": 45,
+   "gh": 1,
    "ga": 1,
-   "at": "2026-11-22T16:45:41.024881+00:00"
+   "at": "2026-11-22T17:01:18.671895+00:00"
   }
  },
  {
@@ -281,10 +281,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 32,
    "gh": 2,
    "ga": 0,
-   "at": "2026-11-22T16:45:41.024881+00:00"
+   "at": "2026-11-22T17:01:18.671895+00:00"
   }
  },
  {
@@ -382,10 +382,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 14,
+   "min": 30,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-22T16:45:41.024881+00:00"
+   "at": "2026-11-22T17:01:18.671895+00:00"
   }
  },
  {
@@ -515,7 +515,40 @@
     "A. Ochoa"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Sergio Herrera",
+     "V. Rosier",
+     "Catena",
+     "F. Boyomo",
+     "Diego Rico",
+     "Moncayola",
+     "Moi Gómez",
+     "Rubén García",
+     "Aimar Oroz",
+     "Kike Barja",
+     "A. Budimir"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "Alfonso Herrero",
+     "Diego Murillo",
+     "Álex Pastor",
+     "Ángel Recio",
+     "David Larrubia",
+     "Rafa Rodríguez",
+     "Pablo Martínez",
+     "Joaquín Muñoz",
+     "José Salinas",
+     "Carlos Dotor",
+     "Adrián Niño Heredia"
+    ]
+   }
+  },
   "ou": [
    0.4731457800511509,
    0.526854219948849
