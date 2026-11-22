@@ -1,291 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550199,
-  "kickoff": "2026-11-22T17:00:00+03:00",
-  "home": "Bologna",
-  "away": "Udinese",
-  "p": [
-   0.5523911508054042,
-   0.2606456904604588,
-   0.1869631587341368
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "O. El Azzouzi",
-    "J. Enem",
-    "T. Heggem",
-    "E. Holm",
-    "J. Miranda"
-   ],
-   "away": [
-    "D. Alaba",
-    "N. Bertola",
-    "I. Gueye",
-    "K. Davis"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Ł. Skorupski",
-     "M. Darmian",
-     "N. Casale",
-     "A. Theate",
-     "N. Zortea",
-     "L. Ferguson",
-     "T. Pobega",
-     "F. Bernardeschi",
-     "R. Orsolini",
-     "N. Cambiaghi",
-     "J. Odgaard"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "M. Okoye",
-     "M. Palma",
-     "C. Kabasele",
-     "O. Solet",
-     "J. Abankwah",
-     "J. Piotrowski",
-     "J. Karlström",
-     "H. Kamara",
-     "N. Zaniolo",
-     "J. Ekkelenkamp",
-     "S. Lovrić"
-    ]
-   }
-  },
-  "ou": [
-   0.48593350383631717,
-   0.5140664961636828
-  ],
-  "btts": [
-   0.5082089535977461,
-   0.49179104640225396
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.8,
-    "edge": -0.0056959285502723445
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.99,
-    "edge": 0.03997630493723081
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 5.2,
-    "edge": -0.0277915745824886
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-22T15:45:44.004080+00:00"
-  }
- },
- {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550206,
-  "kickoff": "2026-11-22T17:00:00+03:00",
-  "home": "Sassuolo",
-  "away": "Genoa",
-  "p": [
-   0.3447152714530495,
-   0.2992466927031074,
-   0.3560380358438431
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "V. Adzic",
-    "D. Boloca",
-    "I. Kone",
-    "F. Leysen",
-    "C. Volpato"
-   ],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "A. Murić",
-     "S. Walukiewicz",
-     "J. Idzes",
-     "Fali Candé",
-     "I. Van der Brempt",
-     "K. Thorstvedt",
-     "N. Matić",
-     "Rafael Obrador",
-     "D. Berardi",
-     "S. Esposito",
-     "A. Laurienté"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "J. Bijlow",
-     "A. Marcandalli",
-     "L. Østigård",
-     "J. Vásquez",
-     "K. Ehizibue",
-     "Alexsandro Amorim",
-     "H. Traorè",
-     "M. Ellertsson",
-     "T. Baldanzi",
-     "Junior Messias",
-     "M. Osmajić"
-    ]
-   }
-  },
-  "ou": [
-   0.4846153846153846,
-   0.5153846153846154
-  ],
-  "btts": [
-   0.5500775440270215,
-   0.44992245597297853
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.83,
-    "edge": -0.02445578178787
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.58,
-    "edge": 0.07130315987712454
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.74,
-    "edge": -0.02445578178786989
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 2,
-   "at": "2026-11-22T15:45:44.004080+00:00"
-  }
- },
- {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557472,
-  "kickoff": "2026-11-22T17:00:00+03:00",
-  "home": "Hull City",
-  "away": "Brighton",
-  "p": [
-   0.14156425263929961,
-   0.22185923876045133,
-   0.6365765086002492
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "I. Ansah",
-    "C. Hughes",
-    "E. Matazo",
-    "H. Morita",
-    "M. Targett"
-   ],
-   "away": [
-    "E. Ferguson",
-    "K. Mitoma",
-    "S. Tzimas",
-    "Z. Yohanna"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "K. Tzolakis",
-     "L. Coyle",
-     "S. Ajayi",
-     "N. Mendy",
-     "E. Stroud",
-     "R. Slater",
-     "T. Iroegbunam",
-     "M. Belloumi",
-     "M. Crooks",
-     "M. Cho",
-     "O. McBurnie"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "B. Verbruggen",
-     "Costinha",
-     "L. Vušković",
-     "L. Dunk",
-     "O. Boscagli",
-     "P. Groß",
-     "José María Andrés Baixauli",
-     "D. Gómez",
-     "Y. Ayari",
-     "M. De Cuyper",
-     "G. Rutter"
-    ]
-   }
-  },
-  "ou": [
-   0.5333333333333333,
-   0.4666666666666667
-  ],
-  "btts": [
-   0.4982650997019861,
-   0.5017349002980139
-  ],
-  "best": [
-   {
-    "book": "Betfair",
-    "odd": 7.0,
-    "edge": -0.009050231524902697
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.57,
-    "edge": 0.013896721135262524
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.54,
-    "edge": -0.019672176755616277
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 0,
-   "ga": 0,
-   "at": "2026-11-22T15:45:44.004080+00:00"
-  }
- },
- {
   "league": "الدوري الألماني",
   "type": "top",
   "en": "Bundesliga",
@@ -374,10 +88,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 55,
+   "min": 70,
    "gh": 3,
    "ga": 1,
-   "at": "2026-11-22T15:45:44.004080+00:00"
+   "at": "2026-11-22T16:01:14.760423+00:00"
   }
  },
  {
@@ -470,10 +184,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 31,
+   "min": 45,
    "gh": 2,
    "ga": 0,
-   "at": "2026-11-22T15:45:44.004080+00:00"
+   "at": "2026-11-22T16:01:14.760423+00:00"
   }
  },
  {
@@ -500,7 +214,40 @@
     "P. Frankowski"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Y. Mvogo",
+     "N. Adjei",
+     "M. Talbi",
+     "N. Obaretin",
+     "D. Sylla",
+     "N. Cadiou",
+     "A. Avom",
+     "K. Kouassi",
+     "J. Makengo",
+     "G. Bernardeau",
+     "A. Tosin"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "B. Samba",
+     "B. Reynolds",
+     "C. Cresswell",
+     "Gonçalo Oliveira",
+     "A. Rouault",
+     "V. Rongier",
+     "Mousa Tamari",
+     "S. Szymański",
+     "M. Camara",
+     "M. Nagida",
+     "B. Dia"
+    ]
+   }
+  },
   "ou": [
    0.4552429667519181,
    0.5447570332480818
@@ -568,7 +315,40 @@
     "L. Shaw"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Alisson Becker",
+     "R. Araújo",
+     "J. Jacquet",
+     "V. van Dijk",
+     "M. Kerkez",
+     "D. Szoboszlai",
+     "A. Mac Allister",
+     "R. Ngumoha",
+     "F. Wirtz",
+     "B. Barcola",
+     "A. Isak"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "S. Lammens",
+     "L. Yoro",
+     "M. de Ligt",
+     "Lisandro Martínez",
+     "Diogo Dalot",
+     "Y. Tielemans",
+     "K. Mainoo",
+     "P. Dorgu",
+     "Bruno Fernandes",
+     "Matheus Cunha",
+     "B. Mbeumo"
+    ]
+   }
+  },
   "ou": [
    0.6271186440677965,
    0.37288135593220334
@@ -637,7 +417,40 @@
     "M. Vuskovic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "K. Hein",
+     "Arthur",
+     "A. Pieper",
+     "M. Friedl",
+     "O. Deman",
+     "Y. Regeer",
+     "L. Reis",
+     "E. Dinkçi",
+     "Chuky San José",
+     "J. Njinmah",
+     "N. Füllkrug"
+    ]
+   },
+   "away": {
+    "formation": "5-3-2",
+    "xi": [
+     "Daniel Heuer Fernandes",
+     "Z. El Ouahdi",
+     "N. Capaldo",
+     "S. Bornauw",
+     "W. Omari",
+     "D. Møller Wolfe",
+     "M. Adeline",
+     "M. Muheim",
+     "A. Grønbæk",
+     "P. Daka",
+     "Alexander Røssing-Lelesiit"
+    ]
+   }
+  },
   "ou": [
    0.6064356435643565,
    0.3935643564356436
@@ -1358,14 +1171,14 @@
   ],
   "best": [
    {
-    "book": "Betano",
-    "odd": 2.35,
-    "edge": -0.022109846677511813
+    "book": "Dafabet",
+    "odd": 2.36,
+    "edge": -0.01794861198252251
    },
    {
     "book": "1xBet",
-    "odd": 3.7,
-    "edge": 0.01053533254937622
+    "odd": 3.72,
+    "edge": 0.01599768569829174
    },
    {
     "book": "1xBet",
@@ -1392,9 +1205,9 @@
   "home": "Levante",
   "away": "Elche",
   "p": [
-   0.4393364478465261,
-   0.26821368777370796,
-   0.2924498643797659
+   0.44279887292729075,
+   0.26423148003018165,
+   0.2929696470425277
   ],
   "source": "Pinnacle",
   "out": {
@@ -1409,36 +1222,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5612244897959184,
-   0.4387755102040816
+   0.5757575757575757,
+   0.4242424242424242
   ],
   "btts": [
-   0.5971721528299648,
-   0.40282784717003517
+   0.5980525920137458,
+   0.40194740798625406
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 2.26,
-    "edge": -0.007099627866851144
+    "edge": 0.0007254528156770412
    },
    {
     "book": "1xBet",
     "odd": 3.82,
-    "edge": 0.02457628729556438
+    "edge": 0.009364253715293813
    },
    {
     "book": "Pinnacle",
-    "odd": 3.32,
-    "edge": -0.029066450259177312
+    "odd": 3.31,
+    "edge": -0.0302704682892333
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.0011768668958820894,
-    -0.0002431799363469267,
-    0.001420046832228905
+    0.0022855581848825746,
+    -0.004225387679873238,
+    0.001939829494990719
    ],
    "since": "20/11 00:01"
   }
@@ -1748,9 +1561,9 @@
   "home": "El Mokawloon",
   "away": "Olympic El Qanah",
   "p": [
-   0.43244208416371954,
-   0.3239600493047796,
-   0.24359786653150092
+   0.4376764282285166,
+   0.31790686509841576,
+   0.2444167066730677
   ],
   "source": "Pinnacle",
   "out": {
@@ -1759,8 +1572,8 @@
   },
   "lineups": null,
   "ou": [
-   0.3618581907090465,
-   0.6381418092909535
+   0.3746898263027295,
+   0.6253101736972705
   ],
   "btts": [
    0.44976868001025566,
@@ -1769,26 +1582,26 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.18,
-    "edge": -0.05727625652309132
+    "odd": 2.15,
+    "edge": -0.05899567930868932
    },
    {
     "book": "Betano",
     "odd": 3.05,
-    "edge": -0.011921849620422198
+    "edge": -0.030384061449831967
    },
    {
     "book": "Pinnacle",
-    "odd": 3.87,
-    "edge": -0.05727625652309143
+    "odd": 3.85,
+    "edge": -0.05899567930868932
    }
   ],
   "nbooks": 8,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.0052343440647970585,
+    -0.00605318420636386,
+    0.0008188401415667734
    ],
    "since": "22/11 07:01"
   }
