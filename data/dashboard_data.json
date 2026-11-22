@@ -1,100 +1,5 @@
 [
  {
-  "league": "الدوري الألماني",
-  "type": "top",
-  "en": "Bundesliga",
-  "id": 1575224,
-  "kickoff": "2026-11-22T17:30:00+03:00",
-  "home": "FC Augsburg",
-  "away": "FSV Mainz 05",
-  "p": [
-   0.3428295155701738,
-   0.24255188226589797,
-   0.41461860216392815
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "N. Banks",
-    "C. Brackelmann",
-    "H. Massengo",
-    "C. Matsima",
-    "S. Mounie"
-   ],
-   "away": [
-    "D. Kohr",
-    "Silas"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "F. Dahmen",
-     "Y. Keitel",
-     "Abdulay Bah",
-     "Hennes Behrens",
-     "R. Fellhauer",
-     "T. Schnitzer",
-     "F. Rieder",
-     "M. Wolf",
-     "A. Kade",
-     "A. Claude-Maurice",
-     "M. Gregoritsch"
-    ]
-   },
-   "away": {
-    "formation": "3-1-4-2",
-    "xi": [
-     "R. Zentner",
-     "D. da Costa",
-     "S. Posch",
-     "K. Potulski",
-     "K. Sano",
-     "A. Caci",
-     "N. Amiri",
-     "P. Nebel",
-     "P. Mwene",
-     "S. Becker",
-     "P. Tietz"
-    ]
-   }
-  },
-  "ou": [
-   0.675115207373272,
-   0.3248847926267281
-  ],
-  "btts": [
-   0.682147391002162,
-   0.3178526089978379
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.83,
-    "edge": -0.029792470936408022
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": 0.009015830226135613
-   },
-   {
-    "book": "Dafabet",
-    "odd": 2.45,
-    "edge": 0.01581557530162403
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 3,
-   "ga": 1,
-   "at": "2026-11-22T16:15:42.322891+00:00"
-  }
- },
- {
   "league": "الدوري الإسباني",
   "type": "top",
   "en": "La Liga",
@@ -183,11 +88,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 57,
    "gh": 2,
    "ga": 1,
-   "at": "2026-11-22T16:15:42.322891+00:00"
+   "at": "2026-11-22T16:31:01.909134+00:00"
   }
  },
  {
@@ -274,13 +179,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.027810067867622967,
-    0.01502653421519723,
-    0.012783533652425905
-   ],
-   "since": "19/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 15,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-22T16:31:01.909134+00:00"
   }
  },
  {
@@ -375,13 +279,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    0.02197124422353569,
-    -0.0009039703214426265,
-    -0.021067273902093175
-   ],
-   "since": "19/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-22T16:31:01.909134+00:00"
   }
  },
  {
@@ -514,7 +417,40 @@
     "A. Raimondo"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-1-1",
+    "xi": [
+     "M. Maignan",
+     "K. De Winter",
+     "Mario Gila",
+     "S. Bocoum",
+     "D. Bartesaghi",
+     "Diego Moreira",
+     "L. Modrić",
+     "A. Rabiot",
+     "Y. Musah",
+     "C. Pulišić",
+     "Gonçalo Ramos"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "L. Palmisani",
+     "A. Oyono",
+     "G. Calvani",
+     "G. Cittadini",
+     "I. Monterisi",
+     "G. Calò",
+     "P. Masini",
+     "E. Tchato",
+     "R. Schmid",
+     "G. Kvernadze",
+     "F. Ghedjemis"
+    ]
+   }
+  },
   "ou": [
    0.6697459584295612,
    0.3302540415704388
