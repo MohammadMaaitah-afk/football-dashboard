@@ -1,99 +1,5 @@
 [
  {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570456,
-  "kickoff": "2026-11-22T23:00:00+03:00",
-  "home": "Getafe",
-  "away": "Atletico Madrid",
-  "p": [
-   0.13770517556242595,
-   0.24218298289212725,
-   0.6201118415454467
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "N. Gudelj",
-    "Juanmi",
-    "C. Uche"
-   ],
-   "away": [
-    "A. Lookman",
-    "M. Pubill",
-    "C. Romero"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "David Soria",
-     "D. Dakonam",
-     "Z. Romero",
-     "J. Valou",
-     "J. Mojica",
-     "Andrés García",
-     "O. Mangala",
-     "Francho Serrano",
-     "Ramón Terrats",
-     "Iván Azón",
-     "E. Ünal"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Oblak",
-     "Marcos Llorente",
-     "Robin Le Normand",
-     "D. Hancko",
-     "Álex Grimaldo",
-     "Koke",
-     "Pablo Barrios",
-     "G. Simeone",
-     "Álex Baena",
-     "J. Cardoso",
-     "J. Álvarez"
-    ]
-   }
-  },
-  "ou": [
-   0.44529262086514,
-   0.5547073791348601
-  ],
-  "btts": [
-   0.43652721918707077,
-   0.5634727808129293
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 7.11,
-    "edge": -0.020916201751151386
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.16,
-    "edge": 0.007481208831249475
-   },
-   {
-    "book": "Betano",
-    "odd": 1.6,
-    "edge": -0.007821053527285127
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 2,
-   "at": "2026-11-22T21:45:39.258927+00:00"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -569,8 +475,8 @@
    0.6658767772511848
   ],
   "btts": [
-   0.43156702738404695,
-   0.568432972615953
+   0.43106776091527715,
+   0.5689322390847228
   ],
   "best": [
    {
@@ -623,8 +529,8 @@
    0.6155778894472362
   ],
   "btts": [
-   0.4406579361473904,
-   0.5593420638526095
+   0.4424978014457148,
+   0.5575021985542852
   ],
   "best": [
    {
@@ -633,9 +539,9 @@
     "edge": -0.04056193203209457
    },
    {
-    "book": "Betano",
-    "odd": 3.15,
-    "edge": -0.041994998601127986
+    "book": "Dafabet",
+    "odd": 3.2,
+    "edge": -0.026788570007495016
    },
    {
     "book": "Pinnacle",
@@ -740,6 +646,7 @@
     "V. Osimhen",
     "A. Unyay",
     "A. Yilmaz",
+    "I. Jakobs",
     "R. Sallai"
    ],
    "away": [
@@ -811,8 +718,8 @@
    0.5224274406332454
   ],
   "btts": [
-   0.42730028889435606,
-   0.572699711105644
+   0.4275121455072015,
+   0.5724878544927985
   ],
   "best": [
    {
@@ -821,9 +728,9 @@
     "edge": -0.06193187546006318
    },
    {
-    "book": "Betfair",
-    "odd": 4.33,
-    "edge": -0.0442741225275467
+    "book": "Dafabet",
+    "odd": 4.4,
+    "edge": -0.02882358871159474
    },
    {
     "book": "Pinnacle",
@@ -1177,7 +1084,8 @@
     "J. Gradit",
     "F. Ivanovic",
     "I. Jourdren",
-    "M. Nawrocki"
+    "M. Nawrocki",
+    "R. Aguilar"
    ]
   },
   "lineups": null,
