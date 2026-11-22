@@ -91,10 +91,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 74,
+   "min": 89,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-22T19:01:11.808745+00:00"
+   "at": "2026-11-22T19:15:41.580514+00:00"
   }
  },
  {
@@ -123,7 +123,40 @@
     "P. Zielinski"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-2-1",
+    "xi": [
+     "M. Carnesecchi",
+     "R. Bellanova",
+     "G. Scalvini",
+     "S. Kolašinac",
+     "D. Zappacosta",
+     "E. Elmas",
+     "F. Kessié",
+     "Éderson",
+     "C. De Ketelaere",
+     "N. Zalewski",
+     "N. Krstović"
+    ]
+   },
+   "away": {
+    "formation": "3-5-2",
+    "xi": [
+     "Josep Martínez",
+     "B. Pavard",
+     "A. Bastoni",
+     "Carlos Augusto",
+     "D. Spence",
+     "N. Barella",
+     "H. Çalhanoğlu",
+     "H. Mkhitaryan",
+     "F. Dimarco",
+     "F. Esposito",
+     "M. Thuram"
+    ]
+   }
+  },
   "ou": [
    0.6788154897494305,
    0.3211845102505695
@@ -184,7 +217,40 @@
     "D. Sidibe"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. de Lange",
+     "T. Weah",
+     "C. Egan-Riley",
+     "N. Aguerd",
+     "U. Garcia",
+     "G. Kondogbia",
+     "T. Nnadi",
+     "A. Harit",
+     "H. Abdelli",
+     "Igor Paixão",
+     "A. Gouiri"
+    ]
+   },
+   "away": {
+    "formation": "3-1-4-2",
+    "xi": [
+     "N. Kocik",
+     "R. Bamba",
+     "S. Yohou",
+     "H. Voyer",
+     "L. Bretelle",
+     "L. Buadés",
+     "D. Traoré",
+     "A. Rabillard",
+     "L. Calodat",
+     "L. Mafouta",
+     "D. Guèye"
+    ]
+   }
+  },
   "ou": [
    0.6014851485148515,
    0.3985148514851485
