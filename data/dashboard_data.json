@@ -71,7 +71,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Amr Hossam",
+     "Shady Maher",
+     "S. Teka",
+     "Omar Adly",
+     "Ahmed Reda",
+     "Ibrahim El Bahnasi",
+     "Ahmed Scholes",
+     "Youssef Oya",
+     "Mohamed Abdel Aati",
+     "Mahmoud Diasty",
+     "F. Boli"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Sobhi Soliman",
+     "Mohamed Mostafa Mido",
+     "Islam Abdallah",
+     "Mostafa Ibrahim",
+     "Mazen Osama",
+     "Mahmoud Emad",
+     "Mohamed Fakhry",
+     "Nour Alaa",
+     "Ahmed Hamdi",
+     "Youssry Wahid",
+     "J. Ebuka"
+    ]
+   }
+  },
   "ou": [
    0.36231884057971014,
    0.6376811594202898
