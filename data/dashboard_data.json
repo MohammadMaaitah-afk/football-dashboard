@@ -1,91 +1,5 @@
 [
  {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612280,
-  "kickoff": "2026-11-23T21:00:00+03:00",
-  "home": "Al Ahly",
-  "away": "Pyramids FC",
-  "p": [
-   0.333653113625462,
-   0.31813436415451035,
-   0.3482125222200277
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Mostafa Shobeir",
-     "Mohamed Hany",
-     "Yasser Ibrahim",
-     "A. Dari",
-     "Tawfik Mohamed",
-     "Akram Tawfik",
-     "Marwan Attia",
-     "Zizo",
-     "Omar El Saeey",
-     "A. Bencharki",
-     "S. Benjdida"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Ahmed El Shenawy",
-     "M. Chibi",
-     "Mahmoud Marei",
-     "Ahmed Samy",
-     "Karim Hafez",
-     "Mohanad Lasheen",
-     "W. El Karti",
-     "Abdel Rahman Magdi",
-     "Nasser Maher",
-     "Mostafa Zico",
-     "Mostafa Fathi"
-    ]
-   }
-  },
-  "ou": [
-   0.41984732824427484,
-   0.5801526717557253
-  ],
-  "btts": [
-   0.4940148071062821,
-   0.5059851928937179
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.87,
-    "edge": -0.04241556389492396
-   },
-   {
-    "book": "Betano",
-    "odd": 3.05,
-    "edge": -0.029690189328743455
-   },
-   {
-    "book": "William Hill",
-    "odd": 2.75,
-    "edge": -0.04241556389492385
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 0,
-   "ga": 2,
-   "at": "2026-11-23T20:01:18.935850+00:00"
-  }
- },
- {
   "league": "الدوري الإيطالي",
   "type": "top",
   "en": "Serie A",
@@ -174,10 +88,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-23T20:01:18.935850+00:00"
+   "at": "2026-11-23T20:15:42.923782+00:00"
   }
  },
  {
@@ -268,10 +182,10 @@
   "nbooks": 9,
   "live": {
    "st": "1H",
-   "min": 1,
+   "min": 16,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-23T20:01:18.935850+00:00"
+   "at": "2026-11-23T20:15:42.923782+00:00"
   }
  },
  {
@@ -356,13 +270,12 @@
    }
   ],
   "nbooks": 9,
-  "move": {
-   "diff": [
-    0.00396088273976114,
-    0.005739890736691788,
-    -0.009700773476452929
-   ],
-   "since": "20/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 15,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-23T20:15:42.923782+00:00"
   }
  },
  {
