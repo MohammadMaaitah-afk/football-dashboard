@@ -46,10 +46,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 29,
+   "min": 44,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-23T17:15:46.034933+00:00"
+   "at": "2026-11-23T17:31:04.262964+00:00"
   }
  },
  {
@@ -124,7 +124,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mostafa Shobeir",
+     "Mohamed Hany",
+     "Yasser Ibrahim",
+     "A. Dari",
+     "Tawfik Mohamed",
+     "Akram Tawfik",
+     "Marwan Attia",
+     "Zizo",
+     "Omar El Saeey",
+     "A. Bencharki",
+     "S. Benjdida"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Ahmed El Shenawy",
+     "M. Chibi",
+     "Mahmoud Marei",
+     "Ahmed Samy",
+     "Karim Hafez",
+     "Mohanad Lasheen",
+     "W. El Karti",
+     "Abdel Rahman Magdi",
+     "Nasser Maher",
+     "Mostafa Zico",
+     "Mostafa Fathi"
+    ]
+   }
+  },
   "ou": [
    0.423469387755102,
    0.5765306122448979
