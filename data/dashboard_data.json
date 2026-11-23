@@ -45,11 +45,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 56,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-23T19:01:21.846460+00:00"
+   "at": "2026-11-23T19:15:52.938082+00:00"
   }
  },
  {
@@ -131,11 +131,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 47,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-23T19:01:21.846460+00:00"
+   "at": "2026-11-23T19:15:52.938082+00:00"
   }
  },
  {
@@ -165,7 +165,40 @@
     "R. Sottil"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "D. Thiam",
+     "E. Kouadio",
+     "S. Goglichidze",
+     "A. Carboni",
+     "S. Birindelli",
+     "E. Akinsanmiro",
+     "L. Colombo",
+     "M. Pessina",
+     "Ricardo Mangas",
+     "Gustavo Varela",
+     "Jay Robinson"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "David de Gea",
+     "Álex Jiménez",
+     "R. Drăgușin",
+     "Viery",
+     "João Mário",
+     "C. Ndour",
+     "C. Inao OulaÃ¯",
+     "Franco Mastantuono",
+     "Pote",
+     "W. Gnonto",
+     "Mateo Pellegrino"
+    ]
+   }
+  },
   "ou": [
    0.5743073047858943,
    0.42569269521410585
