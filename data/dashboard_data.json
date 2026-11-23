@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Eslam Risha",
+     "Ahmed Belya",
+     "Youssef Afifi",
+     "Islam Abou Slemma",
+     "M. Metawea",
+     "Omar El Gazar",
+     "Nour El Sayed",
+     "T. Ojo",
+     "Alaa Shaaban",
+     "Ahmed Gamal",
+     "Ali El Zahdi"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Al Mahdi Soliman",
+     "Omar Gaber",
+     "Mohamed Ismail",
+     "Mahmoud Hamdi El Wensh",
+     "Ahmed Abou El Fotouh",
+     "Mohamed Shehata",
+     "M. Hamad",
+     "Oday Dabbagh",
+     "Abdalla El Said",
+     "Ahmed Sherif",
+     "Chico Banza"
+    ]
+   }
+  },
   "ou": [
    0.38118811881188125,
    0.6188118811881189
