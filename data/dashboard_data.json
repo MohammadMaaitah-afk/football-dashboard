@@ -1,91 +1,5 @@
 [
  {
-  "league": "الدوري المصري",
-  "type": "arab",
-  "en": "Egypt Premier League",
-  "id": 1612284,
-  "kickoff": "2026-11-23T18:00:00+03:00",
-  "home": "Wadi Degla",
-  "away": "Al Ittihad",
-  "p": [
-   0.3857093183620687,
-   0.347839676195611,
-   0.2664510054423204
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Amr Hossam",
-     "Shady Maher",
-     "S. Teka",
-     "Omar Adly",
-     "Ahmed Reda",
-     "Ibrahim El Bahnasi",
-     "Ahmed Scholes",
-     "Youssef Oya",
-     "Mohamed Abdel Aati",
-     "Mahmoud Diasty",
-     "F. Boli"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Sobhi Soliman",
-     "Mohamed Mostafa Mido",
-     "Islam Abdallah",
-     "Mostafa Ibrahim",
-     "Mazen Osama",
-     "Mahmoud Emad",
-     "Mohamed Fakhry",
-     "Nour Alaa",
-     "Ahmed Hamdi",
-     "Youssry Wahid",
-     "J. Ebuka"
-    ]
-   }
-  },
-  "ou": [
-   0.36231884057971014,
-   0.6376811594202898
-  ],
-  "btts": [
-   0.4487865524891069,
-   0.5512134475108931
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.48,
-    "edge": -0.04344089046206967
-   },
-   {
-    "book": "Betano",
-    "odd": 2.9,
-    "edge": 0.008735060967271835
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.59,
-    "edge": -0.04344089046206978
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-23T17:01:25.041217+00:00"
-  }
- },
- {
   "league": "الدوري الجزائري",
   "type": "arab",
   "en": "Algeria Ligue 1",
@@ -132,10 +46,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 14,
+   "min": 29,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-23T17:01:25.041217+00:00"
+   "at": "2026-11-23T17:15:46.034933+00:00"
   }
  },
  {
