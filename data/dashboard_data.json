@@ -46,10 +46,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 56,
+   "min": 71,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-23T19:15:52.938082+00:00"
+   "at": "2026-11-23T19:31:09.037587+00:00"
   }
  },
  {
@@ -132,10 +132,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 47,
+   "min": 62,
    "gh": 0,
-   "ga": 1,
-   "at": "2026-11-23T19:15:52.938082+00:00"
+   "ga": 2,
+   "at": "2026-11-23T19:31:09.037587+00:00"
   }
  },
  {
@@ -260,7 +260,40 @@
    ],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "C. Kelleher",
+     "M. Kayode",
+     "K. Ajer",
+     "S. van den Berg",
+     "K. Lewis-Potter",
+     "Y. Yarmolyuk",
+     "V. Janelt",
+     "D. Ouattara",
+     "M. Damsgaard",
+     "J. Anthony",
+     "C. Wilson"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Pickford",
+     "J. O&apos;Brien",
+     "J. Tarkowski",
+     "J. Branthwaite",
+     "V. Mykolenko",
+     "H. Armstrong",
+     "J. Garner",
+     "M. Röhl",
+     "K. Dewsbury-Hall",
+     "Tyrique George",
+     "T. Barry"
+    ]
+   }
+  },
   "ou": [
    0.5025641025641026,
    0.4974358974358974
@@ -318,7 +351,40 @@
     "Y. Santiago"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Ryan",
+     "J. Toljan",
+     "A. Mandi",
+     "Dela",
+     "Manu Sánchez",
+     "Oriol Rey",
+     "Jon Ander Olasagasti",
+     "Brugui",
+     "Reque",
+     "T. Fernández",
+     "Iván Romero"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "M. Dituro",
+     "Buba Sangaré",
+     "F. Redondo",
+     "Víctor Chust",
+     "R. Revivo",
+     "Gonzalo Villar",
+     "J. Morcillo",
+     "A. Osorio",
+     "L. Cepeda",
+     "Fer Niño",
+     "Germán Valera"
+    ]
+   }
+  },
   "ou": [
    0.5681818181818182,
    0.4318181818181818
