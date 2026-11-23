@@ -1,100 +1,5 @@
 [
  {
-  "league": "الدوري الإيطالي",
-  "type": "top",
-  "en": "Serie A",
-  "id": 1550203,
-  "kickoff": "2026-11-23T22:45:00+03:00",
-  "home": "Monza",
-  "away": "Fiorentina",
-  "p": [
-   0.24902723735408558,
-   0.2529182879377432,
-   0.49805447470817116
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "P. Ciurria",
-    "M. Folorunsho",
-    "Y. Maye",
-    "C. Ngonge"
-   ],
-   "away": [
-    "F. Parisi",
-    "M. Pongracic",
-    "R. Sottil"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-5-2",
-    "xi": [
-     "D. Thiam",
-     "E. Kouadio",
-     "S. Goglichidze",
-     "A. Carboni",
-     "S. Birindelli",
-     "E. Akinsanmiro",
-     "L. Colombo",
-     "M. Pessina",
-     "Ricardo Mangas",
-     "Gustavo Varela",
-     "Jay Robinson"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "David de Gea",
-     "Álex Jiménez",
-     "R. Drăgușin",
-     "Viery",
-     "João Mário",
-     "C. Ndour",
-     "C. Inao OulaÃ¯",
-     "Franco Mastantuono",
-     "Pote",
-     "W. Gnonto",
-     "Mateo Pellegrino"
-    ]
-   }
-  },
-  "ou": [
-   0.5743073047858943,
-   0.42569269521410585
-  ],
-  "btts": [
-   0.5992327744759891,
-   0.40076722552401084
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 4.0,
-    "edge": -0.0038910505836576847
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.0,
-    "edge": 0.011673151750972721
-   },
-   {
-    "book": "1xBet",
-    "odd": 2.0,
-    "edge": -0.0038910505836576847
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 3,
-   "ga": 0,
-   "at": "2026-11-23T21:31:00.434028+00:00"
-  }
- },
- {
   "league": "الدوري الإنجليزي",
   "type": "top",
   "en": "Premier League",
@@ -182,10 +87,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 63,
-   "gh": 2,
+   "min": 78,
+   "gh": 3,
    "ga": 0,
-   "at": "2026-11-23T21:31:00.434028+00:00"
+   "at": "2026-11-23T21:45:52.130593+00:00"
   }
  },
  {
@@ -272,10 +177,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-23T21:31:00.434028+00:00"
+   "at": "2026-11-23T21:45:52.130593+00:00"
   }
  },
  {
