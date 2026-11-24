@@ -88,10 +88,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 74,
+   "min": 90,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-24T19:15:43.577966+00:00"
+   "at": "2026-11-24T19:31:02.281850+00:00"
   }
  },
  {
@@ -192,10 +192,10 @@
   "nbooks": 9,
   "live": {
    "st": "2H",
-   "min": 74,
-   "gh": 0,
+   "min": 90,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-11-24T19:15:43.577966+00:00"
+   "at": "2026-11-24T19:31:02.281850+00:00"
   }
  },
  {
@@ -278,10 +278,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 55,
+   "min": 70,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-24T19:15:43.577966+00:00"
+   "at": "2026-11-24T19:31:02.281850+00:00"
   }
  },
  {
@@ -364,10 +364,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 53,
-   "gh": 0,
+   "min": 69,
+   "gh": 1,
    "ga": 1,
-   "at": "2026-11-24T19:15:43.577966+00:00"
+   "at": "2026-11-24T19:31:02.281850+00:00"
   }
  },
  {
@@ -397,7 +397,40 @@
     "J. Lerma"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Kepa Arrizabalaga",
+     "Ben White",
+     "Ezri Konsa",
+     "Gabriel Magalhães",
+     "Piero Hincapié",
+     "Myles Lewis-Skelly",
+     "Declan Rice",
+     "Noni Madueke",
+     "Martin Ødegaard",
+     "Christos Tzolis",
+     "Viktor Gyökeres"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "Gregor Kobel",
+     "Joane Gadou",
+     "Waldemar Anton",
+     "Nico Schlotterbeck",
+     "Julian Ryerson",
+     "Felix Nmecha",
+     "Joey Veerman",
+     "Daniel Svensson",
+     "Jobe Bellingham",
+     "Maximilian Beier",
+     "Fábio Silva"
+    ]
+   }
+  },
   "ou": [
    0.5487179487179488,
    0.4512820512820513
@@ -451,7 +484,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Robert Sánchez",
+     "Yan Couto",
+     "Jacobo Ramón",
+     "Trevoh Chalobah",
+     "Álex Valle",
+     "Máximo Perrone",
+     "Luis Milla",
+     "Lucas Da Cunha",
+     "Nico Paz",
+     "Martin Baturina",
+     "Anastasios Douvikas"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Thomas Strakosha",
+     "Lazaros Rota",
+     "Harold Moukoudi",
+     "Filipe Relvas",
+     "Stavros Pilios",
+     "Lovro Majer",
+     "Milán Vitális",
+     "Răzvan Marin",
+     "Mijat Gaćinović",
+     "Dereck Kutesa",
+     "Luka Jović"
+    ]
+   }
+  },
   "ou": [
    0.7030567685589519,
    0.296943231441048
@@ -518,7 +584,40 @@
     "V. Sousa"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Florian Kastenmeier",
+     "Givairo Read",
+     "Thijs Kraaijeveld",
+     "Mika Mármol",
+     "Javi López",
+     "Gjivai Zechiël",
+     "Charles Vanhoutte",
+     "Oussama Targhalline",
+     "Anis Hadj Moussa",
+     "Shaqueel van Persie",
+     "Luciano Valente"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Diogo Costa",
+     "Alberto Costa",
+     "Jan Bednarek",
+     "Jakub Kiwior",
+     "Zaidu Sanusi",
+     "Victor Froholdt",
+     "Pablo Rosario",
+     "Gabri Veiga",
+     "Pepê",
+     "Santiago Giménez",
+     "Oskar Pietuszewski"
+    ]
+   }
+  },
   "ou": [
    0.5721518987341772,
    0.42784810126582273
@@ -584,7 +683,40 @@
     "A. Vergara"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Gianluigi Donnarumma",
+     "Matheus Nunes",
+     "Joško Gvardiol",
+     "Marc Guéhi",
+     "Nico O'Reilly",
+     "Elliot Anderson",
+     "Ayyoub Bouaddi",
+     "Allan",
+     "Rayan Cherki",
+     "Enzo Fernández",
+     "Erling Haaland"
+    ]
+   },
+   "away": {
+    "formation": "3-5-1-1",
+    "xi": [
+     "Vanja Milinković-Savić",
+     "Sam Beukema",
+     "Amir Rrahmani",
+     "Mathías Olivera",
+     "Matteo Politano",
+     "Kevin De Bruyne",
+     "Billy Gilmour",
+     "Scott McTominay",
+     "Leonardo Spinazzola",
+     "Noa Lang",
+     "Rasmus Højlund"
+    ]
+   }
+  },
   "ou": [
    0.7383367139959431,
    0.26166328600405675
@@ -651,7 +783,40 @@
     "M. Nawrocki"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Maarten Vandevoordt",
+     "Ridle Baku",
+     "Willi Orbán",
+     "Maxime Estève",
+     "David Raum",
+     "Rocco Reitz",
+     "Neil El Aynaoui",
+     "Christoph Baumgartner",
+     "Brajan Gruda",
+     "Tidiam Gomis",
+     "Antonio Nusa"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Robin Risser",
+     "Ismaelo Ganiou",
+     "Samson Baidoo",
+     "Jean-Clair Todibo",
+     "Saud Abdulhamid",
+     "Amadou Haidara",
+     "Yassine Titraoui",
+     "Matthieu Udol",
+     "Florian Sotoca",
+     "Abdallah Sima",
+     "Florian Thauvin"
+    ]
+   }
+  },
   "ou": [
    0.727299450094486,
    0.2727005499055139
@@ -716,7 +881,40 @@
     "J. Schouten"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Thibaut Courtois",
+     "Federico Valverde",
+     "Éder Militão",
+     "Antonio Rüdiger",
+     "Marc Cucurella",
+     "Bernardo Silva",
+     "Aurélien Tchouaméni",
+     "Arda Güler",
+     "Yan Diomande",
+     "Kylian Mbappé",
+     "Vinícius Júnior"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Matěj Kovář",
+     "Sergiño Dest",
+     "Lutsharel Geertruida",
+     "Armando Obispo",
+     "Filip Kostić",
+     "Paul Wanner",
+     "Kodai Sano",
+     "Ivan Perišić",
+     "Sven Mijnans",
+     "Ruben van Bommel",
+     "Guus Til"
+    ]
+   }
+  },
   "ou": [
    0.8167450445019785,
    0.1832549554980215
@@ -785,7 +983,40 @@
     "J. Morante"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Dominik Takáč",
+     "César Blackman",
+     "Kenan Bajrić",
+     "Svetozar Marković",
+     "Sandro Cruz",
+     "Daiki Matsuoka",
+     "Peter Pokorný",
+     "Rahim Ibrahim",
+     "Tigran Barseghyan",
+     "Andraž Šporar",
+     "Nino Marcelli"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Álvaro Valles",
+     "Angel Ortiz",
+     "Diego Llorente",
+     "Valentín Gómez",
+     "Fran García",
+     "Facundo Bernal",
+     "Nelson Deossa",
+     "Antony",
+     "Isco",
+     "Abdessamad Ezzalzouli",
+     "Cucho Hernández"
+    ]
+   }
+  },
   "ou": [
    0.6975717439293598,
    0.30242825607064017
