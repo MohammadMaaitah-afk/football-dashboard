@@ -1,680 +1,5 @@
 [
  {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635611,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "Arsenal",
-  "away": "Borussia Dortmund",
-  "p": [
-   0.650197857509479,
-   0.20828849115022272,
-   0.1415136513402984
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Raya",
-    "B. Saka",
-    "M. Zubimendi"
-   ],
-   "away": [
-    "E. Can",
-    "S. Inacio",
-    "G. Konstantelias",
-    "J. Lerma"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Kepa Arrizabalaga",
-     "Ben White",
-     "Ezri Konsa",
-     "Gabriel Magalhães",
-     "Piero Hincapié",
-     "Myles Lewis-Skelly",
-     "Declan Rice",
-     "Noni Madueke",
-     "Martin Ødegaard",
-     "Christos Tzolis",
-     "Viktor Gyökeres"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "Gregor Kobel",
-     "Joane Gadou",
-     "Waldemar Anton",
-     "Nico Schlotterbeck",
-     "Julian Ryerson",
-     "Felix Nmecha",
-     "Joey Veerman",
-     "Daniel Svensson",
-     "Jobe Bellingham",
-     "Maximilian Beier",
-     "Fábio Silva"
-    ]
-   }
-  },
-  "ou": [
-   0.5487179487179488,
-   0.4512820512820513
-  ],
-  "btts": [
-   0.49904635990363894,
-   0.500953640096361
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.5,
-    "edge": -0.024703213735781437
-   },
-   {
-    "book": "Dafabet",
-    "odd": 4.8,
-    "edge": -0.00021524247893101034
-   },
-   {
-    "book": "1xBet",
-    "odd": 7.31,
-    "edge": 0.03446479129758129
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 1,
-   "ga": 1,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635649,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "Como",
-  "away": "AEK Athens FC",
-  "p": [
-   0.7464806715451998,
-   0.1495279606045509,
-   0.10399136785024922
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Robert Sánchez",
-     "Yan Couto",
-     "Jacobo Ramón",
-     "Trevoh Chalobah",
-     "Álex Valle",
-     "Máximo Perrone",
-     "Luis Milla",
-     "Lucas Da Cunha",
-     "Nico Paz",
-     "Martin Baturina",
-     "Anastasios Douvikas"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Thomas Strakosha",
-     "Lazaros Rota",
-     "Harold Moukoudi",
-     "Filipe Relvas",
-     "Stavros Pilios",
-     "Lovro Majer",
-     "Milán Vitális",
-     "Răzvan Marin",
-     "Mijat Gaćinović",
-     "Dereck Kutesa",
-     "Luka Jović"
-    ]
-   }
-  },
-  "ou": [
-   0.7030567685589519,
-   0.296943231441048
-  ],
-  "btts": [
-   0.5634210167078822,
-   0.4365789832921178
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.31,
-    "edge": -0.022110320275788187
-   },
-   {
-    "book": "Dafabet",
-    "odd": 6.8,
-    "edge": 0.016790132110946043
-   },
-   {
-    "book": "Bet365",
-    "odd": 10.0,
-    "edge": 0.03991367850249228
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635663,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "Feyenoord",
-  "away": "FC Porto",
-  "p": [
-   0.2923500885779217,
-   0.2617826530429648,
-   0.4458672583791135
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "T. Beelen",
-    "J. Bos",
-    "B. Nieuwkoop",
-    "J. St. Juste",
-    "T. Wessels",
-    "A. Hadj Moussa",
-    "J. Moder"
-   ],
-   "away": [
-    "G. De Carvalho",
-    "D. Prpic",
-    "C. Smalling",
-    "V. Sousa"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Florian Kastenmeier",
-     "Givairo Read",
-     "Thijs Kraaijeveld",
-     "Mika Mármol",
-     "Javi López",
-     "Gjivai Zechiël",
-     "Charles Vanhoutte",
-     "Oussama Targhalline",
-     "Anis Hadj Moussa",
-     "Shaqueel van Persie",
-     "Luciano Valente"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "Diogo Costa",
-     "Alberto Costa",
-     "Jan Bednarek",
-     "Jakub Kiwior",
-     "Zaidu Sanusi",
-     "Victor Froholdt",
-     "Pablo Rosario",
-     "Gabri Veiga",
-     "Pepê",
-     "Santiago Giménez",
-     "Oskar Pietuszewski"
-    ]
-   }
-  },
-  "ou": [
-   0.5721518987341772,
-   0.42784810126582273
-  ],
-  "btts": [
-   0.6170835565794911,
-   0.382916443420509
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.34,
-    "edge": -0.023550704149741475
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.73,
-    "edge": -0.023550704149741364
-   },
-   {
-    "book": "Betano",
-    "odd": 2.22,
-    "edge": -0.010174686398367938
-   }
-  ],
-  "nbooks": 8,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635692,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "Manchester City",
-  "away": "Napoli",
-  "p": [
-   0.7405686167304538,
-   0.1528157463094587,
-   0.1066156369600875
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Semenyo"
-   ],
-   "away": [
-    "Alisson Santos",
-    "B. Badiashile",
-    "A. Buongiorno",
-    "G. Di Lorenzo",
-    "S. Lobotka",
-    "L. Marianucci",
-    "R. Marin",
-    "A. Meret",
-    "A. Vergara"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Gianluigi Donnarumma",
-     "Matheus Nunes",
-     "Joško Gvardiol",
-     "Marc Guéhi",
-     "Nico O'Reilly",
-     "Elliot Anderson",
-     "Ayyoub Bouaddi",
-     "Allan",
-     "Rayan Cherki",
-     "Enzo Fernández",
-     "Erling Haaland"
-    ]
-   },
-   "away": {
-    "formation": "3-5-1-1",
-    "xi": [
-     "Vanja Milinković-Savić",
-     "Sam Beukema",
-     "Amir Rrahmani",
-     "Mathías Olivera",
-     "Matteo Politano",
-     "Kevin De Bruyne",
-     "Billy Gilmour",
-     "Scott McTominay",
-     "Leonardo Spinazzola",
-     "Noa Lang",
-     "Rasmus Højlund"
-    ]
-   }
-  },
-  "ou": [
-   0.7383367139959431,
-   0.26166328600405675
-  ],
-  "btts": [
-   0.5960753633695244,
-   0.40392463663047573
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.33,
-    "edge": -0.015043739748496376
-   },
-   {
-    "book": "Betfair",
-    "odd": 6.5,
-    "edge": -0.006697648988518434
-   },
-   {
-    "book": "1xBet",
-    "odd": 9.45,
-    "edge": 0.007517769272826769
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 2,
-   "ga": 2,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635713,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "RB Leipzig",
-  "away": "Lens",
-  "p": [
-   0.7104114490161002,
-   0.16422182468694096,
-   0.12536672629695886
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "M. Guiu",
-    "C. Lukeba",
-    "A. Ouedraogo",
-    "L. Zingerle"
-   ],
-   "away": [
-    "R. Aguilar",
-    "J. Chavez",
-    "M. Cuisance",
-    "Diarra",
-    "O. Edouard",
-    "I. Jourdren",
-    "M. Nawrocki"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Maarten Vandevoordt",
-     "Ridle Baku",
-     "Willi Orbán",
-     "Maxime Estève",
-     "David Raum",
-     "Rocco Reitz",
-     "Neil El Aynaoui",
-     "Christoph Baumgartner",
-     "Brajan Gruda",
-     "Tidiam Gomis",
-     "Antonio Nusa"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "Robin Risser",
-     "Ismaelo Ganiou",
-     "Samson Baidoo",
-     "Jean-Clair Todibo",
-     "Saud Abdulhamid",
-     "Amadou Haidara",
-     "Yassine Titraoui",
-     "Matthieu Udol",
-     "Florian Sotoca",
-     "Abdallah Sima",
-     "Florian Thauvin"
-    ]
-   }
-  },
-  "ou": [
-   0.727299450094486,
-   0.2727005499055139
-  ],
-  "btts": [
-   0.6356914428072041,
-   0.3643085571927958
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 1.4,
-    "edge": -0.0054239713774597575
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.03,
-    "edge": -0.00974239713774594
-   },
-   {
-    "book": "Betano",
-    "odd": 7.8,
-    "edge": -0.02213953488372089
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635715,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "Real Madrid",
-  "away": "PSV Eindhoven",
-  "p": [
-   0.8486065550162728,
-   0.09438242196539252,
-   0.05701102301833461
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "R. Asencio",
-    "Endrick",
-    "F. Mendy",
-    "Rodrygo"
-   ],
-   "away": [
-    "Mauro Junior",
-    "A. Nagalo",
-    "S. Ouaissa",
-    "A. Plea",
-    "J. Schouten"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Thibaut Courtois",
-     "Federico Valverde",
-     "Éder Militão",
-     "Antonio Rüdiger",
-     "Marc Cucurella",
-     "Bernardo Silva",
-     "Aurélien Tchouaméni",
-     "Arda Güler",
-     "Yan Diomande",
-     "Kylian Mbappé",
-     "Vinícius Júnior"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Matěj Kovář",
-     "Sergiño Dest",
-     "Lutsharel Geertruida",
-     "Armando Obispo",
-     "Filip Kostić",
-     "Paul Wanner",
-     "Kodai Sano",
-     "Ivan Perišić",
-     "Sven Mijnans",
-     "Ruben van Bommel",
-     "Guus Til"
-    ]
-   }
-  },
-  "ou": [
-   0.8167450445019785,
-   0.1832549554980215
-  ],
-  "btts": [
-   0.5950303539336577,
-   0.4049696460663423
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 1.17,
-    "edge": -0.007130330630960913
-   },
-   {
-    "book": "1xBet",
-    "odd": 10.6,
-    "edge": 0.00045367283316077867
-   },
-   {
-    "book": "1xBet",
-    "odd": 17.5,
-    "edge": -0.002307097179144235
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 4,
-   "ga": 1,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635731,
-  "kickoff": "2026-11-24T23:00:00+03:00",
-  "home": "Slovan Bratislava",
-  "away": "Real Betis",
-  "p": [
-   0.09472975739051696,
-   0.1489239906883476,
-   0.7563462519211355
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "S. Camara",
-    "A. Griger",
-    "M. Kianga",
-    "M. Kukharevych",
-    "J. Medvedev",
-    "A. Mustafic",
-    "K. Wimmer",
-    "R. Cerepkai",
-    "A. Gajdos"
-   ],
-   "away": [
-    "D. Ceballos",
-    "G. Lo Celso",
-    "I. Losada",
-    "J. Morante"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Dominik Takáč",
-     "César Blackman",
-     "Kenan Bajrić",
-     "Svetozar Marković",
-     "Sandro Cruz",
-     "Daiki Matsuoka",
-     "Peter Pokorný",
-     "Rahim Ibrahim",
-     "Tigran Barseghyan",
-     "Andraž Šporar",
-     "Nino Marcelli"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Álvaro Valles",
-     "Angel Ortiz",
-     "Diego Llorente",
-     "Valentín Gómez",
-     "Fran García",
-     "Facundo Bernal",
-     "Nelson Deossa",
-     "Antony",
-     "Isco",
-     "Abdessamad Ezzalzouli",
-     "Cucho Hernández"
-    ]
-   }
-  },
-  "ou": [
-   0.6975717439293598,
-   0.30242825607064017
-  ],
-  "btts": [
-   0.5494920088034102,
-   0.4505079911965898
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 11.6,
-    "edge": 0.0988651857299967
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.9,
-    "edge": 0.02757553574959859
-   },
-   {
-    "book": "Betano",
-    "odd": 1.32,
-    "edge": -0.0016229474641010766
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 0,
-   "ga": 2,
-   "at": "2026-11-24T21:45:42.298010+00:00"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -981,9 +306,9 @@
   "home": "Atletico Madrid",
   "away": "Viking",
   "p": [
-   0.8763226292711085,
-   0.08485518417237847,
-   0.038822186556513066
+   0.876122881910798,
+   0.08498546473561533,
+   0.03889165335358667
   ],
   "source": "Pinnacle",
   "out": {
@@ -1005,36 +330,36 @@
   },
   "lineups": null,
   "ou": [
-   0.7533650722730131,
-   0.24663492772698692
+   0.7527017282085374,
+   0.24729827179146266
   ],
   "btts": [
-   0.4776095847011243,
-   0.5223904152988756
+   0.4759446132539387,
+   0.5240553867460612
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.12,
-    "edge": -0.018518655216358426
+    "odd": 1.13,
+    "edge": -0.009981143440798368
    },
    {
     "book": "1xBet",
     "odd": 12.9,
-    "edge": 0.09463187582368238
+    "edge": 0.09631249508943784
    },
    {
     "book": "1xBet",
     "odd": 25.0,
-    "edge": -0.029445336087173368
+    "edge": -0.027708666160333184
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.007448987398030793,
-    -0.0024289259701224947,
-    -0.0050200614279082775
+    0.007249240037720317,
+    -0.0022986454068856382,
+    -0.004950594630834672
    ],
    "since": "22/11 00:01"
   }
@@ -1075,8 +400,8 @@
    0.2732919254658385
   ],
   "btts": [
-   0.6998466090933536,
-   0.30015339090664633
+   0.7008019121491996,
+   0.29919808785080043
   ],
   "best": [
    {
@@ -1305,9 +630,9 @@
   "home": "Shakhtar Donetsk",
   "away": "Fenerbahçe",
   "p": [
-   0.34561247708380183,
-   0.27203671165419696,
-   0.38235081126200116
+   0.33478433673372826,
+   0.26894032590798117,
+   0.3962753373582905
   ],
   "source": "Pinnacle",
   "out": {
@@ -1333,36 +658,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5412371134020618,
-   0.45876288659793807
+   0.5424164524421594,
+   0.4575835475578406
   ],
   "btts": [
-   0.5952188438533119,
-   0.40478115614668797
+   0.5911560002477706,
+   0.40884399975222935
   ],
   "best": [
    {
-    "book": "Pinnacle",
-    "odd": 2.81,
-    "edge": -0.028828939394516806
+    "book": "Betano",
+    "odd": 3.0,
+    "edge": 0.004353010201184837
    },
    {
-    "book": "Pinnacle",
-    "odd": 3.57,
-    "edge": -0.028828939394516917
+    "book": "Betano",
+    "odd": 3.65,
+    "edge": -0.01836781043586877
    },
    {
-    "book": "1xBet",
-    "odd": 2.7,
-    "edge": 0.03234719040740308
+    "book": "Dafabet",
+    "odd": 2.6,
+    "edge": 0.03031587713155548
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.013702061335214233,
-    -0.0010423375442552008,
-    0.014744398879469378
+    -0.0245302016852878,
+    -0.004138723290470991,
+    0.028668924975758736
    ],
    "since": "22/11 00:01"
   }
@@ -1376,9 +701,9 @@
   "home": "Sporting CP",
   "away": "Manchester United",
   "p": [
-   0.38103323821029056,
-   0.253690537189619,
-   0.3652762246000905
+   0.377579552983541,
+   0.2520466106929092,
+   0.37037383632354975
   ],
   "source": "Pinnacle",
   "out": {
@@ -1401,32 +726,32 @@
    0.3713592233009709
   ],
   "btts": [
-   0.64484146425293,
-   0.35515853574706996
+   0.6467412485568955,
+   0.3532587514431044
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 2.56,
-    "edge": -0.02455491018165612
+    "book": "Betano",
+    "odd": 2.6,
+    "edge": -0.018293162242793315
    },
    {
-    "book": "Betfair",
-    "odd": 3.9,
-    "edge": -0.010606904960485997
+    "book": "Pinnacle",
+    "odd": 3.85,
+    "edge": -0.029620548832299587
    },
    {
     "book": "1xBet",
     "odd": 2.78,
-    "edge": 0.015467904388251519
+    "edge": 0.02963926497946834
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.007020260335222128,
-    -0.005476064327072427,
-    -0.0015441960081496453
+    0.0035665751084725805,
+    -0.00711999082378223,
+    0.0035534157153095935
    ],
    "since": "22/11 00:01"
   }
@@ -1650,8 +975,16 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "U. Akdag",
+    "C. Keles",
+    "M. Rashica"
+   ],
+   "away": [
+    "D. Biton",
+    "Lucas Ventura",
+    "Y. Stoyanov"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1704,8 +1037,21 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "B. Iglesias",
+    "M. Roman",
+    "C. Starfelt"
+   ],
+   "away": [
+    "M. Aarons",
+    "J. Araujo",
+    "F. Forster",
+    "D. Jebbison",
+    "E. J. Kroupi",
+    "V. Milosavljevic",
+    "J. Sanchez",
+    "A. Toth"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1758,8 +1104,20 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "S. McKenna",
+    "R. Mudrazija",
+    "I. Nevistic",
+    "N. Nsoki",
+    "P. Tabinas",
+    "F. Topic"
+   ],
+   "away": [
+    "V. Boniface",
+    "K. Eichhorn",
+    "T. Oermann",
+    "M. Terrier"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1812,8 +1170,17 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "D. Cornelius",
+    "Emerson",
+    "P. Hojbjerg"
+   ],
+   "away": [
+    "P. Hristov",
+    "O. Kamdem",
+    "R. Kirilov",
+    "M. Sangare"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1866,8 +1233,26 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "Chiquinho",
+    "C. Fernandes Silva",
+    "A. El Kaabi",
+    "S. Hezze",
+    "M. Mouandilmadji",
+    "B. Popovic",
+    "G. Puerta",
+    "J. Roca",
+    "L. Scipioni",
+    "Y. Yazici"
+   ],
+   "away": [
+    "W. Bondo",
+    "S. Chukwueze",
+    "M. Gabbia",
+    "R. Loftus-Cheek",
+    "A. Saelemaekers",
+    "F. Tomori"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1920,8 +1305,13 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "V. Jemelka",
+    "M. Tvrdon"
+   ],
+   "away": [
+    "L. Barreiro"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -1974,8 +1364,21 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "A. Ait El Hadj",
+    "M. Biondic",
+    "N. Havenaar",
+    "K. Mac Allister",
+    "I. Pavlic"
+   ],
+   "away": [
+    "A. Douglas",
+    "A. Gholizadeh",
+    "M. Ishak",
+    "J. Moutinho",
+    "P. Rodriguez",
+    "A. Sayyadmanesh"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2028,8 +1431,22 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "K. Boma",
+    "A. Chase",
+    "S. Kitano",
+    "F. Matijasevic",
+    "J. Mellberg",
+    "J. Moser",
+    "J. Omoregie",
+    "D. Schmid",
+    "H. Tabakovic",
+    "N. Veratschnig"
+   ],
+   "away": [
+    "P. Ayongo",
+    "J. Bravim"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2568,8 +1985,25 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "C. Doucoure",
+    "Z. Gozo",
+    "E. Guessand",
+    "J. Lerma",
+    "C. Riad",
+    "I. Sarr",
+    "T. Tomiyasu",
+    "A. Wharton",
+    "O. Mingueza"
+   ],
+   "away": [
+    "L. Astiazaran",
+    "A. Barrenetxea",
+    "T. Folgado",
+    "Y. Herrera",
+    "A. Odriozola",
+    "J. Aramburu"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2622,8 +2056,22 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "E. Botka",
+    "B. Nagy",
+    "B. Otvos",
+    "I. Pappoe",
+    "G. Szecsi",
+    "B. Yusuf"
+   ],
+   "away": [
+    "I. Calusic",
+    "J. Pisek",
+    "R. Pozeg",
+    "Z. L. Sega",
+    "S. Sluga",
+    "D. Vuklisevic"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2676,8 +2124,22 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "N. De Cat",
+    "L. Engelns",
+    "V. Gendrey",
+    "A. Hajdari",
+    "R. Hranac"
+   ],
+   "away": [
+    "N. Geyrhofer",
+    "L. Grgic",
+    "D. Khudyakov",
+    "O. Kiteishvili",
+    "F. Rozga",
+    "S. Wlodarczyk",
+    "P. Koller"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2730,8 +2192,22 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "N. Gonzalez",
+    "K. Grabara",
+    "P. Kalulu",
+    "M. Locatelli",
+    "A. Milik",
+    "D. Rugani",
+    "K. Thuram",
+    "K. Yildiz",
+    "E. Zhegrova",
+    "K. Alajbegovic"
+   ],
+   "away": [
+    "C. Eiting",
+    "F. Kitsos"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2784,8 +2260,17 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "C. Mata",
+    "T. Morton",
+    "L. Openda",
+    "M. Ouedraogo",
+    "P. Sulc"
+   ],
+   "away": [
+    "D. Bassi",
+    "E. B. Garnas"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2838,8 +2323,17 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "M. Bakker",
+    "I. Hansen-Aaroen",
+    "B. Nuytinck",
+    "A. Tahaui",
+    "P. Schuurs"
+   ],
+   "away": [
+    "P. Frankowski",
+    "V. Rongier"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2892,8 +2386,17 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "A. Chatzigiovanis",
+    "K. Kodro",
+    "K. Krizmanic",
+    "A. Leya Iseka"
+   ],
+   "away": [
+    "L. Hey",
+    "I. Koutsoupias",
+    "I. Camara"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -2946,8 +2449,25 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "M. Andersen",
+    "E. Cobbaut",
+    "T. Guddal",
+    "A. Karabec",
+    "O. Penxa",
+    "M. Rynes",
+    "E. Uchenna",
+    "S. Eneme",
+    "H. Sochurek"
+   ],
+   "away": [
+    "J. Hornkamp",
+    "S. Resink",
+    "L. Schouten",
+    "K. Smit",
+    "H. Verhulst",
+    "Weslley Patati"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3000,8 +2520,24 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "J. Angulo",
+    "D. Ballard",
+    "B. Brobbey",
+    "A. Browne",
+    "H. Diarra",
+    "M. Ellborg",
+    "R. Mundle",
+    "J. Ta Bi",
+    "C. Talbi",
+    "G. Xhaka"
+   ],
+   "away": [
+    "D. Drachal",
+    "C. Polak",
+    "Z. Zalewski",
+    "Y. Sylla"
+   ]
   },
   "lineups": null,
   "ou": [
@@ -3054,8 +2590,18 @@
   ],
   "source": "Pinnacle",
   "out": {
-   "home": [],
-   "away": []
+   "home": [
+    "J. Aguirre",
+    "A. Baradji"
+   ],
+   "away": [
+    "M. Baur",
+    "L. Emenalo",
+    "A. Johnston",
+    "Jota",
+    "S. Mheuka",
+    "J. van den Berg"
+   ]
   },
   "lineups": null,
   "ou": [
