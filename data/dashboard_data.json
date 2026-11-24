@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Ahmed Mayhoub",
+     "Hesham Hafez",
+     "Mohamed Ragab",
+     "Mohamed Desouki",
+     "Abdel Rahman Amer",
+     "S. Attidjikou",
+     "Mohamed Saeed",
+     "K. Mohamed",
+     "Amr El Sisi",
+     "Samir Fekri",
+     "P. Badji"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Abdel Aziz El Balouti",
+     "Hisham Saleh",
+     "Mohamed Nasr",
+     "Mahmoud El Gazzar",
+     "Hatem Mohamed",
+     "Mohamed Naser",
+     "Anderson Ceará",
+     "Ali Hamdy",
+     "K. Hamed",
+     "Mostafa Shalaby",
+     "Osama Faisal"
+    ]
+   }
+  },
   "ou": [
    0.325635103926097,
    0.674364896073903
