@@ -26,7 +26,40 @@
     "A. Smakaj"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Nikita Haikin",
+     "Fredrik Sjøvold",
+     "Odin Luras Bjørtuft",
+     "Jostein Gundersen",
+     "Fredrik André Bjørkan",
+     "Sondre Auklend",
+     "Patrick Berg",
+     "Sondre Fet",
+     "Ole Didrik Blomberg",
+     "Ola Brynhildsen",
+     "Jens Petter Hauge"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Lukas Jungwirth",
+     "Xavier Mbuyamba",
+     "Alemão",
+     "Miguel Freckleton",
+     "Kasper Jørgensen",
+     "Robert Ljubičić",
+     "Alessandro Schöpf",
+     "Yvan Dibango",
+     "Krystof Daněk",
+     "Samuel Adeniran",
+     "Christoph Lang"
+    ]
+   }
+  },
   "ou": [
    0.7537319265040999,
    0.24626807349590008
@@ -98,7 +131,40 @@
     "M. Ruggeri"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Uğurcan Çakır",
+     "Wilfried Singo",
+     "Davinson Sánchez",
+     "Abdülkerim Bardakcı",
+     "Ismail Jakobs",
+     "Lucas Torreira",
+     "Mario Lemina",
+     "Eren Elmalı",
+     "Yunus Akgün",
+     "Aleksey Batrakov",
+     "Barış Alper Yılmaz"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Zion Suzuki",
+     "Taylor Harwood-Bellis",
+     "Victor Lindelöf",
+     "Tyrone Mings",
+     "Ian Maatsen",
+     "Boubacar Kamara",
+     "João Gomes",
+     "Alysson",
+     "Johan Manzambi",
+     "John McGinn",
+     "Nicolas Jackson"
+    ]
+   }
+  },
   "ou": [
    0.6541176470588235,
    0.3458823529411765
@@ -206,7 +272,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Fawzi",
+     "Khaled Abdel Fattah",
+     "Hassan Hussein",
+     "Mohamed Hamed",
+     "J. Ochaya",
+     "Mostafa Gamal",
+     "Omar El Wahsh",
+     "Anas Baniowda",
+     "D. Dokou",
+     "Idrissa Thiam",
+     "Shady Hussein"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Shaaban",
+     "Mohamed Diab",
+     "Ibrahim Samy",
+     "Mohamed El Shebini",
+     "H. Mohamed",
+     "Mohamed El Kott",
+     "Mahmoud Behiry",
+     "M. Wayo",
+     "Mohamed Sadek",
+     "M. Hany",
+     "Hazem Abou Sena"
+    ]
+   }
+  },
   "ou": [
    0.325635103926097,
    0.674364896073903
