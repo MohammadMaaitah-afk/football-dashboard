@@ -104,7 +104,39 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "Aly Lotfy",
+     "T. Alaa",
+     "Abdel Rahman Gouda",
+     "M. Mohamed",
+     "Mohamed Rabia",
+     "Ahmed El Sageery",
+     "Mostafa Saad",
+     "Abdelrahman El Banouby",
+     "M. Magassa",
+     "Mahmoud Sayed okaa",
+     "Rafaat Khalil"
+    ]
+   },
+   "away": {
+    "formation": "4-5-1",
+    "xi": [
+     "Mohamed Zakaria Shika",
+     "M. Alaa",
+     "Ahmed Awad",
+     "Ahmed Fayez",
+     "Ahmed Dahesh",
+     "Mostafa Rahim",
+     "Mohamed Ashraf",
+     "R. Milad",
+     "O. Ibrahim",
+     "Ali Hussein"
+    ]
+   }
+  },
   "ou": [
    0.4030226700251889,
    0.5969773299748111
