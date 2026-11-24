@@ -87,11 +87,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 60,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-24T18:45:44.539375+00:00"
+   "at": "2026-11-24T19:01:16.216687+00:00"
   }
  },
  {
@@ -191,11 +191,11 @@
   ],
   "nbooks": 9,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 60,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-24T18:45:44.539375+00:00"
+   "at": "2026-11-24T19:01:16.216687+00:00"
   }
  },
  {
@@ -277,11 +277,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-24T18:45:44.539375+00:00"
+   "at": "2026-11-24T19:01:16.216687+00:00"
   }
  },
  {
@@ -363,11 +363,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-24T18:45:44.539375+00:00"
+   "at": "2026-11-24T19:01:16.216687+00:00"
   }
  },
  {
@@ -386,14 +386,12 @@
   "source": "Pinnacle",
   "out": {
    "home": [
+    "D. Raya",
     "B. Saka",
-    "M. Zubimendi",
-    "D. Raya"
+    "M. Zubimendi"
    ],
    "away": [
     "E. Can",
-    "C. Chukwuemeka",
-    "S. Guirassy",
     "S. Inacio",
     "G. Konstantelias",
     "J. Lerma"
@@ -507,18 +505,17 @@
    "home": [
     "T. Beelen",
     "J. Bos",
-    "J. Moder",
     "B. Nieuwkoop",
     "J. St. Juste",
     "T. Wessels",
-    "A. Hadj Moussa"
+    "A. Hadj Moussa",
+    "J. Moder"
    ],
    "away": [
     "G. De Carvalho",
     "D. Prpic",
     "C. Smalling",
-    "V. Sousa",
-    "William Gomes"
+    "V. Sousa"
    ]
   },
   "lineups": null,
@@ -573,14 +570,12 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "M. Nunes",
     "A. Semenyo"
    ],
    "away": [
     "Alisson Santos",
     "B. Badiashile",
     "A. Buongiorno",
-    "David Neres",
     "G. Di Lorenzo",
     "S. Lobotka",
     "L. Marianucci",
@@ -642,18 +637,18 @@
   "out": {
    "home": [
     "M. Guiu",
+    "C. Lukeba",
     "A. Ouedraogo",
     "L. Zingerle"
    ],
    "away": [
-    "A. Bulatovic",
+    "R. Aguilar",
+    "J. Chavez",
+    "M. Cuisance",
     "Diarra",
     "O. Edouard",
-    "J. Gradit",
-    "F. Ivanovic",
     "I. Jourdren",
-    "M. Nawrocki",
-    "R. Aguilar"
+    "M. Nawrocki"
    ]
   },
   "lineups": null,
@@ -709,15 +704,16 @@
   "out": {
    "home": [
     "R. Asencio",
+    "Endrick",
     "F. Mendy",
     "Rodrygo"
    ],
    "away": [
+    "Mauro Junior",
     "A. Nagalo",
     "S. Ouaissa",
     "A. Plea",
-    "J. Schouten",
-    "Mauro Junior"
+    "J. Schouten"
    ]
   },
   "lineups": null,
@@ -772,17 +768,21 @@
   "source": "Pinnacle",
   "out": {
    "home": [
-    "R. Cerepkai",
+    "S. Camara",
     "A. Griger",
     "M. Kianga",
+    "M. Kukharevych",
     "J. Medvedev",
-    "S. Camara"
+    "A. Mustafic",
+    "K. Wimmer",
+    "R. Cerepkai",
+    "A. Gajdos"
    ],
    "away": [
     "D. Ceballos",
+    "G. Lo Celso",
     "I. Losada",
-    "J. Morante",
-    "Antony"
+    "J. Morante"
    ]
   },
   "lineups": null,
