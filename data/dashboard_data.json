@@ -1,204 +1,5 @@
 [
  {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635641,
-  "kickoff": "2026-11-24T20:45:00+03:00",
-  "home": "Bodo/Glimt",
-  "away": "Lask Linz",
-  "p": [
-   0.6921787463831209,
-   0.16674669973527523,
-   0.14107455388160378
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "H. Evjen",
-    "A. Mikkelsen",
-    "I. Sjong"
-   ],
-   "away": [
-    "G. Bello",
-    "K. Cheikne",
-    "R. Harakate",
-    "A. Smakaj"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Nikita Haikin",
-     "Fredrik Sjøvold",
-     "Odin Luras Bjørtuft",
-     "Jostein Gundersen",
-     "Fredrik André Bjørkan",
-     "Sondre Auklend",
-     "Patrick Berg",
-     "Sondre Fet",
-     "Ole Didrik Blomberg",
-     "Ola Brynhildsen",
-     "Jens Petter Hauge"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "Lukas Jungwirth",
-     "Xavier Mbuyamba",
-     "Alemão",
-     "Miguel Freckleton",
-     "Kasper Jørgensen",
-     "Robert Ljubičić",
-     "Alessandro Schöpf",
-     "Yvan Dibango",
-     "Krystof Daněk",
-     "Samuel Adeniran",
-     "Christoph Lang"
-    ]
-   }
-  },
-  "ou": [
-   0.7537319265040999,
-   0.24626807349590008
-  ],
-  "btts": [
-   0.6685635645328788,
-   0.3314364354671212
-  ],
-  "best": [
-   {
-    "book": "SBO",
-    "odd": 1.46,
-    "edge": 0.010580969719356625
-   },
-   {
-    "book": "Dafabet",
-    "odd": 6.0,
-    "edge": 0.0004801984116513669
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.98,
-    "edge": -0.015299613906405551
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 0,
-   "ga": 0,
-   "at": "2026-11-24T19:31:02.281850+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635667,
-  "kickoff": "2026-11-24T20:45:00+03:00",
-  "home": "Galatasaray",
-  "away": "Aston Villa",
-  "p": [
-   0.3197229966723627,
-   0.2468747189495458,
-   0.4334022843780916
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "E. Aydin",
-    "K. Ayhan",
-    "C. Guner",
-    "K. Karatas",
-    "R. Leao",
-    "V. Osimhen",
-    "A. Unyay",
-    "A. Yilmaz",
-    "I. Jakobs",
-    "R. Sallai"
-   ],
-   "away": [
-    "M. Cash",
-    "M. Cisse",
-    "V. Lindelof",
-    "B. Madjo",
-    "A. Onana",
-    "M. Ruggeri"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Uğurcan Çakır",
-     "Wilfried Singo",
-     "Davinson Sánchez",
-     "Abdülkerim Bardakcı",
-     "Ismail Jakobs",
-     "Lucas Torreira",
-     "Mario Lemina",
-     "Eren Elmalı",
-     "Yunus Akgün",
-     "Aleksey Batrakov",
-     "Barış Alper Yılmaz"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Zion Suzuki",
-     "Taylor Harwood-Bellis",
-     "Victor Lindelöf",
-     "Tyrone Mings",
-     "Ian Maatsen",
-     "Boubacar Kamara",
-     "João Gomes",
-     "Alysson",
-     "Johan Manzambi",
-     "John McGinn",
-     "Nicolas Jackson"
-    ]
-   }
-  },
-  "ou": [
-   0.6541176470588235,
-   0.3458823529411765
-  ],
-  "btts": [
-   0.6737858054784445,
-   0.32621419452155553
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 3.15,
-    "edge": 0.007127439517942591
-   },
-   {
-    "book": "Betano",
-    "odd": 4.0,
-    "edge": -0.012501124201816816
-   },
-   {
-    "book": "Betano",
-    "odd": 2.27,
-    "edge": -0.016176814461732136
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 90,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-24T19:31:02.281850+00:00"
-  }
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -278,10 +79,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 70,
-   "gh": 1,
+   "min": 85,
+   "gh": 2,
    "ga": 0,
-   "at": "2026-11-24T19:31:02.281850+00:00"
+   "at": "2026-11-24T19:45:41.590257+00:00"
   }
  },
  {
@@ -364,10 +165,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 69,
+   "min": 84,
    "gh": 1,
    "ga": 1,
-   "at": "2026-11-24T19:31:02.281850+00:00"
+   "at": "2026-11-24T19:45:41.590257+00:00"
   }
  },
  {
