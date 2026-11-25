@@ -3840,6 +3840,69 @@
   "move": null
  },
  {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607476,
+  "kickoff": "2026-11-28T16:00:00+03:00",
+  "home": "CA Bizertin",
+  "away": "ES Zarzis",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607481,
+  "kickoff": "2026-11-28T16:00:00+03:00",
+  "home": "ES Metlaoui",
+  "away": "US Ben Guerdane",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري التونسي",
+  "type": "arab",
+  "en": "Tunisia Ligue 1",
+  "id": 1607482,
+  "kickoff": "2026-11-28T16:00:00+03:00",
+  "home": "Progrès Sakiet Eddaïer",
+  "away": "Stade Tunisien",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -4499,174 +4562,6 @@
    ],
    "since": "25/11 00:01"
   }
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607475,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "AS Marsa",
-  "away": "CS Sfaxien",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607476,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "CA Bizertin",
-  "away": "ES Zarzis",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607477,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "ES Tunis",
-  "away": "ES Hammam-Sousse",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607478,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "ES Sahel",
-  "away": "Club Africain",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607479,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "CS Hammam-Lif",
-  "away": "Olympique Béja",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607480,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "Jeunesse Sportive Omrane",
-  "away": "US Monastirienne",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607481,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "ES Metlaoui",
-  "away": "US Ben Guerdane",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
-  "league": "الدوري التونسي",
-  "type": "arab",
-  "en": "Tunisia Ligue 1",
-  "id": 1607482,
-  "kickoff": "2026-11-28T19:30:00+03:00",
-  "home": "Progrès Sakiet Eddaïer",
-  "away": "Stade Tunisien",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
  },
  {
   "league": "الدوري الأردني",
