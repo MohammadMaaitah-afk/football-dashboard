@@ -74,6 +74,7 @@
     "V. Simic"
    ],
    "away": [
+    "H. Abdelkarim",
     "R. Bardghji",
     "A. Christensen",
     "X. Espart",
@@ -851,7 +852,14 @@
    }
   ],
   "nbooks": 4,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "25/11 13:31"
+  }
  },
  {
   "league": "الدوري السعودي",
