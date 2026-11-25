@@ -220,7 +220,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Abdel Rahman Samir",
+     "M. Sharkia",
+     "Ahmed Khalil Kalousha",
+     "Seif Elkhashab",
+     "Marwan Dawoud",
+     "Zeyad Kamal",
+     "Emad Mayhoub",
+     "Omar El Azab",
+     "Hossam Gahnem",
+     "Hamed Abdallah",
+     "Mohamed El Nahass"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Bassam",
+     "Abdallah Magdy",
+     "Ahmed Ramadan",
+     "J. Arthur",
+     "Hussein Al Sayed",
+     "Amr Kalawa",
+     "Amr Al Sulaya",
+     "P. Gwargis",
+     "Mohamed Reda",
+     "S. Ougola",
+     "Marwan Osman"
+    ]
+   }
+  },
   "ou": [
    0.43076923076923074,
    0.5692307692307692
@@ -776,9 +809,9 @@
   "home": "Al-Fateh",
   "away": "Al Riyadh",
   "p": [
-   0.4213539554351549,
-   0.25463938228195,
-   0.324006662282895
+   0.4217389123211867,
+   0.2544001481830215,
+   0.3238609394957918
   ],
   "source": "Pinnacle",
   "out": {
@@ -787,8 +820,8 @@
   },
   "lineups": null,
   "ou": [
-   0.549738219895288,
-   0.450261780104712
+   0.5494791666666667,
+   0.45052083333333337
   ],
   "btts": [
    0.5823642711436384,
@@ -797,26 +830,26 @@
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.23,
-    "edge": -0.06038067937960456
+    "odd": 2.25,
+    "edge": -0.051087447277329945
    },
    {
     "book": "Betano",
     "odd": 3.75,
-    "edge": -0.045102316442687584
+    "edge": -0.045999444313669424
    },
    {
     "book": "Dafabet",
     "odd": 3.2,
-    "edge": 0.036821319305264
+    "edge": 0.036355006386533884
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.034811482910461655,
-    0.00538187485702421,
-    0.02942960805343725
+    -0.03442652602442986,
+    0.005142640758095701,
+    0.029283885266334075
    ],
    "since": "23/11 00:01"
   }
