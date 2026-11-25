@@ -1,26 +1,5 @@
 [
  {
-  "league": "الدوري الجزائري",
-  "type": "arab",
-  "en": "Algeria Ligue 1",
-  "id": 1611466,
-  "kickoff": "2026-11-25T17:00:00+03:00",
-  "home": "USM Alger",
-  "away": "MC Alger",
-  "p": null,
-  "source": null,
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
-  "move": null
- },
- {
   "league": "الدوري المصري",
   "type": "arab",
   "en": "Egypt Premier League",
@@ -88,10 +67,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 85,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-25T16:31:09.440057+00:00"
+   "at": "2026-11-25T16:45:46.380802+00:00"
   }
  },
  {
