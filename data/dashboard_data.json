@@ -1,686 +1,5 @@
 [
  {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635625,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Atletico Madrid",
-  "away": "Viking",
-  "p": [
-   0.8686949559647719,
-   0.0868694955964772,
-   0.044435548438751006
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Lookman",
-    "C. Romero"
-   ],
-   "away": [
-    "S. Bjorshol",
-    "K. Frimpong",
-    "K. Haugen",
-    "M. Roseth",
-    "A. Baertelsen",
-    "V. Berisha",
-    "N. D'Agostino"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-4-2",
-    "xi": [
-     "J. Oblak",
-     "Marcos Llorente",
-     "Robin Le Normand",
-     "D. Hancko",
-     "Álex Grimaldo",
-     "Lee Kang-In",
-     "Koke",
-     "J. Cardoso",
-     "Álex Baena",
-     "J. Álvarez",
-     "A. Sørloth"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "Ľ. Belko",
-     "H. Haugen",
-     "G. Stensness",
-     "H. Falchener",
-     "H. Heggheim",
-     "K. Askildsen",
-     "T. Moi",
-     "S. Kvia-Egeskog",
-     "H. Bjørdal",
-     "E. Botheim",
-     "Z. Tripić"
-    ]
-   }
-  },
-  "ou": [
-   0.755681181485674,
-   0.244318818514326
-  ],
-  "btts": [
-   0.4827812074312379,
-   0.5172187925687621
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.14,
-    "edge": -0.009687750200160106
-   },
-   {
-    "book": "1xBet",
-    "odd": 11.7,
-    "edge": 0.01637309847878332
-   },
-   {
-    "book": "1xBet",
-    "odd": 23.0,
-    "edge": 0.02201761409127312
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635642,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Club Brugge KV",
-  "away": "Liverpool",
-  "p": [
-   0.20513209263540916,
-   0.2082401546450366,
-   0.5866277527195543
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "J. Ordonez"
-   ],
-   "away": [
-    "C. Bradley",
-    "F. Chiesa",
-    "H. Ekitike",
-    "W. Endo",
-    "C. Gakpo",
-    "R. Gravenberch",
-    "G. Leoni",
-    "A. Nallo"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Y. Sommer",
-     "K. Sabbe",
-     "J. Spileers",
-     "B. Mechele",
-     "J. Seys",
-     "F. Potts",
-     "H. Vanaken",
-     "Carlos Forbs",
-     "H. Vetlesen",
-     "F. Lemaréchal",
-     "N. Tresoldi"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Alisson Becker",
-     "J. Frimpong",
-     "J. Jacquet",
-     "R. Araújo",
-     "M. Kerkez",
-     "T. Nyoni",
-     "D. Szoboszlai",
-     "Víctor Muñoz",
-     "F. Wirtz",
-     "B. Barcola",
-     "A. Isak"
-    ]
-   }
-  },
-  "ou": [
-   0.7267080745341615,
-   0.2732919254658385
-  ],
-  "btts": [
-   0.6794915064837609,
-   0.32050849351623917
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 4.76,
-    "edge": -0.023571239055452442
-   },
-   {
-    "book": "Betano",
-    "odd": 4.8,
-    "edge": -0.00044725770382436636
-   },
-   {
-    "book": "1xBet",
-    "odd": 1.68,
-    "edge": -0.014465375431148897
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 85,
-   "gh": 0,
-   "ga": 3,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635673,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Inter",
-  "away": "VfB Stuttgart",
-  "p": [
-   0.677343732218589,
-   0.17237062719541152,
-   0.1502856405859994
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "A. Bonny",
-    "H. Calhanoglu",
-    "P. Zielinski"
-   ],
-   "away": [
-    "J. Diehl",
-    "S. Drljaca",
-    "L. Stergiou",
-    "D. Zagadou",
-    "L. Sauer"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-5-2",
-    "xi": [
-     "Josep Martínez",
-     "Y. Bisseck",
-     "M. Akanji",
-     "A. Bastoni",
-     "D. Spence",
-     "N. Barella",
-     "P. Sučić",
-     "H. Mkhitaryan",
-     "Carlos Augusto",
-     "F. Esposito",
-     "M. Thuram"
-    ]
-   },
-   "away": {
-    "formation": "3-4-3",
-    "xi": [
-     "D. Seimen",
-     "Finn Jeltsch",
-     "J. Chabot",
-     "R. Hendriks",
-     "J. Vagnoman",
-     "N. Nartey",
-     "Y. Spalt",
-     "M. Mittelstädt",
-     "B. El Khannouss",
-     "E. Demirović",
-     "C. Führich"
-    ]
-   }
-  },
-  "ou": [
-   0.7409383011825259,
-   0.25906169881747415
-  ],
-  "btts": [
-   0.6614907111679045,
-   0.3385092888320956
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.45,
-    "edge": -0.017851588283046005
-   },
-   {
-    "book": "Dafabet",
-    "odd": 5.8,
-    "edge": -0.00025036226661323546
-   },
-   {
-    "book": "1xBet",
-    "odd": 6.9,
-    "edge": 0.03697092004339608
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635682,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Lille",
-  "away": "Bayern München",
-  "p": [
-   0.18204440578869802,
-   0.23431019625844585,
-   0.5836453979528561
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "H. Igamane",
-    "T. Nianzou",
-    "T. Santos"
-   ],
-   "away": [
-    "A. Davies",
-    "S. Gnabry",
-    "H. Kane",
-    "M. Neuer",
-    "M. Olise",
-    "I. Saibari",
-    "B. Sapoko Ndiaye"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "B. Özer",
-     "M. Goffi",
-     "N. Ngoy",
-     "Alexsandro Ribeiro",
-     "C. Verdonk",
-     "N. Mukau",
-     "N. Bentaleb",
-     "B. André",
-     "E. Mbappé",
-     "A. Ueda",
-     "H. Haraldsson"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "J. Urbig",
-     "J. Stanišić",
-     "D. Upamecano",
-     "Kim Min-Jae",
-     "H. Ito",
-     "J. Kimmich",
-     "A. Pavlović",
-     "K. Laimer",
-     "T. Bischof",
-     "N. Brown",
-     "L. Karl"
-    ]
-   }
-  },
-  "ou": [
-   0.541025641025641,
-   0.45897435897435895
-  ],
-  "btts": [
-   0.5332546584273687,
-   0.4667453415726313
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 5.63,
-    "edge": 0.02491000459036985
-   },
-   {
-    "book": "Dafabet",
-    "odd": 4.4,
-    "edge": 0.03096486353716177
-   },
-   {
-    "book": "Betano",
-    "odd": 1.67,
-    "edge": -0.02531218541873037
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 89,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635703,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Paris Saint Germain",
-  "away": "AS Roma",
-  "p": [
-   0.636959580383373,
-   0.1974967076753374,
-   0.1655437119412897
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "D. Doue",
-    "K. Kvaratskhelia",
-    "A. Longoni"
-   ],
-   "away": [
-    "L. Pellegrini",
-    "D. Rensch",
-    "D. S. Vasquez Llach"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "M. Safonov",
-     "A. Hakimi",
-     "I. Zabarnyi",
-     "W. Pacho",
-     "Nuno Mendes",
-     "João Neves",
-     "Vitinha",
-     "Fabián Ruiz",
-     "M. Akliouche",
-     "Ferran Torres",
-     "Senny Mayulu"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "M. Svilar",
-     "G. Mancini",
-     "E. Ndicka",
-     "Hermoso",
-     "Wesley",
-     "M. de Roon",
-     "M. Koné",
-     "N. Molina",
-     "N. Pisilli",
-     "M. Soulé",
-     "S. Castro"
-    ]
-   }
-  },
-  "ou": [
-   0.700218818380744,
-   0.29978118161925604
-  ],
-  "btts": [
-   0.6390059079228306,
-   0.36099409207716937
-  ],
-  "best": [
-   {
-    "book": "Betano",
-    "odd": 1.53,
-    "edge": -0.025451842013439308
-   },
-   {
-    "book": "Dafabet",
-    "odd": 5.4,
-    "edge": 0.06648222144682192
-   },
-   {
-    "book": "Dafabet",
-    "odd": 6.4,
-    "edge": 0.05947975642425418
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 2,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635724,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Shakhtar Donetsk",
-  "away": "Fenerbahçe",
-  "p": [
-   0.36947791164658633,
-   0.27710843373493976,
-   0.35341365461847396
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "Eguinaldo",
-    "Kaua Elias",
-    "V. Korniyenko",
-    "Marlon",
-    "G. Mendoza",
-    "Pedrinho",
-    "T. Puzankov",
-    "M. Shved",
-    "D. Tvardovskyi"
-   ],
-   "away": [
-    "N. Ake",
-    "M. Asensio",
-    "A. Diouf",
-    "A. Fall",
-    "J. Oosterwolde",
-    "M. Yandas"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "D. Riznyk",
-     "Vinícius Tobias",
-     "V. Bondar",
-     "M. Matvienko",
-     "Pedrinho",
-     "E. Nazaryna",
-     "Alisson Santana",
-     "O. Ocheretko",
-     "Marlon Gomes",
-     "Newertton",
-     "L. Traoré"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Ederson",
-     "Nélson Semedo",
-     "M. Škriniar",
-     "K. Peprah Oppong",
-     "A. Brown",
-     "İ. Yüksek",
-     "N. Kanté",
-     "O. Aydın",
-     "M. Greenwood",
-     "K. Aktürkoğlu",
-     "V. Muriqi"
-    ]
-   }
-  },
-  "ou": [
-   0.5231958762886597,
-   0.47680412371134023
-  ],
-  "btts": [
-   0.5799999355812567,
-   0.42000006441874327
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.72,
-    "edge": 0.004979919678714806
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.56,
-    "edge": -0.013493975903614452
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 2.76,
-    "edge": -0.024578313253011963
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
-  "league": "دوري أبطال أوروبا",
-  "type": "euro",
-  "en": "Champions League",
-  "id": 1635735,
-  "kickoff": "2026-11-25T23:00:00+03:00",
-  "home": "Sporting CP",
-  "away": "Manchester United",
-  "p": [
-   0.358755050486121,
-   0.26302257070680574,
-   0.3782223788070733
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "S. Alexandropoulos",
-    "Z. Debast",
-    "N. Santos"
-   ],
-   "away": [
-    "C. Baleba",
-    "M. Cunha",
-    "M. Rashford",
-    "B. Sesko",
-    "M. Ugarte"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "Kaique",
-     "Iván Fresneda",
-     "Eduardo Quaresma",
-     "Gonçalo Inácio",
-     "M. Araújo",
-     "S. Andersen",
-     "Sergi Altimira",
-     "I. Doumbia",
-     "Geny Catamo",
-     "L. Suárez",
-     "Luis Guilherme"
-    ]
-   },
-   "away": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "S. Lammens",
-     "L. Yoro",
-     "H. Maguire",
-     "Lisandro Martínez",
-     "A. Diallo",
-     "K. Mainoo",
-     "Y. Tielemans",
-     "N. Mazraoui",
-     "B. Mbeumo",
-     "Bruno Fernandes",
-     "J. Zirkzee"
-    ]
-   }
-  },
-  "ou": [
-   0.6339712918660287,
-   0.3660287081339713
-  ],
-  "btts": [
-   0.6546450804102574,
-   0.3453549195897427
-  ],
-  "best": [
-   {
-    "book": "1xBet",
-    "odd": 2.77,
-    "edge": -0.006248510153444853
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.82,
-    "edge": 0.004746220099997922
-   },
-   {
-    "book": "Dafabet",
-    "odd": 2.7,
-    "edge": 0.02120042277909806
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 2,
-   "ga": 2,
-   "at": "2026-11-25T21:45:43.053078+00:00"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -1955,12 +1274,12 @@
     "O. Mingueza"
    ],
    "away": [
+    "J. Aramburu",
     "L. Astiazaran",
     "A. Barrenetxea",
     "T. Folgado",
     "Y. Herrera",
-    "A. Odriozola",
-    "J. Aramburu"
+    "A. Odriozola"
    ]
   },
   "lineups": null,
@@ -2275,9 +1594,9 @@
   "home": "NEC Nijmegen",
   "away": "Rennes",
   "p": [
-   0.3116689642904789,
-   0.24267354471472405,
-   0.44565749099479696
+   0.3029726542103168,
+   0.240393919587531,
+   0.45663342620215225
   ],
   "source": "Pinnacle",
   "out": {
@@ -2295,36 +1614,36 @@
   },
   "lineups": null,
   "ou": [
-   0.624078624078624,
-   0.37592137592137587
+   0.6308068459657702,
+   0.36919315403422975
   ],
   "btts": [
-   0.6347826608735564,
-   0.3652173391264436
+   0.641992594653359,
+   0.35800740534664094
   ],
   "best": [
    {
-    "book": "1xBet",
-    "odd": 3.12,
-    "edge": -0.02759283141370572
+    "book": "Pinnacle",
+    "odd": 3.15,
+    "edge": -0.04563613923750198
    },
    {
-    "book": "1xBet",
-    "odd": 3.96,
-    "edge": -0.0390127629296928
+    "book": "Bet365",
+    "odd": 4.0,
+    "edge": -0.03842432164987597
    },
    {
     "book": "Dafabet",
     "odd": 2.19,
-    "edge": -0.024010094721394704
+    "edge": 2.7203382713336666e-05
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.007577727690159242,
-    -0.0002138876064230466,
-    0.007791615296582233
+    -0.016274037770321326,
+    -0.002493512733616088,
+    0.018767550503937525
    ],
    "since": "23/11 00:01"
   }
@@ -2401,9 +1720,9 @@
   "home": "Sparta Praha",
   "away": "AZ Alkmaar",
   "p": [
-   0.32915921288014316,
-   0.259391771019678,
-   0.4114490161001789
+   0.3204754926904668,
+   0.2588121865088323,
+   0.4207123208007009
   ],
   "source": "Pinnacle",
   "out": {
@@ -2419,11 +1738,12 @@
     "H. Sochurek"
    ],
    "away": [
+    "E. Dijkstra",
     "J. Hornkamp",
+    "M. Meerdink",
     "S. Resink",
     "L. Schouten",
     "K. Smit",
-    "H. Verhulst",
     "Weslley Patati"
    ]
   },
@@ -2433,32 +1753,32 @@
    0.42564102564102557
   ],
   "btts": [
-   0.6024529113179116,
-   0.3975470886820884
+   0.6014257322701669,
+   0.39857426772983295
   ],
   "best": [
    {
-    "book": "Betfair",
-    "odd": 3.0,
-    "edge": -0.012522361359570522
+    "book": "1xBet",
+    "odd": 3.06,
+    "edge": -0.019344992367171465
    },
    {
     "book": "1xBet",
-    "odd": 3.69,
-    "edge": -0.0428443649373883
+    "odd": 3.7,
+    "edge": -0.04239490991732042
    },
    {
     "book": "Dafabet",
     "odd": 2.45,
-    "edge": 0.008050089445438502
+    "edge": 0.03074518596171738
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.02115626675850346,
-    -0.007748245576273238,
-    0.028904512334776755
+    -0.029839986948179797,
+    -0.008327830087118904,
+    0.03816781703529876
    ],
    "since": "23/11 00:01"
   }
@@ -2675,14 +1995,14 @@
    0.31554524361948955
   ],
   "btts": [
-   0.40756876727051305,
-   0.592431232729487
+   0.41062411426995943,
+   0.5893758857300405
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.14,
-    "edge": -0.045954839254972346
+    "odd": 1.15,
+    "edge": -0.03758602205545458
    },
    {
     "book": "1xBet",
@@ -2768,9 +2088,9 @@
   "home": "SC Freiburg",
   "away": "Twente",
   "p": [
-   0.46552757355627983,
-   0.24226434950377831,
-   0.29220807693994183
+   0.46897226563070493,
+   0.24043755750609744,
+   0.29059017686319755
   ],
   "source": "Pinnacle",
   "out": {
@@ -2779,36 +2099,36 @@
   },
   "lineups": null,
   "ou": [
-   0.5939086294416244,
-   0.40609137055837563
+   0.5974683544303797,
+   0.4025316455696203
   ],
   "btts": [
-   0.6298273577176614,
-   0.3701726422823386
+   0.6289645053480302,
+   0.3710354946519699
   ],
   "best": [
    {
     "book": "1xBet",
     "odd": 2.11,
-    "edge": -0.017736819796249637
+    "edge": -0.010468519519212682
    },
    {
     "book": "Pinnacle",
-    "odd": 3.92,
-    "edge": -0.05032374994518907
+    "odd": 3.94,
+    "edge": -0.052676023425976104
    },
    {
-    "book": "1xBet",
+    "book": "Pinnacle",
     "odd": 3.26,
-    "edge": -0.047401669175789696
+    "edge": -0.052676023425976104
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.0010563024412147959,
-    0.009458110419077431,
-    -0.010514412860292255
+    0.0045009945156399,
+    0.007631318421396555,
+    -0.012132312937036538
    ],
    "since": "23/11 00:01"
   }
@@ -2822,9 +2142,9 @@
   "home": "Gent",
   "away": "FK Crvena Zvezda",
   "p": [
-   0.4337950138504155,
-   0.2729916897506925,
-   0.29321329639889193
+   0.434476322365054,
+   0.2727820092121504,
+   0.29274166842279553
   ],
   "source": "Pinnacle",
   "out": {
@@ -2833,8 +2153,8 @@
   },
   "lineups": null,
   "ou": [
-   0.5234374999999999,
-   0.4765625
+   0.5233160621761658,
+   0.4766839378238342
   ],
   "btts": [
    0.5688903411548795,
@@ -2844,25 +2164,25 @@
    {
     "book": "Dafabet",
     "odd": 2.23,
-    "edge": -0.032637119113573365
+    "edge": -0.031117801125929545
    },
    {
     "book": "Dafabet",
     "odd": 3.55,
-    "edge": -0.030879501385041697
+    "edge": -0.03162386729686617
    },
    {
     "book": "1xBet",
     "odd": 3.42,
-    "edge": 0.002789473684210453
+    "edge": 0.0011765060059607535
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    -0.005374740159295177,
-    -0.00038198997869520745,
-    0.005756730137990329
+    -0.004693431644656687,
+    -0.0005916705172372971,
+    0.005285102161893929
    ],
    "since": "23/11 00:01"
   }
@@ -2984,9 +2304,9 @@
   "home": "FC Nordsjaelland",
   "away": "Panathinaikos",
   "p": [
-   0.3799271863049642,
-   0.2721541449175961,
-   0.34791866877743965
+   0.3694545113721569,
+   0.2721194701324669,
+   0.3584260184953761
   ],
   "source": "Pinnacle",
   "out": {
@@ -2995,8 +2315,8 @@
   },
   "lineups": null,
   "ou": [
-   0.5658914728682171,
-   0.43410852713178294
+   0.5655526992287918,
+   0.43444730077120824
   ],
   "btts": [
    0.605668164349229,
@@ -3006,25 +2326,25 @@
    {
     "book": "Dafabet",
     "odd": 2.75,
-    "edge": 0.04479976233865157
+    "edge": 0.015999906273431508
    },
    {
     "book": "Betano",
     "odd": 3.6,
-    "edge": -0.020245078296654007
+    "edge": -0.02036990752311918
    },
    {
-    "book": "Pinnacle",
-    "odd": 2.73,
-    "edge": -0.05018203423758971
+    "book": "1xBet",
+    "odd": 2.72,
+    "edge": -0.02508122969257698
    }
   ],
   "nbooks": 10,
   "move": {
    "diff": [
-    0.03716027944571809,
-    -0.0006804332433554827,
-    -0.03647984620236261
+    0.0266876045129108,
+    -0.0007151080284846789,
+    -0.025972496484426177
    ],
    "since": "23/11 00:01"
   }
