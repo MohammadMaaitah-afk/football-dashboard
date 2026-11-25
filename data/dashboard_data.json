@@ -3432,6 +3432,27 @@
   }
  },
  {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1651745,
+  "kickoff": "2026-11-27T21:00:00+03:00",
+  "home": "Amal Tiznit",
+  "away": "Moghreb Tetouan",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
   "league": "الدوري الألماني",
   "type": "top",
   "en": "Bundesliga",
@@ -4535,6 +4556,27 @@
   "kickoff": "2026-11-28T18:30:00+03:00",
   "home": "Naft",
   "away": "Al Quwa Al Jawiya",
+  "p": null,
+  "source": null,
+  "out": {
+   "home": [],
+   "away": []
+  },
+  "lineups": null,
+  "ou": null,
+  "btts": null,
+  "best": null,
+  "nbooks": 0,
+  "move": null
+ },
+ {
+  "league": "الدوري المغربي",
+  "type": "arab",
+  "en": "Morocco Botola Pro",
+  "id": 1651746,
+  "kickoff": "2026-11-28T19:00:00+03:00",
+  "home": "CODM Meknès",
+  "away": "CR Khemis Zemamra",
   "p": null,
   "source": null,
   "out": {
