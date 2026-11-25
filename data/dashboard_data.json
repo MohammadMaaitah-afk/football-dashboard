@@ -88,13 +88,12 @@
    }
   ],
   "nbooks": 10,
-  "move": {
-   "diff": [
-    -0.01870537598918444,
-    -0.0008808438888034675,
-    0.01958621987798781
-   ],
-   "since": "22/11 00:01"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-25T17:45:44.077276+00:00"
   }
  },
  {
@@ -307,7 +306,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohamed Koko",
+     "F. Nechat Djabri",
+     "Ahmed El Aash",
+     "Ahmed Shousha",
+     "Yehia Zakaria",
+     "M. Touré",
+     "Abdel Rahman Osama",
+     "Ahmed Etman",
+     "R. Arfaoui",
+     "Abdel Kader Yehia",
+     "Mohamed Salem Ekbad"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Omar Salah",
+     "Omar Diyaa",
+     "Barakat Haggag",
+     "Ahmed Bahbah",
+     "Islam Abdallah",
+     "Karim El Deeb",
+     "Adham Hamed",
+     "Mohamed Osman",
+     "Mostafa El Gamal",
+     "A. Liadi",
+     "Samir Mohamed"
+    ]
+   }
+  },
   "ou": [
    0.35903614457831323,
    0.6409638554216868
@@ -1975,8 +2007,8 @@
    },
    {
     "book": "Bet365",
-    "odd": 3.6,
-    "edge": 0.050999911935766695
+    "odd": 3.7,
+    "edge": 0.08019435393398244
    },
    {
     "book": "1xBet",
