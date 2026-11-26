@@ -1,91 +1,5 @@
 [
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603083,
-  "kickoff": "2026-11-26T20:30:00+03:00",
-  "home": "Al-Faisaly FC",
-  "away": "Al Diriyah",
-  "p": [
-   0.24682926829268298,
-   0.24367288378766144,
-   0.5094978479196556
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "Mohammed Al Hasawi",
-     "Yaseen Barnawi",
-     "A. Seck",
-     "Andrei Girotto",
-     "Eid Al Muwallad",
-     "Flávio",
-     "Jaime Seoane",
-     "Abdulrahman Al Safari",
-     "T. Bongonda",
-     "Alexandre Mendy",
-     "Abdulaziz Al Bishi"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "N. Vasilj",
-     "T. Wadi",
-     "B. Djimsiti",
-     "C. Mbemba",
-     "Hussain Al Sibyani",
-     "Sultan Al Farhan",
-     "I. Gueye",
-     "E. Millot",
-     "Óscar Rodríguez",
-     "C. Diandy",
-     "D. Núñez"
-    ]
-   }
-  },
-  "ou": [
-   0.5754475703324808,
-   0.4245524296675191
-  ],
-  "btts": [
-   0.5884822998969595,
-   0.41151770010304045
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 3.86,
-    "edge": -0.047239024390243745
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 3.91,
-    "edge": -0.047239024390243745
-   },
-   {
-    "book": "Betano",
-    "odd": 1.98,
-    "edge": 0.008805738880917957
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 84,
-   "gh": 1,
-   "ga": 2,
-   "at": "2026-11-26T19:15:39.712727+00:00"
-  }
- },
- {
   "league": "الدوري الأوروبي",
   "type": "euro",
   "en": "Europa League",
@@ -175,11 +89,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 53,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -276,10 +190,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 1,
-   "ga": 1,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "ga": 2,
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -375,10 +289,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 0,
-   "ga": 3,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "ga": 2,
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -472,10 +386,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -581,10 +495,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 73,
+   "min": 88,
    "gh": 2,
    "ga": 3,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -674,10 +588,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 4,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -774,10 +688,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 86,
    "gh": 2,
    "ga": 2,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -876,10 +790,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 74,
+   "min": 89,
    "gh": 2,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -962,10 +876,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 86,
    "gh": 3,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1048,10 +962,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 74,
+   "min": 89,
    "gh": 1,
    "ga": 4,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1134,10 +1048,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 70,
+   "min": 85,
    "gh": 4,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1220,10 +1134,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 73,
-   "gh": 1,
-   "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "min": 88,
+   "gh": 2,
+   "ga": 1,
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1306,10 +1220,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 68,
+   "min": 83,
    "gh": 2,
    "ga": 2,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1392,10 +1306,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
+   "min": 87,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1478,10 +1392,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 72,
-   "gh": 1,
+   "min": 87,
+   "gh": 2,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1564,10 +1478,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 62,
+   "min": 77,
    "gh": 2,
    "ga": 0,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1650,10 +1564,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 74,
+   "min": 89,
    "gh": 0,
-   "ga": 1,
-   "at": "2026-11-26T19:15:39.712727+00:00"
+   "ga": 2,
+   "at": "2026-11-26T19:31:00.328569+00:00"
   }
  },
  {
@@ -1691,7 +1605,40 @@
     "A. Odriozola"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Henderson",
+     "C. Richards",
+     "A. Disasi",
+     "J. Canvot",
+     "Q. Timber",
+     "W. Hughes",
+     "D. Kamada",
+     "B. Chilwell",
+     "E. Nketiah",
+     "Yeremy Pino",
+     "J. Mateta"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "Unai Marrero",
+     "Héctor Fort",
+     "Jon Martín",
+     "M. Sarr",
+     "Aihen Muñoz",
+     "J. Ochieng",
+     "Jon Gorrotxategi",
+     "Beñat Turrientes",
+     "Gonçalo Guedes",
+     "Mikel Oyarzabal",
+     "A. Zakharyan"
+    ]
+   }
+  },
   "ou": [
    0.6352657004830918,
    0.3647342995169083
@@ -1760,7 +1707,40 @@
     "D. Vuklisevic"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Á. Varga",
+     "A. Osváth",
+     "T. Raemaekers",
+     "M. Gómez",
+     "Cadu",
+     "M. Bero",
+     "Á. Nagy",
+     "M. Corbu",
+     "K. Zachariassen",
+     "L. Joseph",
+     "D. Arzani"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "Žan-Luk Leban",
+     "M. Ivanšek",
+     "Ł. Bejger",
+     "A. Tutyškinas",
+     "M. Avdyli",
+     "S. Sešlar",
+     "M. Zabukovnik",
+     "M. Kvesić",
+     "V. Tusha",
+     "B. Kramer",
+     "B. Verbič"
+    ]
+   }
+  },
   "ou": [
    0.633495145631068,
    0.36650485436893204
@@ -1829,7 +1809,40 @@
     "P. Koller"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-4-2",
+    "xi": [
+     "O. Baumann",
+     "V. Coufal",
+     "K. Machida",
+     "O. Kabak",
+     "M. Rots",
+     "W. Burger",
+     "F. Asllani",
+     "L. Avdullahu",
+     "A. Prass",
+     "A. Hložek",
+     "A. Daghim"
+    ]
+   },
+   "away": {
+    "formation": "4-3-2-1",
+    "xi": [
+     "Adam Stejskal",
+     "A. Malic",
+     "A. Vallci",
+     "J. Quarshie",
+     "L. Balbo",
+     "V. Matoshi",
+     "J. Gorenc Stankovič",
+     "Luca Weinhandl",
+     "Jacob Peter Hödl",
+     "S. Jatta",
+     "O. Diakité"
+    ]
+   }
+  },
   "ou": [
    0.7124463519313304,
    0.28755364806866957
@@ -1896,7 +1909,40 @@
     "F. Kitsos"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Neto",
+     "L. Kelly",
+     "F. Gatti",
+     "J. Lucumí",
+     "J. Cabal",
+     "A. Cambiaso",
+     "Douglas Luiz",
+     "Francisco Conceição",
+     "P. Sarr",
+     "J. Boga",
+     "J. Ekhator"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "T. Kaminski",
+     "L. Négo",
+     "S. Coulibaly",
+     "Ľ. Šatka",
+     "J. Duverne",
+     "P. Andreou",
+     "M. Marić",
+     "M. Tankovic",
+     "F. Tănase",
+     "J. Montnor",
+     "A. Kakoullis"
+    ]
+   }
+  },
   "ou": [
    0.6522781774580336,
    0.3477218225419664
@@ -1962,7 +2008,40 @@
     "Y. Paintsil"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "D. Greif",
+     "Steeve Kango",
+     "F. Bacher",
+     "R. Kluivert",
+     "N. Tagliafico",
+     "N. Nartey",
+     "C. Tolisso",
+     "K. Boudache",
+     "K. Merah",
+     "J. Duranville",
+     "R. Himbert"
+    ]
+   },
+   "away": {
+    "formation": "4-1-4-1",
+    "xi": [
+     "P. Dahlberg",
+     "L. Ranger",
+     "S. Foss",
+     "S. Kristiansen",
+     "F. Elkær",
+     "F. Ottosson",
+     "C. Jebara",
+     "H. Melland",
+     "G. Nyheim",
+     "Vá",
+     "E. Kitolano"
+    ]
+   }
+  },
   "ou": [
    0.6619385342789598,
    0.3380614657210402
@@ -2029,7 +2108,40 @@
     "A. Sishuba"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "G. Crettaz",
+     "T. Storm",
+     "A. Kaplan",
+     "Deveron Fonville",
+     "W. Willumsson",
+     "D. Nejašmić",
+     "N. Lebreton",
+     "Clement Bischoff",
+     "T. Chery",
+     "D. Tadić",
+     "B. Linssen"
+    ]
+   },
+   "away": {
+    "formation": "5-3-2",
+    "xi": [
+     "B. Samba",
+     "B. Reynolds",
+     "A. Ait Boudlal",
+     "C. Cresswell",
+     "Gonçalo Oliveira",
+     "M. Nagida",
+     "S. Szymański",
+     "A. Thomasson",
+     "D. Cissé",
+     "B. Dia",
+     "E. Lepaul"
+    ]
+   }
+  },
   "ou": [
    0.6572769953051644,
    0.34272300469483574
@@ -2094,7 +2206,40 @@
     "I. Koutsoupias"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "K. Lilo",
+     "K. Kostoulas",
+     "D. Nikolaou",
+     "C. Sielis",
+     "L. Dickmann",
+     "T. Androutsos",
+     "A. Bouchalakis",
+     "N. Athanasiou",
+     "T. Fountas",
+     "Aitor Cantalapiedra",
+     "T. Nuss"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "C. Coosemans",
+     "A. Maamar",
+     "G. Biancone",
+     "L. Pétrot",
+     "O. Reabciuk",
+     "L. Ambros",
+     "M. Stroeykens",
+     "T. Aasgaard",
+     "M. Winkler",
+     "M. CvetkoviÄ",
+     "T. Bentayeb"
+    ]
+   }
+  },
   "ou": [
    0.5526992287917738,
    0.44730077120822626
@@ -2166,7 +2311,40 @@
     "Weslley Patati"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "J. Surovčík",
+     "K. Hoever",
+     "L. Mbe Soh",
+     "J. Zelený",
+     "V. Vitályos",
+     "P. Vydra",
+     "S. Mannsverk",
+     "A. Irving",
+     "J. Mercado",
+     "J. Braut Brunes",
+     "J. Alcócer"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "J. De Busser",
+     "D. Kasius",
+     "W. Goes",
+     "W. Hoedt",
+     "M. de Wit",
+     "J. Clasie",
+     "V. Byskov",
+     "P. Koopmeiners",
+     "C. Stengs",
+     "B. Kovacs",
+     "Wassim bouziane"
+    ]
+   }
+  },
   "ou": [
    0.5512820512820513,
    0.44871794871794873
@@ -2239,7 +2417,40 @@
     "N. Wojtuszek"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "R. Roefs",
+     "T. Hume",
+     "K. Danso",
+     "O. Alderete",
+     "Reinildo",
+     "M. Fofana",
+     "N. Sadiki",
+     "C. Rigg",
+     "E. Le Fée",
+     "N. Angulo",
+     "Timur Tuterov"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "S. Abramowicz",
+     "Rodrigo Conceição",
+     "Bernardo Vital",
+     "Y. Kobayashi",
+     "Guilherme Manuel Serrão Montóia",
+     "Eryk Kozlowski",
+     "T. Romanczuk",
+     "A. Klynge",
+     "K. Jóźwiak",
+     "N. Prelec",
+     "K. Szmyt"
+    ]
+   }
+  },
   "ou": [
    0.6153846153846154,
    0.38461538461538464
@@ -2306,7 +2517,40 @@
     "J. van den Berg"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Adriel",
+     "J. Mutombo",
+     "Volnei Feltes",
+     "Stopira",
+     "Javi Vázquez",
+     "Alejandro Alfaro",
+     "M. Diadie",
+     "Manu Pozo",
+     "João Marques",
+     "D. Jean",
+     "M. Drammeh"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "S. Johnstone",
+     "Colby Donovan",
+     "D. Murray",
+     "L. Scales",
+     "K. Tierney",
+     "A. Oxlade-Chamberlain",
+     "C. McGregor",
+     "Yang Hyun-Jun",
+     "L. McCowan",
+     "Jota",
+     "K. Høgh"
+    ]
+   }
+  },
   "ou": [
    0.671264367816092,
    0.328735632183908
@@ -2360,7 +2604,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Jurkas",
+     "B. Cipetić",
+     "B. Meijers",
+     "J. Carolina",
+     "S. Herrera",
+     "A. Hiroš",
+     "M. Deket",
+     "O. Sijarić",
+     "M. Jojić",
+     "D. VukoviÄ",
+     "L. Juričić"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Sportiello",
+     "D. Zappacosta",
+     "G. Scalvini",
+     "S. Kolašinac",
+     "L. Bernasconi",
+     "Éderson",
+     "Mario Pasalic",
+     "J. Rowe",
+     "G. Raspadori",
+     "N. Zalewski",
+     "G. Scamacca"
+    ]
+   }
+  },
   "ou": [
    0.6368038740920097,
    0.36319612590799033
@@ -2414,7 +2691,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Bernardo Fontes",
+     "Diogo Travassos",
+     "G. Lagerbielke",
+     "A. Barišić",
+     "Víctor Gómez",
+     "J. Gorby",
+     "M. Dorgeles",
+     "João Moutinho",
+     "Pau Victor",
+     "Fran Navarro",
+     "Gabri Martínez"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "J. Kreidl",
+     "S. Savolainen",
+     "T. Hämäläinen",
+     "A. Lötjönen",
+     "N. Kujasalo",
+     "S. Pasanen",
+     "V. Gasc",
+     "A. Aiki",
+     "P. Pennanen",
+     "J. Eskesen",
+     "J. Moreno"
+    ]
+   }
+  },
   "ou": [
    0.6399026763990268,
    0.3600973236009733
@@ -2468,7 +2778,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "5-3-2",
+    "xi": [
+     "F. Lapoukhov",
+     "Tamimou Ouorou",
+     "Dinis Almeida",
+     "J. Gbamin",
+     "Facundo Santiago Rodríguez",
+     "Á. Martino",
+     "M. Ebong",
+     "Bruno Jordão",
+     "S. Sensi",
+     "S. Godoy",
+     "J. Zwarts"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "A. Onana",
+     "Wagner Pina",
+     "C. Nwaiwu",
+     "C. Özkacar",
+     "S. Lopes Cabral",
+     "B. Mendy",
+     "B. Bouchouari",
+     "M. Kabasakal",
+     "Mohamed Salah",
+     "P. Onuachu",
+     "N. Saviolo"
+    ]
+   }
+  },
   "ou": [
    0.6301703163017031,
    0.3698296836982968
@@ -2522,7 +2865,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "M. Backhaus",
+     "L. Kübler",
+     "M. Ginter",
+     "M. Rosenfelder",
+     "C. Günter",
+     "M. Eggestein",
+     "Y. Engelhardt",
+     "Cyriaque Kalou Irié",
+     "Y. Suzuki",
+     "V. Grifo",
+     "I. Matanović"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "J. Drommel",
+     "B. van Rooij",
+     "R. Pröpper",
+     "R. Nijstad",
+     "A. Adelgaard",
+     "R. Zerrouki",
+     "Y. Taha",
+     "D. Weidmann",
+     "D. Rots",
+     "W. Weghorst",
+     "S. Ørjasæter"
+    ]
+   }
+  },
   "ou": [
    0.5677749360613811,
    0.43222506393861887
@@ -2576,7 +2952,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "D. Roef",
+     "M. Paskotši",
+     "M. Volckaert",
+     "S. Van der Heyden",
+     "M. Samoise",
+     "Leonardo Lopes",
+     "M. Delorge-Knieper",
+     "Tiago Araújo",
+     "A. Kadri",
+     "M. Sonko",
+     "J. Y. Vergara Ortega"
+    ]
+   },
+   "away": {
+    "formation": "3-4-1-2",
+    "xi": [
+     "Matheus",
+     "S. Gudelj",
+     "M. Gashtarov",
+     "Y. Nakayama",
+     "M. Bajo",
+     "R. Krunić",
+     "Tomás Händel",
+     "V. Lučić",
+     "M. Abu Fani",
+     "V. Kostov",
+     "M. Ivanić"
+    ]
+   }
+  },
   "ou": [
    0.5142118863049095,
    0.4857881136950904
@@ -2630,7 +3039,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "T. Silić",
+     "M. Acapandié",
+     "D. Hadžikadunić",
+     "D. Marešić",
+     "Š. Hrgović",
+     "K. Fayad",
+     "Alberto del Moral",
+     "A. Sanyang",
+     "Dali",
+     "M. Šotiček",
+     "Carlos Martín"
+    ]
+   },
+   "away": {
+    "formation": "4-3-3",
+    "xi": [
+     "L. Kokubo",
+     "T. Hata",
+     "S. Taniguchi",
+     "V. Musliu",
+     "J. Pupe",
+     "S. Shinkawa",
+     "A. Sissako",
+     "N. Ishiwatari",
+     "R. Vanwesemael",
+     "S. Baždar",
+     "I. Sebaoui"
+    ]
+   }
+  },
   "ou": [
    0.5604113110539846,
    0.43958868894601544
@@ -2684,7 +3126,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "Javi Díaz",
+     "M. Pochettino",
+     "Álex Sánchez",
+     "Habib Hernandez Anwar",
+     "J. Torres",
+     "David López",
+     "Víctor Alonso",
+     "Pablo Serafín",
+     "Juan Cámara",
+     "Faysal Chouaib",
+     "S. Sidibe"
+    ]
+   },
+   "away": {
+    "formation": "3-4-2-1",
+    "xi": [
+     "R. Rúnarsson",
+     "J. Suzuki",
+     "T. Delaney",
+     "A. Markgráf",
+     "M. Carrizo",
+     "A. Král",
+     "M. Emil Madsen",
+     "M. López",
+     "Hunor Vajk Németh",
+     "M. Elyounoussi",
+     "V. Dadason"
+    ]
+   }
+  },
   "ou": [
    0.5692307692307692,
    0.43076923076923074
@@ -2738,7 +3213,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-4-3",
+    "xi": [
+     "A. Hansen",
+     "P. Ankersen",
+     "V. Nelsson",
+     "Noah Markmann",
+     "M. Walker",
+     "Justin Janssen",
+     "N. Røjkjær",
+     "J. LÃ¤hteenmÃ¤ki",
+     "Lamine Sadio",
+     "A. Lind",
+     "Ibrahim Adel"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Iñaki Peña",
+     "T. Tsapras",
+     "Georgios Marios Katris",
+     "R. van Drongelen",
+     "D. Calabria",
+     "E. Camara",
+     "K. Kangwa",
+     "A. Tetteh",
+     "Adriano Jagušić",
+     "F. Pellistri",
+     "E. Rastoder"
+    ]
+   }
+  },
   "ou": [
    0.5677749360613811,
    0.43222506393861887
@@ -2891,19 +3399,19 @@
   "home": "Zakho",
   "away": "Karbala",
   "p": [
-   0.609380337500854,
-   0.2326501332240213,
-   0.1579695292751247
+   0.6101397531278424,
+   0.2325608269965151,
+   0.1572994198756425
   ],
-  "source": "متوسط 2 شركات",
+  "source": "متوسط 4 شركات",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.5250762776506482,
-   0.47492372234935165
+   0.5239441945393561,
+   0.47605580546064385
   ],
   "btts": [
    0.4965715483426655,
@@ -2913,25 +3421,25 @@
    {
     "book": "Bet365",
     "odd": 1.5,
-    "edge": -0.08592949374871905
+    "edge": -0.08479037030823644
    },
    {
     "book": "Marathonbet",
     "odd": 3.9,
-    "edge": -0.09266448042631692
+    "edge": -0.09301277471359115
    },
    {
-    "book": "Marathonbet",
-    "odd": 5.85,
-    "edge": -0.0758782537405206
+    "book": "1xBet",
+    "odd": 6.15,
+    "edge": -0.03260856776479859
    }
   ],
-  "nbooks": 2,
+  "nbooks": 4,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.0007594156269884467,
+    -8.930622750621953e-05,
+    -0.0006701093994821994
    ],
    "since": "26/11 13:46"
   }
@@ -2999,9 +3507,9 @@
   "home": "Al-Qadisiyah FC",
   "away": "Al-Fayha",
   "p": [
-   0.777481441542061,
-   0.12543367256878582,
-   0.09708488588915312
+   0.7783107273689563,
+   0.12711366631728604,
+   0.09457560631375765
   ],
   "source": "Pinnacle",
   "out": {
@@ -3010,36 +3518,36 @@
   },
   "lineups": null,
   "ou": [
-   0.741869918699187,
-   0.258130081300813
+   0.7408906882591094,
+   0.2591093117408907
   ],
   "btts": [
-   0.5609763132225607,
-   0.43902368677743936
+   0.5624465671066077,
+   0.4375534328933924
   ],
   "best": [
    {
     "book": "Betano",
     "odd": 1.24,
-    "edge": -0.03592301248784435
+    "edge": -0.03489469806249412
    },
    {
     "book": "1xBet",
     "odd": 7.9,
-    "edge": -0.009073986706591985
+    "edge": 0.0041979639065599095
    },
    {
     "book": "1xBet",
     "odd": 12.1,
-    "edge": 0.17472711925875273
+    "edge": 0.14436483639646758
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.06177925933680972,
-    0.028896949462511562,
-    0.03288230987429808
+    -0.06094997350991438,
+    0.030576943211011787,
+    0.030373030298902606
    ],
    "since": "02/11 00:01"
   }
@@ -3053,9 +3561,9 @@
   "home": "Lusail City",
   "away": "Al-Arabi SC",
   "p": [
-   0.2757876945123183,
-   0.24683360584960776,
-   0.4773786996380739
+   0.23812782263582866,
+   0.23402217052141785,
+   0.5278500068427536
   ],
   "source": "Pinnacle",
   "out": {
@@ -3064,36 +3572,36 @@
   },
   "lineups": null,
   "ou": [
-   0.606060606060606,
-   0.393939393939394
+   0.6159600997506234,
+   0.3840399002493765
   ],
   "btts": [
-   0.6273644339759665,
-   0.37263556602403336
+   0.6254693861214263,
+   0.3745306138785736
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.41,
-    "edge": -0.059563961712994495
+    "odd": 3.99,
+    "edge": -0.049869987683043626
    },
    {
     "book": "Pinnacle",
-    "odd": 3.81,
-    "edge": -0.059563961712994384
+    "odd": 4.06,
+    "edge": -0.049869987683043626
    },
    {
-    "book": "Betano",
-    "odd": 2.0,
-    "edge": -0.04524260072385222
+    "book": "Bet365",
+    "odd": 1.85,
+    "edge": -0.02347748734090571
    }
   ],
   "nbooks": 8,
   "move": {
    "diff": [
-    0.006544816379248808,
-    -0.006920672365203634,
-    0.0003758559859547428
+    -0.031115055497240862,
+    -0.019732107693393536,
+    0.05084716319063448
    ],
    "since": "24/11 00:01"
   }
@@ -3215,47 +3723,47 @@
   "home": "Al Wihdat",
   "away": "Doqarah",
   "p": [
-   0.637535542674765,
-   0.22681319697858066,
-   0.13565126034665428
+   0.6680723322135659,
+   0.20556071760417413,
+   0.12636695018226002
   ],
-  "source": "متوسط 5 شركات",
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.5088912842006572,
-   0.49110871579934284
+   0.5555555555555556,
+   0.4444444444444444
   ],
   "btts": [
-   0.46320091799202034,
-   0.5367990820079797
+   0.47945108164560146,
+   0.5205489183543985
   ],
   "best": [
    {
-    "book": "Betano",
-    "odd": 1.47,
-    "edge": -0.06282275226809553
+    "book": "Bet365",
+    "odd": 1.45,
+    "edge": -0.03129511829032949
    },
    {
-    "book": "BetVictor",
-    "odd": 4.2,
-    "edge": -0.04738457268996121
+    "book": "Betfair",
+    "odd": 4.5,
+    "edge": -0.07497677078121645
    },
    {
     "book": "1xBet",
-    "odd": 7.36,
-    "edge": -0.0016067238486243696
+    "odd": 7.7,
+    "edge": -0.02697448359659782
    }
   ],
-  "nbooks": 5,
+  "nbooks": 8,
   "move": {
    "diff": [
-    0.0055833561045945945,
-    -0.003236733139692888,
-    -0.0023466229649018733
+    0.036120145643395496,
+    -0.024489212514099412,
+    -0.01163093312929614
    ],
    "since": "25/11 19:15"
   }
@@ -3391,7 +3899,7 @@
     "M. N'Diaye",
     "J. Stage",
     "K. Topp",
-    "S. Lynen"
+    "J. Njinmah"
    ],
    "away": [
     "H. Bolin",
