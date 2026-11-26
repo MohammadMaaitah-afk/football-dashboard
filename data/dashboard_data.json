@@ -223,17 +223,43 @@
   "kickoff": "2026-11-26T20:30:00+03:00",
   "home": "Al-Faisaly FC",
   "away": "Al Diriyah",
-  "p": null,
-  "source": null,
+  "p": [
+   0.24682926829268298,
+   0.24367288378766144,
+   0.5094978479196556
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.5754475703324808,
+   0.4245524296675191
+  ],
+  "btts": [
+   0.5884822998969595,
+   0.41151770010304045
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 3.86,
+    "edge": -0.047239024390243745
+   },
+   {
+    "book": "Pinnacle",
+    "odd": 3.91,
+    "edge": -0.047239024390243745
+   },
+   {
+    "book": "Betano",
+    "odd": 1.98,
+    "edge": 0.008805738880917957
+   }
+  ],
+  "nbooks": 10,
   "move": null
  },
  {
