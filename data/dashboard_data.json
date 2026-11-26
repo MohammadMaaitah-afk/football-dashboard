@@ -79,10 +79,10 @@
   "nbooks": 10,
   "live": {
    "st": "1H",
-   "min": 5,
+   "min": 19,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-26T14:31:02.975023+00:00"
+   "at": "2026-11-26T14:45:43.600084+00:00"
   }
  },
  {
@@ -157,7 +157,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-3-3",
+    "xi": [
+     "D. Léon",
+     "Mohammed Al Dossary",
+     "J. Gaari",
+     "Abdulbasit Al-Hindi",
+     "M. Al-Zaid",
+     "Faisal Al Subiani",
+     "L. Rosier",
+     "Firas Al-Ghamdi",
+     "A. Gory",
+     "Abdulkarim Darisi",
+     "G. Nkoudou"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "M. Diaw",
+     "Abdullah Al Hawsawi",
+     "M. Barry",
+     "Ali Al Bulayhi",
+     "Dhari Al Anazi",
+     "J. Brownhill",
+     "T. Partey",
+     "Y. Adli",
+     "Daniel Podence",
+     "Roger Martínez",
+     "Ricardo Mathias"
+    ]
+   }
+  },
   "ou": [
    0.5581395348837209,
    0.441860465116279
@@ -2928,17 +2961,43 @@
   "kickoff": "2026-11-27T21:00:00+03:00",
   "home": "Amal Tiznit",
   "away": "Moghreb Tetouan",
-  "p": null,
-  "source": null,
+  "p": [
+   0.4497057070334243,
+   0.3083266553239196,
+   0.24196763764265608
+  ],
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
-  "ou": null,
-  "btts": null,
-  "best": null,
-  "nbooks": 0,
+  "ou": [
+   0.3665835411471321,
+   0.6334164588528678
+  ],
+  "btts": [
+   0.4406177628920796,
+   0.5593822371079203
+  ],
+  "best": [
+   {
+    "book": "Pinnacle",
+    "odd": 2.05,
+    "edge": -0.0781033005814803
+   },
+   {
+    "book": "Betano",
+    "odd": 3.15,
+    "edge": -0.028771035729653227
+   },
+   {
+    "book": "Betano",
+    "odd": 3.85,
+    "edge": -0.06842459507577403
+   }
+  ],
+  "nbooks": 6,
   "move": null
  },
  {
