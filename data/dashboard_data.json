@@ -1,177 +1,5 @@
 [
  {
-  "league": "الدوري القطري",
-  "type": "arab",
-  "en": "Qatar Stars League",
-  "id": 1597971,
-  "kickoff": "2026-11-27T18:30:00+03:00",
-  "home": "Lusail City",
-  "away": "Al-Arabi SC",
-  "p": [
-   0.22991278530339582,
-   0.2310261644089813,
-   0.539061050287623
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-1-4-1",
-    "xi": [
-     "A. Shakouri",
-     "A. Pilali",
-     "F. Russo",
-     "M. Aiash",
-     "A. Nemati",
-     "O. Ebrahimi",
-     "K. Mansour",
-     "Khaled Mohammed",
-     "S. Jjbril",
-     "H. Firouzi",
-     "Rodrigo"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "Jasem Al Hail",
-     "K. Bauobida",
-     "Simo",
-     "A. Pérez",
-     "Mohammed Al Naimi",
-     "O. Tannane",
-     "Ahmed Fathi",
-     "J. Veretout",
-     "I. Lihadji",
-     "Pablo Sarabia",
-     "Y. Snana"
-    ]
-   }
-  },
-  "ou": [
-   0.6188118811881189,
-   0.38118811881188125
-  ],
-  "btts": [
-   0.6231831243405807,
-   0.3768168756594194
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 4.15,
-    "edge": -0.045861940990907235
-   },
-   {
-    "book": "Pinnacle",
-    "odd": 4.13,
-    "edge": -0.045861940990907235
-   },
-   {
-    "book": "Betano",
-    "odd": 1.78,
-    "edge": -0.04047133048803109
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-27T17:15:44.055982+00:00"
-  }
- },
- {
-  "league": "الدوري العراقي",
-  "type": "arab",
-  "en": "Iraq Iraqi League",
-  "id": 1628055,
-  "kickoff": "2026-11-27T18:30:00+03:00",
-  "home": "Ghaz Al Shamal",
-  "away": "Al-Karma",
-  "p": [
-   0.25619945729561266,
-   0.29144837591682116,
-   0.4523521667875662
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-3",
-    "xi": [
-     "Ali Kadhim",
-     "Hussain Diaa",
-     "Bismark sanchez",
-     "Yousef Mohammad",
-     "Rebaz Rahim",
-     "Ayman Ghalib",
-     "Baqer Attwan Kadhim Al Magsoosi",
-     "Mujtaba Ali",
-     "Hussein Talib",
-     "J. Esso",
-     "Ridha Fadhil Abbas Mayali"
-    ]
-   },
-   "away": {
-    "formation": "4-3-3",
-    "xi": [
-     "Laith Sajid Qasim Al-Maliki",
-     "Halo Fayaq",
-     "Mohammed Al-Baqir",
-     "Ayoub Mouddane",
-     "Mohammad Abu Hasheesh",
-     "Younis Ghani",
-     "daniel ajibola",
-     "Saadeh",
-     "S. Amadi",
-     "Marwan Hamdi·Abdelhamid",
-     "Ahmed Hasan Al Reeshawee"
-    ]
-   }
-  },
-  "ou": [
-   0.4131578947368421,
-   0.5868421052631578
-  ],
-  "btts": [
-   0.4638934218785924,
-   0.5361065781214076
-  ],
-  "best": [
-   {
-    "book": "Bet365",
-    "odd": 4.1,
-    "edge": 0.050417774912011826
-   },
-   {
-    "book": "Bet365",
-    "odd": 3.2,
-    "edge": -0.06736519706617228
-   },
-   {
-    "book": "William Hill",
-    "odd": 2.0,
-    "edge": -0.09529566642486764
-   }
-  ],
-  "nbooks": 6,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 0,
-   "ga": 1,
-   "at": "2026-11-27T17:15:44.055982+00:00"
-  }
- },
- {
   "league": "الدوري العراقي",
   "type": "arab",
   "en": "Iraq Iraqi League",
@@ -251,10 +79,10 @@
   "nbooks": 7,
   "live": {
    "st": "2H",
-   "min": 54,
+   "min": 69,
    "gh": 0,
    "ga": 1,
-   "at": "2026-11-27T17:15:44.055982+00:00"
+   "at": "2026-11-27T17:31:00.612128+00:00"
   }
  },
  {
@@ -303,11 +131,11 @@
   ],
   "nbooks": 8,
   "live": {
-   "st": "1H",
+   "st": "HT",
    "min": 45,
    "gh": 1,
    "ga": 0,
-   "at": "2026-11-27T17:15:44.055982+00:00"
+   "at": "2026-11-27T17:31:00.612128+00:00"
   }
  },
  {
@@ -1291,9 +1119,9 @@
   "home": "Al-Ettifaq",
   "away": "Al-Hilal Saudi FC",
   "p": [
-   0.11248152089299615,
-   0.1469401455475172,
-   0.7405783335594868
+   0.09522204581940096,
+   0.13363548475790932,
+   0.7711424694226897
   ],
   "source": "Pinnacle",
   "out": {
@@ -1302,36 +1130,36 @@
   },
   "lineups": null,
   "ou": [
-   0.684331797235023,
-   0.3156682027649769
+   0.7083333333333333,
+   0.2916666666666667
   ],
   "btts": [
-   0.5473820685876853,
-   0.4526179314123146
+   0.5251437329986033,
+   0.47485626700139666
   ],
   "best": [
    {
     "book": "1xBet",
-    "odd": 10.2,
-    "edge": 0.14731151310856072
+    "odd": 12.6,
+    "edge": 0.19979777732445192
    },
    {
     "book": "1xBet",
-    "odd": 6.56,
-    "edge": -0.036072645208287235
+    "odd": 7.5,
+    "edge": 0.002266135684319881
    },
    {
-    "book": "Betano",
-    "odd": 1.31,
-    "edge": -0.029842383037072318
+    "book": "Bet365",
+    "odd": 1.27,
+    "edge": -0.0206490638331841
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.00043448829563400015,
-    -0.0003181530599479232,
-    0.0007526413555819511
+    -0.017693963369229196,
+    -0.013622813849555798,
+    0.0313167772187849
    ],
    "since": "25/11 00:01"
   }
