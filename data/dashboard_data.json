@@ -79,10 +79,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 68,
-   "gh": 0,
+   "min": 83,
+   "gh": 1,
    "ga": 0,
-   "at": "2026-11-27T19:01:16.386402+00:00"
+   "at": "2026-11-27T19:15:42.054099+00:00"
   }
  },
  {
@@ -164,11 +164,11 @@
   ],
   "nbooks": 7,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 59,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-27T19:01:16.386402+00:00"
+   "at": "2026-11-27T19:15:42.054099+00:00"
   }
  },
  {
@@ -302,7 +302,40 @@
     "J. Miranda"
    ]
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "F. Stanković",
+     "R. Halhal",
+     "M. Moreno",
+     "Juan Jesus",
+     "A. Hainaut",
+     "Kike Pérez",
+     "G. Busio",
+     "S. Sohm",
+     "R. Haps",
+     "J. Yeboah",
+     "A. Adams"
+    ]
+   },
+   "away": {
+    "formation": "3-4-3",
+    "xi": [
+     "Ł. Skorupski",
+     "M. Vitík",
+     "N. Casale",
+     "A. Theate",
+     "N. Zortea",
+     "L. Ferguson",
+     "T. Pobega",
+     "R. Alhassane",
+     "F. Bernardeschi",
+     "J. Odgaard",
+     "S. Mbangula"
+    ]
+   }
+  },
   "ou": [
    0.4566326530612245,
    0.5433673469387755
@@ -359,7 +392,40 @@
    ],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "E. Selvik",
+     "L. Zogbe",
+     "L. Tousart",
+     "G. Lloris",
+     "B. Locko",
+     "J. Chotard",
+     "H. Magnetti",
+     "N. Edjouma",
+     "K. Doumbia",
+     "P. Mboup",
+     "L. Ajorque"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "K. Trapp",
+     "A. Camara",
+     "S. Chergui",
+     "D. Coppola",
+     "H. Traoré",
+     "M. Lopez",
+     "P. Lees-Melou",
+     "M. Simon",
+     "P. Pagis",
+     "L. Koleosho",
+     "L. Sinayoko"
+    ]
+   }
+  },
   "ou": [
    0.4974358974358974,
    0.5025641025641026
@@ -811,7 +877,14 @@
    }
   ],
   "nbooks": 7,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "27/11 22:01"
+  }
  },
  {
   "league": "الدوري العراقي",
@@ -1046,9 +1119,9 @@
   "home": "Al-Wasl FC",
   "away": "Al-Dhafra",
   "p": [
-   0.7449503594659364,
-   0.1454981170831907,
-   0.10955152345087298
+   0.7701828822893118,
+   0.13442390792460088,
+   0.09539320978608734
   ],
   "source": "Pinnacle",
   "out": {
@@ -1057,36 +1130,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6975169300225732,
-   0.30248306997742663
+   0.7124183006535949,
+   0.28758169934640526
   ],
   "btts": [
-   0.5554560000820563,
-   0.44454399991794374
+   0.540213655651862,
+   0.4597863443481381
   ],
   "best": [
    {
     "book": "Betano",
-    "odd": 1.28,
-    "edge": -0.04646353988360141
+    "odd": 1.24,
+    "edge": -0.044973225961253416
    },
    {
     "book": "Pinnacle",
-    "odd": 6.4,
-    "edge": -0.06881205066757956
+    "odd": 6.99,
+    "edge": -0.060376883607039855
    },
    {
     "book": "1xBet",
-    "odd": 9.4,
-    "edge": 0.029784320438206002
+    "odd": 10.0,
+    "edge": -0.04606790213912659
    }
   ],
-  "nbooks": 6,
+  "nbooks": 8,
   "move": {
    "diff": [
-    0.0,
-    0.0,
-    0.0
+    0.025232522823375403,
+    -0.01107420915858981,
+    -0.014158313664785635
    ],
    "since": "26/11 06:31"
   }
