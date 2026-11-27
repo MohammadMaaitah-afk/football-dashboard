@@ -1,91 +1,5 @@
 [
  {
-  "league": "الدوري السعودي",
-  "type": "arab",
-  "en": "Saudi-Arabia Pro League",
-  "id": 1603087,
-  "kickoff": "2026-11-27T15:15:00+03:00",
-  "home": "Al Kholood",
-  "away": "Al Khaleej Saihat",
-  "p": [
-   0.38976439626543014,
-   0.26673820414812954,
-   0.34349739958644027
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [],
-   "away": []
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Hamed Abdullah Yousef",
-     "Ramzi Solan",
-     "E. Utkus",
-     "Mansour Camara",
-     "S. Pinas",
-     "S. Cissé",
-     "J. Buckley",
-     "Muhammad Sawan",
-     "Iker Kortajarena",
-     "Coba",
-     "J. Domingues"
-    ]
-   },
-   "away": {
-    "formation": "4-4-2",
-    "xi": [
-     "A. Moris",
-     "Fawaz Al Saqour",
-     "K. Kouyaté",
-     "Mohammed Al Khabrani",
-     "Pedro Rebocho",
-     "Saleh  Al Amri",
-     "Majed Kanabah",
-     "Omar Mascarell",
-     "A. Fulgini",
-     "J. King",
-     "M. Barrow"
-    ]
-   }
-  },
-  "ou": [
-   0.5492227979274612,
-   0.45077720207253885
-  ],
-  "btts": [
-   0.5918204033447138,
-   0.40817959665528614
-  ],
-  "best": [
-   {
-    "book": "Dafabet",
-    "odd": 2.46,
-    "edge": -0.0411795851870419
-   },
-   {
-    "book": "Betano",
-    "odd": 3.6,
-    "edge": -0.03974246506673362
-   },
-   {
-    "book": "Betano",
-    "odd": 3.0,
-    "edge": 0.030492198759320743
-   }
-  ],
-  "nbooks": 10,
-  "live": {
-   "st": "2H",
-   "min": 86,
-   "gh": 2,
-   "ga": 1,
-   "at": "2026-11-27T14:01:17.075045+00:00"
-  }
- },
- {
   "league": "الدوري القطري",
   "type": "arab",
   "en": "Qatar Stars League",
@@ -164,11 +78,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "HT",
-   "min": 45,
+   "st": "2H",
+   "min": 48,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-27T14:01:17.075045+00:00"
+   "at": "2026-11-27T14:15:45.250186+00:00"
   }
  },
  {
@@ -293,10 +207,10 @@
   "nbooks": 9,
   "live": {
    "st": "1H",
-   "min": 1,
+   "min": 16,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-27T14:01:17.075045+00:00"
+   "at": "2026-11-27T14:15:45.250186+00:00"
   }
  },
  {
