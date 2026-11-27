@@ -79,10 +79,10 @@
   "nbooks": 10,
   "live": {
    "st": "2H",
-   "min": 71,
+   "min": 86,
    "gh": 2,
    "ga": 1,
-   "at": "2026-11-27T13:45:42.480666+00:00"
+   "at": "2026-11-27T14:01:17.075045+00:00"
   }
  },
  {
@@ -164,11 +164,11 @@
   ],
   "nbooks": 10,
   "live": {
-   "st": "1H",
-   "min": 44,
+   "st": "HT",
+   "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-27T13:45:42.480666+00:00"
+   "at": "2026-11-27T14:01:17.075045+00:00"
   }
  },
  {
@@ -237,12 +237,13 @@
    }
   ],
   "nbooks": 8,
-  "live": {
-   "st": "1H",
-   "min": 16,
-   "gh": 2,
-   "ga": 0,
-   "at": "2026-11-27T13:45:42.480666+00:00"
+  "move": {
+   "diff": [
+    0.06129606579279301,
+    -0.027632938852266642,
+    -0.03366312694052634
+   ],
+   "since": "26/11 13:46"
   }
  },
  {
@@ -290,13 +291,12 @@
    }
   ],
   "nbooks": 9,
-  "move": {
-   "diff": [
-    -0.05493141888399422,
-    0.02350908734417556,
-    0.03142233153981855
-   ],
-   "since": "25/11 19:15"
+  "live": {
+   "st": "1H",
+   "min": 1,
+   "gh": 0,
+   "ga": 0,
+   "at": "2026-11-27T14:01:17.075045+00:00"
   }
  },
  {
@@ -317,7 +317,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "3-5-2",
+    "xi": [
+     "K. Casteels",
+     "Jehad Abdullatif Ahm",
+     "Nacho",
+     "G. Álvarez",
+     "Mohammed Abu Al Shamat",
+     "Musab Al Juwayr",
+     "J. Weigl",
+     "T. Reijnders",
+     "S. Suleiman",
+     "Abdullah Al Salem",
+     "J. Quiñones"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "O. Mosquera",
+     "Mohammed Al Baqawi",
+     "Ziyad Al Sahafi",
+     "O. Colley",
+     "R. Enad",
+     "Yago Santana",
+     "Alfa Semedo",
+     "Hugo Moura",
+     "Ali Al Hussain",
+     "Jason",
+     "F. Sakala"
+    ]
+   }
+  },
   "ou": [
    0.7749077490774907,
    0.2250922509225092
