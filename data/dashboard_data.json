@@ -1,195 +1,5 @@
 [
  {
-  "league": "الدوري الإنجليزي",
-  "type": "top",
-  "en": "Premier League",
-  "id": 1557485,
-  "kickoff": "2026-11-27T23:00:00+03:00",
-  "home": "Nottingham Forest",
-  "away": "Chelsea",
-  "p": [
-   0.3985232360980047,
-   0.2781714895840774,
-   0.3233052743179178
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "N. Dominguez",
-    "N. Savona"
-   ],
-   "away": [
-    "J. Gittens",
-    "J. Hato",
-    "R. James",
-    "Joao Pedro",
-    "M. Lacroix"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "3-4-2-1",
-    "xi": [
-     "M. Sels",
-     "Jair",
-     "N. Milenković",
-     "Murillo",
-     "D. Muñoz",
-     "J. McAtee",
-     "X. Schlager",
-     "N. Williams",
-     "Igor Jesus",
-     "M. Gibbs-White",
-     "L. Delap"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "E. Martínez",
-     "Joshua Kofi Acheampong",
-     "W. Fofana",
-     "R. Lavia",
-     "Pep Chavarría",
-     "J. Henderson",
-     "M. Caicedo",
-     "Pedro Neto",
-     "C. Palmer",
-     "M. Rogers",
-     "D. Welbeck"
-    ]
-   }
-  },
-  "ou": [
-   0.5115089514066496,
-   0.48849104859335046
-  ],
-  "btts": [
-   0.5683018808576881,
-   0.43169811914231193
-  ],
-  "best": [
-   {
-    "book": "SBO",
-    "odd": 2.54,
-    "edge": 0.012249019688931995
-   },
-   {
-    "book": "Marathonbet",
-    "odd": 3.7,
-    "edge": 0.029234511461086354
-   },
-   {
-    "book": "Marathonbet",
-    "odd": 3.06,
-    "edge": -0.01068586058717158
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 88,
-   "gh": 3,
-   "ga": 1,
-   "at": "2026-11-27T21:45:41.445431+00:00"
-  }
- },
- {
-  "league": "الدوري الإسباني",
-  "type": "top",
-  "en": "La Liga",
-  "id": 1570468,
-  "kickoff": "2026-11-27T23:00:00+03:00",
-  "home": "Levante",
-  "away": "Racing Santander",
-  "p": [
-   0.46890506119748593,
-   0.24082037710883233,
-   0.2902745616936818
-  ],
-  "source": "Pinnacle",
-  "out": {
-   "home": [
-    "P. Ratkov",
-    "M. Sanchez",
-    "J. Toljan"
-   ],
-   "away": [
-    "M. Gueye",
-    "A. Mantilla",
-    "A. Martin",
-    "G. Guliashvili"
-   ]
-  },
-  "lineups": {
-   "home": {
-    "formation": "4-3-3",
-    "xi": [
-     "M. Ryan",
-     "Nacho Pérez",
-     "Dela",
-     "A. Mandi",
-     "M. Santos",
-     "Jon Ander Olasagasti",
-     "Oriol Rey",
-     "Reque",
-     "Víctor García",
-     "Iván Romero",
-     "T. Fernández"
-    ]
-   },
-   "away": {
-    "formation": "4-2-3-1",
-    "xi": [
-     "Julen Agirrezabala",
-     "Pablo Ramón",
-     "Pedro Felipe",
-     "J. Belocian",
-     "Jorge Salinas",
-     "M. Prati",
-     "Iván Martín",
-     "Iker Luque",
-     "Sergio Canales",
-     "Iñigo Vicente",
-     "M. Zabiri"
-    ]
-   }
-  },
-  "ou": [
-   0.6705069124423965,
-   0.3294930875576037
-  ],
-  "btts": [
-   0.6772547270737057,
-   0.32274527292629435
-  ],
-  "best": [
-   {
-    "book": "Pinnacle",
-    "odd": 2.08,
-    "edge": -0.024677472709229265
-   },
-   {
-    "book": "1xBet",
-    "odd": 4.11,
-    "edge": -0.010228250082699009
-   },
-   {
-    "book": "1xBet",
-    "odd": 3.46,
-    "edge": 0.00434998346013904
-   }
-  ],
-  "nbooks": 9,
-  "live": {
-   "st": "2H",
-   "min": 87,
-   "gh": 1,
-   "ga": 2,
-   "at": "2026-11-27T21:45:41.445431+00:00"
-  }
- },
- {
   "league": "الدوري السعودي",
   "type": "arab",
   "en": "Saudi-Arabia Pro League",
@@ -1189,9 +999,9 @@
   "home": "Manchester United",
   "away": "Brentford",
   "p": [
-   0.4276504640264633,
-   0.2561389322797023,
-   0.31621060369383447
+   0.4236002025451199,
+   0.2573062238271418,
+   0.3190935736277383
   ],
   "source": "Pinnacle",
   "out": {
@@ -1214,36 +1024,36 @@
   },
   "lineups": null,
   "ou": [
-   0.6074074074074073,
-   0.39259259259259255
+   0.6064356435643565,
+   0.3935643564356436
   ],
   "btts": [
-   0.6336731827519679,
-   0.366326817248032
+   0.6340780046303415,
+   0.36592199536965847
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 2.27,
-    "edge": -0.02923344665992833
+    "odd": 2.29,
+    "edge": -0.029955536171675456
    },
    {
     "book": "1xBet",
-    "odd": 4.0,
-    "edge": 0.02455572911880921
+    "odd": 3.98,
+    "edge": 0.024078770832024254
    },
    {
-    "book": "1xBet",
-    "odd": 3.2,
-    "edge": 0.0118739318202703
+    "book": "Bet365",
+    "odd": 3.1,
+    "edge": -0.010809921754011187
    }
   ],
   "nbooks": 9,
   "move": {
    "diff": [
-    -0.02734457265194573,
-    0.0004293206372191216,
-    0.026915252014726665
+    -0.03139483413328914,
+    0.001596612184658619,
+    0.02979822194863052
    ],
    "since": "25/11 00:01"
   }
@@ -1587,47 +1397,47 @@
   "home": "Al Ramtha",
   "away": "Al Hussein",
   "p": [
-   0.1452810835891197,
-   0.2171459133779165,
-   0.6375730030329636
+   0.1781579320447994,
+   0.23392089220736265,
+   0.587921175747838
   ],
-  "source": "متوسط 5 شركات",
+  "source": "Pinnacle",
   "out": {
    "home": [],
    "away": []
   },
   "lineups": null,
   "ou": [
-   0.549939047912588,
-   0.45006095208741204
+   0.5514511873350924,
+   0.4485488126649077
   ],
   "btts": [
-   0.5005434782608695,
-   0.49945652173913047
+   0.5098776308087001,
+   0.4901223691912999
   ],
   "best": [
    {
     "book": "1xBet",
-    "odd": 6.52,
-    "edge": -0.0527673349989396
+    "odd": 5.77,
+    "edge": 0.02797126789849247
    },
    {
-    "book": "BetVictor",
-    "odd": 4.33,
-    "edge": -0.05975819507362157
+    "book": "Betfair",
+    "odd": 4.0,
+    "edge": -0.06431643117054942
    },
    {
-    "book": "Bet365",
-    "odd": 1.48,
-    "edge": -0.0563919555112139
+    "book": "Betano",
+    "odd": 1.55,
+    "edge": -0.0887221775908511
    }
   ],
-  "nbooks": 5,
+  "nbooks": 8,
   "move": {
    "diff": [
-    -0.011169983316280052,
-    -0.011547698522985594,
-    0.02271768183926548
+    0.02170686513939965,
+    0.005227280306460552,
+    -0.026934145445860147
    ],
    "since": "26/11 00:16"
   }
@@ -2605,7 +2415,14 @@
    }
   ],
   "nbooks": 6,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "28/11 00:45"
+  }
  },
  {
   "league": "الدوري التونسي",
@@ -2652,7 +2469,14 @@
    }
   ],
   "nbooks": 5,
-  "move": null
+  "move": {
+   "diff": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "since": "28/11 00:45"
+  }
  },
  {
   "league": "الدوري الإيطالي",
