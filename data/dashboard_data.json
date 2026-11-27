@@ -17,7 +17,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Hamed Abdullah Yousef",
+     "Ramzi Solan",
+     "E. Utkus",
+     "Mansour Camara",
+     "S. Pinas",
+     "S. Cissé",
+     "J. Buckley",
+     "Muhammad Sawan",
+     "Iker Kortajarena",
+     "Coba",
+     "J. Domingues"
+    ]
+   },
+   "away": {
+    "formation": "4-4-2",
+    "xi": [
+     "A. Moris",
+     "Fawaz Al Saqour",
+     "K. Kouyaté",
+     "Mohammed Al Khabrani",
+     "Pedro Rebocho",
+     "Saleh  Al Amri",
+     "Majed Kanabah",
+     "Omar Mascarell",
+     "A. Fulgini",
+     "J. King",
+     "M. Barrow"
+    ]
+   }
+  },
   "ou": [
    0.5492227979274612,
    0.45077720207253885
@@ -736,9 +769,9 @@
   "home": "Stade Brestois 29",
   "away": "Paris FC",
   "p": [
-   0.28278592799386043,
-   0.2861226351088323,
-   0.4310914368973073
+   0.27789027236781066,
+   0.2852461913422527,
+   0.43686353628993657
   ],
   "source": "Pinnacle",
   "out": {
@@ -752,36 +785,36 @@
   },
   "lineups": null,
   "ou": [
-   0.4974226804123712,
-   0.502577319587629
+   0.493573264781491,
+   0.5064267352185091
   ],
   "btts": [
-   0.5524064650754588,
-   0.4475935349245413
+   0.5467917783735479,
+   0.4532082216264522
   ],
   "best": [
    {
     "book": "Pinnacle",
-    "odd": 3.43,
-    "edge": -0.030044266981058665
+    "odd": 3.49,
+    "edge": -0.03016294943634068
    },
    {
-    "book": "1xBet",
-    "odd": 3.68,
-    "edge": 0.052931297200502936
+    "book": "Marathonbet",
+    "odd": 3.62,
+    "edge": 0.03259121265895493
    },
    {
     "book": "Pinnacle",
-    "odd": 2.25,
-    "edge": -0.030044266981058665
+    "odd": 2.22,
+    "edge": -0.03016294943634068
    }
   ],
-  "nbooks": 10,
+  "nbooks": 3,
   "move": {
    "diff": [
-    -0.003407945275128277,
-    0.0016073182813040043,
-    0.001800626993824217
+    -0.008303600901178043,
+    0.0007308745147244222,
+    0.00757272638645351
    ],
    "since": "24/11 00:01"
   }
