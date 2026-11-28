@@ -46,10 +46,10 @@
   "nbooks": 7,
   "live": {
    "st": "1H",
-   "min": 31,
+   "min": 45,
    "gh": 0,
    "ga": 0,
-   "at": "2026-11-28T12:31:00.482700+00:00"
+   "at": "2026-11-28T12:45:43.281472+00:00"
   }
  },
  {
@@ -132,10 +132,10 @@
   "nbooks": 9,
   "live": {
    "st": "1H",
-   "min": 16,
+   "min": 31,
    "gh": 0,
-   "ga": 0,
-   "at": "2026-11-28T12:31:00.482700+00:00"
+   "ga": 1,
+   "at": "2026-11-28T12:45:43.281472+00:00"
   }
  },
  {
@@ -251,7 +251,40 @@
    "home": [],
    "away": []
   },
-  "lineups": null,
+  "lineups": {
+   "home": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Mohammed Al Bakri",
+     "Nabil Irfan",
+     "Almahdi Ali",
+     "Lucas Mendes",
+     "Murad Naji Hussein",
+     "Omar Al Osad",
+     "A. Laïdouni",
+     "Hamdi Fathy",
+     "Luis Alberto",
+     "A. Zouhzouh",
+     "R. Berkane"
+    ]
+   },
+   "away": {
+    "formation": "4-2-3-1",
+    "xi": [
+     "Meshaal Barsham",
+     "Tarek Salman",
+     "A. Bounacer",
+     "Boualem Khoukhi",
+     "Paulo Otávio",
+     "Guilherme",
+     "M. Camara",
+     "Hashim Ali",
+     "Hassan Al Haydos",
+     "Akram Afif",
+     "Y. Abdurisag"
+    ]
+   }
+  },
   "ou": [
    0.7504950495049505,
    0.2495049504950495
